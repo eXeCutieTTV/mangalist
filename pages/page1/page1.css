@@ -70,40 +70,46 @@
     cursor: pointer;
 }
 
-#carousel {
+#carousel-wrapper {
+    width: 100%;
+    height: 350px; /* or whatever height you want */
+    position: relative;
     display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    gap: 20px;
-    padding: 40px;
-    scrollbar-width: none;
-    scroll-behavior: smooth;
+    justify-content: center;
+    align-items: center; /* THIS centers vertically */
+    overflow: hidden;
 }
 
-#carousel::-webkit-scrollbar {
-    display: none;
+
+#carousel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-style: preserve-3d;
+    transform: translate(-50%, -50%);
 }
 
 .card {
-    flex: 0 0 200px;
+    position: absolute;
+    width: 200px;
     height: 300px;
     background: #540d0d;
     border-radius: 12px;
-    scroll-snap-align: center;
-    transition: transform .3s ease;
+    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 3rem;
     color: white;
-    transform: scale(1);
-    border: solid 1px black;
+    transition: transform .4s ease, opacity .4s ease;
+    cursor: pointer;
 }
 
 .card.center {
-    transform: scale(1.25);
+    transform: scale(1.3) translateZ(50px);
+    z-index: 10;
 }
 
 .card.center:hover {
-    transform: scale(1.35);
+    transform: scale(1.45) translateZ(50px);
 }

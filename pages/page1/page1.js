@@ -1,91 +1,67 @@
-const carousel = document.getElementById('carousel');
-
-// 1. Duplicate cards for infinite loop
+const carousel = document.getElementById("carousel");
 let cards = [...carousel.children];
-cards.forEach(card => carousel.appendChild(card.cloneNode(true)));
+let index = 0; // can be fractional
+const spacing = 220;
 
-// Update list after cloning
-cards = [...carousel.children];
+function render() {
+    const count = cards.length;
 
-let userInteracted = false;
-let autoScrollTimer = null;
+    cards.forEach((card, i) => {
+        // fractional offset
+        let dist = i - index;
 
-// -----------------------------
-// Infinite Loop Logic
-// -----------------------------
-carousel.addEventListener('scroll', () => {
-    const maxScroll = carousel.scrollWidth / 2;
+        // wrap around
+        if (dist > count / 2) dist -= count;
+        if (dist < -count / 2) dist += count;
 
-    if (carousel.scrollLeft >= maxScroll) {
-        carousel.scrollLeft -= maxScroll;
-    }
+        const x = dist * spacing;
+        const scale = 1 - Math.abs(dist) * 0.15;
+        const z = dist === 0 ? 50 : 0;
+        const opacity = Math.abs(dist) > 2 ? 0 : 1;
 
-    updateCenterCard();
-    resetAutoScrollTimer();
-});
+        card.style.transform = `
+            translateX(${x}px)
+            translateZ(${z}px)
+            scale(${scale})
+        `;
+        card.style.opacity = opacity;
 
-// -----------------------------
-// Detect Center Card
-// -----------------------------
-function updateCenterCard() {
-    const carouselRect = carousel.getBoundingClientRect();
-    const centerX = carouselRect.left + carouselRect.width / 2;
-
-    let closest = null;
-    let closestDist = Infinity;
-
-    cards.forEach(card => {
-        const rect = card.getBoundingClientRect();
-        const cardCenter = rect.left + rect.width / 2;
-        const dist = Math.abs(cardCenter - centerX);
-
-        if (dist < closestDist) {
-            closestDist = dist;
-            closest = card;
-        }
+        card.classList.toggle("center", Math.abs(dist) < 0.1);
     });
-
-    cards.forEach(card => card.classList.remove('center'));
-    if (closest) closest.classList.add('center');
 }
 
-updateCenterCard();
+function next() {
+    index = (index + 1) % cards.length;
+    render();
+}
 
-// -----------------------------
-// Keyboard Arrow Keys
-// -----------------------------
-document.addEventListener('keydown', e => {
-    if (e.key === 'ArrowLeft') {
-        userInteracted = true;
-        carousel.scrollLeft -= 220; // card width + gap
-    }
-    if (e.key === 'ArrowRight') {
-        userInteracted = true;
-        carousel.scrollLeft += 220;
-    }
+function prev() {
+    index = (index - 1 + cards.length) % cards.length;
+    render();
+}
+
+// Arrow keys
+document.addEventListener("keydown", e => {
+    if (e.key === "ArrowRight") next();
+    if (e.key === "ArrowLeft") prev();
+    stopAuto();
 });
 
-// -----------------------------
-// Auto Scroll (after 5 seconds)
-// -----------------------------
-function startAutoScroll() {
-    autoScrollTimer = setInterval(() => {
-        if (!userInteracted) {
-            carousel.scrollLeft += 0.5; // very slow
-        }
-    }, 16); // ~60fps
+// Auto-scroll
+let autoRotate = true;
+
+function autoScroll() {
+    if (autoRotate) {
+        index = (index + 0.001) % cards.length; // slow drift
+        render();
+    }
+    requestAnimationFrame(autoScroll);
 }
 
-function resetAutoScrollTimer() {
-    userInteracted = true;
-    clearInterval(autoScrollTimer);
-
-    setTimeout(() => {
-        userInteracted = false;
-    }, 5000);
-
-    startAutoScroll();
+function stopAuto() {
+    autoRotate = false;
+    setTimeout(() => autoRotate = true, 5000);
 }
 
-// Start auto-scroll initially
-startAutoScroll();
+render();
+autoScroll();
