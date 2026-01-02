@@ -1,58 +1,89 @@
 const viewport = document.getElementById('viewport');
 
-// Example: Greek letters for each card
+
+// Greek letters for each card
 const cardData = ['Α', 'Β', 'Γ', 'Δ', 'Ε', 'Ζ', 'Η', 'Θ', 'Ι', 'Κ', 'Λ', 'Μ', 'Ν', 'Ξ', 'Ο', 'Π', 'Ρ', 'Σ', 'Τ', 'Υ', 'Φ', 'Χ', 'Ψ', 'Ω', 'α'];
 const cards = [];
+
 
 const cardWidth = 160;
 const cardHeight = 260;
 const overlap = 40;
 const speed = 1;
 
-// Initialize cards with absolute x-positions
+
+// Initialize cards with logical positions and index
 cardData.forEach((text, i) => {
     const card = document.createElement('div');
     card.className = 'card';
-    card.textContent = text; // <-- edit the text here
+    card.textContent = text;
     viewport.appendChild(card);
-    cards.push({ el: card, x: i * (cardWidth - overlap) });
+    cards.push({ el: card, x: i * (cardWidth - overlap), index: i });
 });
+
 
 function animate() {
     const vpRect = viewport.getBoundingClientRect();
     const vpCenter = vpRect.width / 2;
 
-    cards.forEach((cardObj) => {
-        // Move left
-        cardObj.x -= speed;
 
-        //console.log('hi1', cardObj, findPos(cardObj.el), cardObj.el.offsetLeft)
-        // recycle if fully off-screen left
-        if (cardObj.x < -700) {
-            const rightMostX = Math.max(...cards.map(c => c.x));
-            cardObj.x = rightMostX + cardWidth - overlap;
-        }
+    // Step 1: Find the center card (closest to viewport center)
+    let centerCard = null;
+    let minDist = Infinity;
 
-        // compute center distance for angle
-        const cardCenter = cardObj.el.getBoundingClientRect().left + overlap;
-        const dist = cardCenter - vpCenter;
-        const maxAngle = 14;
-        const norm = Math.max(-1, Math.min(1, dist / vpCenter));
 
-        const angle = norm * maxAngle;
-        const y = 18; // vertical offset for angled cards
-
-        // Center card detection
-        if (Math.abs(dist) < cardWidth / 2) {
-            cardObj.el.style.transform = `translateX(${cardObj.x}px) translateY(0px) rotate(0deg)`;
-            cardObj.el.style.zIndex = 10;
-        } else {
-            cardObj.el.style.transform = `translateX(${cardObj.x}px) translateY(${y}px) rotate(${angle}deg)`;
-            cardObj.el.style.zIndex = 1;
+    cards.forEach(c => {
+        const r = c.el.getBoundingClientRect();
+        const cardCenter = r.left + overlap;
+        const dist = Math.abs(cardCenter - vpCenter);
+        if (dist < minDist) {
+            minDist = dist;
+            centerCard = c;
         }
     });
 
+
+    // Step 2: Update each card
+    cards.forEach(c => {
+        // Move left
+        c.x -= speed;
+
+
+        // Recycle if fully off-screen left
+        if (c.x + cardWidth < -700) {
+            const rightMostX = Math.max(...cards.map(cc => cc.x));
+            c.x = rightMostX + cardWidth - overlap;
+        }
+
+
+        // Compute distance from center in card units
+        const distanceFromCenter = c.index - centerCard.index; // negative=left, 0=center, positive=right
+        const z = Math.max(1, 100 - Math.abs(distanceFromCenter)); // highest z at center
+        c.el.style.zIndex = z;
+
+
+        // Compute angle and vertical offset
+        const cardCenter = c.x + cardWidth;
+        const distToVpCenter = cardCenter - vpCenter;
+        const maxAngle = 14;
+        const norm = Math.max(-1, Math.min(1, distToVpCenter / vpCenter));
+        const angle = norm * maxAngle;
+        const y = 18;
+
+        const realY = y + Math.abs(distanceFromCenter) * 10;
+
+        // Transform
+        if (distanceFromCenter === 0) {
+            
+            c.el.style.transform = `translateX(${c.x}px) translateY(0px) rotate(0deg)`;
+        } else if (distanceFromCenter < 0) {
+            c.el.style.transform = `translateX(${c.x}px) translateY(${realY}px) rotate(${angle}deg)`;
+        } else if (distanceFromCenter > 0) {
+            c.el.style.transform = `translateX(${c.x}px) translateY(${realY}px) rotate(${-angle}deg)`;
+        }
+    });
     requestAnimationFrame(animate);
 }
+
 
 animate();
