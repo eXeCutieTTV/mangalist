@@ -14,3 +14,26 @@ function goToPage1() {
         page1.classList.add("active");
     }, 601);
 }
+
+async function openPage(page, source) {
+    const pDiv = document.getElementById(page);
+    if (!pDiv) return;
+
+    const response = await fetch(source);
+    if (!response.ok) {
+        throw new Error(`Failed to load ${source}: ${response.status}`);
+    }
+
+    const html = await response.text();
+    pDiv.innerHTML = html;
+
+    // fix which page has .active
+    const pageList = document.querySelectorAll(".page");
+    for (const page of pageList) {
+        if (page.classList.value === "page active") {
+            page.classList.remove("active");
+        }
+    }
+    pDiv.classList.add("active");
+}
+
