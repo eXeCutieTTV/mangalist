@@ -74,11 +74,13 @@ function animate() {
 
         // Transform
         if (distanceFromCenter === 0) {
-            
+            c.el.classList.add("center");
             c.el.style.transform = `translateX(${c.x}px) translateY(0px) rotate(0deg)`;
         } else if (distanceFromCenter < 0) {
+            if (c.el.classList.value === "card center") c.el.classList.remove("center");
             c.el.style.transform = `translateX(${c.x}px) translateY(${realY}px) rotate(${angle}deg)`;
         } else if (distanceFromCenter > 0) {
+            if (c.el.classList.value === "card center") c.el.classList.remove("center");
             c.el.style.transform = `translateX(${c.x}px) translateY(${realY}px) rotate(${-angle}deg)`;
         }
     });

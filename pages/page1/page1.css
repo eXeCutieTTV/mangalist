@@ -102,3 +102,8 @@ body {
     transform-origin: center bottom;
     transition: transform 0.35s ease;
 }
+
+.center {
+    width: calc(160px*1.25) !important;
+    height: calc(260px*1.25) !important;
+}
