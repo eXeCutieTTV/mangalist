@@ -37,3 +37,53 @@ async function openPage(page, source) {
     pDiv.classList.add("active");
 }
 
+function waitForElement(id) {
+    return new Promise((resolve) => {
+        // Check if element already exists
+        const el = document.getElementById(id);
+        if (el) {
+            resolve(el);
+            return;
+        }
+
+        // Create a MutationObserver to watch for DOM changes
+        const observer = new MutationObserver(() => {
+            const el = document.getElementById(id);
+            if (el) {
+                resolve(el);
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(document.body, { childList: true, subtree: true });
+    });
+}
+//usage // waitForElement(id).then(()=>{console.log('hello world')});
+
+
+async function createJsFile(filename, content) {
+    const owner = "YOUR_USERNAME";
+    const repo = "YOUR_REPO";
+    const workflow_id = "create-js-file.yml"; // name of the workflow file
+    const token = "YOUR_PERSONAL_ACCESS_TOKEN"; // only if private repo
+
+    const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflow_id}/dispatches`, {
+        method: "POST",
+        headers: {
+            "Accept": "application/vnd.github+json",
+            "Authorization": `token ${token}`,
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            ref: "main", // branch name
+            inputs: { filename, content }
+        })
+    });
+
+    if (response.ok) {
+        alert("Workflow triggered! Check your repo for the new file.");
+    } else {
+        const text = await response.text();
+        alert("Error: " + text);
+    }
+}
