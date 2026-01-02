@@ -1,10 +1,13 @@
 const viewport = document.getElementById('viewport');
 
 
-// Greek letters for each card
-const cardData = ['Α', 'Β', 'Γ', 'Δ', 'Ε', 'Ζ', 'Η', 'Θ', 'Ι', 'Κ', 'Λ', 'Μ', 'Ν', 'Ξ', 'Ο', 'Π', 'Ρ', 'Σ', 'Τ', 'Υ', 'Φ', 'Χ', 'Ψ', 'Ω', 'α'];
+// Greek letters as id for each card
+const cardData = ['Α', 'Β', 'Γ', 'Δ', 'Ε', 'Ζ', 'Η', 'Θ', 'Ι', 'Κ', 'Λ', 'Μ', 'Ν', 'Ξ', 'Ο', 'Π', 'Ρ', 'Σ', 'Τ', 'Υ', 'Φ', 'Χ', 'Ψ', 'Ω'];
 const cards = [];
-
+const cardDataMap = [{
+    title: "ONEPIECE",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a3/One_Piece%2C_Volume_1.jpg"
+}]
 
 const cardWidth = 160;
 const cardHeight = 260;
@@ -16,7 +19,16 @@ const speed = 1;
 cardData.forEach((text, i) => {
     const card = document.createElement('div');
     card.className = 'card';
-    card.textContent = text;
+    card.innerHTML = `
+        <div class="card-wrap">
+            <div class="card-top">
+                ${cardDataMap[0].title}
+            </div>
+            <div class="card-bottom">
+                <img src="${cardDataMap[0].img}" alt="">
+            </div>
+        </div>
+    `;
     viewport.appendChild(card);
     cards.push({ el: card, x: i * (cardWidth - overlap), index: i });
 });

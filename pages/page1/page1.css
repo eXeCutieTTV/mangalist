@@ -107,3 +107,36 @@ body {
     width: calc(160px*1.25) !important;
     height: calc(260px*1.25) !important;
 }
+
+.card-wrap {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.card-top {
+    flex: 1;
+    display: grid;
+    place-items: center;
+    font-size: 1.6rem;
+    color: #cb2020;
+}
+
+.card-bottom {
+    width: 100%;
+    aspect-ratio: 1 / 1.41421356237;
+    /* exact √2 */
+    margin: 3px;
+    margin-top: 0;
+    overflow: hidden;
+}
+
+.card-bottom img {
+    width: calc(100% - 6px);
+    height: calc(100% - 3px);
+    object-fit: cover;
+    display: block;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
