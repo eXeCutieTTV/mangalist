@@ -293,6 +293,24 @@ function page2() {
             gallery.appendChild(wrapper);
         }
     }
+    document.getElementById("saveJS").addEventListener("click", async () => {
+        const filename = "entryMap.js";
+        const content = "const entryMap = " + JSON.stringify(entryMap, null, 4) + ";";
+
+        try {
+            const response = await fetch("http://localhost:3000/create-js", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ filename, content })
+            });
+
+            const result = await response.json();
+            if (result.success) alert(result.message);
+            else alert("Error: " + result.message);
+        } catch (err) {
+            alert("Network error: " + err.message);
+        }
+    });
 }
 
 
