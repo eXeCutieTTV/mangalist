@@ -61,28 +61,3 @@ function waitForElement(id) {
 //usage // waitForElement(id).then(()=>{console.log('hello world')});
 
 
-async function saveEntryMap() {
-    const filename = "entryMap.js";
-    const content = "const entryMap = " + JSON.stringify(entryMap, null, 4) + ";";
-
-    // This triggers the workflow on GitHub
-    const response = await fetch("https://api.github.com/repos/eXeCutieTTV/mangalist/actions/workflows/create-js-file.yml/dispatches", {
-        method: "POST",
-        headers: {
-            "Accept": "application/vnd.github+json",
-            // Using the GitHub Actions token is automatic if using workflow_dispatch from GitHub web UI
-            // If private repo, call this through a serverless function that uses GITHUB_TOKEN
-        },
-        body: JSON.stringify({
-            ref: "main",   // branch name
-            inputs: { filename, content }
-        })
-    });
-
-    if (response.ok) {
-        alert("Workflow triggered! Check your repo for the new file.");
-    } else {
-        const text = await response.text();
-        alert("Error triggering workflow: " + text);
-    }
-}
