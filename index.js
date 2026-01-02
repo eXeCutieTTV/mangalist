@@ -62,10 +62,10 @@ function waitForElement(id) {
 
 
 async function createJsFile(filename, content) {
-    const owner = "YOUR_USERNAME";
-    const repo = "YOUR_REPO";
+    const owner = "eXeCutieTTV";
+    const repo = "mangalist";
     const workflow_id = "create-js-file.yml"; // name of the workflow file
-    const token = "YOUR_PERSONAL_ACCESS_TOKEN"; // only if private repo
+    const token = "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"; // only if private repo
 
     const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflow_id}/dispatches`, {
         method: "POST",

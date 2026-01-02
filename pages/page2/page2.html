@@ -1,1 +1,10 @@
 <div id="page2-wrapper"></div>
+<button id="createFile">Create JS File</button>
+
+<script>
+    document.getElementById("createFile").addEventListener("click", () => {
+        const filename = "test.js";
+        const content = "console.log('Hello from generated file!');";
+        createJsFile(filename, content);
+    });
+</script>
