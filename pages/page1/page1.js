@@ -104,7 +104,7 @@ const middleDiv = document.getElementById("page1-middle-wrap");
 
 middleDiv.addEventListener("click", () => {
     openPage("page2", "pages/page2/page2.html");
-    waitForElement("page2-wrapper").then(() => {
+    waitForElement({ el: "page2-wrapper" }).then(() => {
         page2();
     });
 });

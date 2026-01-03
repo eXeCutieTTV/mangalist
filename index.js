@@ -37,27 +37,45 @@ async function openPage(page, source) {
     pDiv.classList.add("active");
 }
 
-function waitForElement(id) {
+function waitForElement({ el = null, obj = null }) {
     return new Promise((resolve) => {
-        // Check if element already exists
-        const el = document.getElementById(id);
-        if (el) {
-            resolve(el);
+        // If waiting for an object reference
+        if (obj !== null) {
+            if (obj) {
+                resolve(obj);
+                return;
+            }
+
+            const interval = setInterval(() => {
+                if (obj) {
+                    clearInterval(interval);
+                    resolve(obj);
+                }
+            }, 50);
+
             return;
         }
 
-        // Create a MutationObserver to watch for DOM changes
-        const observer = new MutationObserver(() => {
-            const el = document.getElementById(id);
-            if (el) {
-                resolve(el);
-                observer.disconnect();
+        // If waiting for a DOM element by ID
+        if (el !== null) {
+            const existing = document.getElementById(el);
+            if (existing) {
+                resolve(existing);
+                return;
             }
-        });
 
-        observer.observe(document.body, { childList: true, subtree: true });
+            const observer = new MutationObserver(() => {
+                const found = document.getElementById(el);
+                if (found) {
+                    observer.disconnect();
+                    resolve(found);
+                }
+            });
+
+            observer.observe(document.body, { childList: true, subtree: true });
+        }
     });
 }
-//usage // waitForElement(id).then(()=>{console.log('hello world')});
+
 
 
