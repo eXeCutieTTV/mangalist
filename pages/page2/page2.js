@@ -293,24 +293,43 @@ function page2() {
             gallery.appendChild(wrapper);
         }
     }
-    document.getElementById("saveJS").addEventListener("click", async () => {
-        const filename = "entryMap.js";
-        const content = "const entryMap = " + JSON.stringify(entryMap, null, 4) + ";";
+    document.getElementById("makeFile").addEventListener("click", async () => {
+        const timestamp = Date.now();
+        const filename = `generated_${timestamp}.js`;
+        const folder = "generated"; // folder inside your repo
 
-        try {
-            const response = await fetch("http://localhost:3000/create-js", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ filename, content })
-            });
+        const content = `console.log("Generated at ${timestamp}");`;
 
-            const result = await response.json();
-            if (result.success) alert(result.message);
-            else alert("Error: " + result.message);
-        } catch (err) {
-            alert("Network error: " + err.message);
+        const repoOwner = "eXeCutieTTV";
+        const repoName = "mangalist";
+        const token = "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"; // visible to anyone using the page
+
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
+
+        const encodedContent = btoa(content);
+
+        const response = await fetch(apiUrl, {
+            method: "PUT",
+            headers: {
+                "Authorization": `Bearer ${token}`,
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                message: `Add ${filename}`,
+                content: encodedContent
+            })
+        });
+
+        const result = await response.json();
+        console.log(result);
+
+        if (response.ok) {
+            alert(`File ${filename} pushed to GitHub`);
+        } else {
+            alert("Error: " + result.message);
         }
     });
+
 }
 
 

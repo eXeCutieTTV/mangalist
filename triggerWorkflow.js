@@ -1,5 +1,4 @@
 const express = require("express");
-const fetch = require("node-fetch"); // npm install node-fetch
 const app = express();
 app.use(express.json());
 
@@ -30,7 +29,7 @@ app.post("/create-js", async (req, res) => {
                 method: "POST",
                 headers: {
                     "Accept": "application/vnd.github+json",
-                    "Authorization": `token ${GITHUB_TOKEN}`,
+                    "Authorization": `bearer ${GITHUB_TOKEN}`,
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
