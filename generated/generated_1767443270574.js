@@ -1,5 +1,5 @@
 
-            const entryMap = {
+const entryMap = {
   "One Piece": {
     "title": "One Piece",
     "author": "Eiichiro Oda",
@@ -391,8 +391,7 @@
     }
   }
 };
-            const div = document.createElement("div");
-            div.id = "page2-wait-for-element";
-            document.body.appendChild(div);
-            div.style.display = "none";
-        
+const div = document.createElement("div");
+div.id = "page2-wait-for-element";
+document.body.appendChild(div);
+div.style.display = "none";
