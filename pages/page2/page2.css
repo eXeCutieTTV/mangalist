@@ -1,3 +1,10 @@
-.page2-modal-footer {
+.volume-owned {
     background-color: greenyellow;
+}
+.volume-not-owned {
+    background-color: lightcoral;
+}
+.page2-modal-footer {
+    cursor: pointer;
+    user-select: none;
 }

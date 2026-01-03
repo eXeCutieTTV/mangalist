@@ -1,5 +1,6 @@
+
 const entryMap = {
-    onepiece: {
+    "One Piece": {
         title: "One Piece",
         author: "Eiichiro Oda",
         released: "1997",
@@ -19,7 +20,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "1997-12-24",
-                total_sold: ">1,000,000"
+                total_sold: ">1,000,000",
+                owned: true
             },
             2: {
                 chapters: {
@@ -36,7 +38,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "1998-04-30",
-                total_sold: ">1,000,000"
+                total_sold: ">1,000,000",
+                owned: true
             },
             3: {
                 chapters: {
@@ -54,7 +57,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "1998-08-04",
-                total_sold: ">1,000,000"
+                total_sold: ">1,000,000",
+                owned: true
             },
             4: {
                 chapters: {
@@ -70,7 +74,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "1998-12-21",
-                total_sold: ">1,000,000"
+                total_sold: ">1,000,000",
+                owned: true
             },
             5: {
                 chapters: {
@@ -86,12 +91,13 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "1999-03-19",
-                total_sold: ">1,000,000"
+                total_sold: ">1,000,000",
+                owned: true
             }
         }
     },
 
-    bleach: {
+    "Bleach": {
         title: "Bleach",
         author: "Tite Kubo",
         released: "2001",
@@ -110,7 +116,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "2002-01-05",
-                total_sold: ">500,000"
+                total_sold: ">500,000",
+                owned: true
             },
             2: {
                 chapters: {
@@ -127,7 +134,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "2002-03-04",
-                total_sold: ">500,000"
+                total_sold: ">500,000",
+                owned: true
             },
             3: {
                 chapters: {
@@ -142,7 +150,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "2002-06-04",
-                total_sold: ">500,000"
+                total_sold: ">500,000",
+                owned: true
             },
             4: {
                 chapters: {
@@ -156,7 +165,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "2002-09-04",
-                total_sold: ">500,000"
+                total_sold: ">500,000",
+                owned: true
             },
             5: {
                 chapters: {
@@ -169,7 +179,8 @@ const entryMap = {
                 prise: "10 €",
                 date_bought: "",
                 date_released: "2002-11-01",
-                total_sold: ">500,000"
+                total_sold: ">500,000",
+                owned: true
             }
         }
     }
@@ -254,6 +265,12 @@ function page2() {
             footer.classList.add("page2-modal-footer")
             footer.textContent = `Volume ${volNum}`;
 
+            footer.setAttribute("data-path.title", entry.title);
+            footer.setAttribute("data-path.vol", volNum);
+            volData.owned === true
+                ? footer.classList.add("volume-owned")
+                : footer.classList.add("volume-not-owned");
+
             Object.assign(img.style, {
                 cursor: "pointer",
                 width: "120px",
@@ -304,12 +321,7 @@ function page2() {
         const timestamp = Date.now();
         const filename = `generated_${timestamp}.js`;
 
-        const content = `
-            const obj = {
-                1:console.log("Generated at ${timestamp}"),
-                2:"2"
-            }
-        `;
+        const content = `const entryMap = ${JSON.stringify(entryMap, null, 2)};`;
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
 
@@ -387,6 +399,28 @@ function page2() {
         console.log(el);
         loadNewestFile(el.name);
     });
+    //^^ file manipulation
+
+    const footers = document.querySelectorAll(".page2-modal-footer");
+    for (const footer of footers) {
+        footer.addEventListener("click", () => {
+            const title = footer.dataset["path.title"];
+            const volume = footer.dataset["path.vol"];
+            const entry = entryMap[title].volumes[volume];
+            console.log(entry, title, volume);
+            let bool = entry.owned
+            if (bool === true) {
+                entry.owned = false;
+                footer.classList.add("volume-not-owned");
+                footer.classList.remove("volume-owned");
+            }
+            else if (bool === false) {
+                entry.owned = true;
+                footer.classList.add("volume-owned");
+                footer.classList.remove("volume-not-owned");
+            }
+        });
+    }
 }
 
 
