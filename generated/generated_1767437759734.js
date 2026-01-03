@@ -1,6 +1,5 @@
 
-            {
-                1:console.log("Generated at 1767437759734"),
-                2:"2"
-            }
-        
+const obj = {
+    1: console.log("Generated at 1767437759734"),
+    2: "2"
+}

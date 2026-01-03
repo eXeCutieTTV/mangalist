@@ -293,16 +293,23 @@ function page2() {
             gallery.appendChild(wrapper);
         }
     }
+
+    //vv file manipulation
+    const folder = "generated"; // folder inside your repo
+    const repoOwner = "eXeCutieTTV";
+    const repoName = "mangalist";
+    const token = "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"; // visible to anyone using the page
+
     document.getElementById("makeFile").addEventListener("click", async () => {
         const timestamp = Date.now();
         const filename = `generated_${timestamp}.js`;
-        const folder = "generated"; // folder inside your repo
 
-        const content = `console.log("Generated at ${timestamp}");`;
-
-        const repoOwner = "eXeCutieTTV";
-        const repoName = "mangalist";
-        const token = "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"; // visible to anyone using the page
+        const content = `
+            const obj = {
+                1:console.log("Generated at ${timestamp}"),
+                2:"2"
+            }
+        `;
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
 
@@ -329,7 +336,57 @@ function page2() {
             alert("Error: " + result.message);
         }
     });
+    async function getNewestFile() {
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
 
+        const response = await fetch(apiUrl, {
+            headers: {
+                "Authorization": `Bearer ${token}`
+            }
+        });
+
+        const files = await response.json();
+
+        if (!Array.isArray(files)) {
+            console.error("GitHub error:", files);
+            return;
+        }
+
+        const jsFiles = files.filter(f => f.name.endsWith(".js"));
+
+        jsFiles.sort((a, b) => {
+            const tA = parseInt(a.name.match(/\d+/)[0]);
+            const tB = parseInt(b.name.match(/\d+/)[0]);
+            return tB - tA;
+        });
+
+        const newest = jsFiles[0];
+
+        // Fetch file content from GitHub API (NOT raw.githubusercontent.com)
+        const fileApiUrl = newest.url; // this is the API endpoint, not the raw URL
+
+        const fileResponse = await fetch(fileApiUrl, {
+            headers: {
+                "Authorization": `Bearer ${token}`
+            }
+        });
+
+        const fileData = await fileResponse.json();
+
+        // GitHub returns base64 content
+        const decoded = atob(fileData.content);
+
+        return { name: newest.name, content: decoded };
+    }
+    function loadNewestFile(filename) {
+        const script = document.createElement("script");
+        script.src = `generated/${filename}`;
+        document.body.appendChild(script);
+    }
+    getNewestFile().then(el => {
+        console.log(el);
+        loadNewestFile(el.name);
+    });
 }
 
 
