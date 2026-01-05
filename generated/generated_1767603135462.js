@@ -1,5 +1,5 @@
 
-            const entryMap = {
+const entryMap = {
   "One Piece": {
     "title": "One Piece",
     "author": "Eiichiro Oda",
@@ -8,38 +8,39 @@
       "1": {
         "chapters": {
           "1": [
-            "Romance Dawn",
+            "Romance Dawn —The Dawn of the Adventure—",
             "冒険の夜明け"
           ],
           "2": [
-            "They Call Him 'Straw Hat Luffy'",
-            "その名は“麦わらのルフィ”"
+            "That Guy, 'Straw Hat Luffy'",
+            "その男〝麦わらのルフィ〟"
           ],
           "3": [
-            "Enter Zoro: Pirate Hunter",
-            "海賊狩りのゾロ登場"
+            "Introducing Pirate Hunter Zoro",
+            "海賊狩りのゾロ'登場'"
           ],
           "4": [
-            "The Great Captain Morgan",
-            "大佐“モーガン”"
+            "Marine Captain 'Axe-Hand Morgan'",
+            "海軍大佐”斧手のモーガン"
           ],
           "5": [
-            "The King of the Pirates and the Master Swordman",
+            "The Pirate King and the Great Swordsman",
             "海賊王と大剣豪"
           ],
           "6": [
-            "Number One",
-            "一番"
+            "The First",
+            "人目"
           ],
           "7": [
             "Friends",
             "友達"
           ],
           "8": [
-            "Nami",
-            "ナミ"
+            "Introducing Nami",
+            "ナミ登場"
           ]
         },
+        "pages": [216, 208],
         "img": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Volume_1.png",
         "prise": "10 €",
         "date_bought": "",
@@ -82,6 +83,7 @@
             "ハイレベル・ローレル"
           ]
         },
+        "pages": [200, 200],
         "img": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Volume_2.png",
         "prise": "10 €",
         "date_bought": "",
@@ -128,6 +130,7 @@
             "キャプテン・クロの一計"
           ]
         },
+        "pages": [200, 200],
         "img": "https://static.wikia.nocookie.net/onepiece/images/7/75/Volume_3.png",
         "prise": "10 €",
         "date_bought": "",
@@ -166,6 +169,7 @@
             "小さな東の海"
           ]
         },
+        "pages": [208, 192],
         "img": "https://static.wikia.nocookie.net/onepiece/images/3/31/Volume_4.png",
         "prise": "10 €",
         "date_bought": "",
@@ -204,13 +208,543 @@
             "バラティエ"
           ]
         },
+        "pages": [200, 192],
         "img": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Volume_5.png",
         "prise": "10 €",
         "date_bought": "",
         "date_released": "1999-03-19",
         "total_sold": ">1,000,000",
         "owned": true
-      }
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        "pages": [200, 192],
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
+      "6": {
+        chapters: {
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": []
+        },
+        img: "",
+        prise: "",
+        date_bought: "",
+        date_released: "",
+        total_sold: "",
+        owned: true
+      },
     }
   },
   "Bleach": {
@@ -391,8 +925,7 @@
     }
   }
 };
-            const div = document.createElement("div");
-            div.id = "page2-wait-for-element";
-            document.body.appendChild(div);
-            div.style.display = "none";
-        
+const div = document.createElement("div");
+div.id = "page2-wait-for-element";
+document.body.appendChild(div);
+div.style.display = "none";
