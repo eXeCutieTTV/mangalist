@@ -1,4 +1,4 @@
-const { Mangadex } = require("mangadex-full-api");
+const { Mangadex } = import("mangadex-full-api");
 
 (async () => {
   const client = new Mangadex();
