@@ -1,4 +1,36 @@
 <div id="page2-wrapper"></div>
 <button id="makeFile">Create JS File</button>
 
-<script src="script.js"></script>
+<form id="genForm">
+    <label> Filename:
+        <input type="text" id="filename" value="script.js" required />
+    </label>
+    <br />
+    <br />
+    <label> Content:
+        <br />
+        <textarea id="content" rows="10" cols="60">console.log("hello");</textarea>
+    </label>
+    <br />
+    <br />
+    <button type="submit">Create file</button>
+</form>
+<script>
+    document.getElementById('genForm').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const filename = document.getElementById('filename').value.trim();
+        const content = document.getElementById('content').value;
+        const resEl = document.getElementById('result');
+        resEl.textContent = 'Sending...';
+        try {
+            const resp = await fetch('/trigger', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
+            });
+            const data = await resp.json();
+            if (!resp.ok) throw new Error(data.message || 'Request failed');
+            resEl.textContent = 'Workflow triggered. Run ID: ' + (data.run_id || 'unknown');
+        } catch (err) {
+            resEl.textContent = 'Error: ' + err.message;
+        }
+    }); 
+</script>
