@@ -1,6 +1,5 @@
 name: Upload Generated File
 
-# Triggered manually via workflow_dispatch
 on:
   workflow_dispatch:
     inputs:
@@ -11,28 +10,42 @@ on:
         description: 'The content of the file (JS)'
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   upload:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repo
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
-      # 2. Create the file
+      - name: Prepare and sanitize filename
+        id: sanitize
+        run: |
+          RAW="${{ github.event.inputs.filename }}"
+          NAME="$(basename "$RAW")"
+          SAFE="$(echo "$NAME" | sed 's/[^A-Za-z0-9._-]/_/g')"
+          if [[ "$SAFE" != *.js ]]; then
+            SAFE="${SAFE}.js"
+          fi
+          echo "sanitized=$SAFE" >> $GITHUB_OUTPUT
+
       - name: Write generated file
         run: |
           mkdir -p generated
-          echo "${{ github.event.inputs.content }}" > generated/${{ github.event.inputs.filename }}
+          FILENAME="${{ steps.sanitize.outputs.sanitized }}"
+          printf '%s\n' "${{ github.event.inputs.content }}" > "generated/${FILENAME}"
+          ls -l generated
 
-      # 3. Commit and push changes
-      - name: Commit and push
+      - name: Commit and push to main
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add generated/${{ github.event.inputs.filename }}
-          git commit -m "Add generated file ${{ github.event.inputs.filename }}" || echo "No changes to commit"
-          git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add "generated/${{ steps.sanitize.outputs.sanitized }}"
+          git commit -m "Add generated file ${{ steps.sanitize.outputs.sanitized }}" || echo "No changes to commit"
+          # push current HEAD to main
+          git push origin HEAD:main
