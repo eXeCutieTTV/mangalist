@@ -32,3 +32,4 @@ const { MangadexClient } = require("mangadex-full-api");
 
     console.log(JSON.stringify(result, null, 2));
 })();
+//uB9wxVB2Jv71KMPaSE47t5B5MzL67b6a
