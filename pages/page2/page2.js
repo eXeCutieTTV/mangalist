@@ -948,7 +948,13 @@ function page2() {
         try {
             const timestamp = Date.now();
             const filename = `generated_${timestamp}.js`;
-            const content = entryMap;
+            const content = `
+                const entryMap = ${JSON.stringify(entryMap, null, 2)};
+                const div = document.createElement("div");
+                div.id = "page2-wait-for-element";
+                document.body.appendChild(div);
+                div.style.display = "none";
+            `;
             statusEl.textContent = 'Sending...';
             const resp = await fetch(endpoint, {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
