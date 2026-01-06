@@ -954,7 +954,12 @@ function page2() {
                 div.id = "page2-wait-for-element";
                 document.body.appendChild(div);
                 div.style.display = "none";
-            `;
+            `; console.log('filename:', filename);
+            console.log('content type:', typeof content);
+            console.log('content length:', content.length);
+            try { console.log('entryMap serializable:', JSON.stringify(entryMap).slice(0, 200)); }
+            catch (e) { console.error('entryMap stringify error', e); }
+
             statusEl.textContent = 'Sending...';
             const resp = await fetch(endpoint, {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
