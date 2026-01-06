@@ -190,11 +190,35 @@ function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
 
 
+    const endpoint = '/.netlify/functions/trigger';
+    function sanitizeName(name) {
+        const base = (name || 'script.js').split('/').pop();
+        const safe = base.replace(/[^A-Za-z0-9._-]/g, '_');
+        return safe.endsWith('.js')
+            ? safe
+            : safe + '.js';
+
+    }
+    document.getElementById('createBtn').addEventListener('click', async () => {
+        const statusEl = document.getElementById('status');
+        try {
+            const rawName = document.getElementById('filename').value.trim();
+            const filename = sanitizeName(rawName);
+            const content = `console.log("Generated file: ${filename}");`;
+            statusEl.textContent = 'Sending...';
+            const resp = await fetch(endpoint, {
+                method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
+            });
+            const json = await resp.json().catch(() => ({})); if (!resp.ok) throw new Error(json.message || `HTTP ${resp.status}`); statusEl.textContent = 'Success: ' + (json.message || 'Workflow dispatched');
+        } catch (err) {
+            statusEl.textContent = 'Error: ' + (err.message || err);
+        }
+    });
     //vv file manipulation
     const folder = "generated"; // folder inside your repo
     const repoOwner = "eXeCutieTTV";
     const repoName = "mangalist";
-    const token = "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"; // visible to anyone using the page
+    const token = "${{secret.MY_TOKEN}}"; // visible to anyone using the page
 
     document.getElementById("makeFile").addEventListener("click", async () => {
         const timestamp = Date.now();
