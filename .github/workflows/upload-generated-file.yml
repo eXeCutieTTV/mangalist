@@ -1,0 +1,38 @@
+name: Upload Generated File
+
+# Triggered manually via workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        description: 'The name of the file to generate'
+        required: true
+      content:
+        description: 'The content of the file (JS)'
+        required: true
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repo
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Create the file
+      - name: Write generated file
+        run: |
+          mkdir -p generated
+          echo "${{ github.event.inputs.content }}" > generated/${{ github.event.inputs.filename }}
+
+      # 3. Commit and push changes
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add generated/${{ github.event.inputs.filename }}
+          git commit -m "Add generated file ${{ github.event.inputs.filename }}" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
