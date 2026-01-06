@@ -202,9 +202,8 @@ function page2() {
     document.getElementById('createBtn').addEventListener('click', async () => {
         const statusEl = document.getElementById('status');
         try {
-            const rawName = document.getElementById('filename').value.trim();
-            const filename = sanitizeName(rawName);
-            const content = `console.log("Generated file: ${filename}");`;
+            const filename = Date.now();
+            const content = entryMap;
             statusEl.textContent = 'Sending...';
             const resp = await fetch(endpoint, {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
