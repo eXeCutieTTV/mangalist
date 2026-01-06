@@ -1,6 +1,4 @@
-// Netlify Node 18+ function
-const fetch = (...args) => import('node-fetch').then(m => m.default(...args));
-
+// netlify/functions/trigger.js
 exports.handler = async (event) => {
     try {
         if (event.httpMethod !== 'POST') {
@@ -13,13 +11,14 @@ exports.handler = async (event) => {
             return { statusCode: 400, body: JSON.stringify({ message: 'filename and content required' }) };
         }
 
+        // sanitize filename
         const base = filename.split('/').pop();
         const safe = base.replace(/[^A-Za-z0-9._-]/g, '_');
         const finalName = safe.endsWith('.js') ? safe : safe + '.js';
 
         const payload = {
             ref: 'main',
-            inputs: { filename: finalName, content: content }
+            inputs: { filename: finalName, content }
         };
 
         const OWNER = process.env.GH_OWNER;
@@ -32,6 +31,7 @@ exports.handler = async (event) => {
         }
 
         const url = `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW}/dispatches`;
+
         const resp = await fetch(url, {
             method: 'POST',
             headers: {
@@ -50,6 +50,7 @@ exports.handler = async (event) => {
         return { statusCode: resp.status, body: JSON.stringify({ message: 'GitHub API error', detail: text }) };
 
     } catch (err) {
+        // include error message for debugging
         return { statusCode: 500, body: JSON.stringify({ message: 'Server error', error: err.message }) };
     }
 };
