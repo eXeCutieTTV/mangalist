@@ -202,7 +202,8 @@ function page2() {
     document.getElementById('createBtn').addEventListener('click', async () => {
         const statusEl = document.getElementById('status');
         try {
-            const filename = Date.now();
+        const timestamp = Date.now();
+        const filename = `generated_${timestamp}.js`;
             const content = entryMap;
             statusEl.textContent = 'Sending...';
             const resp = await fetch(endpoint, {
