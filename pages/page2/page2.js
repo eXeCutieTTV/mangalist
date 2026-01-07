@@ -966,8 +966,6 @@ function page2() {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
             });
             const json = await resp.json().catch(() => ({}));
-            const result = await response.json();
-            console.log("Status:", response.status, response.statusText, result);
             if (!resp.ok) throw new Error(json.message || `HTTP ${resp.status}`); statusEl.textContent = 'Success: ' + (json.message || 'Workflow dispatched');
         } catch (err) {
             statusEl.textContent = 'Error: ' + (err.message || err);
