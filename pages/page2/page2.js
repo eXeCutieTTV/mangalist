@@ -926,21 +926,19 @@ let entryMap = {
     }
 };*/
 
-const div = document.createElement("div");
-div.id = "page2-wait-for-element";
-document.body.appendChild(div);
-div.style.display = "none";
 
+function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
     if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
     else localStorage.mangalist_token = prompt("pat_token")
-    
+
     //vv file manipulation
     const folder = "generated"; // folder inside your repo
     const repoOwner = "eXeCutieTTV";
     const repoName = "mangalist";
     const token = localStorage.mangalist_token; // visible to anyone using the page
+
 
     async function getNewestFile() {
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
@@ -992,10 +990,11 @@ function page2() {
     getNewestFile().then(el => {
         console.log(el);
         loadNewestFile(el.name);
+
     });
     document.getElementById("makeFile").addEventListener("click", async () => {
         const timestamp = Date.now();
-        const filename = `generated_${timestamp}.js`;
+        const filename = `generated_${timestamp}.json`;
 
         function toBase64(str) {
             const utf8 = new TextEncoder().encode(str);
@@ -1004,13 +1003,7 @@ function page2() {
             return btoa(binary);
         }
 
-        const content = `
-            const entryMap = ${JSON.stringify(entryMap, null, 2)};
-            const div = document.createElement("div");
-            div.id = "page2-wait-for-element";
-            document.body.appendChild(div);
-            div.style.display = "none";
-        `;
+        const content = `${JSON.stringify(entryMap, null, 2)}`;
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
 
