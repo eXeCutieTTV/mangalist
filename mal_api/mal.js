@@ -19,7 +19,7 @@ const url =
 try {
     const res = await fetch(url, {
         headers: {
-            "X-MAL-CLIENT-ID": "c7881da4edf20e0485a13bcd1119be61"
+            "X-MAL-CLIENT-ID": process.env.MAL_CLIENT_ID
         },
     });
 
