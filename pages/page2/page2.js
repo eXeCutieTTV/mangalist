@@ -1,3 +1,4 @@
+/*
 let entryMap = {
     "One Piece": {
         "title": "One Piece",
@@ -923,7 +924,7 @@ let entryMap = {
             }
         }
     }
-};
+};*/
 
 const div = document.createElement("div");
 div.id = "page2-wait-for-element";
@@ -932,92 +933,15 @@ div.style.display = "none";
 
 function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
-
-
-    const endpoint = '/.netlify/functions/trigger';
-    function sanitizeName(name) {
-        const base = (name || 'script.js').split('/').pop();
-        const safe = base.replace(/[^A-Za-z0-9._-]/g, '_');
-        return safe.endsWith('.js')
-            ? safe
-            : safe + '.js';
-
-    }
-    document.getElementById('createBtn').addEventListener('click', async () => {
-        const statusEl = document.getElementById('status');
-        try {
-            const timestamp = Date.now();
-            const filename = `generated_${timestamp}.js`;
-            const content = `
-                entryMap = ${"JSON.stringify(entryMap, null, 2)"};
-            `;
-            //console.log('filename:', filename);
-            //console.log('content type:', typeof content);
-            //console.log('content length:', content.length);
-            //try { console.log('entryMap serializable:', JSON.stringify(entryMap).slice(0, 200)); }
-            //catch (e) { console.error('entryMap stringify error', e); }
-
-            statusEl.textContent = 'Sending...';
-            const resp = await fetch(endpoint, {
-                method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
-            });
-            const json = await resp.json().catch(() => ({}));
-            if (!resp.ok) throw new Error(json.message || `HTTP ${resp.status}`); statusEl.textContent = 'Success: ' + (json.message || 'Workflow dispatched');
-        } catch (err) {
-            statusEl.textContent = 'Error: ' + (err.message || err);
-        }
-    });
+    if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
+    else localStorage.mangalist_token = prompt("pat_token")
+    
     //vv file manipulation
-    /*
     const folder = "generated"; // folder inside your repo
     const repoOwner = "eXeCutieTTV";
     const repoName = "mangalist";
-    const token = "${{secret.MY_TOKEN}}"; // visible to anyone using the page
+    const token = localStorage.mangalist_token; // visible to anyone using the page
 
-    document.getElementById("makeFile").addEventListener("click", async () => {
-        const timestamp = Date.now();
-        const filename = `generated_${timestamp}.js`;
-
-        function toBase64(str) {
-            const utf8 = new TextEncoder().encode(str);
-            let binary = "";
-            utf8.forEach(byte => binary += String.fromCharCode(byte));
-            return btoa(binary);
-        }
-
-        const content = `
-            const entryMap = ${JSON.stringify(entryMap, null, 2)};
-            const div = document.createElement("div");
-            div.id = "page2-wait-for-element";
-            document.body.appendChild(div);
-            div.style.display = "none";
-        `;
-
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
-
-        const encodedContent = toBase64(content);
-
-        const response = await fetch(apiUrl, {
-            method: "PUT",
-            headers: {
-                "Authorization": `Bearer ${token}`,
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                message: `Add ${filename}`,
-                content: encodedContent
-            })
-        });
-
-        const result = await response.json();
-        console.log(result);
-
-        if (response.ok) {
-            alert(`File ${filename} pushed to GitHub`);
-        } else {
-            alert("Error: " + result.message);
-        }
-    });
     async function getNewestFile() {
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
 
@@ -1069,7 +993,50 @@ function page2() {
         console.log(el);
         loadNewestFile(el.name);
     });
-    */
+    document.getElementById("makeFile").addEventListener("click", async () => {
+        const timestamp = Date.now();
+        const filename = `generated_${timestamp}.js`;
+
+        function toBase64(str) {
+            const utf8 = new TextEncoder().encode(str);
+            let binary = "";
+            utf8.forEach(byte => binary += String.fromCharCode(byte));
+            return btoa(binary);
+        }
+
+        const content = `
+            const entryMap = ${JSON.stringify(entryMap, null, 2)};
+            const div = document.createElement("div");
+            div.id = "page2-wait-for-element";
+            document.body.appendChild(div);
+            div.style.display = "none";
+        `;
+
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
+
+        const encodedContent = toBase64(content);
+
+        const response = await fetch(apiUrl, {
+            method: "PUT",
+            headers: {
+                "Authorization": `Bearer ${token}`,
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                message: `Add ${filename}`,
+                content: encodedContent
+            })
+        });
+
+        const result = await response.json();
+        console.log(result);
+
+        if (response.ok) {
+            alert(`File ${filename} pushed to GitHub`);
+        } else {
+            alert("Error: " + result.message);
+        }
+    });
     //^^ file manipulation
 
 

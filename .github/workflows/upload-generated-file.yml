@@ -3,49 +3,29 @@ name: Upload Generated File
 on:
   workflow_dispatch:
     inputs:
-      filename:
-        description: 'The name of the file to generate'
-        required: true
       content:
-        description: 'The content of the file (JS)'
+        description: "Base64 encoded JS file"
         required: true
-
-permissions:
-  contents: write
+      filename:
+        description: "Filename to write"
+        required: true
 
 jobs:
   upload:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
-      - name: Prepare and sanitize filename
-        id: sanitize
+      - name: Write file
         run: |
-          RAW="${{ github.event.inputs.filename }}"
-          NAME="$(basename "$RAW")"
-          SAFE="$(echo "$NAME" | sed 's/[^A-Za-z0-9._-]/_/g')"
-          if [[ "$SAFE" != *.js ]]; then
-            SAFE="${SAFE}.js"
-          fi
-          echo "sanitized=$SAFE" >> $GITHUB_OUTPUT
+          echo "${{ inputs.content }}" | base64 --decode > generated/${{ inputs.filename }}
 
-      - name: Write generated file
-        run: |
-          mkdir -p generated
-          FILENAME="${{ steps.sanitize.outputs.sanitized }}"
-          printf '%s\n' "${{ github.event.inputs.content }}" > "generated/${FILENAME}"
-          ls -l generated
-
-      - name: Commit and push to main
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add "generated/${{ steps.sanitize.outputs.sanitized }}"
-          git commit -m "Add generated file ${{ steps.sanitize.outputs.sanitized }}" || echo "No changes to commit"
-          # push current HEAD to main
-          git push origin HEAD:main
+          git config user.email "github-actions@github.com"
+          git add generated/${{ inputs.filename }}
+          git commit -m "Add generated file ${{ inputs.filename }}"
+          git push
