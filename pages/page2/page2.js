@@ -1,4 +1,4 @@
-const entryMap = {
+let entryMap = {
     "One Piece": {
         "title": "One Piece",
         "author": "Eiichiro Oda",
@@ -949,7 +949,7 @@ function page2() {
             const timestamp = Date.now();
             const filename = `generated_${timestamp}.js`;
             const content = `
-                const entryMap = ${"JSON.stringify(entryMap, null, 2)"};
+                entryMap = ${"JSON.stringify(entryMap, null, 2)"};
             `;
             //console.log('filename:', filename);
             //console.log('content type:', typeof content);
