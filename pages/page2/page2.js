@@ -104,8 +104,7 @@ async function page2() {
     const { data: entryMap } = await getNewestFile();
     console.log("JSON parsed:", entryMap);
     //^^ file manipulation
-
-
+    
     // Create modal dynamically (one modal for all galleries)
     const modal = document.createElement("div");
     modal.id = "modal";
