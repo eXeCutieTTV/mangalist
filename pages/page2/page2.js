@@ -104,7 +104,7 @@ async function page2() {
     const { data: entryMap } = await getNewestFile();
     console.log("JSON parsed:", entryMap);
     //^^ file manipulation
-    
+
     // Create modal dynamically (one modal for all galleries)
     const modal = document.createElement("div");
     modal.id = "modal";
@@ -247,6 +247,7 @@ async function page2() {
             }
         });
     }
+    const res = await fetch("mangadex_api/mangadex_data/bleach.json");
+    const mangaRaw = await res.json();
+    console.log("JSON parsed:", mangaRaw);
 }
-
-

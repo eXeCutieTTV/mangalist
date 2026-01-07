@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "Monster",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/manga/3/258224.webp",
+    "large": "https://cdn.myanimelist.net/images/manga/3/258224l.webp"
+  },
+  "rank": 6,
+  "mean": 9.16,
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Monster",
+    "ja": "MONSTER"
+  }
+}

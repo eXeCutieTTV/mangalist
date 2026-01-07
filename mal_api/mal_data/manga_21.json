@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 13,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+          "large": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 17152,
+        "title": "One Piece: Strong World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/manga/1/25743.jpg",
+          "large": "https://cdn.myanimelist.net/images/manga/1/25743l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 127114,
+        "title": "One Piece Novel: A",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/manga/2/232216.webp",
+          "large": "https://cdn.myanimelist.net/images/manga/2/232216l.webp"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 120656,
+        "title": "Gekijouban One Piece: Stampede",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/manga/1/230439.jpg",
+          "large": "https://cdn.myanimelist.net/images/manga/1/230439l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 141501,
+        "title": "One Piece Novel: Law",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/manga/1/251912.jpg",
+          "large": "https://cdn.myanimelist.net/images/manga/1/251912l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "next": "https://api.myanimelist.net/v2/manga?offset=5&q=one+piece&limit=5"
+  }
+}

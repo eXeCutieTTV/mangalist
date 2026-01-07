@@ -9,12 +9,15 @@ if (!fs.existsSync(folder)) {
     fs.mkdirSync(folder, { recursive: true });
 }
 
-// The file path
-const filePath = path.join(folder, "anime.json");
-
 // MyAnimeList API URL
+const entry_id = 13; // Example manga ID
 const url =
-    "https://api.myanimelist.net/v2/anime/10357?fields=rank,mean,alternative_titles";
+    `https://api.myanimelist.net/v2/manga/${entry_id}?fields=rank,mean,alternative_titles`;
+//const query = "one piece";
+//const url = `https://api.myanimelist.net/v2/manga?q=${query}&limit=5`;
+
+// The file path
+const filePath = path.join(folder, `manga_${entry_id}.json`);
 
 try {
     const res = await fetch(url, {
