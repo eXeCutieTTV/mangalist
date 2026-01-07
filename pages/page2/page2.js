@@ -954,7 +954,7 @@ function page2() {
                 div.id = "page2-wait-for-element";
                 document.body.appendChild(div);
                 div.style.display = "none";
-            `; 
+            `;
             //console.log('filename:', filename);
             //console.log('content type:', typeof content);
             //console.log('content length:', content.length);
@@ -965,12 +965,16 @@ function page2() {
             const resp = await fetch(endpoint, {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ filename, content })
             });
-            const json = await resp.json().catch(() => ({})); if (!resp.ok) throw new Error(json.message || `HTTP ${resp.status}`); statusEl.textContent = 'Success: ' + (json.message || 'Workflow dispatched');
+            const json = await resp.json().catch(() => ({}));
+            const result = await response.json();
+            console.log("Status:", response.status, response.statusText, result);
+            if (!resp.ok) throw new Error(json.message || `HTTP ${resp.status}`); statusEl.textContent = 'Success: ' + (json.message || 'Workflow dispatched');
         } catch (err) {
             statusEl.textContent = 'Error: ' + (err.message || err);
         }
     });
     //vv file manipulation
+    /*
     const folder = "generated"; // folder inside your repo
     const repoOwner = "eXeCutieTTV";
     const repoName = "mangalist";
@@ -1071,6 +1075,7 @@ function page2() {
         console.log(el);
         loadNewestFile(el.name);
     });
+    */
     //^^ file manipulation
 
 
