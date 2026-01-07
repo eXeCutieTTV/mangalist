@@ -950,10 +950,6 @@ function page2() {
             const filename = `generated_${timestamp}.js`;
             const content = `
                 const entryMap = ${"JSON.stringify(entryMap, null, 2)"};
-                const div = document.createElement("div");
-                div.id = "page2-wait-for-element";
-                document.body.appendChild(div);
-                div.style.display = "none";
             `;
             //console.log('filename:', filename);
             //console.log('content type:', typeof content);
