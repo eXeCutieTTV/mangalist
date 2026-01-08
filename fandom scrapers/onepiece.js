@@ -16,7 +16,7 @@ function tabl(id) {
     const body_chapters_lis = body_chapters_ul.querySelectorAll('li');
     const body_characters_ul = bodytds[1].querySelector('ul');
     const body_characters_lis = body_characters_ul.querySelectorAll('li');
-    const img = bodytds[2].querySelector('img');
+    const a = bodytds[2].querySelector('a');
 
     const result = {
         title: [ustds[0].textContent.replace(/\n/, ""), jptds[0].textContent.replace(/\n/, "")],
@@ -28,7 +28,8 @@ function tabl(id) {
         ISBN: [ustds[3].textContent.replace(/\n/, ""), jptds[3].textContent.replace(/\n/, "")],
         chapters: {},
         cover_characters: [],
-        img: `images/one-piece/volumes_${String(id).padStart(3, "0")}.png`,
+        img: a.href.replace(/\/revision.*$/, "")
+,
         owned: true,
         prise: "10 €",
         date_bought: ""
