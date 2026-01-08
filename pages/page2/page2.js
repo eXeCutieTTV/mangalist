@@ -247,7 +247,4 @@ async function page2() {
             }
         });
     }
-    const res = await fetch("mangadex_api/mangadex_data/bleach.json");
-    const mangaRaw = await res.json();
-    console.log("JSON parsed:", mangaRaw);
 }
