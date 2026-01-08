@@ -280,3 +280,7 @@ async function page2() {
     });
     //^^
 }
+//maybe make the js-creater button the header divs, instead of a button.
+//the divs whereon it says the title of the manga and the author^^
+//when the div is clicked, it creates the file^^
+//actually a <h2>, not a div - but whatever.
