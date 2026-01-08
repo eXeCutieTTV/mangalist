@@ -173,6 +173,7 @@ async function page2() {
 
         // Loop over volumes
         for (const [volNum, volData] of Object.entries(entry.volumes)) {
+            console.log(volNum);
             const wrapper = document.createElement("div");
             wrapper.style.textAlign = "center";
 
