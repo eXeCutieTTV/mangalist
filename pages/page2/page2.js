@@ -123,7 +123,7 @@ async function page2() {
 
     const modalContent = document.createElement("div");
     Object.assign(modalContent.style, {
-        backgroundColor: "#fff",
+        backgroundColor: "rgb(203 178 178)",
         padding: "20px",
         maxWidth: "600px",
         width: "90%",
@@ -157,7 +157,7 @@ async function page2() {
     for (const entry of Object.values(entryMap)) {
         // Series title
         const header = document.createElement("h2");
-        header.textContent = entry.title;
+        header.textContent = `${entry.title} - ${entry.author}`;
         pageWrapper.appendChild(header);
 
         // Create gallery for this series
@@ -212,7 +212,7 @@ async function page2() {
                     <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
                     <div style="display:flex;margin-bottom:15px;">
                         <div>
-                            <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:auto; height:300px; display:block;">
+                            <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:auto; height:300px; display:block; border-radius:5px;">
                         </div>
                         <div>
                             <ul style="margin: 0;">
@@ -222,7 +222,6 @@ async function page2() {
                             </ul>
                         </div>
                     </div>
-                    <p style="margin: 4px 0;"><strong>Author:</strong> ${entry.author}</p>
                     <p style="margin: 4px 0;"><strong>Released:</strong> ${volData.date_release[1]}</p>
                     <p style="margin: 4px 0;"><strong>Price:</strong> ${volData.prise}</p>
                     <p style="margin: 4px 0;"><strong>Pages:</strong> ${volData.pages[0]/*volData.owned ? "Yes" : "No"*/}</p>
