@@ -101,8 +101,8 @@ async function page2() {
         };
 
     }
-    const { data: entryMap } = await getNewestFile();
-    console.log("JSON parsed:", entryMap);
+    const { name: fileName, data: entryMap } = await getNewestFile();
+    console.log(`JSON parsed from file: ${fileName}`, entryMap);
     //^^ file manipulation
 
     // Create modal dynamically (one modal for all galleries)
