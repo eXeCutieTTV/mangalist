@@ -8480,7 +8480,6 @@
         "prise": "10 €",
         "date_bought": "",
         "date_released": "2002-01-05",
-        "total_sold": ">500,000",
         "owned": true
       },
       "2": {
@@ -8522,7 +8521,6 @@
         "prise": "10 €",
         "date_bought": "",
         "date_released": "2002-03-04",
-        "total_sold": ">500,000",
         "owned": true
       },
       "3": {
@@ -8556,7 +8554,6 @@
         "prise": "10 €",
         "date_bought": "",
         "date_released": "2002-06-04",
-        "total_sold": ">500,000",
         "owned": true
       },
       "4": {
@@ -8586,7 +8583,6 @@
         "prise": "10 €",
         "date_bought": "",
         "date_released": "2002-09-04",
-        "total_sold": ">500,000",
         "owned": true
       },
       "5": {
@@ -8612,7 +8608,6 @@
         "prise": "10 €",
         "date_bought": "",
         "date_released": "2002-11-01",
-        "total_sold": ">500,000",
         "owned": true
       }
     }
