@@ -173,7 +173,7 @@ async function page2() {
 
         // Loop over volumes
         for (const [volNum, volData] of Object.entries(entry.volumes)) {
-            console.log(volNum);
+            //console.log(volNum);
             const wrapper = document.createElement("div");
             wrapper.style.textAlign = "center";
 
@@ -210,16 +210,23 @@ async function page2() {
                     <h2 style="margin: 10px 0;">Volume ${volNum}</h2>
                     <h3 style="margin: 0;">${volData.title[0]}</h3>
                     <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
-                    <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:150px; display:block; margin-bottom:25px;">
+                    <div style="display:flex;margin-bottom:15px;">
+                        <div>
+                            <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:auto; height:300px; display:block;">
+                        </div>
+                        <div>
+                            <ul style="margin: 0;">
+                                ${Object.entries(volData.chapters)
+                                .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
+                                .join("")}
+                            </ul>
+                        </div>
+                    </div>
                     <p style="margin: 4px 0;"><strong>Author:</strong> ${entry.author}</p>
                     <p style="margin: 4px 0;"><strong>Released:</strong> ${volData.date_release[1]}</p>
                     <p style="margin: 4px 0;"><strong>Price:</strong> ${volData.prise}</p>
-                    <p style="margin: 0;"><strong>Chapters:</strong></p>
-                    <ul style="margin: 0; margin-top: 10px;">
-                        ${Object.entries(volData.chapters)
-                        .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
-                        .join("")}
-                    </ul>
+                    <p style="margin: 4px 0;"><strong>Pages:</strong> ${volData.pages[0]/*volData.owned ? "Yes" : "No"*/}</p>
+                    <p style="margin: 4px 0;"><strong>ISBN:</strong> ${volData.ISBN[0]}</p>
                 `;
                 modal.style.display = "flex";
             });
