@@ -105,7 +105,7 @@ async function page2() {
     console.log(`JSON parsed from file: ${fileName}`, entryMap);
     //^^ file manipulation
 
-    // Create modal dynamically (one modal for all galleries)
+    // dynamic modal creation vv
     const modal = document.createElement("div");
     modal.id = "modal";
     Object.assign(modal.style, {
@@ -191,12 +191,12 @@ async function page2() {
             Object.assign(img.style, {
                 cursor: "pointer",
                 width: "120px",
-                height: "auto",
+                height: "189px",
                 borderRadius: "5px",
                 transition: "transform 0.2s"
             });
-
-            img.src = volData.img;
+            img.loading = "lazy";
+            img.dataset.src = volData.img;
             img.alt = `Volume ${volNum} cover`;
 
             // Hover effect
@@ -209,9 +209,8 @@ async function page2() {
                     <h2>Volume ${volNum}: ${entry.title}</h2>
                     <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:150px; display:block; margin-bottom:10px;">
                     <p><strong>Author:</strong> ${entry.author}</p>
-                    <p><strong>Released:</strong> ${volData.date_released}</p>
+                    <p><strong>Released:</strong> ${volData.date_release[1]}</p>
                     <p><strong>Price:</strong> ${volData.prise}</p>
-                    <p><strong>Total Sold:</strong> ${volData.total_sold}</p>
                     <p><strong>Chapters:</strong></p>
                     <ul>
                         ${Object.entries(volData.chapters)
@@ -227,7 +226,8 @@ async function page2() {
             gallery.appendChild(wrapper);
         }
     }
-
+    //^^ dynamic modal creation
+    // owned togglevv
     const footers = document.querySelectorAll(".page2-modal-footer");
     for (const footer of footers) {
         footer.addEventListener("click", () => {
@@ -248,4 +248,26 @@ async function page2() {
             }
         });
     }
+    //^^
+    //img loads when near viewport vv
+    const observer = new IntersectionObserver(
+        entries => {
+            for (const entry of entries) {
+                if (!entry.isIntersecting) continue;
+
+                const img = entry.target;
+                img.src = img.dataset.src;
+                img.removeAttribute("data-src");
+                observer.unobserve(img);
+            }
+        },
+        {
+            rootMargin: "300px" // preload before visible
+        }
+    );
+
+    document.querySelectorAll("img[data-src]").forEach(img => {
+        observer.observe(img);
+    });
+    //^^
 }
