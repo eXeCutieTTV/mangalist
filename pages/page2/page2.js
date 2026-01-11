@@ -10,6 +10,46 @@ async function page2() {
     const repoName = "mangalist";
     const token = localStorage.mangalist_token; // visible to anyone using the page
 
+    async function updateJSON() {
+        const timestamp = Date.now();
+        const filename = `generated_${timestamp}.json`;
+
+        function toBase64(str) {
+            const utf8 = new TextEncoder().encode(str);
+            let binary = "";
+            utf8.forEach(byte => binary += String.fromCharCode(byte));
+            return btoa(binary);
+        }
+
+        const sorted = Object.fromEntries(Object.entries(entryMap).sort(([a], [b]) => a.localeCompare(b))); //<-- sorts alphabetically
+        const content = JSON.stringify(sorted, null, 2);
+
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
+
+        const encodedContent = toBase64(content);
+
+        const response = await fetch(apiUrl, {
+            method: "PUT",
+            headers: {
+                "Authorization": `Bearer ${token}`,
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                message: `Add ${filename}`,
+                content: encodedContent
+            })
+        });
+
+        const result = await response.json();
+        console.log(result);
+
+        if (response.ok) {
+            alert(`File ${filename} pushed to GitHub`);
+        } else {
+            alert("Error: " + result.message);
+        }
+    }
+    /*
     document.getElementById("makeFile").addEventListener("click", async () => {
         const timestamp = Date.now();
         const filename = `generated_${timestamp}.json`;
@@ -49,6 +89,7 @@ async function page2() {
             alert("Error: " + result.message);
         }
     });
+    */
     async function getNewestFile() {
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
 
@@ -158,7 +199,12 @@ async function page2() {
     for (const entry of Object.values(entryMap)) {
         // Series title
         const header = document.createElement("h2");
-        header.textContent = `${entry.title} - ${entry.author}`;
+        header.textContent = `${entry.title} - ${entry.author}`; //<-- title and author
+        Object.assign(header.style, {
+            display: "inline",
+            cursor: "pointer",
+        });
+        header.classList.add("page2-series-header");
         pageWrapper.appendChild(header);
 
         // Create gallery for this series
@@ -280,8 +326,19 @@ async function page2() {
         observer.observe(img);
     });
     //^^
+    //vv headers clickable to create file
+    const header_btns = document.getElementsByClassName("page2-series-header");
+    for (const btn of header_btns) {
+        console.log(btn);
+        btn.addEventListener("click", () => {
+            console.log("clicked header");
+            updateJSON();
+        });
+    }
+    //^^
 }
 //maybe make the js-creater button the header divs, instead of a button.
 //the divs whereon it says the title of the manga and the author^^
 //when the div is clicked, it creates the file^^
 //actually a <h2>, not a div - but whatever.
+
