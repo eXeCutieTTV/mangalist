@@ -2,7 +2,7 @@
   "Bleach": {
     "title": "Bleach",
     "author": "Tite Kubo",
-    "released": "2001",
+    "released": "January 5, 2001",
     "volumes": {
       "1": {
         "title": [
@@ -5001,7 +5001,7 @@
   "One Piece": {
     "title": "One Piece",
     "author": "Eiichiro Oda",
-    "released": "1997",
+    "released": "December 24, 1997",
     "volumes": {
       "1": {
         "title": [
@@ -13435,6 +13435,178 @@
         "img": "images/one-piece/vol_113.png",
         "owned": false,
         "prise": "10 €",
+        "date_bought": ""
+      }
+    }
+  },
+  "Akame ga Kill": {
+    "title": "Akame ga Kill",
+    "author": "Takahiro(story) & Tetsuya Tashiro(art)",
+    "released": "August 21, 2010",
+    "volumes": {
+      "1": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_001.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "2": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_002.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "3": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_003.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "4": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_004.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "5": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_005.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "6": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_006.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "7": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_007.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "8": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_008.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "9": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_009.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "10": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_010.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "11": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_011.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "12": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_012.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "13": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_013.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "14": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_014.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "15": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "images/akame-ga-kill/vol_015.png",
+        "owned": false,
+        "prise": "10€",
         "date_bought": ""
       }
     }
