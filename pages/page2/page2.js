@@ -202,7 +202,7 @@ async function page2() {
         header.textContent = `${entry.title} - ${entry.author}`; //<-- title and author
         Object.assign(header.style, {
             display: "inline",
-            cursor: "pointer",
+            cursor: "pointer"
         });
         header.classList.add("page2-series-header");
         pageWrapper.appendChild(header);
