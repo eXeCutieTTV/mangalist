@@ -263,8 +263,12 @@ async function page2() {
                         </div>
                         <div>
                             <ul style="margin: 0;">
-                                ${Object.entries(volData.chapters)
-                        .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
+                        ${Object.entries(volData.chapters)
+                        .map(([chapNum, titles]) => {
+                            const [jp, en] = titles;
+                            const titleText = jp === en ? jp : `${jp} / ${en}`;
+                            return `<li>Chapter ${chapNum}: ${titleText}</li>`;
+                        })
                         .join("")}
                             </ul>
                         </div>
