@@ -8446,169 +8446,4835 @@
     "released": "2001",
     "volumes": {
       "1": {
+        "title": [
+          "THE DEATH AND THE STRAWBERRY",
+          "THE DEATH AND THE STRAWBERRY"
+        ],
+        "date_release": [
+          "June 1, 2004",
+          "January 5, 2002"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "1-59116-441-9",
+          "4-08-873213-8"
+        ],
         "chapters": {
           "1": [
             "Death & Strawberry",
-            "ザ・デス・アンド・ザ・ストロベリー"
+            "Death & Strawberry"
           ],
           "2": [
             "Starter",
-            "スターター"
+            "Starter"
           ],
           "3": [
-            "Headhittin’",
-            "ヘッドヒッティン’"
+            "Headhittin'",
+            "Headhittin'"
           ],
           "4": [
-            "Why Do You Eat It?",
-            "なぜそれを食べる？"
+            "WHY DO YOU EAT IT?",
+            "WHY DO YOU EAT IT?"
           ],
           "5": [
-            "Binda Blinda",
-            "ビンダ・ブリンダ"
+            "Binda•blinda",
+            "Binda•blinda"
           ],
           "6": [
-            "Microcrack.",
-            "マイクロクラック"
+            "microcrack.",
+            "microcrack."
           ],
           "7": [
             "The Pink Cheeked Parakeet",
-            "ピンクほっぺのインコ"
+            "The Pink Cheeked Parakeet"
           ]
         },
-        "img": "https://static.wikia.nocookie.net/bleach/images/a/ad/MangaVolume1Cover.png/revision/latest?cb=20190530063053&path-prefix=en",
-        "prise": "10 €",
-        "date_bought": "",
-        "date_released": "2002-01-05",
-        "owned": true
+        "cover_characters": [
+          "Ichigo Kurosaki(Shinigami)",
+          "Ichigo Kurosaki(Shinigami)"
+        ],
+        "img": "images/bleach/vol_000.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
       },
       "2": {
+        "title": [
+          "GOODBYE PARAKEET, GOODNITE MY SISTA",
+          "GOODBYE PARAKEET, GOODNITE MY SISTA"
+        ],
+        "date_release": [
+          "August 3, 2004",
+          "March 4, 2002"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-442-7",
+          "4-08-873237-5"
+        ],
         "chapters": {
           "8": [
-            "Chasing Chad",
-            "チャド追跡"
+            "Chase Chad Around",
+            "Chase Chad Around"
           ],
           "9": [
-            "Monster vs. New Girl (Part 1)",
-            "モンスター対ニューガール①"
+            "Monster and a Transfer [Struck Down]",
+            "Monster and a Transfer [Struck Down]"
           ],
           "10": [
-            "Monster vs. New Girl (Part 2)",
-            "モンスター対ニューガール②"
+            "Monster and a Transfer pt.2 [The Deathberry]",
+            "Monster and a Transfer pt.2 [The Deathberry]"
           ],
           "11": [
-            "Leech-Bombs and Mom",
-            "リーク爆弾と母"
+            "Back. [Leachbomb or Mom]",
+            "Back. [Leachbomb or Mom]"
           ],
           "12": [
-            "The Gate of the End",
-            "終わりの門"
+            "The Gate of The End",
+            "The Gate of The End"
           ],
           "13": [
-            "Bad Standard",
-            "バッド・スタンダード"
+            "BAD STANDARD",
+            "BAD STANDARD"
           ],
           "14": [
             "School Daze!!!",
-            "スクール・デイズ!!!"
+            "School Daze!!!"
           ],
           "15": [
+            "Jumpin' Jack' Jolted",
+            "Jumpin' Jack' Jolted"
+          ],
+          "16": [
             "Wasted but Wanted",
-            "浪費されても求められる"
+            "Wasted but Wanted"
           ]
         },
-        "img": "https://static.wikia.nocookie.net/bleach/images/5/54/MangaVolume2Cover.png",
-        "prise": "10 €",
-        "date_bought": "",
-        "date_released": "2002-03-04",
-        "owned": true
+        "cover_characters": [
+          "Rukia Kuchiki(school uniform)",
+          "Rukia Kuchiki(school uniform)"
+        ],
+        "img": "images/bleach/vol_001.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
       },
       "3": {
+        "title": [
+          "memories in the rain",
+          "memories in the rain"
+        ],
+        "date_release": [
+          "October 12, 2004",
+          "June 4, 2002"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-443-5",
+          "4-08-873275-8"
+        ],
         "chapters": {
-          "16": [
-            "Memories in the Rain",
-            "雨の思い出"
-          ],
           "17": [
-            "A Star and a Stray Dog",
-            "星と迷い犬"
+            "6/17",
+            "6/17"
           ],
           "18": [
-            "Flowers on the Precipice",
-            "崖の花"
+            "6/17 op.2 \"Can't Smile Don't Blame\"",
+            "6/17 op.2 \"Can't Smile Don't Blame\""
           ],
           "19": [
-            "The Undead",
-            "アンデッド"
+            "6/17 op.3 \"memories in the rain\"",
+            "6/17 op.3 \"memories in the rain\""
           ],
           "20": [
-            "White Tower Rocks",
-            "ホワイト・タワー・ロックス"
+            "6/17 op.4 \"face again\"",
+            "6/17 op.4 \"face again\""
           ],
           "21": [
-            "Beginning of the Death of Tomorrow",
-            "明日の死の始まり"
-          ]
-        },
-        "img": "https://static.wikia.nocookie.net/bleach/images/7/75/MangaVolume3Cover.png",
-        "prise": "10 €",
-        "date_bought": "",
-        "date_released": "2002-06-04",
-        "owned": true
-      },
-      "4": {
-        "chapters": {
+            "6/17 op.5 戦う少年",
+            "6/17 op.5 戦う少年"
+          ],
           "22": [
-            "Quincy Archer Hates You",
-            "クインシー・アーチャーはお前が嫌いだ"
+            "6/17 op.6 \"BATTLE ON GRAVEYARD\"",
+            "6/17 op.6 \"BATTLE ON GRAVEYARD\""
           ],
           "23": [
-            "Right Arm of the Giant",
-            "巨人の右腕"
+            "6/17 op.7 \"意志は鋭し、刃は鈍し\"",
+            "6/17 op.7 \"意志は鋭し、刃は鈍し\""
           ],
           "24": [
-            "The Death Trilogy Overture",
-            "死の三部作序曲"
+            "6/17 op.8 \"All One Way Sympathies\"",
+            "6/17 op.8 \"All One Way Sympathies\""
           ],
           "25": [
-            "The Broken Coda",
-            "壊れたコーダ"
-          ],
-          "26": [
-            "The Blade and Me",
-            "ブレードと俺"
+            "6/17 op.9 \"戦う少年2 [The Cigar Blues Mix]\"",
+            "6/17 op.9 \"戦う少年2 [The Cigar Blues Mix]\""
           ]
         },
-        "img": "https://static.wikia.nocookie.net/bleach/images/5/50/MangaVolume4Cover.png",
-        "prise": "10 €",
-        "date_bought": "",
-        "date_released": "2002-09-04",
-        "owned": true
+        "cover_characters": [
+          "Orihime Inoue",
+          "Orihime Inoue"
+        ],
+        "img": "images/bleach/vol_002.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
       },
-      "5": {
+      "4": {
+        "title": [
+          "QUINCY ARCHER HATES YOU",
+          "QUINCY ARCHER HATES YOU"
+        ],
+        "date_release": [
+          "December 7, 2004",
+          "September 4, 2002"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-444-3",
+          "4-08-873310-X"
+        ],
         "chapters": {
+          "26": [
+            "Paradise is Nowhere",
+            "Paradise is Nowhere"
+          ],
           "27": [
-            "Fourteen Days for Conspiracy",
-            "陰謀の14日間"
+            "Spirits Ain't Always WITH US",
+            "Spirits Ain't Always WITH US"
           ],
           "28": [
-            "Tattoo on the Sky",
-            "空のタトゥー"
+            "Symptom of Synesthesia",
+            "Symptom of Synesthesia"
           ],
           "29": [
-            "A Star and a Stray Dog (Extra)",
-            "星と迷い犬（特別編）"
+            "Stop that stupid!!",
+            "Stop that stupid!!"
           ],
           "30": [
-            "Flower on the Precipice (Extra)",
-            "崖の花（特別編）"
+            "Second Contact[it was outside the scope of our understanding]",
+            "Second Contact[it was outside the scope of our understanding]"
+          ],
+          "31": [
+            "HEROES CAN SAVE YOU",
+            "HEROES CAN SAVE YOU"
+          ],
+          "32": [
+            "Hero is Always With Me?",
+            "Hero is Always With Me?"
+          ],
+          "33": [
+            "ROCKIN' FUTURE 7",
+            "ROCKIN' FUTURE 7"
+          ],
+          "34": [
+            "Quincy Archer Hates You",
+            "Quincy Archer Hates You"
           ]
         },
-        "img": "https://static.wikia.nocookie.net/bleach/images/4/4e/MangaVolume5Cover.png/revision/latest?cb=20200107160347&path-prefix=en",
-        "prise": "10 €",
-        "date_bought": "",
-        "date_released": "2002-11-01",
-        "owned": true
+        "cover_characters": [
+          "Uryū Ishida",
+          "Uryū Ishida"
+        ],
+        "img": "images/bleach/vol_003.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "5": {
+        "title": [
+          "RIGHTARM OF THE GIANT",
+          "RIGHTARM OF THE GIANT"
+        ],
+        "date_release": [
+          "February 1, 2005",
+          "November 1, 2002"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "1-59116-445-1",
+          "4-08-873335-5"
+        ],
+        "chapters": {
+          "35": [
+            "Can You Be My Enemy?",
+            "Can You Be My Enemy?"
+          ],
+          "36": [
+            "我ら、報復の為に死に至りて",
+            "我ら、報復の為に死に至りて"
+          ],
+          "37": [
+            "Crossing The Rubicon",
+            "Crossing The Rubicon"
+          ],
+          "38": [
+            "BENT",
+            "BENT"
+          ],
+          "39": [
+            "Rightarm of The Giant",
+            "Rightarm of The Giant"
+          ],
+          "40": [
+            "Grow?",
+            "Grow?"
+          ],
+          "41": [
+            "Princess & Dragon",
+            "Princess & Dragon"
+          ],
+          "42": [
+            "Princess & Dragon PART.2\"The Majestic\"",
+            "Princess & Dragon PART.2\"The Majestic\""
+          ],
+          "43": [
+            "Princess & Dragon PART.3\"Six flowers\"",
+            "Princess & Dragon PART.3\"Six flowers\""
+          ]
+        },
+        "cover_characters": [
+          "Yasutora Sado",
+          "Yasutora Sado"
+        ],
+        "img": "images/bleach/vol_004.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "6": {
+        "title": [
+          "THE DEATH TRILOGY OVERTURE",
+          "THE DEATH TRILOGY OVERTURE"
+        ],
+        "date_release": [
+          "April 5, 2005",
+          "December 20, 2002"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-728-0",
+          "4-08-873366-5"
+        ],
+        "chapters": {
+          "44": [
+            "Awaken[to the Threat]",
+            "Awaken[to the Threat]"
+          ],
+          "45": [
+            "Point of Purpose",
+            "Point of Purpose"
+          ],
+          "46": [
+            "Karneades~Back to Back",
+            "Karneades~Back to Back"
+          ],
+          "47": [
+            "Back to Back~Tearing Sky",
+            "Back to Back~Tearing Sky"
+          ],
+          "48": [
+            "メノスグランデ",
+            "メノスグランデ"
+          ],
+          "49": [
+            "unchained.",
+            "unchained."
+          ],
+          "50": [
+            "Quincy Archer Hates You Part 2 [Blind But Bleed Mix]",
+            "Quincy Archer Hates You Part 2 [Blind But Bleed Mix]"
+          ],
+          "51": [
+            "DEATH 3",
+            "DEATH 3"
+          ],
+          "52": [
+            "Needless Emotions",
+            "Needless Emotions"
+          ]
+        },
+        "cover_characters": [
+          "Kisuke Urahara",
+          "Kisuke Urahara"
+        ],
+        "img": "images/bleach/vol_005.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "7": {
+        "title": [
+          "THE BROKEN CODA",
+          "THE BROKEN CODA"
+        ],
+        "date_release": [
+          "May 31, 2005",
+          "March 4, 2003"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-807-4",
+          "4-08-873392-4"
+        ],
+        "chapters": {
+          "53": [
+            "Nice to meet you, I will beat you",
+            "Nice to meet you, I will beat you"
+          ],
+          "54": [
+            "名も訊けぬ子供",
+            "名も訊けぬ子供"
+          ],
+          "55": [
+            "SHUT",
+            "SHUT"
+          ],
+          "56": [
+            "broken coda",
+            "broken coda"
+          ],
+          "57": [
+            "Unfinished July Rain",
+            "Unfinished July Rain"
+          ],
+          "58": [
+            "blank",
+            "blank"
+          ],
+          "59": [
+            "Lesson 1: One Strike! + Jailed at Home",
+            "Lesson 1: One Strike! + Jailed at Home"
+          ],
+          "60": [
+            "Lesson 1-2: DOWN!!",
+            "Lesson 1-2: DOWN!!"
+          ],
+          "61": [
+            "Lesson2 : Shattered shaft",
+            "Lesson2 : Shattered shaft"
+          ]
+        },
+        "cover_characters": [
+          "Byakuya Kuchiki",
+          "Byakuya Kuchiki"
+        ],
+        "img": "images/bleach/vol_006.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "8": {
+        "title": [
+          "THE BLADE AND ME",
+          "THE BLADE AND ME"
+        ],
+        "date_release": [
+          "August 2, 2005",
+          "June 4, 2003"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-872-4",
+          "4-08-873435-1"
+        ],
+        "chapters": {
+          "62": [
+            "Lesson2-2:Bad Endin’ In The Shaft",
+            "Lesson2-2:Bad Endin’ In The Shaft"
+          ],
+          "63": [
+            "Lesson2-3 : Innercircle Breakdown",
+            "Lesson2-3 : Innercircle Breakdown"
+          ],
+          "64": [
+            "BACK IN BLACK",
+            "BACK IN BLACK"
+          ],
+          "65": [
+            "Collisions",
+            "Collisions"
+          ],
+          "66": [
+            "THE BLADE AND ME",
+            "THE BLADE AND ME"
+          ],
+          "67": [
+            "End of Lessons",
+            "End of Lessons"
+          ],
+          "68": [
+            "最後の夏休み",
+            "最後の夏休み"
+          ],
+          "69": [
+            "25:00 gathering",
+            "25:00 gathering"
+          ],
+          "70": [
+            "Where Hollows Fear To Tread",
+            "Where Hollows Fear To Tread"
+          ]
+        },
+        "cover_characters": [
+          "Zangetsu",
+          "Zangetsu"
+        ],
+        "img": "images/bleach/vol_007.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "9": {
+        "title": [
+          "FOURTEEN DAYS FOR CONSPIRACY",
+          "FOURTEEN DAYS FOR CONSPIRACY"
+        ],
+        "date_release": [
+          "October 10, 2005",
+          "August 4, 2003"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-59116-924-0",
+          "4-08-873495-5"
+        ],
+        "chapters": {
+          "71": [
+            "INTRUDERZ",
+            "INTRUDERZ"
+          ],
+          "72": [
+            "The Superchunk",
+            "The Superchunk"
+          ],
+          "73": [
+            "Drizzly Axes",
+            "Drizzly Axes"
+          ],
+          "74": [
+            "Armlost, Armlost",
+            "Armlost, Armlost"
+          ],
+          "75": [
+            "血雨",
+            "血雨"
+          ],
+          "76": [
+            "Boarrider Comin'",
+            "Boarrider Comin'"
+          ],
+          "77": [
+            "俺様の名はガンジュ",
+            "俺様の名はガンジュ"
+          ],
+          "78": [
+            "meeT iT aT basemenT",
+            "meeT iT aT basemenT"
+          ],
+          "79": [
+            "FOURTEEN DAYS FOR CONSPIRACY",
+            "FOURTEEN DAYS FOR CONSPIRACY"
+          ]
+        },
+        "cover_characters": [
+          "Kūkaku Shiba",
+          "Kūkaku Shiba"
+        ],
+        "img": "images/bleach/vol_008.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "10": {
+        "title": [
+          "TATTOO ON THE SKY",
+          "TATTOO ON THE SKY"
+        ],
+        "date_release": [
+          "December 6, 2005",
+          "November 4, 2003"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0081-7",
+          "4-08-873525-0"
+        ],
+        "chapters": {
+          "80": [
+            "The Shooting Star Project",
+            "The Shooting Star Project"
+          ],
+          "81": [
+            "Twelve Tone Rendezvous",
+            "Twelve Tone Rendezvous"
+          ],
+          "82": [
+            "Conflictable Composition",
+            "Conflictable Composition"
+          ],
+          "83": [
+            "COME WITH ME",
+            "COME WITH ME"
+          ],
+          "84": [
+            "The Shooting Star Project 2[Tattoo On The Sky]",
+            "The Shooting Star Project 2[Tattoo On The Sky]"
+          ],
+          "85": [
+            "INTRUDERZ2 [Breakthrough the roof mix]",
+            "INTRUDERZ2 [Breakthrough the roof mix]"
+          ],
+          "86": [
+            "Making Good Relations,OK?",
+            "Making Good Relations,OK?"
+          ],
+          "87": [
+            "Dancing With Spears",
+            "Dancing With Spears"
+          ],
+          "88": [
+            "SO UNLUCKY WE ARE",
+            "SO UNLUCKY WE ARE"
+          ],
+          "88.5": [
+            "KARAKURA SUPER HEROES",
+            "KARAKURA SUPER HEROES"
+          ]
+        },
+        "cover_characters": [
+          "Ganju Shiba",
+          "Ganju Shiba"
+        ],
+        "img": "images/bleach/vol_009.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "11": {
+        "title": [
+          "A STAR AND A STRAY DOG",
+          "A STAR AND A STRAY DOG"
+        ],
+        "date_release": [
+          "February 7, 2006",
+          "December 19, 2003"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0271-2",
+          "978-4-08-873555-2"
+        ],
+        "chapters": {
+          "89": [
+            "Masterly! And Farewell!",
+            "Masterly! And Farewell!"
+          ],
+          "90": [
+            "See You Under a Firework",
+            "See You Under a Firework"
+          ],
+          "91": [
+            "KING OF FREISCHÜTZ",
+            "KING OF FREISCHÜTZ"
+          ],
+          "92": [
+            "Masterly! And Farewell! [Reprise]",
+            "Masterly! And Farewell! [Reprise]"
+          ],
+          "93": [
+            "Steer For the Star",
+            "Steer For the Star"
+          ],
+          "94": [
+            "Gaol Named Remorse",
+            "Gaol Named Remorse"
+          ],
+          "95": [
+            "CRUSH",
+            "CRUSH"
+          ],
+          "96": [
+            "BLOODRED CONFLICT",
+            "BLOODRED CONFLICT"
+          ],
+          "97": [
+            "Talk About Your Fear",
+            "Talk About Your Fear"
+          ],
+          "98": [
+            "星と野良犬",
+            "星と野良犬"
+          ]
+        },
+        "cover_characters": [
+          "Renji Abarai(Shikai)",
+          "Renji Abarai(Shikai)"
+        ],
+        "img": "images/bleach/vol_010.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "12": {
+        "title": [
+          "FLOWER ON THE PRECIPICE",
+          "FLOWER ON THE PRECIPICE"
+        ],
+        "date_release": [
+          "April 4, 2006",
+          "March 4, 2004"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0403-0",
+          "978-4-08-873576-5"
+        ],
+        "chapters": {
+          "99": [
+            "Dead Black War Cloud",
+            "Dead Black War Cloud"
+          ],
+          "100": [
+            "それは岩壁の花に似て",
+            "それは岩壁の花に似て"
+          ],
+          "101": [
+            "Split Under The Red Stalk",
+            "Split Under The Red Stalk"
+          ],
+          "102": [
+            "Nobody Beats",
+            "Nobody Beats"
+          ],
+          "103": [
+            "Dominion",
+            "Dominion"
+          ],
+          "104": [
+            "The Undead",
+            "The Undead"
+          ],
+          "105": [
+            "Spring, Spring, Meets The Tiger",
+            "Spring, Spring, Meets The Tiger"
+          ],
+          "106": [
+            "Cause For Confront",
+            "Cause For Confront"
+          ],
+          "107": [
+            "Heat In Trust",
+            "Heat In Trust"
+          ],
+          "0.8": [
+            "a wonderful error",
+            "a wonderful error"
+          ]
+        },
+        "cover_characters": [
+          "Sousuke Aizen(Captain)",
+          "Sousuke Aizen(Captain)"
+        ],
+        "img": "images/bleach/vol_011.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "13": {
+        "title": [
+          "THE UNDEAD",
+          "THE UNDEAD"
+        ],
+        "date_release": [
+          "June 6, 2006",
+          "June 4, 2004"
+        ],
+        "pages": [
+          "184",
+          "184"
+        ],
+        "ISBN": [
+          "1-4215-0611-4",
+          "978-4-08-873610-9"
+        ],
+        "chapters": {
+          "108": [
+            "Time For Scare",
+            "Time For Scare"
+          ],
+          "109": [
+            "花を踏まぬ虎のように",
+            "花を踏まぬ虎のように"
+          ],
+          "110": [
+            "Dark Side of Universe",
+            "Dark Side of Universe"
+          ],
+          "111": [
+            "Black & White",
+            "Black & White"
+          ],
+          "112": [
+            "The Undead 2 [Rise&Craze]",
+            "The Undead 2 [Rise&Craze]"
+          ],
+          "113": [
+            "The Undead 3 [Closing Frantica]",
+            "The Undead 3 [Closing Frantica]"
+          ],
+          "114": [
+            "崩れゆく世界のすべてについて",
+            "崩れゆく世界のすべてについて"
+          ],
+          "115": [
+            "Remnant",
+            "Remnant"
+          ]
+        },
+        "cover_characters": [
+          "Kenpachi Zaraki",
+          "Kenpachi Zaraki"
+        ],
+        "img": "images/bleach/vol_012.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "14": {
+        "title": [
+          "WHITE TOWER ROCKS",
+          "WHITE TOWER ROCKS"
+        ],
+        "date_release": [
+          "August 1, 2006",
+          "September 3, 2004"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0612-2",
+          "4-08-873649-4"
+        ],
+        "chapters": {
+          "116": [
+            "White Tower Rocks",
+            "White Tower Rocks"
+          ],
+          "117": [
+            "Remnant 2[Deny the Shadow]",
+            "Remnant 2[Deny the Shadow]"
+          ],
+          "118": [
+            "The Supernal Tag",
+            "The Supernal Tag"
+          ],
+          "119": [
+            "Secret of the Moon",
+            "Secret of the Moon"
+          ],
+          "120": [
+            "Shake Hands With Grenades",
+            "Shake Hands With Grenades"
+          ],
+          "121": [
+            "In Sane We Trust",
+            "In Sane We Trust"
+          ],
+          "122": [
+            "Don't Lose Your Grip On",
+            "Don't Lose Your Grip On"
+          ],
+          "123": [
+            "Pledge My Pride To",
+            "Pledge My Pride To"
+          ]
+        },
+        "cover_characters": [
+          "Hanatarō Yamada",
+          "Hanatarō Yamada"
+        ],
+        "img": "images/bleach/vol_013.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "15": {
+        "title": [
+          "BEGINNING OF THE DEATH OF TOMORROW",
+          "BEGINNING OF THE DEATH OF TOMORROW"
+        ],
+        "date_release": [
+          "October 3, 2006",
+          "December 3, 2004"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0613-0",
+          "978-4-08-873682-6"
+        ],
+        "chapters": {
+          "124": [
+            "Crying Little People",
+            "Crying Little People"
+          ],
+          "125": [
+            "Insanity & Genius",
+            "Insanity & Genius"
+          ],
+          "126": [
+            "The Last of a Void War",
+            "The Last of a Void War"
+          ],
+          "127": [
+            "Beginning of the Death of Tomorrow",
+            "Beginning of the Death of Tomorrow"
+          ],
+          "128": [
+            "The Great Joint Struggle Union",
+            "The Great Joint Struggle Union"
+          ],
+          "129": [
+            "Suspicion [for Assassination]",
+            "Suspicion [for Assassination]"
+          ],
+          "130": [
+            "Suspicion2 [of Tears]",
+            "Suspicion2 [of Tears]"
+          ]
+        },
+        "cover_characters": [
+          "Izuru Kira",
+          "Izuru Kira"
+        ],
+        "img": "images/bleach/vol_014.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "16": {
+        "title": [
+          "NIGHT OF WIJNRUIT",
+          "NIGHT OF WIJNRUIT"
+        ],
+        "date_release": [
+          "December 5, 2006",
+          "March 4, 2005"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-0614-9",
+          "978-4-08-873777-6"
+        ],
+        "chapters": {
+          "131": [
+            "The True Will",
+            "The True Will"
+          ],
+          "132": [
+            "Creeping Limit",
+            "Creeping Limit"
+          ],
+          "133": [
+            "memories in the rain2 \"the nocturne\"",
+            "memories in the rain2 \"the nocturne\""
+          ],
+          "134": [
+            "memories in the rain2 op.2 \"Longing For Sanctuary\"",
+            "memories in the rain2 op.2 \"Longing For Sanctuary\""
+          ],
+          "135": [
+            "memories in the rain2 op.3 \"Affected By the Night\"",
+            "memories in the rain2 op.3 \"Affected By the Night\""
+          ],
+          "136": [
+            "memories in the rain2 op.4 \"night of wijnruit\"",
+            "memories in the rain2 op.4 \"night of wijnruit\""
+          ],
+          "137": [
+            "Surrounding Clutch",
+            "Surrounding Clutch"
+          ],
+          "138": [
+            "Individual Thoughts",
+            "Individual Thoughts"
+          ],
+          "139": [
+            "Drowsy, Bloody, Crazy",
+            "Drowsy, Bloody, Crazy"
+          ]
+        },
+        "cover_characters": [
+          "Tōshirō Hitsugaya",
+          "Tōshirō Hitsugaya"
+        ],
+        "img": "images/bleach/vol_015.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "17": {
+        "title": [
+          "ROSA RUBICUNDIOR, LILIO CANDIDIOR",
+          "ROSA RUBICUNDIOR, LILIO CANDIDIOR"
+        ],
+        "date_release": [
+          "February 6, 2007",
+          "June 3, 2005"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-1041-3",
+          "978-4-08-873817-9"
+        ],
+        "chapters": {
+          "140": [
+            "Bite at the Moon",
+            "Bite at the Moon"
+          ],
+          "141": [
+            "Kneel to The Baboon King",
+            "Kneel to The Baboon King"
+          ],
+          "142": [
+            "月を捉ものへ告ぐ",
+            "月を捉ものへ告ぐ"
+          ],
+          "143": [
+            "Blazing Souls",
+            "Blazing Souls"
+          ],
+          "144": [
+            "Rosa Rubicundior,Lilio Candidior",
+            "Rosa Rubicundior,Lilio Candidior"
+          ],
+          "145": [
+            "Shaken",
+            "Shaken"
+          ],
+          "146": [
+            "Demon Loves the Dark",
+            "Demon Loves the Dark"
+          ],
+          "147": [
+            "Countdown to The End : 3 [Blind Light, Deaf Beat]",
+            "Countdown to The End : 3 [Blind Light, Deaf Beat]"
+          ],
+          "148": [
+            "Countdown to The End : 2 [Lady Lennon~Frankenstein]",
+            "Countdown to The End : 2 [Lady Lennon~Frankenstein]"
+          ],
+          "149": [
+            "Countdown to The End : 1 [Only Mercifully]",
+            "Countdown to The End : 1 [Only Mercifully]"
+          ]
+        },
+        "cover_characters": [
+          "Yoruichi Shihōin",
+          "Yoruichi Shihōin"
+        ],
+        "img": "images/bleach/vol_016.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "18": {
+        "title": [
+          "THE DEATHBERRY RETURNS",
+          "THE DEATHBERRY RETURNS"
+        ],
+        "date_release": [
+          "April 3, 2007",
+          "August 4, 2005"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-1042-1",
+          "978-4-08-873841-1"
+        ],
+        "chapters": {
+          "150": [
+            "Countdown to The End:0",
+            "Countdown to The End:0"
+          ],
+          "151": [
+            "Deathberry Returns",
+            "Deathberry Returns"
+          ],
+          "152": [
+            "The Speed Phantom",
+            "The Speed Phantom"
+          ],
+          "153": [
+            "Empty Dialogue",
+            "Empty Dialogue"
+          ],
+          "154": [
+            "The God of Flash",
+            "The God of Flash"
+          ],
+          "155": [
+            "Redoundable deeds/Redoubtable babies",
+            "Redoundable deeds/Redoubtable babies"
+          ],
+          "156": [
+            "Welcome to Purgatory",
+            "Welcome to Purgatory"
+          ],
+          "157": [
+            "Cat And Hornet",
+            "Cat And Hornet"
+          ],
+          "158": [
+            "Sky Leopardess",
+            "Sky Leopardess"
+          ]
+        },
+        "cover_characters": [
+          "Suì-Fēng",
+          "Suì-Fēng"
+        ],
+        "img": "images/bleach/vol_017.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "19": {
+        "title": [
+          "THE BLACK MOON RISING",
+          "THE BLACK MOON RISING"
+        ],
+        "date_release": [
+          "June 5, 2007",
+          "October 4, 2005"
+        ],
+        "pages": [
+          "206",
+          "206"
+        ],
+        "ISBN": [
+          "1-4215-1043-X",
+          "978-4-08-873862-4"
+        ],
+        "chapters": {
+          "159": [
+            "LONG WAY TO SAY GOODBYE",
+            "LONG WAY TO SAY GOODBYE"
+          ],
+          "160": [
+            "Battle On Guillotine Hill",
+            "Battle On Guillotine Hill"
+          ],
+          "161": [
+            "Scratch the Sky",
+            "Scratch the Sky"
+          ],
+          "162": [
+            "Black Moon Rising",
+            "Black Moon Rising"
+          ],
+          "163": [
+            "THE Speed Phantom 2 [Denial by Pride, Contradiction by Power]",
+            "THE Speed Phantom 2 [Denial by Pride, Contradiction by Power]"
+          ],
+          "164": [
+            "That Who Changed the World",
+            "That Who Changed the World"
+          ],
+          "165": [
+            "The Dark Side of Universe 2",
+            "The Dark Side of Universe 2"
+          ],
+          "166": [
+            "Black & White 2",
+            "Black & White 2"
+          ],
+          "167": [
+            "The Burial Chamber",
+            "The Burial Chamber"
+          ],
+          "168": [
+            "Behind Me,Behind You",
+            "Behind Me,Behind You"
+          ]
+        },
+        "cover_characters": [
+          "Ichigo Kurosaki(Bankai)",
+          "Ichigo Kurosaki(Bankai)"
+        ],
+        "img": "images/bleach/vol_018.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "20": {
+        "title": [
+          "end of hypnosis",
+          "end of hypnosis"
+        ],
+        "date_release": [
+          "August 7, 2007",
+          "December 2, 2005"
+        ],
+        "pages": [
+          "224",
+          "224"
+        ],
+        "ISBN": [
+          "1-4215-1044-8",
+          "978-4-08-873883-7"
+        ],
+        "chapters": {
+          "169": [
+            "end of hypnosis",
+            "end of hypnosis"
+          ],
+          "170": [
+            "end of hypnosis2 [the Galvanizer]",
+            "end of hypnosis2 [the Galvanizer]"
+          ],
+          "171": [
+            "end of hypnosis3 [the Blue Fog]",
+            "end of hypnosis3 [the Blue Fog]"
+          ],
+          "172": [
+            "end of hypnosis4 [Prisoners in Paradise]",
+            "end of hypnosis4 [Prisoners in Paradise]"
+          ],
+          "173": [
+            "end of hypnosis5 [Standing to Defend You]",
+            "end of hypnosis5 [Standing to Defend You]"
+          ],
+          "174": [
+            "end of hypnosis6 [The United Front]",
+            "end of hypnosis6 [The United Front]"
+          ],
+          "175": [
+            "end of hypnosis7 [Truth Under My Strings]",
+            "end of hypnosis7 [Truth Under My Strings]"
+          ],
+          "176": [
+            "end of hypnosis8 [the Transfixion]",
+            "end of hypnosis8 [the Transfixion]"
+          ],
+          "177": [
+            "end of hypnosis9 [Completely Encompass]",
+            "end of hypnosis9 [Completely Encompass]"
+          ],
+          "178": [
+            "end of hypnosis10 (No One Stand On the Sky)",
+            "end of hypnosis10 (No One Stand On the Sky)"
+          ]
+        },
+        "cover_characters": [
+          "Gin Ichimaru (Captain)",
+          "Gin Ichimaru (Captain)"
+        ],
+        "img": "images/bleach/vol_019.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "21": {
+        "title": [
+          "BE MY FAMILY OR NOT",
+          "BE MY FAMILY OR NOT"
+        ],
+        "date_release": [
+          "October 2, 2007",
+          "March 3, 2006"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-4215-1165-7",
+          "978-4-08-874027-0"
+        ],
+        "chapters": {
+          "179": [
+            "Confession in the Twilight",
+            "Confession in the Twilight"
+          ],
+          "180": [
+            "Something in The Aftermath",
+            "Something in The Aftermath"
+          ],
+          "181": [
+            "AND THE RAIN LEFT OFF",
+            "AND THE RAIN LEFT OFF"
+          ],
+          "182": [
+            "GET BACK FROM THE STORM [TRIGGER FOR A NEW CONCERTO]",
+            "GET BACK FROM THE STORM [TRIGGER FOR A NEW CONCERTO]"
+          ],
+          "183": [
+            "eyes of the unknown",
+            "eyes of the unknown"
+          ],
+          "184": [
+            "HUSH",
+            "HUSH"
+          ],
+          "185": [
+            "BE MY FAMILY OR NOT",
+            "BE MY FAMILY OR NOT"
+          ],
+          "186": [
+            "Tell Your Children The Truth",
+            "Tell Your Children The Truth"
+          ],
+          "187": [
+            "THE CIGAR BLUES PART TWO",
+            "THE CIGAR BLUES PART TWO"
+          ]
+        },
+        "cover_characters": [
+          "Shinji Hirako(School uniform)",
+          "Shinji Hirako(School uniform)"
+        ],
+        "img": "images/bleach/vol_020.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "22": {
+        "title": [
+          "CONQUISTADORES",
+          "CONQUISTADORES"
+        ],
+        "date_release": [
+          "February 5, 2008",
+          "May 2, 2006"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "1-4215-1179-7",
+          "978-4-08-874049-1"
+        ],
+        "chapters": {
+          "188": [
+            "CRUSH THE WORLD DOWN",
+            "CRUSH THE WORLD DOWN"
+          ],
+          "189": [
+            "RESOLVE",
+            "RESOLVE"
+          ],
+          "190": [
+            "Conquistadores",
+            "Conquistadores"
+          ],
+          "191": [
+            "Conquistadores 2 “Screaming Symphony”",
+            "Conquistadores 2 “Screaming Symphony”"
+          ],
+          "192": [
+            "Conquistadores 3 [Hounded Priestess]",
+            "Conquistadores 3 [Hounded Priestess]"
+          ],
+          "193": [
+            "Conquistadores 4 [Ebony&Ivory]",
+            "Conquistadores 4 [Ebony&Ivory]"
+          ],
+          "194": [
+            "Conquistadores 5 [La Basura]",
+            "Conquistadores 5 [La Basura]"
+          ],
+          "195": [
+            "Death & Strawberry(Reprise)",
+            "Death & Strawberry(Reprise)"
+          ],
+          "196": [
+            "PUNCH DOWN THE STONE CIRCLE",
+            "PUNCH DOWN THE STONE CIRCLE"
+          ],
+          "197": [
+            "The Approaching Danger",
+            "The Approaching Danger"
+          ]
+        },
+        "cover_characters": [
+          "Ulquiorra Cifer(unreleased)",
+          "Ulquiorra Cifer(unreleased)"
+        ],
+        "img": "images/bleach/vol_021.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "23": {
+        "title": [
+          "MALA SUERTE!",
+          "MALA SUERTE!"
+        ],
+        "date_release": [
+          "June 3, 2008",
+          "August 4, 2006"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "1-4215-1541-5",
+          "978-4-08-874140-4"
+        ],
+        "chapters": {
+          "0": [
+            "side-B the rotator",
+            "side-B the rotator"
+          ],
+          "198": [
+            "The Icecold Discord",
+            "The Icecold Discord"
+          ],
+          "199": [
+            "Ugly",
+            "Ugly"
+          ],
+          "200": [
+            "Night of Sledgehammer",
+            "Night of Sledgehammer"
+          ],
+          "201": [
+            "Wind & Snowbound",
+            "Wind & Snowbound"
+          ],
+          "202": [
+            "Mala Suerte!",
+            "Mala Suerte!"
+          ],
+          "203": [
+            "Mala Suerte!2 \"El Monstruo\"",
+            "Mala Suerte!2 \"El Monstruo\""
+          ],
+          "204": [
+            "Mala Suerte!3 \"Monstruo Sangriento\"",
+            "Mala Suerte!3 \"Monstruo Sangriento\""
+          ],
+          "205": [
+            "Mala Suerte!4 [Monstruo Monstruoso]",
+            "Mala Suerte!4 [Monstruo Monstruoso]"
+          ]
+        },
+        "cover_characters": [
+          "Ikkaku Madarame(Shikai)",
+          "Ikkaku Madarame(Shikai)"
+        ],
+        "img": "images/bleach/vol_022.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "24": {
+        "title": [
+          "IMMANENT GOD BLUES",
+          "IMMANENT GOD BLUES"
+        ],
+        "date_release": [
+          "September 2, 2008",
+          "October 4, 2006"
+        ],
+        "pages": [
+          "195",
+          "195"
+        ],
+        "ISBN": [
+          "1-4215-1541-5",
+          "978-4-08-874262-1"
+        ],
+        "chapters": {
+          "206": [
+            "Mala Suerte!5 [LUCKY]",
+            "Mala Suerte!5 [LUCKY]"
+          ],
+          "207": [
+            "Mode:Genocide",
+            "Mode:Genocide"
+          ],
+          "208": [
+            "The Scissors",
+            "The Scissors"
+          ],
+          "209": [
+            "Lift the Limit",
+            "Lift the Limit"
+          ],
+          "210": [
+            "Turn the True Power On",
+            "Turn the True Power On"
+          ],
+          "211": [
+            "Stroke of Sanity",
+            "Stroke of Sanity"
+          ],
+          "212": [
+            "You Don't Hear My Name Anymore",
+            "You Don't Hear My Name Anymore"
+          ],
+          "213": [
+            "Trifle",
+            "Trifle"
+          ],
+          "214": [
+            "Immanent God Blues",
+            "Immanent God Blues"
+          ]
+        },
+        "cover_characters": [
+          "Grimmjow Jaegerjaquez(unreleased)",
+          "Grimmjow Jaegerjaquez(unreleased)"
+        ],
+        "img": "images/bleach/vol_023.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "25": {
+        "title": [
+          "NO SHAKING THRONE",
+          "NO SHAKING THRONE"
+        ],
+        "date_release": [
+          "December 2, 2008",
+          "December 4, 2006"
+        ],
+        "pages": [
+          "210",
+          "210"
+        ],
+        "ISBN": [
+          "1-4215-1796-5",
+          "978-4-08-874289-3"
+        ],
+        "chapters": {
+          "215": [
+            "Tug Your God Out",
+            "Tug Your God Out"
+          ],
+          "216": [
+            "The Suppression of Darkness",
+            "The Suppression of Darkness"
+          ],
+          "217": [
+            "Hole In My Heart",
+            "Hole In My Heart"
+          ],
+          "218": [
+            "Dark Side of Universe 3",
+            "Dark Side of Universe 3"
+          ],
+          "219": [
+            "Black & White 3",
+            "Black & White 3"
+          ],
+          "220": [
+            "King & His Horse",
+            "King & His Horse"
+          ],
+          "221": [
+            "Let Eat The World's End",
+            "Let Eat The World's End"
+          ],
+          "222": [
+            "NO SHAKING THRONE",
+            "NO SHAKING THRONE"
+          ],
+          "223": [
+            "The Scarlet Creation",
+            "The Scarlet Creation"
+          ]
+        },
+        "cover_characters": [
+          "Zangetsu (Zanpakutō spirit)",
+          "Zangetsu (Zanpakutō spirit)"
+        ],
+        "img": "images/bleach/vol_024.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "26": {
+        "title": [
+          "THE MASCARON DRIVE",
+          "THE MASCARON DRIVE"
+        ],
+        "date_release": [
+          "March 3, 2009",
+          "February 2, 2007"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "1-4215-2384-1",
+          "978-4-08-874315-8"
+        ],
+        "chapters": {
+          "224": [
+            "Imitated Gaiety",
+            "Imitated Gaiety"
+          ],
+          "225": [
+            "Slip Into My Barrier",
+            "Slip Into My Barrier"
+          ],
+          "226": [
+            "The Right of The Heart",
+            "The Right of The Heart"
+          ],
+          "227": [
+            "The Swordless Soldier",
+            "The Swordless Soldier"
+          ],
+          "228": [
+            "Don't Look Back",
+            "Don't Look Back"
+          ],
+          "229": [
+            "The Howling Tempest",
+            "The Howling Tempest"
+          ],
+          "230": [
+            "Dead White Invasion",
+            "Dead White Invasion"
+          ],
+          "231": [
+            "The Mascaron Drive",
+            "The Mascaron Drive"
+          ],
+          "232": [
+            "The Mascaron Drive 2",
+            "The Mascaron Drive 2"
+          ],
+          "233": [
+            "El Violador",
+            "El Violador"
+          ]
+        },
+        "cover_characters": [
+          "Luppi Antenor",
+          "Luppi Antenor"
+        ],
+        "img": "images/bleach/vol_025.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "27": {
+        "title": [
+          "goodbye, halcyon days.",
+          "goodbye, halcyon days."
+        ],
+        "date_release": [
+          "June 2, 2009",
+          "April 4, 2007"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-4215-2385-9",
+          "978-4-08-874339-4"
+        ],
+        "chapters": {
+          "234": [
+            "Not Negotiation",
+            "Not Negotiation"
+          ],
+          "235": [
+            "The Frozen Clutch",
+            "The Frozen Clutch"
+          ],
+          "236": [
+            "The Sun Already Gone Down",
+            "The Sun Already Gone Down"
+          ],
+          "237": [
+            "good bye, halcyon days.",
+            "good bye, halcyon days."
+          ],
+          "238": [
+            "Eagle Without Wings",
+            "Eagle Without Wings"
+          ],
+          "239": [
+            "WINGED EAGLES",
+            "WINGED EAGLES"
+          ],
+          "240": [
+            "regeneration.",
+            "regeneration."
+          ],
+          "241": [
+            "Silverflame.",
+            "Silverflame."
+          ],
+          "242": [
+            "TWO MEN ARE BURNING",
+            "TWO MEN ARE BURNING"
+          ]
+        },
+        "cover_characters": [
+          "Orihime Inoue(school uniform)",
+          "Orihime Inoue(school uniform)"
+        ],
+        "img": "images/bleach/vol_026.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "28": {
+        "title": [
+          "BARON'S LECTURE FULL-COURSE",
+          "BARON'S LECTURE FULL-COURSE"
+        ],
+        "date_release": [
+          "September 1, 2009",
+          "June 4, 2007"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-4215-2386-8",
+          "978-4-08-874365-3"
+        ],
+        "chapters": {
+          "243": [
+            "The Knuckle & The Arrow",
+            "The Knuckle & The Arrow"
+          ],
+          "244": [
+            "Born From The Fear",
+            "Born From The Fear"
+          ],
+          "245": [
+            "THE WAY WITHOUT ENEMIES",
+            "THE WAY WITHOUT ENEMIES"
+          ],
+          "246": [
+            "The Great Desert Bros.",
+            "The Great Desert Bros."
+          ],
+          "247": [
+            "United On The Desert",
+            "United On The Desert"
+          ],
+          "248": [
+            "再び生きて　この場所へ",
+            "再び生きて　この場所へ"
+          ],
+          "249": [
+            "Back to the Innocence",
+            "Back to the Innocence"
+          ],
+          "250": [
+            "Five Ways To Three Figures",
+            "Five Ways To Three Figures"
+          ],
+          "251": [
+            "Baron's Lecture 1st Period",
+            "Baron's Lecture 1st Period"
+          ]
+        },
+        "cover_characters": [
+          "Dordoni Alessandro Del Socaccio",
+          "Dordoni Alessandro Del Socaccio"
+        ],
+        "img": "images/bleach/vol_027.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "29": {
+        "title": [
+          "THE SLASHING OPERA",
+          "THE SLASHING OPERA"
+        ],
+        "date_release": [
+          "December 1, 2009",
+          "August 3, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "1-4215-2387-6",
+          "978-4-08-874398-1"
+        ],
+        "chapters": {
+          "252": [
+            "REBUT TO THE BARON'S LECTURE",
+            "REBUT TO THE BARON'S LECTURE"
+          ],
+          "253": [
+            "Don't Call Me Niño",
+            "Don't Call Me Niño"
+          ],
+          "254": [
+            "Deja Chocolate Aquí",
+            "Deja Chocolate Aquí"
+          ],
+          "255": [
+            "DON'T BREATHE IN THE BUSH",
+            "DON'T BREATHE IN THE BUSH"
+          ],
+          "256": [
+            "Infinite Slick",
+            "Infinite Slick"
+          ],
+          "257": [
+            "The Slashing Opera",
+            "The Slashing Opera"
+          ],
+          "258": [
+            "Seeleschneider",
+            "Seeleschneider"
+          ],
+          "259": [
+            "Flicker Flames",
+            "Flicker Flames"
+          ],
+          "260": [
+            "RIGHTARM OF THE GIANT2",
+            "RIGHTARM OF THE GIANT2"
+          ]
+        },
+        "cover_characters": [
+          "Cirucci Sanderwicci",
+          "Cirucci Sanderwicci"
+        ],
+        "img": "images/bleach/vol_028.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "30": {
+        "title": [
+          "THERE IS NO HEART WITHOUT YOU",
+          "THERE IS NO HEART WITHOUT YOU"
+        ],
+        "date_release": [
+          "March 2, 2010",
+          "October 4, 2007"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "1-4215-2388-4",
+          "978-4-08-874423-0"
+        ],
+        "chapters": {
+          "261": [
+            "LEFTARM OF THE DEVIL",
+            "LEFTARM OF THE DEVIL"
+          ],
+          "262": [
+            "Unblendable",
+            "Unblendable"
+          ],
+          "263": [
+            "Unexpected",
+            "Unexpected"
+          ],
+          "264": [
+            "Don't Say That Name Again",
+            "Don't Say That Name Again"
+          ],
+          "265": [
+            "Bang The Bore",
+            "Bang The Bore"
+          ],
+          "266": [
+            "Hide Away From The Sun",
+            "Hide Away From The Sun"
+          ],
+          "267": [
+            "Legions of the Reglets",
+            "Legions of the Reglets"
+          ],
+          "268": [
+            "君 死にたもうこと勿れ",
+            "君 死にたもうこと勿れ"
+          ],
+          "269": [
+            "The End is Near",
+            "The End is Near"
+          ]
+        },
+        "cover_characters": [
+          "Kaien Shiba(Shikai)",
+          "Kaien Shiba(Shikai)"
+        ],
+        "img": "images/bleach/vol_029.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "31": {
+        "title": [
+          "DON'T KILL MY VOLUPTURE",
+          "DON'T KILL MY VOLUPTURE"
+        ],
+        "date_release": [
+          "June 1, 2010",
+          "December 4, 2007"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "1-4215-2809-6",
+          "978-4-08-874444-5"
+        ],
+        "chapters": {
+          "270": [
+            "WARning",
+            "WARning"
+          ],
+          "271": [
+            "If You Rise From The Ashes",
+            "If You Rise From The Ashes"
+          ],
+          "272": [
+            "Don't Kill My Volupture",
+            "Don't Kill My Volupture"
+          ],
+          "273": [
+            "DOG eat DOG",
+            "DOG eat DOG"
+          ],
+          "274": [
+            "The Monster",
+            "The Monster"
+          ],
+          "275": [
+            "United Front 2[Red&White]",
+            "United Front 2[Red&White]"
+          ],
+          "276": [
+            "Blockin' Beast",
+            "Blockin' Beast"
+          ],
+          "277": [
+            "Corrosion of Conformity",
+            "Corrosion of Conformity"
+          ],
+          "278": [
+            "Heal for The Crash",
+            "Heal for The Crash"
+          ]
+        },
+        "cover_characters": [
+          "Szayelaporro Granz",
+          "Szayelaporro Granz"
+        ],
+        "img": "images/bleach/vol_030.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "32": {
+        "title": [
+          "HOWLING",
+          "HOWLING"
+        ],
+        "date_release": [
+          "September 1, 2010",
+          "February 4, 2008"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "1-4215-2810-X",
+          "978-4-08-874473-5"
+        ],
+        "chapters": {
+          "279": [
+            "Jugulators",
+            "Jugulators"
+          ],
+          "280": [
+            "Jugulators2",
+            "Jugulators2"
+          ],
+          "281": [
+            "THE VULGARIAN NOISE",
+            "THE VULGARIAN NOISE"
+          ],
+          "282": [
+            "THE PRIMAL FEAR",
+            "THE PRIMAL FEAR"
+          ],
+          "283": [
+            "You don't hurt anymore",
+            "You don't hurt anymore"
+          ],
+          "284": [
+            "Historia de Pantera y su Sombras",
+            "Historia de Pantera y su Sombras"
+          ],
+          "285": [
+            "肉喰みて、ひとりー王の孤独",
+            "肉喰みて、ひとりー王の孤独"
+          ],
+          "286": [
+            "Guillotine You Standing",
+            "Guillotine You Standing"
+          ]
+        },
+        "cover_characters": [
+          "Grimmjow Jaegerjaquez(Resurrección)",
+          "Grimmjow Jaegerjaquez(Resurrección)"
+        ],
+        "img": "images/bleach/vol_031.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "33": {
+        "title": [
+          "THE BAD JOKE",
+          "THE BAD JOKE"
+        ],
+        "date_release": [
+          "December 7, 2010",
+          "April 4, 2008"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "1-4215-2811-8",
+          "978-4-08-874494-0"
+        ],
+        "chapters": {
+          "287": [
+            "Don't Forget Till You Die",
+            "Don't Forget Till You Die"
+          ],
+          "288": [
+            "THE BAD JOKE",
+            "THE BAD JOKE"
+          ],
+          "289": [
+            "The Scarmask",
+            "The Scarmask"
+          ],
+          "290": [
+            "Unleash The Beast",
+            "Unleash The Beast"
+          ],
+          "291": [
+            "Thank You For Defend Me",
+            "Thank You For Defend Me"
+          ],
+          "292": [
+            "Rupture My Replica",
+            "Rupture My Replica"
+          ],
+          "293": [
+            "urge for unite",
+            "urge for unite"
+          ],
+          "294": [
+            "IF YOU CALL ME BEAST, KILL YOU LIKE TEMPEST",
+            "IF YOU CALL ME BEAST, KILL YOU LIKE TEMPEST"
+          ],
+          "295": [
+            "The Last Mission",
+            "The Last Mission"
+          ]
+        },
+        "cover_characters": [
+          "Nnoitra Gilga",
+          "Nnoitra Gilga"
+        ],
+        "img": "images/bleach/vol_032.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "34": {
+        "title": [
+          "KING OF THE KILL",
+          "KING OF THE KILL"
+        ],
+        "date_release": [
+          "March 1, 2011",
+          "July 4, 2008"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "1-4215-2812-6",
+          "978-4-08-874541-1"
+        ],
+        "chapters": {
+          "296": [
+            "Changed Again And Again",
+            "Changed Again And Again"
+          ],
+          "297": [
+            "King of The Kill",
+            "King of The Kill"
+          ],
+          "298": [
+            "INTRUDERZ3",
+            "INTRUDERZ3"
+          ],
+          "299": [
+            "The Verbal Warfare",
+            "The Verbal Warfare"
+          ],
+          "300": [
+            "Curse Named Love",
+            "Curse Named Love"
+          ],
+          "301": [
+            "Nothing Like Equal",
+            "Nothing Like Equal"
+          ],
+          "302": [
+            "Pride on the Blade",
+            "Pride on the Blade"
+          ],
+          "303": [
+            "Dumdum-Dummy-Dumbstruck",
+            "Dumdum-Dummy-Dumbstruck"
+          ],
+          "304": [
+            "Battle of Barbarians",
+            "Battle of Barbarians"
+          ],
+          "305": [
+            "The Rising Phoenix",
+            "The Rising Phoenix"
+          ]
+        },
+        "cover_characters": [
+          "Nelliel Tu Odelschwanck",
+          "Nelliel Tu Odelschwanck"
+        ],
+        "img": "images/bleach/vol_033.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "35": {
+        "title": [
+          "HIGHER THAN THE MOON",
+          "HIGHER THAN THE MOON"
+        ],
+        "date_release": [
+          "June 7, 2011",
+          "October 3, 2008"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-3312-4",
+          "978-4-08-874575-6"
+        ],
+        "chapters": {
+          "306": [
+            "Not Perfect is GOoD",
+            "Not Perfect is GOoD"
+          ],
+          "307": [
+            "Bite it, Slash it",
+            "Bite it, Slash it"
+          ],
+          "308": [
+            "SATAN FROM ORBIT",
+            "SATAN FROM ORBIT"
+          ],
+          "309": [
+            "Pray for the Mantis",
+            "Pray for the Mantis"
+          ],
+          "310": [
+            "FOUR ARMS TO KILLING YOU",
+            "FOUR ARMS TO KILLING YOU"
+          ],
+          "311": [
+            "The Undead 4",
+            "The Undead 4"
+          ],
+          "312": [
+            "Higher Than The Moon",
+            "Higher Than The Moon"
+          ],
+          "313": [
+            "TO CLOSE YOUR WORLD",
+            "TO CLOSE YOUR WORLD"
+          ],
+          "314": [
+            "Night Side of Abduction",
+            "Night Side of Abduction"
+          ],
+          "315": [
+            "MARCH OF THE DEATH",
+            "MARCH OF THE DEATH"
+          ]
+        },
+        "cover_characters": [
+          "Mayuri Kurotsuchi",
+          "Mayuri Kurotsuchi"
+        ],
+        "img": "images/bleach/vol_034.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "36": {
+        "title": [
+          "TURN BACK THE PENDULUM",
+          "TURN BACK THE PENDULUM"
+        ],
+        "date_release": [
+          "September 6, 2011",
+          "December 4, 2008"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-3313-1",
+          "978-4-08-874603-6"
+        ],
+        "chapters": {},
+        "cover_characters": [
+          "Shinji Hirako(Shinigami)",
+          "Shinji Hirako(Shinigami)"
+        ],
+        "img": "images/bleach/vol_035.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "37": {
+        "title": [
+          "BEAUTY IS SO SOLITARY",
+          "BEAUTY IS SO SOLITARY"
+        ],
+        "date_release": [
+          "December 6, 2011",
+          "February 4, 2009"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-3314-8",
+          "978-4-08-874628-9"
+        ],
+        "chapters": {
+          "316": [
+            "Swang the Edge Down",
+            "Swang the Edge Down"
+          ],
+          "317": [
+            "Six Hearts Will Beat As One",
+            "Six Hearts Will Beat As One"
+          ],
+          "318": [
+            "Five Towers/Four Pillars",
+            "Five Towers/Four Pillars"
+          ],
+          "319": [
+            "Ants And Dragons",
+            "Ants And Dragons"
+          ],
+          "320": [
+            "Beauty is So Solitary",
+            "Beauty is So Solitary"
+          ],
+          "321": [
+            "Black Briers and Brambles",
+            "Black Briers and Brambles"
+          ],
+          "322": [
+            "Oath Under The Rose",
+            "Oath Under The Rose"
+          ]
+        },
+        "cover_characters": [
+          "Yumichika Ayasegawa",
+          "Yumichika Ayasegawa"
+        ],
+        "img": "images/bleach/vol_036.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "38": {
+        "title": [
+          "FEAR FOR FIGHT",
+          "FEAR FOR FIGHT"
+        ],
+        "date_release": [
+          "February 7, 2012",
+          "April 3, 2009"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-3597-5",
+          "978-4-08-874649-4"
+        ],
+        "chapters": {
+          "323": [
+            "Gloomy, Ghastly and Full of Despair",
+            "Gloomy, Ghastly and Full of Despair"
+          ],
+          "324": [
+            "The Reaper",
+            "The Reaper"
+          ],
+          "325": [
+            "Fear For Fight",
+            "Fear For Fight"
+          ],
+          "326": [
+            "Knockdown Monster",
+            "Knockdown Monster"
+          ],
+          "327": [
+            "Knockdown Monsters",
+            "Knockdown Monsters"
+          ],
+          "328": [
+            "The Knuckle Debate",
+            "The Knuckle Debate"
+          ],
+          "329": [
+            "RAGING RAMPAGE",
+            "RAGING RAMPAGE"
+          ],
+          "330": [
+            "CROSSING SWORDS",
+            "CROSSING SWORDS"
+          ],
+          "331": [
+            "Don't Believe The Hide",
+            "Don't Believe The Hide"
+          ]
+        },
+        "cover_characters": [
+          "Shūhei Hisagi(Shikai)",
+          "Shūhei Hisagi(Shikai)"
+        ],
+        "img": "images/bleach/vol_037.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "39": {
+        "title": [
+          "EL VERDUGO",
+          "EL VERDUGO"
+        ],
+        "date_release": [
+          "April 3, 2012",
+          "June 4, 2009"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-3598-2",
+          "978-4-08-874674-6"
+        ],
+        "chapters": {
+          "332": [
+            "Stingy Stinger",
+            "Stingy Stinger"
+          ],
+          "333": [
+            "Ash & Salamander",
+            "Ash & Salamander"
+          ],
+          "334": [
+            "Dregs of Hypnosis",
+            "Dregs of Hypnosis"
+          ],
+          "335": [
+            "chimaera chord",
+            "chimaera chord"
+          ],
+          "336": [
+            "El Verdugo",
+            "El Verdugo"
+          ],
+          "337": [
+            "Hall In Your Inferno",
+            "Hall In Your Inferno"
+          ],
+          "338": [
+            "Fall Into My Inferno",
+            "Fall Into My Inferno"
+          ],
+          "339": [
+            "The Deathbringer Numbers",
+            "The Deathbringer Numbers"
+          ],
+          "340": [
+            "The Antagonizer",
+            "The Antagonizer"
+          ]
+        },
+        "cover_characters": [
+          "Ayon",
+          "Ayon"
+        ],
+        "img": "images/bleach/vol_038.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "40": {
+        "title": [
+          "THE LUST",
+          "THE LUST"
+        ],
+        "date_release": [
+          "June 5, 2012",
+          "August 4, 2009"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4137-2",
+          "978-4-08-874712-5"
+        ],
+        "chapters": {
+          "341": [
+            "The Envy",
+            "The Envy"
+          ],
+          "342": [
+            "The Greed",
+            "The Greed"
+          ],
+          "343": [
+            "The Gluttony",
+            "The Gluttony"
+          ],
+          "344": [
+            "The Pride",
+            "The Pride"
+          ],
+          "345": [
+            "The Sloth",
+            "The Sloth"
+          ],
+          "346": [
+            "The Wrath",
+            "The Wrath"
+          ],
+          "347": [
+            "The Lust",
+            "The Lust"
+          ],
+          "348": [
+            "The Lust 2",
+            "The Lust 2"
+          ],
+          "349": [
+            "The Lust 3",
+            "The Lust 3"
+          ]
+        },
+        "cover_characters": [
+          "Ulquiorra Cifer(Resurrección)",
+          "Ulquiorra Cifer(Resurrección)"
+        ],
+        "img": "images/bleach/vol_039.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "41": {
+        "title": [
+          "HEART",
+          "HEART"
+        ],
+        "date_release": [
+          "June 5th, 2012 ",
+          "October 2, 2009"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4138-9",
+          "978-4-08-874734-7"
+        ],
+        "chapters": {
+          "350": [
+            "The Lust4",
+            "The Lust4"
+          ],
+          "351": [
+            "The Lust5",
+            "The Lust5"
+          ],
+          "352": [
+            "The Lust6",
+            "The Lust6"
+          ],
+          "353": [
+            "The Ash",
+            "The Ash"
+          ],
+          "354": [
+            "heart",
+            "heart"
+          ],
+          "355": [
+            "Azul-Blood Splash",
+            "Azul-Blood Splash"
+          ],
+          "356": [
+            "Tyrant of Skulls",
+            "Tyrant of Skulls"
+          ],
+          "357": [
+            "The Colossus of Fear",
+            "The Colossus of Fear"
+          ],
+          "358": [
+            "King of the Clouds",
+            "King of the Clouds"
+          ]
+        },
+        "cover_characters": [
+          "Yammy Llargo",
+          "Yammy Llargo"
+        ],
+        "img": "images/bleach/vol_040.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "42": {
+        "title": [
+          "SHOCK OF THE QUEEN",
+          "SHOCK OF THE QUEEN"
+        ],
+        "date_release": [
+          "July 3rd, 2012",
+          "December 4, 2009"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4139-6",
+          "978-4-08-874762-0"
+        ],
+        "chapters": {
+          "359": [
+            "The Frozen Obelisk",
+            "The Frozen Obelisk"
+          ],
+          "360": [
+            "Shock of the Queen",
+            "Shock of the Queen"
+          ],
+          "361": [
+            "I Hate Loneliness, But It Loves Me",
+            "I Hate Loneliness, But It Loves Me"
+          ],
+          "362": [
+            "Howling Wolves",
+            "Howling Wolves"
+          ],
+          "363": [
+            "Superchunky from Hell",
+            "Superchunky from Hell"
+          ],
+          "364": [
+            "Grinning Revengers",
+            "Grinning Revengers"
+          ],
+          "365": [
+            "Whose Side Are We On",
+            "Whose Side Are We On"
+          ],
+          "366": [
+            "The Revenger's High",
+            "The Revenger's High"
+          ],
+          "367": [
+            "YOUR ENEMY IS MY ENEMY",
+            "YOUR ENEMY IS MY ENEMY"
+          ]
+        },
+        "cover_characters": [
+          "Tier Harribel(Resurrección)",
+          "Tier Harribel(Resurrección)"
+        ],
+        "img": "images/bleach/vol_041.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "43": {
+        "title": [
+          "KINGDOM OF HOLLOWS",
+          "KINGDOM OF HOLLOWS"
+        ],
+        "date_release": [
+          "July 3rd, 2012 ",
+          "February 4, 2010"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-4296-6",
+          "978-4-08-874794-1"
+        ],
+        "chapters": {
+          "368": [
+            "The Fearless Child",
+            "The Fearless Child"
+          ],
+          "369": [
+            "Spit On Your Own God",
+            "Spit On Your Own God"
+          ],
+          "370": [
+            "神の視座にて 命を論ず",
+            "神の視座にて 命を論ず"
+          ],
+          "371": [
+            "Kingdom of Hollows",
+            "Kingdom of Hollows"
+          ],
+          "372": [
+            "The Metal Cudgel Flinger",
+            "The Metal Cudgel Flinger"
+          ],
+          "373": [
+            "Wolves Ain't Howl Alone",
+            "Wolves Ain't Howl Alone"
+          ],
+          "374": [
+            "灰狼・赤血・黒衣・白骨",
+            "灰狼・赤血・黒衣・白骨"
+          ],
+          "375": [
+            "EXecution, EXtinction",
+            "EXecution, EXtinction"
+          ],
+          "376": [
+            "EXecution, EXtinction 2",
+            "EXecution, EXtinction 2"
+          ],
+          "377": [
+            "Shout at the Dark",
+            "Shout at the Dark"
+          ]
+        },
+        "cover_characters": [
+          "Baraggan Louisenbairn(Resurrección)",
+          "Baraggan Louisenbairn(Resurrección)"
+        ],
+        "img": "images/bleach/vol_042.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "44": {
+        "title": [
+          "VICE IT",
+          "VICE IT"
+        ],
+        "date_release": [
+          "August 7th, 2012 ",
+          "April 2, 2010"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4297-3",
+          "978-4-08-870020-5"
+        ],
+        "chapters": {
+          "378": [
+            "Eyes of the Victor",
+            "Eyes of the Victor"
+          ],
+          "379": [
+            "Falta de Armonia",
+            "Falta de Armonia"
+          ],
+          "380": [
+            "Devil, Devil, Devil, Devil",
+            "Devil, Devil, Devil, Devil"
+          ],
+          "381": [
+            "Words Just Don't Like You",
+            "Words Just Don't Like You"
+          ],
+          "382": [
+            "The United Front [Discordeque Mix]",
+            "The United Front [Discordeque Mix]"
+          ],
+          "383": [
+            "TOO EARLY TO TRUST",
+            "TOO EARLY TO TRUST"
+          ],
+          "384": [
+            "Can't Fear Your Own Sword",
+            "Can't Fear Your Own Sword"
+          ],
+          "385": [
+            "Vice It",
+            "Vice It"
+          ],
+          "386": [
+            "Bells Are Blue",
+            "Bells Are Blue"
+          ]
+        },
+        "cover_characters": [
+          "Kaname Tōsen",
+          "Kaname Tōsen"
+        ],
+        "img": "images/bleach/vol_043.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "45": {
+        "title": [
+          "THE BURNOUT INFERNO",
+          "THE BURNOUT INFERNO"
+        ],
+        "date_release": [
+          "August 7th, 2012 ",
+          "June 4, 2010"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4298-0",
+          "978-4-08-870046-5"
+        ],
+        "chapters": {
+          "387": [
+            "Ignited",
+            "Ignited"
+          ],
+          "388": [
+            "Eagle Without Wings 2 [EXTREME BATTLEMASTER MIX]",
+            "Eagle Without Wings 2 [EXTREME BATTLEMASTER MIX]"
+          ],
+          "389": [
+            "Winged Eagles 2",
+            "Winged Eagles 2"
+          ],
+          "390": [
+            "BEYOND THE DEATH UNDERSTANDING",
+            "BEYOND THE DEATH UNDERSTANDING"
+          ],
+          "391": [
+            "The Blazing Glaciers",
+            "The Blazing Glaciers"
+          ],
+          "392": [
+            "The Breaking Glaciers",
+            "The Breaking Glaciers"
+          ],
+          "393": [
+            "The Burnout Inferno",
+            "The Burnout Inferno"
+          ],
+          "394": [
+            "The Burnout Inferno 2",
+            "The Burnout Inferno 2"
+          ],
+          "395": [
+            "The Burnout Inferno 3",
+            "The Burnout Inferno 3"
+          ]
+        },
+        "cover_characters": [
+          "Genryūsai Shigekuni Yamamoto",
+          "Genryūsai Shigekuni Yamamoto"
+        ],
+        "img": "images/bleach/vol_044.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "46": {
+        "title": [
+          "BACK FROM BLIND",
+          "BACK FROM BLIND"
+        ],
+        "date_release": [
+          "September 4th, 2012 ",
+          "August 4, 2010"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4299-7",
+          "978-4-08-870085-4"
+        ],
+        "chapters": {
+          "396": [
+            "THE BITE",
+            "THE BITE"
+          ],
+          "397": [
+            "Edge of The Silence",
+            "Edge of The Silence"
+          ],
+          "398": [
+            "BACK FROM BLIND",
+            "BACK FROM BLIND"
+          ],
+          "399": [
+            "DEICIDE",
+            "DEICIDE"
+          ],
+          "400": [
+            "DEICIDE2",
+            "DEICIDE2"
+          ],
+          "401": [
+            "DEICIDE3",
+            "DEICIDE3"
+          ],
+          "402": [
+            "DEICIDE4",
+            "DEICIDE4"
+          ],
+          "403": [
+            "DEICIDE5",
+            "DEICIDE5"
+          ],
+          "404": [
+            "DEICIDE6",
+            "DEICIDE6"
+          ]
+        },
+        "cover_characters": [
+          "Rangiku Matsumoto",
+          "Rangiku Matsumoto"
+        ],
+        "img": "images/bleach/vol_045.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "47": {
+        "title": [
+          "END OF THE CHRYSALIS AGE",
+          "END OF THE CHRYSALIS AGE"
+        ],
+        "date_release": [
+          "September 4th, 2012 ",
+          "October 4, 2010"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4300-0",
+          "978-4-08-870110-3"
+        ],
+        "chapters": {
+          "405": [
+            "DEICIDE7",
+            "DEICIDE7"
+          ],
+          "406": [
+            "DEICIDE8 end of the Chrysalis Age",
+            "DEICIDE8 end of the Chrysalis Age"
+          ],
+          "407": [
+            "DEICIDE9",
+            "DEICIDE9"
+          ],
+          "408": [
+            "DEICIDE10",
+            "DEICIDE10"
+          ],
+          "409": [
+            "DEICIDE11",
+            "DEICIDE11"
+          ],
+          "410": [
+            "DEICIDE12",
+            "DEICIDE12"
+          ],
+          "411": [
+            "DEICIDE13",
+            "DEICIDE13"
+          ],
+          "412": [
+            "DEICIDE14",
+            "DEICIDE14"
+          ],
+          "413": [
+            "DEICIDE15",
+            "DEICIDE15"
+          ]
+        },
+        "cover_characters": [
+          "Gin Ichimaru (Commander of Arrancar Army)",
+          "Gin Ichimaru (Commander of Arrancar Army)"
+        ],
+        "img": "images/bleach/vol_046.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "48": {
+        "title": [
+          "GOD IS DEAD",
+          "GOD IS DEAD"
+        ],
+        "date_release": [
+          "October 2nd, 2012 ",
+          "December 3, 2010"
+        ],
+        "pages": [
+          "222",
+          "222"
+        ],
+        "ISBN": [
+          "978-1-4215-4301-7",
+          "978-4-08-870144-8"
+        ],
+        "chapters": {
+          "414": [
+            "DEICIDE16",
+            "DEICIDE16"
+          ],
+          "415": [
+            "deicide17",
+            "deicide17"
+          ],
+          "416": [
+            "DEICIDE18 [THE END]",
+            "DEICIDE18 [THE END]"
+          ],
+          "417": [
+            "DEICIDE19",
+            "DEICIDE19"
+          ],
+          "418": [
+            "DEICIDE20",
+            "DEICIDE20"
+          ],
+          "419": [
+            "DEICIDE 21 [Transcendent God Rock]",
+            "DEICIDE 21 [Transcendent God Rock]"
+          ],
+          "420": [
+            "DEICIDE22",
+            "DEICIDE22"
+          ],
+          "421": [
+            "DEICIDE23",
+            "DEICIDE23"
+          ],
+          "422": [
+            "the silent victory",
+            "the silent victory"
+          ],
+          "423": [
+            "Bleach My Soul",
+            "Bleach My Soul"
+          ]
+        },
+        "cover_characters": [
+          "Sousuke Aizen (Hōgyoku Hybrid)",
+          "Sousuke Aizen (Hōgyoku Hybrid)"
+        ],
+        "img": "images/bleach/vol_047.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "49": {
+        "title": [
+          "The Lost Agent",
+          "The Lost Agent"
+        ],
+        "date_release": [
+          "October 2nd, 2012 ",
+          "April 21, 2011"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4302-4",
+          "978-4-08-870186-8"
+        ],
+        "chapters": {
+          "424": [
+            "The Lost Agent",
+            "The Lost Agent"
+          ],
+          "425": [
+            "A Day Without Melodies",
+            "A Day Without Melodies"
+          ],
+          "426": [
+            "The Starter2",
+            "The Starter2"
+          ],
+          "427": [
+            "A Delicious Dissonance",
+            "A Delicious Dissonance"
+          ],
+          "428": [
+            "The Known",
+            "The Known"
+          ],
+          "429": [
+            "Welcome to our EXECUTION",
+            "Welcome to our EXECUTION"
+          ],
+          "430": [
+            "Welcome to our EXECUTION2",
+            "Welcome to our EXECUTION2"
+          ],
+          "431": [
+            "Welcome to our EXECUTION3",
+            "Welcome to our EXECUTION3"
+          ],
+          "432": [
+            "The Soul Pantheism",
+            "The Soul Pantheism"
+          ]
+        },
+        "cover_characters": [
+          "Ichigo Kurosaki (Human)",
+          "Ichigo Kurosaki (Human)"
+        ],
+        "img": "images/bleach/vol_048.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "50": {
+        "title": [
+          "The Six Fullbringers",
+          "The Six Fullbringers"
+        ],
+        "date_release": [
+          "November 6th, 2012 ",
+          "June 3, 2011"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4303-1",
+          "978-4-08-870219-3"
+        ],
+        "chapters": {
+          "433": [
+            "The Six Fullbringers",
+            "The Six Fullbringers"
+          ],
+          "434": [
+            "Berry in the Box",
+            "Berry in the Box"
+          ],
+          "435": [
+            "Panic at the Dollhouse",
+            "Panic at the Dollhouse"
+          ],
+          "436": [
+            "The Time Discipline",
+            "The Time Discipline"
+          ],
+          "437": [
+            "Swastika Break",
+            "Swastika Break"
+          ],
+          "438": [
+            "Knuckle Down",
+            "Knuckle Down"
+          ],
+          "439": [
+            "KEEN MARKER",
+            "KEEN MARKER"
+          ],
+          "440": [
+            "Mute Friendship",
+            "Mute Friendship"
+          ],
+          "441": [
+            "Spotlight Brocken",
+            "Spotlight Brocken"
+          ]
+        },
+        "cover_characters": [
+          "Kūgo Ginjō",
+          "Kūgo Ginjō"
+        ],
+        "img": "images/bleach/vol_049.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "51": {
+        "title": [
+          "Love me Bitterly Loth me Sweetly",
+          "Love me Bitterly Loth me Sweetly"
+        ],
+        "date_release": [
+          "November 6th, 2012 ",
+          "August 4, 2011"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4304-8",
+          "978-4-08-870272-8"
+        ],
+        "chapters": {
+          "442": [
+            "Battlefield Shallows, Otherfield Abyss",
+            "Battlefield Shallows, Otherfield Abyss"
+          ],
+          "443": [
+            "Dirty Boots Dangers",
+            "Dirty Boots Dangers"
+          ],
+          "444": [
+            "The Rising",
+            "The Rising"
+          ],
+          "445": [
+            "The Dark Beat",
+            "The Dark Beat"
+          ],
+          "446": [
+            "The Dark Beat 2",
+            "The Dark Beat 2"
+          ],
+          "447": [
+            "Load",
+            "Load"
+          ],
+          "448": [
+            "LOADING TO LIE",
+            "LOADING TO LIE"
+          ],
+          "449": [
+            "Not be a Drug",
+            "Not be a Drug"
+          ],
+          "450": [
+            "Blind Solitude",
+            "Blind Solitude"
+          ]
+        },
+        "cover_characters": [
+          "Riruka Dokugamine",
+          "Riruka Dokugamine"
+        ],
+        "img": "images/bleach/vol_050.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "52": {
+        "title": [
+          "End of Bond",
+          "End of Bond"
+        ],
+        "date_release": [
+          "December 4, 2012 ",
+          "October 4, 2011"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-4305-5",
+          "978-4-08-870291-9"
+        ],
+        "chapters": {
+          "451": [
+            "Welcome to Our EXECUTION 4",
+            "Welcome to Our EXECUTION 4"
+          ],
+          "452": [
+            "erosion/implosion",
+            "erosion/implosion"
+          ],
+          "453": [
+            "Mute Your Breathe Friendship",
+            "Mute Your Breathe Friendship"
+          ],
+          "454": [
+            "Sheathebreaker",
+            "Sheathebreaker"
+          ],
+          "455": [
+            "End of the Bond 1",
+            "End of the Bond 1"
+          ],
+          "456": [
+            "End of the Bond 2",
+            "End of the Bond 2"
+          ],
+          "457": [
+            "End of Bond 3",
+            "End of Bond 3"
+          ],
+          "458": [
+            "End of All Bonds",
+            "End of All Bonds"
+          ],
+          "459": [
+            "Death & Strawberry 2",
+            "Death & Strawberry 2"
+          ]
+        },
+        "cover_characters": [
+          "Shūkurō Tsukishima",
+          "Shūkurō Tsukishima"
+        ],
+        "img": "images/bleach/vol_051.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "53": {
+        "title": [
+          "The Deathberry Returns 2",
+          "The Deathberry Returns 2"
+        ],
+        "date_release": [
+          "December 4, 2012 ",
+          "December 2, 2011"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-4949-1",
+          "978-4-08-870313-8"
+        ],
+        "chapters": {
+          "460": [
+            "Deathberry Returns 2",
+            "Deathberry Returns 2"
+          ],
+          "461": [
+            "Come Around Our Turn",
+            "Come Around Our Turn"
+          ],
+          "462": [
+            "Why me sad.",
+            "Why me sad."
+          ],
+          "463": [
+            "Extreme Divider",
+            "Extreme Divider"
+          ],
+          "464": [
+            "Quiet Chamber, Noisy Heart",
+            "Quiet Chamber, Noisy Heart"
+          ],
+          "465": [
+            "Bad Blood Exhaust",
+            "Bad Blood Exhaust"
+          ],
+          "466": [
+            "Screaming Invader",
+            "Screaming Invader"
+          ],
+          "467": [
+            "Luck Men",
+            "Luck Men"
+          ],
+          "468": [
+            "Raid as a Blade",
+            "Raid as a Blade"
+          ],
+          "469": [
+            "Rag Lag Rumble",
+            "Rag Lag Rumble"
+          ]
+        },
+        "cover_characters": [
+          "Yukio Hans Vorarlberna",
+          "Yukio Hans Vorarlberna"
+        ],
+        "img": "images/bleach/vol_052.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "54": {
+        "title": [
+          "Goodbye to Our Xcution",
+          "Goodbye to Our Xcution"
+        ],
+        "date_release": [
+          "January 1, 2013",
+          "March 2, 2012"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-5138-8",
+          "978-4-08-870386-2"
+        ],
+        "chapters": {
+          "470": [
+            "Pray for Predators",
+            "Pray for Predators"
+          ],
+          "471": [
+            "Pray for Predators 2",
+            "Pray for Predators 2"
+          ],
+          "472": [
+            "Razoredge Requiem",
+            "Razoredge Requiem"
+          ],
+          "473": [
+            "Enemies in the Dark",
+            "Enemies in the Dark"
+          ],
+          "474": [
+            "beLIEve",
+            "beLIEve"
+          ],
+          "475": [
+            "Shades of the Bond",
+            "Shades of the Bond"
+          ],
+          "476": [
+            "THE LOST",
+            "THE LOST"
+          ],
+          "477": [
+            "THE LOST 2",
+            "THE LOST 2"
+          ],
+          "478": [
+            "THE LOST 3",
+            "THE LOST 3"
+          ],
+          "479": [
+            "Goodbye to Our Xcution",
+            "Goodbye to Our Xcution"
+          ]
+        },
+        "cover_characters": [
+          "Rukia Kuchiki",
+          "Rukia Kuchiki"
+        ],
+        "img": "images/bleach/vol_053.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "55": {
+        "title": [
+          "THE BLOOD WARFARE",
+          "THE BLOOD WARFARE"
+        ],
+        "date_release": [
+          "February 5, 2013",
+          "June 4, 2012"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-5236-1",
+          "978-4-08-870418-0"
+        ],
+        "chapters": {
+          "480": [
+            "The Blood Warfare",
+            "The Blood Warfare"
+          ],
+          "481": [
+            "The Tearing",
+            "The Tearing"
+          ],
+          "482": [
+            "Bad Recognition",
+            "Bad Recognition"
+          ],
+          "483": [
+            "KriegsErklärung",
+            "KriegsErklärung"
+          ],
+          "484": [
+            "The Buckbeard",
+            "The Buckbeard"
+          ],
+          "485": [
+            "Foundation Stones",
+            "Foundation Stones"
+          ],
+          "486": [
+            "The Crimson Cremation",
+            "The Crimson Cremation"
+          ],
+          "487": [
+            "Breathe but blind",
+            "Breathe but blind"
+          ],
+          "488": [
+            "Bond Behind Blast",
+            "Bond Behind Blast"
+          ],
+          "489": [
+            "March of the StarCross",
+            "March of the StarCross"
+          ]
+        },
+        "cover_characters": [
+          "Yhwach",
+          "Yhwach"
+        ],
+        "img": "images/bleach/vol_054.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "56": {
+        "title": [
+          "MARCH OF THE STARCROSS",
+          "MARCH OF THE STARCROSS"
+        ],
+        "date_release": [
+          "April 2, 2013",
+          "September 4, 2012"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-5476-1",
+          "978-4-08-870478-4"
+        ],
+        "chapters": {
+          "490": [
+            "March Of The StarCross 2",
+            "March Of The StarCross 2"
+          ],
+          "491": [
+            "Toden Engel",
+            "Toden Engel"
+          ],
+          "492": [
+            "Balancer's Justice",
+            "Balancer's Justice"
+          ],
+          "493": [
+            "Light of Happiness",
+            "Light of Happiness"
+          ],
+          "494": [
+            "The Closing Chapter Part One",
+            "The Closing Chapter Part One"
+          ],
+          "495": [
+            "Bleeding Guitar Blues",
+            "Bleeding Guitar Blues"
+          ],
+          "496": [
+            "Kill The Shadow",
+            "Kill The Shadow"
+          ],
+          "497": [
+            "Kill The Shadow2",
+            "Kill The Shadow2"
+          ],
+          "498": [
+            "The Dark Rescuer",
+            "The Dark Rescuer"
+          ],
+          "499": [
+            "Rescuer In The Dark",
+            "Rescuer In The Dark"
+          ]
+        },
+        "cover_characters": [
+          "Quilge Opie",
+          "Quilge Opie"
+        ],
+        "img": "images/bleach/vol_055.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "57": {
+        "title": [
+          "OUT OF BLOOM",
+          "OUT OF BLOOM"
+        ],
+        "date_release": [
+          "July 2, 2013",
+          "December 4th 2012"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-5882-0",
+          "978-4-08-870516-3"
+        ],
+        "chapters": {
+          "500": [
+            "Rescuer In The Deep Dark",
+            "Rescuer In The Deep Dark"
+          ],
+          "501": [
+            "Hear.Fear.Here",
+            "Hear.Fear.Here"
+          ],
+          "502": [
+            "散桜",
+            "散桜"
+          ],
+          "503": [
+            "Wrath as a Lightning",
+            "Wrath as a Lightning"
+          ],
+          "504": [
+            "雷鳴の彼方へ",
+            "雷鳴の彼方へ"
+          ],
+          "505": [
+            "The Fire",
+            "The Fire"
+          ],
+          "506": [
+            "The Fire2",
+            "The Fire2"
+          ],
+          "507": [
+            "The Fire3",
+            "The Fire3"
+          ],
+          "508": [
+            "烈火の如",
+            "烈火の如"
+          ],
+          "509": [
+            "天地灰尽",
+            "天地灰尽"
+          ]
+        },
+        "cover_characters": [
+          "Byakuya Kuchiki",
+          "Byakuya Kuchiki"
+        ],
+        "img": "images/bleach/vol_056.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "58": {
+        "title": [
+          "THE FIRE",
+          "THE FIRE"
+        ],
+        "date_release": [
+          "October 1st 2013",
+          "March 4th 2013"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-6135-6",
+          "978-4-08-870551-4"
+        ],
+        "chapters": {
+          "510": [
+            "The Extinction",
+            "The Extinction"
+          ],
+          "511": [
+            "立ちて死すべし",
+            "立ちて死すべし"
+          ],
+          "512": [
+            "THE STAND ABLAZE",
+            "THE STAND ABLAZE"
+          ],
+          "513": [
+            "The Dark Moon Stroke",
+            "The Dark Moon Stroke"
+          ],
+          "514": [
+            "BORN IN THE DARK",
+            "BORN IN THE DARK"
+          ],
+          "515": [
+            "relics",
+            "relics"
+          ],
+          "516": [
+            "THE SQUAD ZERO",
+            "THE SQUAD ZERO"
+          ],
+          "517": [
+            "THE STAIRWAY TO HEAVEN",
+            "THE STAIRWAY TO HEAVEN"
+          ],
+          "518": [
+            "The Shooting Star Project (ZERO MIX)",
+            "The Shooting Star Project (ZERO MIX)"
+          ],
+          "519": [
+            "HOT, HOT, HEAT",
+            "HOT, HOT, HEAT"
+          ],
+          "520": [
+            "KILLERS NOT DEAD",
+            "KILLERS NOT DEAD"
+          ]
+        },
+        "cover_characters": [
+          "Genryūsai Shigekuni Yamamoto",
+          "Genryūsai Shigekuni Yamamoto"
+        ],
+        "img": "images/bleach/vol_057.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "59": {
+        "title": [
+          "THE BATTLE",
+          "THE BATTLE"
+        ],
+        "date_release": [
+          "February 4, 2014",
+          "June 4th 2013"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-6237-7",
+          "978-4-08-870662-7"
+        ],
+        "chapters": {
+          "521": [
+            "A Piggy Party",
+            "A Piggy Party"
+          ],
+          "522": [
+            "Love it",
+            "Love it"
+          ],
+          "523": [
+            "Swords of Origin",
+            "Swords of Origin"
+          ],
+          "524": [
+            "The Drop",
+            "The Drop"
+          ],
+          "525": [
+            "Edges",
+            "Edges"
+          ],
+          "526": [
+            "The Battle",
+            "The Battle"
+          ],
+          "527": [
+            "Eliminate From Heaven",
+            "Eliminate From Heaven"
+          ],
+          "528": [
+            "Everything But the Rain",
+            "Everything But the Rain"
+          ],
+          "529": [
+            "Everything but the Rain Op.2 \"The Rudiments\"",
+            "Everything but the Rain Op.2 \"The Rudiments\""
+          ],
+          "530": [
+            "Everything But the Rain op.3 \"Dark of the Moon\"",
+            "Everything But the Rain op.3 \"Dark of the Moon\""
+          ]
+        },
+        "cover_characters": [
+          "Retsu Unohana",
+          "Retsu Unohana"
+        ],
+        "img": "images/bleach/vol_058.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "60": {
+        "title": [
+          "EVERYTHING BUT THE RAIN",
+          "EVERYTHING BUT THE RAIN"
+        ],
+        "date_release": [
+          "April 1, 2014",
+          "August 2nd 2013"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-6458-6",
+          "978-4-08-870782-2"
+        ],
+        "chapters": {
+          "531": [
+            "Everything But the Rain op.4 Dark of the Bleeding Moon",
+            "Everything But the Rain op.4 Dark of the Bleeding Moon"
+          ],
+          "532": [
+            "Everything But the Rain op.5 \"The White Noise\"",
+            "Everything But the Rain op.5 \"The White Noise\""
+          ],
+          "533": [
+            "Everything But the Rain op.6 \"The Gravitation\"",
+            "Everything But the Rain op.6 \"The Gravitation\""
+          ],
+          "534": [
+            "Everything But the Rain Op.7 \"Hole of Reproach\"",
+            "Everything But the Rain Op.7 \"Hole of Reproach\""
+          ],
+          "535": [
+            "Everything But the Rain op.8 \"Defenders\"",
+            "Everything But the Rain op.8 \"Defenders\""
+          ],
+          "536": [
+            "Everything But the Rain op.9 \"June Truth\"",
+            "Everything But the Rain op.9 \"June Truth\""
+          ],
+          "537": [
+            "Everything But the Rain op.10 \"Prinz von Licht\"",
+            "Everything But the Rain op.10 \"Prinz von Licht\""
+          ],
+          "538": [
+            "Standing On the Edge",
+            "Standing On the Edge"
+          ],
+          "539": [
+            "Prob-less, Progress",
+            "Prob-less, Progress"
+          ],
+          "540": [
+            "THE SWORD FIVE",
+            "THE SWORD FIVE"
+          ]
+        },
+        "cover_characters": [
+          "Masaki Kurosaki",
+          "Masaki Kurosaki"
+        ],
+        "img": "images/bleach/vol_059.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "61": {
+        "title": [
+          "THE LAST 9DAYS",
+          "THE LAST 9DAYS"
+        ],
+        "date_release": [
+          "August 5, 2014",
+          "4th December 2013"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-7383-0",
+          "978-4-08-870818-8"
+        ],
+        "chapters": {
+          "541": [
+            "THE BLADE AND ME 2",
+            "THE BLADE AND ME 2"
+          ],
+          "542": [
+            "THE BLADE IS ME",
+            "THE BLADE IS ME"
+          ],
+          "543": [
+            "Letters",
+            "Letters"
+          ],
+          "544": [
+            "Walking With Watchers",
+            "Walking With Watchers"
+          ],
+          "545": [
+            "Blue Stripes",
+            "Blue Stripes"
+          ],
+          "546": [
+            "THE LAST 9DAYS",
+            "THE LAST 9DAYS"
+          ],
+          "547": [
+            "Peace from Shadows",
+            "Peace from Shadows"
+          ],
+          "548": [
+            "The Thin Ice",
+            "The Thin Ice"
+          ],
+          "549": [
+            "The StormBringer",
+            "The StormBringer"
+          ],
+          "550": [
+            "Blazing Bullets",
+            "Blazing Bullets"
+          ]
+        },
+        "cover_characters": [
+          "Zangetsu",
+          "Zangetsu"
+        ],
+        "img": "images/bleach/vol_060.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "62": {
+        "title": [
+          "HEART OF WOLF",
+          "HEART OF WOLF"
+        ],
+        "date_release": [
+          "November 4, 2014",
+          "4th March 2014"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-7681-7",
+          "978-4-08-870850-8"
+        ],
+        "chapters": {
+          "551": [
+            "The Burnt Offerings",
+            "The Burnt Offerings"
+          ],
+          "552": [
+            "The Fundamental Virulence",
+            "The Fundamental Virulence"
+          ],
+          "553": [
+            "Frozen Cross",
+            "Frozen Cross"
+          ],
+          "554": [
+            "Desperate Lights",
+            "Desperate Lights"
+          ],
+          "555": [
+            "THE HERO",
+            "THE HERO"
+          ],
+          "556": [
+            "The Wolfsbane",
+            "The Wolfsbane"
+          ],
+          "557": [
+            "命はとうに置いてきた",
+            "命はとうに置いてきた"
+          ],
+          "558": [
+            "狼の心臓",
+            "狼の心臓"
+          ],
+          "559": [
+            "THE NIGHT RIGHT",
+            "THE NIGHT RIGHT"
+          ],
+          "560": [
+            "Rages at Ringside",
+            "Rages at Ringside"
+          ]
+        },
+        "cover_characters": [
+          "Sajin Komamura",
+          "Sajin Komamura"
+        ],
+        "img": "images/bleach/vol_061.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "63": {
+        "title": [
+          "HEAR,FEAR,HERE",
+          "HEAR,FEAR,HERE"
+        ],
+        "date_release": [
+          "February 3, 2015",
+          "2nd May 2014"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-7855-2",
+          "978-4-08-880055-4"
+        ],
+        "chapters": {
+          "561": [
+            "THE VILLAIN",
+            "THE VILLAIN"
+          ],
+          "562": [
+            "THE VILLAIN 2",
+            "THE VILLAIN 2"
+          ],
+          "563": [
+            "SUPERSTAR NEVER DIE",
+            "SUPERSTAR NEVER DIE"
+          ],
+          "564": [
+            "Red Bristled Kings",
+            "Red Bristled Kings"
+          ],
+          "565": [
+            "God Like You",
+            "God Like You"
+          ],
+          "566": [
+            "What is Your Fear?",
+            "What is Your Fear?"
+          ],
+          "567": [
+            "Dance With Snowwhite",
+            "Dance With Snowwhite"
+          ],
+          "568": [
+            "Hear. Fear. Here 2",
+            "Hear. Fear. Here 2"
+          ],
+          "569": [
+            "The White Haze",
+            "The White Haze"
+          ],
+          "570": [
+            "Closer, Closer",
+            "Closer, Closer"
+          ]
+        },
+        "cover_characters": [
+          "Äs Nödt",
+          "Äs Nödt"
+        ],
+        "img": "images/bleach/vol_062.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "64": {
+        "title": [
+          "DEATH IN VISION",
+          "DEATH IN VISION"
+        ],
+        "date_release": [
+          "July 7, 2015",
+          "4th September 2014"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-7973-3",
+          "978-4-08-880134-6"
+        ],
+        "chapters": {
+          "571": [
+            "a Devilish Perspective",
+            "a Devilish Perspective"
+          ],
+          "572": [
+            "The Blaster",
+            "The Blaster"
+          ],
+          "573": [
+            "I AM THE EDGE",
+            "I AM THE EDGE"
+          ],
+          "574": [
+            "DEATH IN VISION",
+            "DEATH IN VISION"
+          ],
+          "575": [
+            "THE KILLERS HIGH",
+            "THE KILLERS HIGH"
+          ],
+          "576": [
+            "THE KILLERS HIGH 2",
+            "THE KILLERS HIGH 2"
+          ],
+          "577": [
+            "刃",
+            "刃"
+          ],
+          "578": [
+            "THE UNDEAD 5",
+            "THE UNDEAD 5"
+          ],
+          "579": [
+            "THE UNDEAD 6",
+            "THE UNDEAD 6"
+          ],
+          "580": [
+            "THE LIGHT",
+            "THE LIGHT"
+          ]
+        },
+        "cover_characters": [
+          "Gremmy Thoumeaux",
+          "Gremmy Thoumeaux"
+        ],
+        "img": "images/bleach/vol_063.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "65": {
+        "title": [
+          "MARCHING OUT THE ZOMBIES",
+          "MARCHING OUT THE ZOMBIES"
+        ],
+        "date_release": [
+          "November 3, 2015",
+          "3rd October 2014"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-8084-5",
+          "978-4-08-880191-9"
+        ],
+        "chapters": {
+          "581": [
+            "THE HERO 2",
+            "THE HERO 2"
+          ],
+          "582": [
+            "The Headless Star",
+            "The Headless Star"
+          ],
+          "583": [
+            "The Headless Star 2",
+            "The Headless Star 2"
+          ],
+          "584": [
+            "THE HEADLESS STAR 3",
+            "THE HEADLESS STAR 3"
+          ],
+          "585": [
+            "The Headless Star 4",
+            "The Headless Star 4"
+          ],
+          "586": [
+            "The Headless Star 5",
+            "The Headless Star 5"
+          ],
+          "587": [
+            "The Headless Star 6",
+            "The Headless Star 6"
+          ],
+          "588": [
+            "The Headless Star 7",
+            "The Headless Star 7"
+          ],
+          "589": [
+            "The Shooting Star Project [The Old and New Trust]",
+            "The Shooting Star Project [The Old and New Trust]"
+          ],
+          "590": [
+            "Marching Out the ZOMBIES",
+            "Marching Out the ZOMBIES"
+          ],
+          "591": [
+            "Marching Out The ZOMBIES 2",
+            "Marching Out The ZOMBIES 2"
+          ]
+        },
+        "cover_characters": [
+          "Giselle Gewelle",
+          "Giselle Gewelle"
+        ],
+        "img": "images/bleach/vol_064.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "66": {
+        "title": [
+          "SORRY I AM STRONG",
+          "SORRY I AM STRONG"
+        ],
+        "date_release": [
+          "March 1, 2016",
+          "5th January 2015"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-8262-7",
+          "978-4-08-880221-3"
+        ],
+        "chapters": {
+          "592": [
+            "Marching Out The ZOMBIES 3",
+            "Marching Out The ZOMBIES 3"
+          ],
+          "593": [
+            "Marching Out The ZOMBIES 4",
+            "Marching Out The ZOMBIES 4"
+          ],
+          "594": [
+            "Rubb-Dolls",
+            "Rubb-Dolls"
+          ],
+          "595": [
+            "Rubb-Dolls 2",
+            "Rubb-Dolls 2"
+          ],
+          "596": [
+            "Rubb-Dolls 3",
+            "Rubb-Dolls 3"
+          ],
+          "597": [
+            "Winded by the Shadow",
+            "Winded by the Shadow"
+          ],
+          "598": [
+            "The Shooting Star Project [We Only Have to Beat You Mix]",
+            "The Shooting Star Project [We Only Have to Beat You Mix]"
+          ],
+          "599": [
+            "Too Early To Win, Too Late To Know",
+            "Too Early To Win, Too Late To Know"
+          ],
+          "600": [
+            "SNIPE",
+            "SNIPE"
+          ],
+          "601": [
+            "VERGE ON VERMILLION",
+            "VERGE ON VERMILLION"
+          ]
+        },
+        "cover_characters": [
+          "Ōetsu Nimaiya",
+          "Ōetsu Nimaiya"
+        ],
+        "img": "images/bleach/vol_065.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "67": {
+        "title": [
+          "BLACK",
+          "BLACK"
+        ],
+        "date_release": [
+          "July 5, 2016",
+          "3rd April 2015"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-8506-2",
+          "978-4-08-880327-2"
+        ],
+        "chapters": {
+          "602": [
+            "Bane Licking Good",
+            "Bane Licking Good"
+          ],
+          "603": [
+            "What The Hell",
+            "What The Hell"
+          ],
+          "604": [
+            "REVITALIZE",
+            "REVITALIZE"
+          ],
+          "605": [
+            "Don't Call My Name",
+            "Don't Call My Name"
+          ],
+          "606": [
+            "Divine Division",
+            "Divine Division"
+          ],
+          "607": [
+            "THE MASTER",
+            "THE MASTER"
+          ],
+          "608": [
+            "黒より黒し",
+            "黒より黒し"
+          ],
+          "609": [
+            "\"A\"",
+            "\"A\""
+          ],
+          "610": [
+            "Mausoleum of Skulls",
+            "Mausoleum of Skulls"
+          ],
+          "611": [
+            "霊王死す",
+            "霊王死す"
+          ]
+        },
+        "cover_characters": [
+          "Ichibe'e Hyōsube",
+          "Ichibe'e Hyōsube"
+        ],
+        "img": "images/bleach/vol_066.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "68": {
+        "title": [
+          "THE ORDINARY PEACE",
+          "THE ORDINARY PEACE"
+        ],
+        "date_release": [
+          "November 1, 2016",
+          "3rd July 2015"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-8583-3",
+          "978-4-08-880423-1"
+        ],
+        "chapters": {
+          "612": [
+            "DIRTY",
+            "DIRTY"
+          ],
+          "613": [
+            "The Ordinary Peace",
+            "The Ordinary Peace"
+          ],
+          "614": [
+            "KILL THE KING",
+            "KILL THE KING"
+          ],
+          "615": [
+            "All is Lost",
+            "All is Lost"
+          ],
+          "616": [
+            "ミミハギ様",
+            "ミミハギ様"
+          ],
+          "617": [
+            "Return of the God",
+            "Return of the God"
+          ],
+          "618": [
+            "The Dark Arm",
+            "The Dark Arm"
+          ],
+          "619": [
+            "The Betrayer",
+            "The Betrayer"
+          ],
+          "620": [
+            "Where Do You Stand",
+            "Where Do You Stand"
+          ],
+          "621": [
+            "THE DARK CURTAIN",
+            "THE DARK CURTAIN"
+          ],
+          "622": [
+            "The Agony",
+            "The Agony"
+          ]
+        },
+        "cover_characters": [
+          "Askin Nakk Le Vaar",
+          "Askin Nakk Le Vaar"
+        ],
+        "img": "images/bleach/vol_067.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "69": {
+        "title": [
+          "AGAINST THE JUDGEMENT",
+          "AGAINST THE JUDGEMENT"
+        ],
+        "date_release": [
+          "March 7, 2017",
+          "4th August  2015"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-8701-1",
+          "978-4-08-880460-6"
+        ],
+        "chapters": {
+          "623": [
+            "Against The Judgement",
+            "Against The Judgement"
+          ],
+          "624": [
+            "THE FANG",
+            "THE FANG"
+          ],
+          "625": [
+            "LIVING JAGUAR",
+            "LIVING JAGUAR"
+          ],
+          "626": [
+            "THE HOLY NEWBORN",
+            "THE HOLY NEWBORN"
+          ],
+          "627": [
+            "The Creation",
+            "The Creation"
+          ],
+          "628": [
+            "New World Orders",
+            "New World Orders"
+          ],
+          "629": [
+            "Gate of the Sun",
+            "Gate of the Sun"
+          ],
+          "630": [
+            "The Twinned Twilight",
+            "The Twinned Twilight"
+          ],
+          "631": [
+            "friend",
+            "friend"
+          ],
+          "632": [
+            "friend 2",
+            "friend 2"
+          ]
+        },
+        "cover_characters": [
+          "Bazz-B",
+          "Bazz-B"
+        ],
+        "img": "images/bleach/vol_068.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "70": {
+        "title": [
+          "FRIEND",
+          "FRIEND"
+        ],
+        "date_release": [
+          "July 4, 2017",
+          "4th November 2015"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-8867-4",
+          "978-4-08-880497-2"
+        ],
+        "chapters": {
+          "633": [
+            "FRIEND 3",
+            "FRIEND 3"
+          ],
+          "634": [
+            "friend 4",
+            "friend 4"
+          ],
+          "635": [
+            "Hooded Enigma",
+            "Hooded Enigma"
+          ],
+          "636": [
+            "Sensitive Monster",
+            "Sensitive Monster"
+          ],
+          "637": [
+            "BABY, HOLD YOUR HAND",
+            "BABY, HOLD YOUR HAND"
+          ],
+          "638": [
+            "悪意沸沸滑稽ノ極ミ",
+            "悪意沸沸滑稽ノ極ミ"
+          ],
+          "639": [
+            "BABY,HOLD YOUR HAND 2",
+            "BABY,HOLD YOUR HAND 2"
+          ],
+          "640": [
+            "BABY,HOLD YOUR HAND 3 (Mad Lullaby no.7)",
+            "BABY,HOLD YOUR HAND 3 (Mad Lullaby no.7)"
+          ],
+          "641": [
+            "BABY,HOLD YOUR HAND 4 [When I am sleeping]",
+            "BABY,HOLD YOUR HAND 4 [When I am sleeping]"
+          ],
+          "642": [
+            "BABY,HOLD YOUR HAND 5 [Eyes Are Open]",
+            "BABY,HOLD YOUR HAND 5 [Eyes Are Open]"
+          ],
+          "520.5": [
+            "WALK UNDER TWO LETTERS",
+            "WALK UNDER TWO LETTERS"
+          ]
+        },
+        "cover_characters": [
+          "Jugram Haschwalth",
+          "Jugram Haschwalth"
+        ],
+        "img": "images/bleach/vol_069.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "71": {
+        "title": [
+          "BABY,HOLD YOUR HAND",
+          "BABY,HOLD YOUR HAND"
+        ],
+        "date_release": [
+          "November 7, 2017",
+          "4th March 2016"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-9095-0",
+          "978-4-08-880604-4"
+        ],
+        "chapters": {
+          "643": [
+            "BABY,HOLD YOUR HAND 6 [Waiting For Love]",
+            "BABY,HOLD YOUR HAND 6 [Waiting For Love]"
+          ],
+          "644": [
+            "BABY,HOLD YOUR HAND 7 [Never Ending My Dream]",
+            "BABY,HOLD YOUR HAND 7 [Never Ending My Dream]"
+          ],
+          "645": [
+            "Don't Chase a Shadow",
+            "Don't Chase a Shadow"
+          ],
+          "646": [
+            "The Second Eye",
+            "The Second Eye"
+          ],
+          "647": [
+            "THE THEATRE SUICIDE",
+            "THE THEATRE SUICIDE"
+          ],
+          "648": [
+            "THE THEATRE SUICIDE SCENE 2",
+            "THE THEATRE SUICIDE SCENE 2"
+          ],
+          "649": [
+            "The Theatre Suicide SCENE 3",
+            "The Theatre Suicide SCENE 3"
+          ],
+          "650": [
+            "THE THEATRE SUICIDE SCENE 4",
+            "THE THEATRE SUICIDE SCENE 4"
+          ],
+          "651": [
+            "The Theatre Suicide SCENE 5",
+            "The Theatre Suicide SCENE 5"
+          ],
+          "652": [
+            "The Theatre Suicide SCENE 6",
+            "The Theatre Suicide SCENE 6"
+          ]
+        },
+        "cover_characters": [
+          "Nemu Kurotsuchi",
+          "Nemu Kurotsuchi"
+        ],
+        "img": "images/bleach/vol_070.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "72": {
+        "title": [
+          "MY LAST WORDS",
+          "MY LAST WORDS"
+        ],
+        "date_release": [
+          "March 6, 2018",
+          "2nd May 2016"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-9166-7",
+          "978-4-08-880649-5"
+        ],
+        "chapters": {
+          "653": [
+            "The Theatre Suicide SCENE 7",
+            "The Theatre Suicide SCENE 7"
+          ],
+          "654": [
+            "Deadman Standing",
+            "Deadman Standing"
+          ],
+          "655": [
+            "THE MIRACLE",
+            "THE MIRACLE"
+          ],
+          "656": [
+            "GOD OF THUNDER",
+            "GOD OF THUNDER"
+          ],
+          "657": [
+            "GOD OF THUNDER 2",
+            "GOD OF THUNDER 2"
+          ],
+          "658": [
+            "Fatal Matters Are Cold",
+            "Fatal Matters Are Cold"
+          ],
+          "659": [
+            "There Will Be Frost",
+            "There Will Be Frost"
+          ],
+          "660": [
+            "The Visible Answer",
+            "The Visible Answer"
+          ],
+          "661": [
+            "MY LAST WORDS",
+            "MY LAST WORDS"
+          ],
+          "662": [
+            "GOD OF THUNDER 3",
+            "GOD OF THUNDER 3"
+          ],
+          "663": [
+            "GOD OF THUNDER 4",
+            "GOD OF THUNDER 4"
+          ]
+        },
+        "cover_characters": [
+          "Uryū Ishida",
+          "Uryū Ishida"
+        ],
+        "img": "images/bleach/vol_071.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "73": {
+        "title": [
+          "BATTLE FIELD BURNING",
+          "BATTLE FIELD BURNING"
+        ],
+        "date_release": [
+          "July 3, 2018",
+          "4th July 2016"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-9434-7",
+          "978-4-08-880684-6"
+        ],
+        "chapters": {
+          "664": [
+            "The Gift",
+            "The Gift"
+          ],
+          "665": [
+            "The Princess Dissection",
+            "The Princess Dissection"
+          ],
+          "666": [
+            "空っぽ、傀儡、伽藍堂",
+            "空っぽ、傀儡、伽藍堂"
+          ],
+          "667": [
+            "BIGGER, LOUDER, STRONGER",
+            "BIGGER, LOUDER, STRONGER"
+          ],
+          "668": [
+            "BIGGER,FASTER,STRONGER",
+            "BIGGER,FASTER,STRONGER"
+          ],
+          "669": [
+            "刃 II",
+            "刃 II"
+          ],
+          "670": [
+            "The Perfect Crimson",
+            "The Perfect Crimson"
+          ],
+          "671": [
+            "The Perfect Crimson 2",
+            "The Perfect Crimson 2"
+          ],
+          "672": [
+            "Son of Darkness",
+            "Son of Darkness"
+          ],
+          "673": [
+            "Father",
+            "Father"
+          ],
+          "674": [
+            "Father 2",
+            "Father 2"
+          ]
+        },
+        "cover_characters": [
+          "Renji Abarai",
+          "Renji Abarai"
+        ],
+        "img": "images/bleach/vol_072.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "74": {
+        "title": [
+          "THE DEATH AND THE STRAWBERRY",
+          "THE DEATH AND THE STRAWBERRY"
+        ],
+        "date_release": [
+          "October 2, 2018",
+          "4th November 2016"
+        ],
+        "pages": [
+          "232",
+          "232"
+        ],
+        "ISBN": [
+          "978-1-4215-9602-0",
+          "978-4-08-880774-4"
+        ],
+        "chapters": {
+          "675": [
+            "Blood for My Bone",
+            "Blood for My Bone"
+          ],
+          "676": [
+            "Horn of Salvation",
+            "Horn of Salvation"
+          ],
+          "677": [
+            "Horn of Salvation 2",
+            "Horn of Salvation 2"
+          ],
+          "678": [
+            "The Future Black",
+            "The Future Black"
+          ],
+          "679": [
+            "THE END",
+            "THE END"
+          ],
+          "680": [
+            "THE END 2",
+            "THE END 2"
+          ],
+          "681": [
+            "THE END TWO WORLD",
+            "THE END TWO WORLD"
+          ],
+          "682": [
+            "The Two Sided World End",
+            "The Two Sided World End"
+          ],
+          "683": [
+            "The Dark Side of Two World Ends",
+            "The Dark Side of Two World Ends"
+          ],
+          "684": [
+            "The Blade",
+            "The Blade"
+          ],
+          "685": [
+            "無欠の果て",
+            "無欠の果て"
+          ],
+          "686": [
+            "Death & Strawberry",
+            "Death & Strawberry"
+          ]
+        },
+        "cover_characters": [
+          "Ichigo KurosakiRukia Kuchiki",
+          "Ichigo KurosakiRukia Kuchiki"
+        ],
+        "img": "images/bleach/vol_073.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
       }
     }
   }
