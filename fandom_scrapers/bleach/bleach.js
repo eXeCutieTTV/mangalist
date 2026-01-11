@@ -32,7 +32,7 @@ function bleach(id) {
         cover_characters: [bodyObj.info.textContent.match(/Cover character:\s*([^\nP]+)/)?.[1].trim(), bodyObj.info.textContent.match(/Cover character:\s*([^\nP]+)/)?.[1].trim()],
         img: `images/bleach/vol_${String(id + 1).padStart(3, "0")}.png`,
         owned: false,
-        prise: "10€",
+        prise: "10 €",
         date_bought: ""
     }
     for (const chapter of bodyObj.chapterlist.querySelectorAll('a')) {

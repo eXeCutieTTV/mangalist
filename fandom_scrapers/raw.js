@@ -9,7 +9,7 @@ function raw(id, title) {
         cover_characters: "",
         img: `images/${title}/vol_${String(id + 1).padStart(3, "0")}.png`,
         owned: false,
-        prise: "10€",
+        prise: "10 €",
         date_bought: ""
     }
     temp[id + 1] = result;
