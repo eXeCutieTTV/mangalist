@@ -20,8 +20,8 @@ async function page2() {
             utf8.forEach(byte => binary += String.fromCharCode(byte));
             return btoa(binary);
         }
-        
-        const sorted = Object.fromEntries(Object.entries(entryMap).sort(([a], [b]) => a.localeCompare(b))); 
+
+        const sorted = Object.fromEntries(Object.entries(entryMap).sort(([a], [b]) => a.localeCompare(b))); //<-- sorts alphabetically
         const content = JSON.stringify(sorted, null, 2);
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;

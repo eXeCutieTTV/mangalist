@@ -1,19 +1,17 @@
-let amount = 74;
-const temp = [];
+let amount = 74; //<-- amount of volumes to be added
+const temp = {};
 function raw(id) {
     const result = {
-        [`${id + 1}`]: {
-            title: [],
-            date_release: [],
-            pages: [],
-            ISBN: [],
-            chapters: {},
-            img: "",
-            owned: false,
-            prise: "10€",
-            date_bought: ""
-        }
+        title: [],
+        date_release: [],
+        pages: [],
+        ISBN: [],
+        chapters: {},
+        img: "",
+        owned: false,
+        prise: "10€",
+        date_bought: ""
     }
-    temp.push(result);
+    temp[id + 1] = result;
 }
 for (let i = 0; i < amount; i++)raw(i);
