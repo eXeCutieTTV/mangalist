@@ -109,5 +109,7 @@ middleDiv.addEventListener("click", () => {
     });
 });
 // doesnt tilt when it exits being the center card
+// i think its because it has negative rotate value, both on left and right sides - should have positive on right side, and negative on left side.
+
 // fix the the wheel connection
 // fix z-index for card while its being cycled - so it isnt visible behind the other cards
