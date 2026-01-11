@@ -108,3 +108,6 @@ middleDiv.addEventListener("click", () => {
         page2();
     });
 });
+// doesnt tilt when it exits being the center card
+// fix the the wheel connection
+// fix z-index for card while its being cycled - so it isnt visible behind the other cards
