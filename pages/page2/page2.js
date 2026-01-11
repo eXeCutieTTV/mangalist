@@ -255,8 +255,13 @@ async function page2() {
                 modalBody.innerHTML = `
                     <h1 style="margin: 0;">${entry.title}</h1>
                     <h2 style="margin: 10px 0;">Volume ${volNum}</h2>
-                    <h3 style="margin: 0;">${volData.title[0]}</h3>
-                    <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
+                    ${volData.title[0] === volData.title[1]
+                        ? `<h3 style="margin: 0; margin-bottom:15px;">${volData.title[0]}</h3>`
+                        : `
+                        <h3 style="margin: 0;">${volData.title[0]}</h3>
+                        <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
+                        `
+                    }
                     <div style="display:flex;margin-bottom:15px;">
                         <div>
                             <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:auto; height:300px; display:block; border-radius:5px;">
