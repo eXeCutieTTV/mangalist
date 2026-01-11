@@ -20,8 +20,9 @@ async function page2() {
             utf8.forEach(byte => binary += String.fromCharCode(byte));
             return btoa(binary);
         }
-
-        const content = `${JSON.stringify(entryMap, null, 2)}`;
+        
+        const sorted = Object.fromEntries(Object.entries(entryMap).sort(([a], [b]) => a.localeCompare(b))); 
+        const content = JSON.stringify(sorted, null, 2);
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
 
@@ -217,8 +218,8 @@ async function page2() {
                         <div>
                             <ul style="margin: 0;">
                                 ${Object.entries(volData.chapters)
-                                .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
-                                .join("")}
+                        .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
+                        .join("")}
                             </ul>
                         </div>
                     </div>
