@@ -12,7 +12,7 @@ const cardDataMap = [{
 const cardWidth = 160;
 const cardHeight = 260;
 const overlap = 40;
-const speed = 1;
+const speed = .1;
 
 
 // Initialize cards with logical positions and index
