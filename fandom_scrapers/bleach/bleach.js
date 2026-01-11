@@ -30,7 +30,7 @@ function bleach(id) {
         ISBN: [header_tds[4].textContent.replace(/(\[.*?\]|\n|ISBN)/g, "").trim(), header_tds[2].textContent.replace(/(\[.*?\]|\n|ISBN)/g, "").trim()],
         chapters: {},
         cover_characters: [bodyObj.info.textContent.match(/Cover character:\s*([^\nP]+)/)?.[1].trim(), bodyObj.info.textContent.match(/Cover character:\s*([^\nP]+)/)?.[1].trim()],
-        img: `images/bleach/vol_${String(id).padStart(3, "0")}.png`,
+        img: `images/bleach/vol_${String(id + 1).padStart(3, "0")}.png`,
         owned: false,
         prise: "10€",
         date_bought: ""
