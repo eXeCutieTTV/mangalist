@@ -267,7 +267,7 @@ async function page2() {
                             <img src="${volData.img}" alt="Volume ${volNum} cover" style="width:auto; height:300px; display:block; border-radius:5px;">
                         </div>
                         <div>
-                            <ul style="margin: 0;">
+                            <ul style="margin: 0; overflow-y: scroll; max-height: 300px; scrollbar-width: none;">
                         ${Object.entries(volData.chapters)
                         .map(([chapNum, titles]) => {
                             const [jp, en] = titles;
