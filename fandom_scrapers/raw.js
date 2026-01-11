@@ -1,5 +1,4 @@
 let amount = 14; //<-- amount of volumes to be added
-const temp = {};
 function raw(id, title) {
     const result = {
         title: [],
@@ -7,6 +6,7 @@ function raw(id, title) {
         pages: [],
         ISBN: [],
         chapters: {},
+        cover_characters: "",
         img: `images/${title}/vol_${String(id + 1).padStart(3, "0")}.png`,
         owned: false,
         prise: "10€",

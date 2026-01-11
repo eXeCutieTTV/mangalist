@@ -6640,408 +6640,2551 @@
     "released": "June 4, 1998",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "The Day of Departure",
+          "The Day of Departure"
+        ],
+        "date_release": [
+          "June 4, 1998",
+          "April 5, 2005"
+        ],
+        "pages": [
+          "184",
+          "184"
+        ],
+        "ISBN": [
+          "978-1-59116-753-2",
+          "978-4-08-872571-0"
+        ],
+        "chapters": {
+          "1": [
+            "The Day of Departure",
+            "The Day of Departure"
+          ],
+          "2": [
+            "An Encounter in the Storm",
+            "An Encounter in the Storm"
+          ],
+          "3": [
+            "The Ultimate Choice",
+            "The Ultimate Choice"
+          ],
+          "4": [
+            "Kiriko: Wicked Magical Vulpes",
+            "Kiriko: Wicked Magical Vulpes"
+          ],
+          "5": [
+            "The First Phase Begins: Part 1",
+            "The First Phase Begins: Part 1"
+          ],
+          "6": [
+            "The First Phase Begins: Part 2",
+            "The First Phase Begins: Part 2"
+          ],
+          "7": [
+            "Respective Reasons",
+            "Respective Reasons"
+          ],
+          "8": [
+            "The Other Enemy",
+            "The Other Enemy"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_001.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "A Struggle in the Mist",
+          "A Struggle in the Mist"
+        ],
+        "date_release": [
+          "September 2, 1998",
+          "May 3, 2005"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-59116-785-3",
+          "978-4-08-872606-9"
+        ],
+        "chapters": {
+          "9": [
+            "A Struggle in the Mist",
+            "A Struggle in the Mist"
+          ],
+          "10": [
+            "An Unexpected Task",
+            "An Unexpected Task"
+          ],
+          "11": [
+            "The Inevitable Outcome",
+            "The Inevitable Outcome"
+          ],
+          "12": [
+            "The Chairman Arrives",
+            "The Chairman Arrives"
+          ],
+          "13": [
+            "A Game at Midnight: Part 1",
+            "A Game at Midnight: Part 1"
+          ],
+          "14": [
+            "A Game at Midnight: Part 2",
+            "A Game at Midnight: Part 2"
+          ],
+          "15": [
+            "The Path of Majority Rules",
+            "The Path of Majority Rules"
+          ],
+          "16": [
+            "Enter the Taskmasters",
+            "Enter the Taskmasters"
+          ],
+          "17": [
+            "Disparate Choice",
+            "Disparate Choice"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_002.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Resolution",
+          "Resolution"
+        ],
+        "date_release": [
+          "November 4, 1998",
+          "July 5, 2005"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-59116-849-2",
+          "978-4-08-872630-4"
+        ],
+        "chapters": {
+          "18": [
+            "The Two Aces in the Hole",
+            "The Two Aces in the Hole"
+          ],
+          "19": [
+            "The Trap of Majority Rules",
+            "The Trap of Majority Rules"
+          ],
+          "20": [
+            "Gambling Time",
+            "Gambling Time"
+          ],
+          "21": [
+            "Resolution",
+            "Resolution"
+          ],
+          "22": [
+            "The Last Question",
+            "The Last Question"
+          ],
+          "23": [
+            "Two Enemies",
+            "Two Enemies"
+          ],
+          "24": [
+            "Crash Course",
+            "Crash Course"
+          ],
+          "25": [
+            "The Second Day",
+            "The Second Day"
+          ],
+          "26": [
+            "The Night Before the Showdown",
+            "The Night Before the Showdown"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_003.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "End Game (lit. The Final Test Begins!)",
+          "End Game (lit. The Final Test Begins!)"
+        ],
+        "date_release": [
+          "February 4, 1999",
+          "September 6, 2005"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-59116-992-5",
+          "978-4-08-872672-4"
+        ],
+        "chapters": {
+          "27": [
+            "A Volatile Situation",
+            "A Volatile Situation"
+          ],
+          "28": [
+            "A Huge Favor",
+            "A Huge Favor"
+          ],
+          "29": [
+            "Killua's Case",
+            "Killua's Case"
+          ],
+          "30": [
+            "The Slithering Trap",
+            "The Slithering Trap"
+          ],
+          "31": [
+            "By the Skin of Their Teeth...",
+            "By the Skin of Their Teeth..."
+          ],
+          "32": [
+            "And the Final Test...?",
+            "And the Final Test...?"
+          ],
+          "33": [
+            "The Final Test Begins!",
+            "The Final Test Begins!"
+          ],
+          "34": [
+            "The First Candidate Accepted?!",
+            "The First Candidate Accepted?!"
+          ],
+          "35": [
+            "Light and Darkness: Part 1",
+            "Light and Darkness: Part 1"
+          ]
+        },
+        "cover_characters": "Kurapika",
         "img": "images/hunter-x-hunter/vol_004.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Family Matters (lit. Ging Freecss)",
+          "Family Matters (lit. Ging Freecss)"
+        ],
+        "date_release": [
+          "April 30, 1999",
+          "November 8, 2005"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-4215-0184-0",
+          "978-4-08-872713-4"
+        ],
+        "chapters": {
+          "36": [
+            "Light and Darkness: Part 2",
+            "Light and Darkness: Part 2"
+          ],
+          "37": [
+            "Light and Darkness: Part 3",
+            "Light and Darkness: Part 3"
+          ],
+          "38": [
+            "Ging Freecss",
+            "Ging Freecss"
+          ],
+          "39": [
+            "Intruder",
+            "Intruder"
+          ],
+          "40": [
+            "The Zoldycks: Part 1",
+            "The Zoldycks: Part 1"
+          ],
+          "41": [
+            "The Zoldycks: Part 2",
+            "The Zoldycks: Part 2"
+          ],
+          "42": [
+            "The Zoldycks: Part 3",
+            "The Zoldycks: Part 3"
+          ],
+          "43": [
+            "The Zoldycks: Part 4",
+            "The Zoldycks: Part 4"
+          ],
+          "44": [
+            "The Heavens Arena",
+            "The Heavens Arena"
+          ]
+        },
+        "cover_characters": "Leorio Paradinight",
         "img": "images/hunter-x-hunter/vol_005.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Nen Sense (lit. Hisoka's Terms)",
+          "Nen Sense (lit. Hisoka's Terms)"
+        ],
+        "date_release": [
+          "October 4, 1999",
+          "January 3, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0185-7",
+          "978-4-08-872749-3"
+        ],
+        "chapters": {
+          "45": [
+            "Ren",
+            "Ren"
+          ],
+          "46": [
+            "Nen",
+            "Nen"
+          ],
+          "47": [
+            "The Invisible Wall",
+            "The Invisible Wall"
+          ],
+          "48": [
+            "Hisoka's Terms",
+            "Hisoka's Terms"
+          ],
+          "49": [
+            "The Battle Begins!!",
+            "The Battle Begins!!"
+          ],
+          "50": [
+            "Zetsu",
+            "Zetsu"
+          ],
+          "51": [
+            "Ten",
+            "Ten"
+          ],
+          "52": [
+            "Kastro",
+            "Kastro"
+          ],
+          "53": [
+            "Double",
+            "Double"
+          ],
+          "54": [
+            "Cause of Defeat",
+            "Cause of Defeat"
+          ]
+        },
+        "cover_characters": "Killua Zoldyck",
         "img": "images/hunter-x-hunter/vol_006.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Nen Combatant (lit. Next)",
+          "Nen Combatant (lit. Next)"
+        ],
+        "date_release": [
+          "December 22, 1999",
+          "March 7, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0332-5",
+          "978-4-08-872788-2"
+        ],
+        "chapters": {
+          "55": [
+            "As for Hisoka...",
+            "As for Hisoka..."
+          ],
+          "56": [
+            "Training Resumes",
+            "Training Resumes"
+          ],
+          "57": [
+            "Promise",
+            "Promise"
+          ],
+          "58": [
+            "Rematch",
+            "Rematch"
+          ],
+          "59": [
+            "Making the Grade",
+            "Making the Grade"
+          ],
+          "60": [
+            "Passing the Exam",
+            "Passing the Exam"
+          ],
+          "61": [
+            "Showdown",
+            "Showdown"
+          ],
+          "62": [
+            "Like You Mean It",
+            "Like You Mean It"
+          ],
+          "63": [
+            "Next",
+            "Next"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_007.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "The Island (lit. The Auction Begins!!)",
+          "The Island (lit. The Auction Begins!!)"
+        ],
+        "date_release": [
+          "April 4, 2000",
+          "May 2, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0643-2",
+          "978-4-08-872847-6"
+        ],
+        "chapters": {
+          "64": [
+            "Homecoming",
+            "Homecoming"
+          ],
+          "65": [
+            "About Ging",
+            "About Ging"
+          ],
+          "66": [
+            "The Tape",
+            "The Tape"
+          ],
+          "67": [
+            "The Flesh Collector's Mansion: Part 1",
+            "The Flesh Collector's Mansion: Part 1"
+          ],
+          "68": [
+            "The Flesh Collector's Mansion: Part 2",
+            "The Flesh Collector's Mansion: Part 2"
+          ],
+          "69": [
+            "Greed Island",
+            "Greed Island"
+          ],
+          "70": [
+            "To Yorknew",
+            "To Yorknew"
+          ],
+          "71": [
+            "The Auction Begins!!",
+            "The Auction Begins!!"
+          ],
+          "72": [
+            "September 1st: Part 1",
+            "September 1st: Part 1"
+          ],
+          "73": [
+            "September 1st: Part 2",
+            "September 1st: Part 2"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_008.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Shadow Beasts (lit. September 1st)",
+          "Shadow Beasts (lit. September 1st)"
+        ],
+        "date_release": [
+          "July 4, 2000",
+          "July 5, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0644-9",
+          "978-4-08-872890-2"
+        ],
+        "chapters": {
+          "74": [
+            "September 1st: Part 3",
+            "September 1st: Part 3"
+          ],
+          "75": [
+            "September 1st: Part 4",
+            "September 1st: Part 4"
+          ],
+          "76": [
+            "September 1st: Part 5",
+            "September 1st: Part 5"
+          ],
+          "77": [
+            "September 1st: Part 6",
+            "September 1st: Part 6"
+          ],
+          "78": [
+            "September 1st: Part 7",
+            "September 1st: Part 7"
+          ],
+          "79": [
+            "September 2nd: Part 1",
+            "September 2nd: Part 1"
+          ],
+          "80": [
+            "September 2nd: Part 2",
+            "September 2nd: Part 2"
+          ],
+          "81": [
+            "September 2nd: Part 3",
+            "September 2nd: Part 3"
+          ],
+          "82": [
+            "September 2nd: Part 4",
+            "September 2nd: Part 4"
+          ],
+          "83": [
+            "September 2nd: Part 5",
+            "September 2nd: Part 5"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_009.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Fakes, Swindles, and the Old Switcheroo (lit. September 3rd)",
+          "Fakes, Swindles, and the Old Switcheroo (lit. September 3rd)"
+        ],
+        "date_release": [
+          "November 2, 2000",
+          "September 5, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0645-6",
+          "978-4-08-873021-9"
+        ],
+        "chapters": {
+          "84": [
+            "September 2nd: Part 6",
+            "September 2nd: Part 6"
+          ],
+          "85": [
+            "September 3rd: Part 1",
+            "September 3rd: Part 1"
+          ],
+          "86": [
+            "September 3rd: Part 2",
+            "September 3rd: Part 2"
+          ],
+          "87": [
+            "September 3rd: Part 3",
+            "September 3rd: Part 3"
+          ],
+          "88": [
+            "September 3rd: Part 4",
+            "September 3rd: Part 4"
+          ],
+          "89": [
+            "September 3rd: Part 5",
+            "September 3rd: Part 5"
+          ],
+          "90": [
+            "September 3rd: Part 6",
+            "September 3rd: Part 6"
+          ],
+          "91": [
+            "September 3rd: Part 7",
+            "September 3rd: Part 7"
+          ],
+          "92": [
+            "September 3rd: Part 8",
+            "September 3rd: Part 8"
+          ],
+          "93": [
+            "September 3rd: Part 9",
+            "September 3rd: Part 9"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_010.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Next Stop: Meteor City—The Junkyard of the World (lit. September 4th)",
+          "Next Stop: Meteor City—The Junkyard of the World (lit. September 4th)"
+        ],
+        "date_release": [
+          "March 2, 2001",
+          "November 7, 2006"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0646-3",
+          "978-4-08-873087-5"
+        ],
+        "chapters": {
+          "94": [
+            "September 3rd: Part 10",
+            "September 3rd: Part 10"
+          ],
+          "95": [
+            "September 3rd: Part 11",
+            "September 3rd: Part 11"
+          ],
+          "96": [
+            "September 3rd: Part 12",
+            "September 3rd: Part 12"
+          ],
+          "97": [
+            "September 3rd: Part 13",
+            "September 3rd: Part 13"
+          ],
+          "98": [
+            "September 3rd: Part 14",
+            "September 3rd: Part 14"
+          ],
+          "99": [
+            "September 3rd: Part 15",
+            "September 3rd: Part 15"
+          ],
+          "100": [
+            "September 3rd: Part 16",
+            "September 3rd: Part 16"
+          ],
+          "101": [
+            "September 3rd: Part 17",
+            "September 3rd: Part 17"
+          ],
+          "102": [
+            "September 4th: Part 1",
+            "September 4th: Part 1"
+          ],
+          "103": [
+            "September 4th: Part 2",
+            "September 4th: Part 2"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_011.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "September 4th: Part 2",
+          "September 4th: Part 2"
+        ],
+        "date_release": [
+          "July 4, 2001",
+          "January 2, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-0647-0",
+          "978-4-08-873135-3"
+        ],
+        "chapters": {
+          "104": [
+            "September 4th: Part 3",
+            "September 4th: Part 3"
+          ],
+          "105": [
+            "September 4th: Part 4",
+            "September 4th: Part 4"
+          ],
+          "106": [
+            "September 4th: Part 5",
+            "September 4th: Part 5"
+          ],
+          "107": [
+            "September 4th: Part 6",
+            "September 4th: Part 6"
+          ],
+          "108": [
+            "September 4th: Part 7",
+            "September 4th: Part 7"
+          ],
+          "109": [
+            "September 4th: Part 8",
+            "September 4th: Part 8"
+          ],
+          "110": [
+            "September 4th: Part 9",
+            "September 4th: Part 9"
+          ],
+          "111": [
+            "September 4th: Part 10",
+            "September 4th: Part 10"
+          ],
+          "112": [
+            "September 4th: Part 11",
+            "September 4th: Part 11"
+          ],
+          "113": [
+            "September 4th: Part 12",
+            "September 4th: Part 12"
+          ],
+          "114": [
+            "September 4th: Part 13",
+            "September 4th: Part 13"
+          ],
+          "115": [
+            "September 4th: Part 14",
+            "September 4th: Part 14"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_012.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "13": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "September 10th",
+          "September 10th"
+        ],
+        "date_release": [
+          "November 2, 2001",
+          "March 6, 2007"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-1069-9",
+          "978-4-08-873180-3"
+        ],
+        "chapters": {
+          "116": [
+            "September 4th: Part 15",
+            "September 4th: Part 15"
+          ],
+          "117": [
+            "September 4th: Part 16",
+            "September 4th: Part 16"
+          ],
+          "118": [
+            "September 4th: Part 17",
+            "September 4th: Part 17"
+          ],
+          "119": [
+            "September 4th: Part 18",
+            "September 4th: Part 18"
+          ],
+          "120": [
+            "September 6th: Part 1",
+            "September 6th: Part 1"
+          ],
+          "121": [
+            "September 6th: Part 2",
+            "September 6th: Part 2"
+          ],
+          "122": [
+            "September 6th: Part 3",
+            "September 6th: Part 3"
+          ],
+          "123": [
+            "September 6th: Part 4",
+            "September 6th: Part 4"
+          ],
+          "124": [
+            "September 7th: Part 1 to September 10th: Part 1",
+            "September 7th: Part 1 to September 10th: Part 1"
+          ],
+          "125": [
+            "September 10th: Part 2",
+            "September 10th: Part 2"
+          ],
+          "126": [
+            "September 10th: Part 3",
+            "September 10th: Part 3"
+          ],
+          "127": [
+            "September 10th: Part 4",
+            "September 10th: Part 4"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_013.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "14": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "The Secret of Greed Island",
+          "The Secret of Greed Island"
+        ],
+        "date_release": [
+          "April 4, 2002",
+          "May 1, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1070-5",
+          "978-4-08-873262-6"
+        ],
+        "chapters": {
+          "128": [
+            "September 10th: Part 5",
+            "September 10th: Part 5"
+          ],
+          "129": [
+            "Antokiba, Town of Prizes",
+            "Antokiba, Town of Prizes"
+          ],
+          "130": [
+            "The Reason for the Recruitment",
+            "The Reason for the Recruitment"
+          ],
+          "131": [
+            "The Answer",
+            "The Answer"
+          ],
+          "132": [
+            "The Forty Spells",
+            "The Forty Spells"
+          ],
+          "133": [
+            "How to Defend Yourself Without Spells",
+            "How to Defend Yourself Without Spells"
+          ],
+          "134": [
+            "The Island's Secret",
+            "The Island's Secret"
+          ],
+          "135": [
+            "To Masadora! Part 1",
+            "To Masadora! Part 1"
+          ],
+          "136": [
+            "To Masadora! Part 2",
+            "To Masadora! Part 2"
+          ],
+          "137": [
+            "To Masadora! Part 3",
+            "To Masadora! Part 3"
+          ],
+          "138": [
+            "To Masadora...?",
+            "To Masadora...?"
+          ],
+          "139": [
+            "Are They Really Going to Masadora?",
+            "Are They Really Going to Masadora?"
+          ]
+        },
+        "cover_characters": "Kurapika",
         "img": "images/hunter-x-hunter/vol_014.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "15": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Progress",
+          "Progress"
+        ],
+        "date_release": [
+          "October 4, 2002",
+          "July 3, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1071-2",
+          "978-4-08-873314-2"
+        ],
+        "chapters": {
+          "140": [
+            "They Got to Masadora, But...",
+            "They Got to Masadora, But..."
+          ],
+          "141": [
+            "They Went to Masadora Already, So I'll Go With a Different Title Now",
+            "They Went to Masadora Already, So I'll Go With a Different Title Now"
+          ],
+          "142": [
+            "The Bomber",
+            "The Bomber"
+          ],
+          "143": [
+            "Countdown",
+            "Countdown"
+          ],
+          "144": [
+            "Release",
+            "Release"
+          ],
+          "145": [
+            "Janken",
+            "Janken"
+          ],
+          "146": [
+            "Abengane: Part 1",
+            "Abengane: Part 1"
+          ],
+          "147": [
+            "Abengane: Part 2",
+            "Abengane: Part 2"
+          ],
+          "148": [
+            "The Exam Begins",
+            "The Exam Begins"
+          ],
+          "149": [
+            "Encounter",
+            "Encounter"
+          ],
+          "150": [
+            "Embarkment",
+            "Embarkment"
+          ],
+          "151": [
+            "Progress",
+            "Progress"
+          ]
+        },
+        "cover_characters": "Biscuit Krueger",
         "img": "images/hunter-x-hunter/vol_015.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "16": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Face-Off",
+          "Face-Off"
+        ],
+        "date_release": [
+          "February 4, 2003",
+          "September 4, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1072-9",
+          "978-4-08-873382-1"
+        ],
+        "chapters": {
+          "152": [
+            "Contact",
+            "Contact"
+          ],
+          "153": [
+            "Success",
+            "Success"
+          ],
+          "154": [
+            "Common Cause",
+            "Common Cause"
+          ],
+          "155": [
+            "The Captain and His 14 Devils",
+            "The Captain and His 14 Devils"
+          ],
+          "156": [
+            "Face-Off: Part 1",
+            "Face-Off: Part 1"
+          ],
+          "157": [
+            "Face-Off: Part 2",
+            "Face-Off: Part 2"
+          ],
+          "158": [
+            "Two of a Kind +1",
+            "Two of a Kind +1"
+          ],
+          "159": [
+            "Aiai, the City of Love",
+            "Aiai, the City of Love"
+          ],
+          "160": [
+            "Face-Off: Part 3",
+            "Face-Off: Part 3"
+          ],
+          "161": [
+            "Face-Off: Part 4",
+            "Face-Off: Part 4"
+          ],
+          "162": [
+            "Face-Off: Part 5",
+            "Face-Off: Part 5"
+          ],
+          "163": [
+            "Face-Off: Part 6",
+            "Face-Off: Part 6"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_016.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "17": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Three-Way Struggle",
+          "Three-Way Struggle"
+        ],
+        "date_release": [
+          "June 4, 2003",
+          "November 6, 2007"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1073-6",
+          "978-4-08-873443-9"
+        ],
+        "chapters": {
+          "164": [
+            "Face-Off: Part 7",
+            "Face-Off: Part 7"
+          ],
+          "165": [
+            "Face-Off: Part 8",
+            "Face-Off: Part 8"
+          ],
+          "166": [
+            "Face-Off: Part 9",
+            "Face-Off: Part 9"
+          ],
+          "167": [
+            "Face-Off: Part 10",
+            "Face-Off: Part 10"
+          ],
+          "168": [
+            "Face-Off: Part 11",
+            "Face-Off: Part 11"
+          ],
+          "169": [
+            "Declaration of War",
+            "Declaration of War"
+          ],
+          "170": [
+            "Three-Way Struggle: Part 1",
+            "Three-Way Struggle: Part 1"
+          ],
+          "171": [
+            "Three-Way Struggle: Part 2",
+            "Three-Way Struggle: Part 2"
+          ],
+          "172": [
+            "Three-Way Struggle: Part 3",
+            "Three-Way Struggle: Part 3"
+          ],
+          "173": [
+            "Three-Way Struggle: Part 4",
+            "Three-Way Struggle: Part 4"
+          ],
+          "174": [
+            "Three-Way Struggle: Part 5",
+            "Three-Way Struggle: Part 5"
+          ],
+          "175": [
+            "Three-Way Struggle: Part 6",
+            "Three-Way Struggle: Part 6"
+          ]
+        },
+        "cover_characters": "Killua Zoldyck",
         "img": "images/hunter-x-hunter/vol_017.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "18": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Chance Encounter",
+          "Chance Encounter"
+        ],
+        "date_release": [
+          "October 3, 2003",
+          "January 1, 2008"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1471-0",
+          "978-4-08-873516-0"
+        ],
+        "chapters": {
+          "176": [
+            "Three-Way Struggle: Part 7",
+            "Three-Way Struggle: Part 7"
+          ],
+          "177": [
+            "Three-Way Struggle: Part 8",
+            "Three-Way Struggle: Part 8"
+          ],
+          "178": [
+            "Three-Way Struggle: Part 9",
+            "Three-Way Struggle: Part 9"
+          ],
+          "179": [
+            "Three-Way Struggle: Part 10",
+            "Three-Way Struggle: Part 10"
+          ],
+          "180": [
+            "Three-Way Struggle: Part 11",
+            "Three-Way Struggle: Part 11"
+          ],
+          "181": [
+            "Three-Way Struggle: Part 12",
+            "Three-Way Struggle: Part 12"
+          ],
+          "182": [
+            "Three-Way Struggle: Part 13",
+            "Three-Way Struggle: Part 13"
+          ],
+          "183": [
+            "Three-Way Struggle: Part 14",
+            "Three-Way Struggle: Part 14"
+          ],
+          "184": [
+            "The Choice of Three Cards",
+            "The Choice of Three Cards"
+          ],
+          "185": [
+            "Chance Encounter",
+            "Chance Encounter"
+          ],
+          "186": [
+            "The Queen",
+            "The Queen"
+          ],
+          "187": [
+            "The Best Fodder",
+            "The Best Fodder"
+          ]
+        },
+        "cover_characters": "Kurapika",
         "img": "images/hunter-x-hunter/vol_018.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "19": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "NGL",
+          "NGL"
+        ],
+        "date_release": [
+          "February 4, 2004",
+          "March 4, 2008"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1786-5",
+          "978-4-08-873562-7"
+        ],
+        "chapters": {
+          "188": [
+            "NGL",
+            "NGL"
+          ],
+          "189": [
+            "Infiltration",
+            "Infiltration"
+          ],
+          "190": [
+            "The Hunt",
+            "The Hunt"
+          ],
+          "191": [
+            "Pros",
+            "Pros"
+          ],
+          "192": [
+            "Human Dog",
+            "Human Dog"
+          ],
+          "193": [
+            "Scissors",
+            "Scissors"
+          ],
+          "194": [
+            "vs. Hagya's Squad: Part 1",
+            "vs. Hagya's Squad: Part 1"
+          ],
+          "195": [
+            "vs. Hagya's Squad: Part 2",
+            "vs. Hagya's Squad: Part 2"
+          ],
+          "196": [
+            "vs. Hagya's Squad: Part 3",
+            "vs. Hagya's Squad: Part 3"
+          ],
+          "197": [
+            "vs. Hagya's Squad: Part 4",
+            "vs. Hagya's Squad: Part 4"
+          ],
+          "198": [
+            "Sudden Attack",
+            "Sudden Attack"
+          ],
+          "199": [
+            "Light and Shadow",
+            "Light and Shadow"
+          ]
+        },
+        "cover_characters": "Leorio Paradinight",
         "img": "images/hunter-x-hunter/vol_019.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "20": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Weakness",
+          "Weakness"
+        ],
+        "date_release": [
+          "June 4, 2004",
+          "May 6, 2008"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1787-2",
+          "978-4-08-873607-5"
+        ],
+        "chapters": {
+          "200": [
+            "Stipulation",
+            "Stipulation"
+          ],
+          "201": [
+            "Reunion",
+            "Reunion"
+          ],
+          "202": [
+            "Duel",
+            "Duel"
+          ],
+          "203": [
+            "Gyro",
+            "Gyro"
+          ],
+          "204": [
+            "Gyro's Story",
+            "Gyro's Story"
+          ],
+          "205": [
+            "Time Remaining",
+            "Time Remaining"
+          ],
+          "206": [
+            "A Real Fight",
+            "A Real Fight"
+          ],
+          "207": [
+            "Weakness: Part 1",
+            "Weakness: Part 1"
+          ],
+          "208": [
+            "Weakness: Part 2",
+            "Weakness: Part 2"
+          ],
+          "209": [
+            "?",
+            "?"
+          ],
+          "210": [
+            "Weakness: Part 3",
+            "Weakness: Part 3"
+          ],
+          "211": [
+            "Loan Shark",
+            "Loan Shark"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_020.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "21": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Reunion",
+          "Reunion"
+        ],
+        "date_release": [
+          "February 4, 2005",
+          "July 1, 2008"
+        ],
+        "pages": [
+          "197",
+          "197"
+        ],
+        "ISBN": [
+          "978-1-4215-1788-9",
+          "978-4-08-873661-7"
+        ],
+        "chapters": {
+          "212": [
+            "Water Breaking",
+            "Water Breaking"
+          ],
+          "213": [
+            "Birth",
+            "Birth"
+          ],
+          "214": [
+            "Results",
+            "Results"
+          ],
+          "215": [
+            "Last Words",
+            "Last Words"
+          ],
+          "216": [
+            "Republic of East Gorteau",
+            "Republic of East Gorteau"
+          ],
+          "217": [
+            "Meat Orchard",
+            "Meat Orchard"
+          ],
+          "218": [
+            "Confession",
+            "Confession"
+          ],
+          "219": [
+            "Awakening",
+            "Awakening"
+          ],
+          "220": [
+            "Reunion: Part 1",
+            "Reunion: Part 1"
+          ],
+          "221": [
+            "Reunion: Part 2",
+            "Reunion: Part 2"
+          ],
+          "222": [
+            "Reunion: Part 3",
+            "Reunion: Part 3"
+          ],
+          "223": [
+            "10: Part 1",
+            "10: Part 1"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_021.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "22": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "8: Part 1",
+          "8: Part 1"
+        ],
+        "date_release": [
+          "July 4, 2005",
+          "September 2, 2008"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-1789-6",
+          "978-4-08-873792-8"
+        ],
+        "chapters": {
+          "224": [
+            "10: Part 2",
+            "10: Part 2"
+          ],
+          "225": [
+            "10: Part 3",
+            "10: Part 3"
+          ],
+          "226": [
+            "10: Part 4",
+            "10: Part 4"
+          ],
+          "227": [
+            "10: Part 5",
+            "10: Part 5"
+          ],
+          "228": [
+            "10: Part 6",
+            "10: Part 6"
+          ],
+          "229": [
+            "10: Part 7",
+            "10: Part 7"
+          ],
+          "230": [
+            "9: Part 1",
+            "9: Part 1"
+          ],
+          "231": [
+            "9: Part 2",
+            "9: Part 2"
+          ],
+          "232": [
+            "9: Part 3",
+            "9: Part 3"
+          ],
+          "233": [
+            "9: Part 4",
+            "9: Part 4"
+          ],
+          "234": [
+            "9: Part 5",
+            "9: Part 5"
+          ],
+          "235": [
+            "8: Part 1",
+            "8: Part 1"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_022.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "23": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "6: Part 1",
+          "6: Part 1"
+        ],
+        "date_release": [
+          "March 3, 2006",
+          "November 4, 2008"
+        ],
+        "pages": [
+          "210",
+          "210"
+        ],
+        "ISBN": [
+          "978-1-4215-1790-2",
+          "978-4-08-873882-6"
+        ],
+        "chapters": {
+          "236": [
+            "8: Part 2",
+            "8: Part 2"
+          ],
+          "237": [
+            "8: Part 3",
+            "8: Part 3"
+          ],
+          "238": [
+            "8: Part 4",
+            "8: Part 4"
+          ],
+          "239": [
+            "8: Part 5",
+            "8: Part 5"
+          ],
+          "240": [
+            "8: Part 6",
+            "8: Part 6"
+          ],
+          "241": [
+            "8: Part 7",
+            "8: Part 7"
+          ],
+          "242": [
+            "7: Part 1",
+            "7: Part 1"
+          ],
+          "243": [
+            "7: Part 2",
+            "7: Part 2"
+          ],
+          "244": [
+            "6: Part 1",
+            "6: Part 1"
+          ],
+          "245": [
+            "6: Part 2",
+            "6: Part 2"
+          ],
+          "246": [
+            "6: Part 3",
+            "6: Part 3"
+          ],
+          "247": [
+            "6: Part 4",
+            "6: Part 4"
+          ]
+        },
+        "cover_characters": "Meruem",
         "img": "images/hunter-x-hunter/vol_023.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "24": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "1: Part 4",
+          "1: Part 4"
+        ],
+        "date_release": [
+          "October 4, 2007",
+          "January 6, 2009"
+        ],
+        "pages": [
+          "210",
+          "210"
+        ],
+        "ISBN": [
+          "978-1-4215-2216-6",
+          "978-4-08-874453-7"
+        ],
+        "chapters": {
+          "248": [
+            "6: Part 5",
+            "6: Part 5"
+          ],
+          "249": [
+            "6: Part 6",
+            "6: Part 6"
+          ],
+          "250": [
+            "6: Part 7",
+            "6: Part 7"
+          ],
+          "251": [
+            "6: Part 8",
+            "6: Part 8"
+          ],
+          "252": [
+            "6: Part 9",
+            "6: Part 9"
+          ],
+          "253": [
+            "6: Part 10",
+            "6: Part 10"
+          ],
+          "254": [
+            "6: Part 11",
+            "6: Part 11"
+          ],
+          "255": [
+            "5: Part 1 to 2: Part 1",
+            "5: Part 1 to 2: Part 1"
+          ],
+          "256": [
+            "2: Part 2",
+            "2: Part 2"
+          ],
+          "257": [
+            "1: Part 1",
+            "1: Part 1"
+          ],
+          "258": [
+            "1: Part 2",
+            "1: Part 2"
+          ],
+          "259": [
+            "1: Part 3",
+            "1: Part 3"
+          ],
+          "260": [
+            "1: Part 4",
+            "1: Part 4"
+          ]
+        },
+        "cover_characters": "Meruem",
         "img": "images/hunter-x-hunter/vol_024.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "25": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Charge",
+          "Charge"
+        ],
+        "date_release": [
+          "March 4, 2008",
+          "March 3, 2009"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-2588-4",
+          "978-4-08-874535-0"
+        ],
+        "chapters": {
+          "261": [
+            "Charge: Part 1",
+            "Charge: Part 1"
+          ],
+          "262": [
+            "Charge: Part 2",
+            "Charge: Part 2"
+          ],
+          "263": [
+            "Charge: Part 3",
+            "Charge: Part 3"
+          ],
+          "264": [
+            "Charge: Part 4",
+            "Charge: Part 4"
+          ],
+          "265": [
+            "Charge: Part 5",
+            "Charge: Part 5"
+          ],
+          "266": [
+            "\"In the Unlikely Event Of...\"",
+            "\"In the Unlikely Event Of...\""
+          ],
+          "267": [
+            "Activation",
+            "Activation"
+          ],
+          "268": [
+            "The King",
+            "The King"
+          ],
+          "269": [
+            "Adversity Is a Good Thing",
+            "Adversity Is a Good Thing"
+          ],
+          "270": [
+            "Indebted To",
+            "Indebted To"
+          ]
+        },
+        "cover_characters": "Komugi",
         "img": "images/hunter-x-hunter/vol_025.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "26": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "We Meet Again",
+          "We Meet Again"
+        ],
+        "date_release": [
+          "October 3, 2008",
+          "January 5, 2010"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-3068-0",
+          "978-4-08-874610-4"
+        ],
+        "chapters": {
+          "271": [
+            "Separation",
+            "Separation"
+          ],
+          "272": [
+            "Error",
+            "Error"
+          ],
+          "273": [
+            "We Meet Again",
+            "We Meet Again"
+          ],
+          "274": [
+            "Solution",
+            "Solution"
+          ],
+          "275": [
+            "Promise",
+            "Promise"
+          ],
+          "276": [
+            "Missileman",
+            "Missileman"
+          ],
+          "277": [
+            "Insult",
+            "Insult"
+          ],
+          "278": [
+            "Destruction",
+            "Destruction"
+          ],
+          "279": [
+            "Escape",
+            "Escape"
+          ],
+          "280": [
+            "Direct Hit",
+            "Direct Hit"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
         "img": "images/hunter-x-hunter/vol_026.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "27": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Name",
+          "Name"
+        ],
+        "date_release": [
+          "December 25, 2009",
+          "March 1, 2011"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-4215-3862-4",
+          "978-4-08-870065-6"
+        ],
+        "chapters": {
+          "281": [
+            "Godspeed",
+            "Godspeed"
+          ],
+          "282": [
+            "Sealed Area",
+            "Sealed Area"
+          ],
+          "283": [
+            "Determination",
+            "Determination"
+          ],
+          "284": [
+            "Fifteen Minutes",
+            "Fifteen Minutes"
+          ],
+          "285": [
+            "Doubles",
+            "Doubles"
+          ],
+          "286": [
+            "Core",
+            "Core"
+          ],
+          "287": [
+            "Present State",
+            "Present State"
+          ],
+          "288": [
+            "Accolade",
+            "Accolade"
+          ],
+          "289": [
+            "Terms",
+            "Terms"
+          ],
+          "290": [
+            "Name",
+            "Name"
+          ]
+        },
+        "cover_characters": "Isaac Netero",
         "img": "images/hunter-x-hunter/vol_027.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "28": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Regeneration",
+          "Regeneration"
+        ],
+        "date_release": [
+          "July 4, 2011",
+          "September 4, 2012"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-4260-7",
+          "978-4-08-870326-8"
+        ],
+        "chapters": {
+          "291": [
+            "Soliloquy",
+            "Soliloquy"
+          ],
+          "292": [
+            "Hidden Agenda",
+            "Hidden Agenda"
+          ],
+          "293": [
+            "Metamorphosis",
+            "Metamorphosis"
+          ],
+          "294": [
+            "Breakdown",
+            "Breakdown"
+          ],
+          "295": [
+            "Determination",
+            "Determination"
+          ],
+          "296": [
+            "Admission",
+            "Admission"
+          ],
+          "297": [
+            "The Last",
+            "The Last"
+          ],
+          "298": [
+            "Rose",
+            "Rose"
+          ],
+          "299": [
+            "Regeneration",
+            "Regeneration"
+          ],
+          "300": [
+            "Insurance",
+            "Insurance"
+          ]
+        },
+        "cover_characters": "Neferpitou",
         "img": "images/hunter-x-hunter/vol_028.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "29": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Memory",
+          "Memory"
+        ],
+        "date_release": [
+          "August 4, 2011",
+          "January 1, 2013"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-4261-4",
+          "978-4-08-870327-5"
+        ],
+        "chapters": {
+          "301": [
+            "Memory",
+            "Memory"
+          ],
+          "302": [
+            "Target",
+            "Target"
+          ],
+          "303": [
+            "Pain",
+            "Pain"
+          ],
+          "304": [
+            "Magic",
+            "Magic"
+          ],
+          "305": [
+            "Sorry",
+            "Sorry"
+          ],
+          "306": [
+            "Relief",
+            "Relief"
+          ],
+          "307": [
+            "Loss",
+            "Loss"
+          ],
+          "308": [
+            "Flash",
+            "Flash"
+          ],
+          "309": [
+            "Game",
+            "Game"
+          ],
+          "310": [
+            "Action",
+            "Action"
+          ]
+        },
+        "cover_characters": "Isaac Netero",
         "img": "images/hunter-x-hunter/vol_029.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "30": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Answer",
+          "Answer"
+        ],
+        "date_release": [
+          "April 4, 2012",
+          "May 7, 2013"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-1-4215-5267-5",
+          "978-4-08-870450-0"
+        ],
+        "chapters": {
+          "311": [
+            "Deadline",
+            "Deadline"
+          ],
+          "312": [
+            "Resolve",
+            "Resolve"
+          ],
+          "313": [
+            "One Word",
+            "One Word"
+          ],
+          "314": [
+            "Persuasion",
+            "Persuasion"
+          ],
+          "315": [
+            "Home",
+            "Home"
+          ],
+          "316": [
+            "Real Name",
+            "Real Name"
+          ],
+          "317": [
+            "Answer",
+            "Answer"
+          ],
+          "318": [
+            "Final Will",
+            "Final Will"
+          ],
+          "319": [
+            "Lottery",
+            "Lottery"
+          ],
+          "320": [
+            "Voting",
+            "Voting"
+          ]
+        },
+        "cover_characters": "Pariston Hill",
         "img": "images/hunter-x-hunter/vol_030.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "31": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Joining the Fray",
+          "Joining the Fray"
+        ],
+        "date_release": [
+          "December 4, 2012",
+          "December 3, 2013"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-5887-5",
+          "978-4-08-870697-9"
+        ],
+        "chapters": {
+          "321": [
+            "Monster",
+            "Monster"
+          ],
+          "322": [
+            "Siblings",
+            "Siblings"
+          ],
+          "323": [
+            "Job Offer",
+            "Job Offer"
+          ],
+          "324": [
+            "Butler",
+            "Butler"
+          ],
+          "325": [
+            "Joining the Fray",
+            "Joining the Fray"
+          ],
+          "326": [
+            "Open Hostilities",
+            "Open Hostilities"
+          ],
+          "327": [
+            "Riddle",
+            "Riddle"
+          ],
+          "328": [
+            "Arrangements",
+            "Arrangements"
+          ],
+          "329": [
+            "Spy",
+            "Spy"
+          ],
+          "330": [
+            "Confession",
+            "Confession"
+          ]
+        },
+        "cover_characters": "Killua Zoldyck",
         "img": "images/hunter-x-hunter/vol_031.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "32": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Total Defeat",
+          "Total Defeat"
+        ],
+        "date_release": [
+          "December 28, 2012",
+          "April 1, 2014"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-5912-4",
+          "978-4-08-870698-6"
+        ],
+        "chapters": {
+          "331": [
+            "Day of Reckoning",
+            "Day of Reckoning"
+          ],
+          "332": [
+            "Applause",
+            "Applause"
+          ],
+          "333": [
+            "Rumble",
+            "Rumble"
+          ],
+          "334": [
+            "Total Defeat",
+            "Total Defeat"
+          ],
+          "335": [
+            "Decision",
+            "Decision"
+          ],
+          "336": [
+            "Release",
+            "Release"
+          ],
+          "337": [
+            "Repentance",
+            "Repentance"
+          ],
+          "338": [
+            "Atop a Tree",
+            "Atop a Tree"
+          ],
+          "339": [
+            "Stillness",
+            "Stillness"
+          ],
+          "340": [
+            "Special Mission",
+            "Special Mission"
+          ]
+        },
+        "cover_characters": "Ging Freecss",
         "img": "images/hunter-x-hunter/vol_032.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "33": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Threats",
+          "Threats"
+        ],
+        "date_release": [
+          "June 3, 2016",
+          "March 7, 2017"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-9264-0",
+          "978-4-08-880352-4"
+        ],
+        "chapters": {
+          "341": [
+            "Threats",
+            "Threats"
+          ],
+          "342": [
+            "Challenge",
+            "Challenge"
+          ],
+          "343": [
+            "Invitation",
+            "Invitation"
+          ],
+          "344": [
+            "Author",
+            "Author"
+          ],
+          "345": [
+            "Signature",
+            "Signature"
+          ],
+          "346": [
+            "Options",
+            "Options"
+          ],
+          "347": [
+            "Inauguration",
+            "Inauguration"
+          ],
+          "348": [
+            "Resolve",
+            "Resolve"
+          ],
+          "349": [
+            "Worm Toxin",
+            "Worm Toxin"
+          ],
+          "350": [
+            "Prince",
+            "Prince"
+          ]
+        },
+        "cover_characters": "Kurapika",
         "img": "images/hunter-x-hunter/vol_033.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "34": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Battle to the Death",
+          "Battle to the Death"
+        ],
+        "date_release": [
+          "June 26, 2017",
+          "March 6, 2018"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-4215-9948-9",
+          "978-4-08-881248-9"
+        ],
+        "chapters": {
+          "351": [
+            "Battle to the Death",
+            "Battle to the Death"
+          ],
+          "352": [
+            "Troublesome",
+            "Troublesome"
+          ],
+          "353": [
+            "Cold-Blooded",
+            "Cold-Blooded"
+          ],
+          "354": [
+            "Head",
+            "Head"
+          ],
+          "355": [
+            "Detonation",
+            "Detonation"
+          ],
+          "356": [
+            "Unfortunate: Part 1",
+            "Unfortunate: Part 1"
+          ],
+          "357": [
+            "Unfortunate: Part 2",
+            "Unfortunate: Part 2"
+          ],
+          "358": [
+            "Eve",
+            "Eve"
+          ],
+          "359": [
+            "Departure",
+            "Departure"
+          ],
+          "360": [
+            "Parasite",
+            "Parasite"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_034.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "35": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Ship of Fools (lit. Nen Beast)",
+          "Ship of Fools (lit. Nen Beast)"
+        ],
+        "date_release": [
+          "February 2, 2018",
+          "March 5, 2019"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-9747-0306-7",
+          "978-4-08-881455-1"
+        ],
+        "chapters": {
+          "361": [
+            "Withdraw",
+            "Withdraw"
+          ],
+          "362": [
+            "Resolve",
+            "Resolve"
+          ],
+          "363": [
+            "Nen Beast",
+            "Nen Beast"
+          ],
+          "364": [
+            "Speculation",
+            "Speculation"
+          ],
+          "365": [
+            "Choice",
+            "Choice"
+          ],
+          "366": [
+            "To Each His Own",
+            "To Each His Own"
+          ],
+          "367": [
+            "Synchronization",
+            "Synchronization"
+          ],
+          "368": [
+            "Foul Play",
+            "Foul Play"
+          ],
+          "369": [
+            "Limits",
+            "Limits"
+          ],
+          "370": [
+            "Observation",
+            "Observation"
+          ]
+        },
+        "cover_characters": "Kurapika",
         "img": "images/hunter-x-hunter/vol_035.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "36": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Balance",
+          "Balance"
+        ],
+        "date_release": [
+          "October 4, 2018",
+          "August 6, 2019"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-9747-0841-3",
+          "978-4-08-881640-1"
+        ],
+        "chapters": {
+          "371": [
+            "Mission",
+            "Mission"
+          ],
+          "372": [
+            "Disappearance",
+            "Disappearance"
+          ],
+          "373": [
+            "Inheritance",
+            "Inheritance"
+          ],
+          "374": [
+            "Ability",
+            "Ability"
+          ],
+          "375": [
+            "Persuasion",
+            "Persuasion"
+          ],
+          "376": [
+            "Determination",
+            "Determination"
+          ],
+          "377": [
+            "Scheme",
+            "Scheme"
+          ],
+          "378": [
+            "Balance",
+            "Balance"
+          ],
+          "379": [
+            "Collaboration",
+            "Collaboration"
+          ],
+          "380": [
+            "Alarm",
+            "Alarm"
+          ]
+        },
+        "cover_characters": "Chrollo Lucilfer",
         "img": "images/hunter-x-hunter/vol_036.png",
-        "owned": true,
+        "owned": false,
         "prise": "10€",
         "date_bought": ""
       },
       "37": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "title": [
+          "Escape",
+          "Escape"
+        ],
+        "date_release": [
+          "November 4, 2022",
+          "October 3, 2023"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-9747-1540-4",
+          "978-4-08-883365-1"
+        ],
+        "chapters": {
+          "381": [
+            "Predation",
+            "Predation"
+          ],
+          "382": [
+            "Awakening",
+            "Awakening"
+          ],
+          "383": [
+            "Escape",
+            "Escape"
+          ],
+          "384": [
+            "War",
+            "War"
+          ],
+          "385": [
+            "Warning",
+            "Warning"
+          ],
+          "386": [
+            "Hypothesis",
+            "Hypothesis"
+          ],
+          "387": [
+            "Recreation",
+            "Recreation"
+          ],
+          "388": [
+            "Reflection",
+            "Reflection"
+          ],
+          "389": [
+            "Curse",
+            "Curse"
+          ],
+          "390": [
+            "Clash: Part 1",
+            "Clash: Part 1"
+          ]
+        },
+        "cover_characters": "Morena Prudo",
         "img": "images/hunter-x-hunter/vol_037.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "38": {
+        "title": [
+          "Founding",
+          "Founding"
+        ],
+        "date_release": [
+          "September 4, 2024",
+          "January 6, 2026"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-9747-5859-3",
+          "978-4-08-884279-0"
+        ],
+        "chapters": {
+          "391": [
+            "Clash: Part 2",
+            "Clash: Part 2"
+          ],
+          "392": [
+            "Information",
+            "Information"
+          ],
+          "393": [
+            "Plea",
+            "Plea"
+          ],
+          "394": [
+            "Hypothesis",
+            "Hypothesis"
+          ],
+          "395": [
+            "Founding: Part 1",
+            "Founding: Part 1"
+          ],
+          "396": [
+            "Founding: Part 2",
+            "Founding: Part 2"
+          ],
+          "397": [
+            "Founding: Part 3",
+            "Founding: Part 3"
+          ],
+          "398": [
+            "Search",
+            "Search"
+          ],
+          "399": [
+            "Expulsion",
+            "Expulsion"
+          ],
+          "400": [
+            "Secrecy",
+            "Secrecy"
+          ]
+        },
+        "cover_characters": "Gon Freecss",
+        "img": "images/hunter-x-hunter/vol_038.png",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
