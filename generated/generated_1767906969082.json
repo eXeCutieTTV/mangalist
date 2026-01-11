@@ -2,7 +2,7 @@
   "One Piece": {
     "title": "One Piece",
     "author": "Eiichiro Oda",
-    "released": "1997",
+    "released": "December 24, 1997",
     "volumes": {
       "1": {
         "title": [
@@ -8443,7 +8443,7 @@
   "Bleach": {
     "title": "Bleach",
     "author": "Tite Kubo",
-    "released": "2001",
+    "released": "January 5, 2001",
     "volumes": {
       "1": {
         "title": [
@@ -13272,6 +13272,167 @@
           "Ichigo KurosakiRukia Kuchiki"
         ],
         "img": "images/bleach/vol_074.png",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      }
+    }
+  },
+  "Frieren": {
+    "title": "Frieren",
+    "author": "Kanehito Yamada(story) & Tsukasa Abe(art)",
+    "released": "August 18, 2020",
+    "volumes": {
+      "1": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "2": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "3": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "4": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "5": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "6": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "7": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "8": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "9": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "10": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "11": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "12": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "13": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
+        "owned": false,
+        "prise": "10€",
+        "date_bought": ""
+      },
+      "14": {
+        "title": [],
+        "date_release": [],
+        "pages": [],
+        "ISBN": [],
+        "chapters": {},
+        "img": "",
         "owned": false,
         "prise": "10€",
         "date_bought": ""
