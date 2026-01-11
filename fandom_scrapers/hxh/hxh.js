@@ -18,7 +18,7 @@ function hxh(id) {
 
     const result = {
         title: [header_tds[1].textContent.replace(/\n/, ""), header_tds[1].textContent.replace(/\n/, "")],
-        date_release: [header_tds[2].textContent.replace(/\n/, ""), header_tds[3].textContent.replace(/\n/, "")],
+        date_release: [header_tds[3].textContent.replace(/\n/, ""), header_tds[2].textContent.replace(/\n/, "")],
         pages: [bodyObj.img.querySelector("i").textContent.replace(/\ pages/, ""), bodyObj.img.querySelector("i").textContent.replace(/\ pages/, "")],
         ISBN: [info_lis[1].textContent.replace(/\(EN\)/, "").trim(), info_lis[0].textContent.replace(/\(JP\)/, "").trim()],
         chapters: {},
