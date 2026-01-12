@@ -9,7 +9,7 @@ function naruto(id) {
         header: trs[2 * localId].querySelectorAll("td"),
         body: trs[2 * localId + 1]
     }
-    console.log(volume);
+    //console.log(volume);
     const lis = volume.body.querySelectorAll("li");
 
     const result = {
@@ -36,7 +36,10 @@ function naruto(id) {
         // normalize: remove leading zeros
         number = number.replace(/^0+(\d)/, "$1");
 
-        const title_match = title.match(/^"([^"]+)" \(([^,]+),/);
+        const title_clean = title.replace(/(\"")/, `"'`).replace(/(\"")/, `'"`); // for chapter 429...
+        //console.log(title_clean, title);
+        const title_match = title_clean.match(/^"([^"]+)" \(([^,]+),/);
+        //console.log(title_match);
         const title_en = title_match[1];
         const title_jp = title_match[2];
 
@@ -44,5 +47,5 @@ function naruto(id) {
     }
     temp[id + 1] = result;
 }
-naruto(27)
-console.log(temp)
+for (let i = 0; i < 72; i++) { /*console.log(i);*/ naruto(i); }
+JSON.stringify(temp); //need to manually change title of chapter 528 - due to double quotes in title
