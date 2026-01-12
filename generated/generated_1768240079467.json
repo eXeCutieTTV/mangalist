@@ -23888,155 +23888,801 @@
     "released": "April 9, 2019",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_001.png",
+        "title": [
+          "Volume 1",
+          "Volume 1"
+        ],
+        "date_release": [
+          "April 2, 2019",
+          "January 23, 2017"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1632367709",
+          "978-4063886900"
+        ],
+        "chapters": {
+          "1": [
+            "Chapter 1",
+            "Chapter 1"
+          ],
+          "2": [
+            "Chapter 2",
+            "Chapter 2"
+          ],
+          "3": [
+            "Chapter 3",
+            "Chapter 3"
+          ],
+          "4": [
+            "Chapter 4",
+            "Chapter 4"
+          ],
+          "5": [
+            "Chapter 5",
+            "Chapter 5"
+          ]
+        },
+        "cover_characters": [
+          "Coco"
+        ],
+        "img": "images/whAtelier/vol_001.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_002.png",
+        "title": [
+          "Volume 2",
+          "Volume 2"
+        ],
+        "date_release": [
+          "June 25, 2019",
+          "August 23, 2017"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1632368041",
+          "978-4065101384"
+        ],
+        "chapters": {
+          "6": [
+            "Chapter 6",
+            "Chapter 6"
+          ],
+          "7": [
+            "Chapter 7",
+            "Chapter 7"
+          ],
+          "8": [
+            "Chapter 8",
+            "Chapter 8"
+          ],
+          "9": [
+            "Chapter 9",
+            "Chapter 9"
+          ],
+          "10": [
+            "Chapter 10",
+            "Chapter 10"
+          ],
+          "11": [
+            "Chapter 11",
+            "Chapter 11"
+          ]
+        },
+        "cover_characters": [
+          "Agott"
+        ],
+        "img": "images/whAtelier/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_003.png",
+        "title": [
+          "Volume 3",
+          "Volume 3"
+        ],
+        "date_release": [
+          "August 27, 2019",
+          "February 23, 2018"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1632368058",
+          "978-4065109304"
+        ],
+        "chapters": {
+          "12": [
+            "Chapter 12",
+            "Chapter 12"
+          ],
+          "13": [
+            "Chapter 13",
+            "Chapter 13"
+          ],
+          "14": [
+            "Chapter 14",
+            "Chapter 14"
+          ],
+          "15": [
+            "Chapter 15",
+            "Chapter 15"
+          ],
+          "16": [
+            "Chapter 16",
+            "Chapter 16"
+          ],
+          "17": [
+            "Chapter 17",
+            "Chapter 17"
+          ]
+        },
+        "cover_characters": [
+          "Qifrey"
+        ],
+        "img": "images/whAtelier/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_004.png",
+        "title": [
+          "Volume 4",
+          "Volume 4"
+        ],
+        "date_release": [
+          "November 12, 2019",
+          "September 21, 2018"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1632368607",
+          "978-4065126813"
+        ],
+        "chapters": {
+          "18": [
+            "Chapter 18",
+            "Chapter 18"
+          ],
+          "19": [
+            "Chapter 19",
+            "Chapter 19"
+          ],
+          "20": [
+            "Chapter 20",
+            "Chapter 20"
+          ],
+          "21": [
+            "Chapter 21",
+            "Chapter 21"
+          ],
+          "22": [
+            "Chapter 22",
+            "Chapter 22"
+          ],
+          "23": [
+            "Chapter 23",
+            "Chapter 23"
+          ]
+        },
+        "cover_characters": [
+          "Richeh"
+        ],
+        "img": "images/whAtelier/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_005.png",
+        "title": [
+          "Volume 5",
+          "Volume 5"
+        ],
+        "date_release": [
+          "March 17, 2020",
+          "May 23, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1632369291",
+          "978-4065155974"
+        ],
+        "chapters": {
+          "24": [
+            "Chapter 24",
+            "Chapter 24"
+          ],
+          "25": [
+            "Chapter 25",
+            "Chapter 25"
+          ],
+          "26": [
+            "Chapter 26",
+            "Chapter 26"
+          ],
+          "27": [
+            "Chapter 27",
+            "Chapter 27"
+          ],
+          "28": [
+            "Chapter 28",
+            "Chapter 28"
+          ],
+          "29": [
+            "Chapter 29",
+            "Chapter 29"
+          ]
+        },
+        "cover_characters": [
+          "Tetia"
+        ],
+        "img": "images/whAtelier/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_006.png",
+        "title": [
+          "Volume 6",
+          "Volume 6"
+        ],
+        "date_release": [
+          "September 15, 2020",
+          "November 21, 2019"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "978-1646510108",
+          "978-4065177785"
+        ],
+        "chapters": {
+          "30": [
+            "Chapter 30",
+            "Chapter 30"
+          ],
+          "31": [
+            "Chapter 31",
+            "Chapter 31"
+          ],
+          "32": [
+            "Chapter 32",
+            "Chapter 32"
+          ],
+          "33": [
+            "Chapter 33",
+            "Chapter 33"
+          ],
+          "34": [
+            "Chapter 34",
+            "Chapter 34"
+          ],
+          "35": [
+            "Chapter 35",
+            "Chapter 35"
+          ]
+        },
+        "cover_characters": [
+          "Olruggio"
+        ],
+        "img": "images/whAtelier/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_007.png",
+        "title": [
+          "Volume 7",
+          "Volume 7"
+        ],
+        "date_release": [
+          "December 29, 2020",
+          "May 22, 2020"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "978-1646510788",
+          "978-4065192665"
+        ],
+        "chapters": {
+          "36": [
+            "Chapter 36",
+            "Chapter 36"
+          ],
+          "37": [
+            "Chapter 37",
+            "Chapter 37"
+          ],
+          "38": [
+            "Chapter 38",
+            "Chapter 38"
+          ],
+          "39": [
+            "Chapter 39",
+            "Chapter 39"
+          ],
+          "40": [
+            "Chapter 40",
+            "Chapter 40"
+          ]
+        },
+        "cover_characters": [
+          "Coco",
+          "Brushbuddy"
+        ],
+        "img": "images/whAtelier/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_008.png",
+        "title": [
+          "Volume 8",
+          "Volume 8"
+        ],
+        "date_release": [
+          "September 28, 2021",
+          "December 23, 2020"
+        ],
+        "pages": [
+          "160",
+          "160"
+        ],
+        "ISBN": [
+          "978-1646512690",
+          "978-4065216255"
+        ],
+        "chapters": {
+          "41": [
+            "Chapter 41",
+            "Chapter 41"
+          ],
+          "42": [
+            "Chapter 42",
+            "Chapter 42"
+          ],
+          "43": [
+            "Chapter 43",
+            "Chapter 43"
+          ],
+          "44": [
+            "Chapter 44",
+            "Chapter 44"
+          ],
+          "45": [
+            "Chapter 45",
+            "Chapter 45"
+          ]
+        },
+        "cover_characters": [
+          "Tartah"
+        ],
+        "img": "images/whAtelier/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_009.png",
+        "title": [
+          "Volume 9",
+          "Volume 9"
+        ],
+        "date_release": [
+          "June 14, 2022",
+          "July 21, 2021"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "978-1646514472",
+          "978-4065241004"
+        ],
+        "chapters": {
+          "46": [
+            "Chapter 46",
+            "Chapter 46"
+          ],
+          "47": [
+            "Chapter 47",
+            "Chapter 47"
+          ],
+          "48": [
+            "Chapter 48",
+            "Chapter 48"
+          ],
+          "49": [
+            "Chapter 49",
+            "Chapter 49"
+          ],
+          "50": [
+            "Chapter 50",
+            "Chapter 50"
+          ],
+          "51": [
+            "Chapter 51",
+            "Chapter 51"
+          ]
+        },
+        "cover_characters": [
+          "Easthies"
+        ],
+        "img": "images/whAtelier/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_010.png",
+        "title": [
+          "Volume 10",
+          "Volume 10"
+        ],
+        "date_release": [
+          "November 15, 2022",
+          "April 21, 2022"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "978-1646516186",
+          "978-4065274125"
+        ],
+        "chapters": {
+          "52": [
+            "Chapter 52",
+            "Chapter 52"
+          ],
+          "53": [
+            "Chapter 53",
+            "Chapter 53"
+          ],
+          "54": [
+            "Chapter 54",
+            "Chapter 54"
+          ],
+          "55": [
+            "Chapter 55",
+            "Chapter 55"
+          ],
+          "56": [
+            "Chapter 56",
+            "Chapter 56"
+          ],
+          "57": [
+            "Chapter 57",
+            "Chapter 57"
+          ]
+        },
+        "cover_characters": [
+          "Ininia"
+        ],
+        "img": "images/whAtelier/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_011.png",
+        "title": [
+          "Volume 11",
+          "Volume 11"
+        ],
+        "date_release": [
+          "September 12, 2023",
+          "October 21, 2022"
+        ],
+        "pages": [
+          "171",
+          "171"
+        ],
+        "ISBN": [
+          "978-1646517459",
+          "978-4065296059"
+        ],
+        "chapters": {
+          "58": [
+            "Chapter 58",
+            "Chapter 58"
+          ],
+          "59": [
+            "Chapter 59",
+            "Chapter 59"
+          ],
+          "60": [
+            "Chapter 60",
+            "Chapter 60"
+          ],
+          "61": [
+            "Chapter 61",
+            "Chapter 61"
+          ],
+          "62": [
+            "Chapter 62",
+            "Chapter 62"
+          ]
+        },
+        "cover_characters": [
+          "Agott"
+        ],
+        "img": "images/whAtelier/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_012.png",
+        "title": [
+          "Volume 12",
+          "Volume 12"
+        ],
+        "date_release": [
+          "May 21, 2024",
+          "June 22, 2023"
+        ],
+        "pages": [
+          "195",
+          "195"
+        ],
+        "ISBN": [
+          "979-888877079-5",
+          "978-4065319697"
+        ],
+        "chapters": {
+          "63": [
+            "Chapter 63",
+            "Chapter 63"
+          ],
+          "64": [
+            "Chapter 64",
+            "Chapter 64"
+          ],
+          "65": [
+            "Chapter 65",
+            "Chapter 65"
+          ],
+          "66": [
+            "Chapter 66",
+            "Chapter 66"
+          ],
+          "67": [
+            "Chapter 67",
+            "Chapter 67"
+          ],
+          "68": [
+            "Chapter 68",
+            "Chapter 68"
+          ]
+        },
+        "cover_characters": [
+          "Qifrey"
+        ],
+        "img": "images/whAtelier/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_013.png",
+        "title": [
+          "Volume 13",
+          "Volume 13"
+        ],
+        "date_release": [
+          "January 14, 2025",
+          "February 22, 2024"
+        ],
+        "pages": [
+          "184",
+          "184"
+        ],
+        "ISBN": [
+          "979-8888773307",
+          "978-4065346525"
+        ],
+        "chapters": {
+          "69": [
+            "Chapter 69",
+            "Chapter 69"
+          ],
+          "70": [
+            "Chapter 70",
+            "Chapter 70"
+          ],
+          "71": [
+            "Chapter 71",
+            "Chapter 71"
+          ],
+          "72": [
+            "Chapter 72",
+            "Chapter 72"
+          ],
+          "73": [
+            "Chapter 73",
+            "Chapter 73"
+          ],
+          "74": [
+            "Chapter 74",
+            "Chapter 74"
+          ],
+          "75": [
+            "Chapter 75",
+            "Chapter 75"
+          ]
+        },
+        "cover_characters": [
+          "Coustas"
+        ],
+        "img": "images/whAtelier/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/witch-hat-atelier/vol_014.png",
+        "title": [
+          "Volume 14",
+          "Volume 14"
+        ],
+        "date_release": [
+          "March 17, 2026",
+          "April 23, 2025"
+        ],
+        "pages": [
+          "176",
+          "176"
+        ],
+        "ISBN": [
+          "979-8888776858",
+          "978-4065391822"
+        ],
+        "chapters": {
+          "76": [
+            "Chapter 76",
+            "Chapter 76"
+          ],
+          "77": [
+            "Chapter 77",
+            "Chapter 77"
+          ],
+          "78": [
+            "Chapter 78",
+            "Chapter 78"
+          ],
+          "79": [
+            "Chapter 79",
+            "Chapter 79"
+          ],
+          "80": [
+            "Chapter 80",
+            "Chapter 80"
+          ],
+          "81": [
+            "Chapter 81",
+            "Chapter 81"
+          ]
+        },
+        "cover_characters": [
+          "Coco",
+          "Brushbuddy"
+        ],
+        "img": "images/whAtelier/vol_014.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "15": {
+        "title": [
+          "Volume 15",
+          "Volume 15"
+        ],
+        "date_release": [
+          "N/A",
+          "November 21, 2025"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "N/A",
+          "978-4065415207"
+        ],
+        "chapters": {
+          "82": [
+            "Chapter 82",
+            "Chapter 82"
+          ],
+          "83": [
+            "Chapter 83",
+            "Chapter 83"
+          ],
+          "84": [
+            "Chapter 84",
+            "Chapter 84"
+          ],
+          "85": [
+            "Chapter 85",
+            "Chapter 85"
+          ],
+          "86": [
+            "Chapter 86",
+            "Chapter 86"
+          ],
+          "87": [
+            "Chapter 87",
+            "Chapter 87"
+          ],
+          "88": [
+            "Chapter 88",
+            "Chapter 88"
+          ]
+        },
+        "cover_characters": [
+          "Dagda"
+        ],
+        "img": "images/whAtelier/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "16": {
+        "title": [
+          "Volume 16",
+          "Volume 16"
+        ],
+        "date_release": [
+          "N/A",
+          "N/A"
+        ],
+        "pages": [
+          "N/A",
+          "N/A"
+        ],
+        "ISBN": [
+          "N/A",
+          "N/A"
+        ],
+        "chapters": {
+          "89": [
+            "Chapter 89",
+            "Chapter 89"
+          ],
+          "90": [
+            "Chapter 90",
+            "Chapter 90"
+          ],
+          "91": [
+            "Chapter 91",
+            "Chapter 91"
+          ],
+          "92": [
+            "Chapter 92",
+            "Chapter 92"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/whAtelier/vol_016.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
