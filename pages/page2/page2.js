@@ -338,7 +338,7 @@ async function page2() {
     //vv headers clickable to create file
     const header_btns = document.getElementsByClassName("page2-series-header");
     for (const btn of header_btns) {
-        console.log(btn);
+        //console.log(btn);
         btn.addEventListener("click", () => {
             console.log("clicked header");
             updateJSON();
