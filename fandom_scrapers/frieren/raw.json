@@ -1,0 +1,1015 @@
+{
+    "1": {
+        "title": [],
+        "date_release": [
+            "August 18, 2020",
+            "November 9, 2021"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-2576-2",
+            "978-4-09-850180-9"
+        ],
+        "chapters": {
+            "1": [
+                "The Journey's End",
+                "The Journey's End"
+            ],
+            "2": [
+                "The Priest's Lie",
+                "The Priest's Lie"
+            ],
+            "3": [
+                "Blue-Moon Weed",
+                "Blue-Moon Weed"
+            ],
+            "4": [
+                "The Mage's Secret",
+                "The Mage's Secret"
+            ],
+            "5": [
+                "Killing Magic",
+                "Killing Magic"
+            ],
+            "6": [
+                "New Year's Festival",
+                "New Year's Festival"
+            ],
+            "7": [
+                "The Land Where Souls Rest",
+                "The Land Where Souls Rest"
+            ]
+        },
+        "cover_characters": [
+            "Heiter",
+            "Frieren",
+            "Himmel",
+            "Eisen"
+        ],
+        "img": "images/frieren/vol_001.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "2": {
+        "title": [],
+        "date_release": [
+            "October 16, 2020",
+            "January 11, 2022"
+        ],
+        "pages": [
+            "200",
+            "200"
+        ],
+        "ISBN": [
+            "978-1-9747-2723-0",
+            "978-4-09-850181-6"
+        ],
+        "chapters": {
+            "8": [
+                "One One-Hundredth",
+                "One One-Hundredth"
+            ],
+            "9": [
+                "Phantoms of the Dead",
+                "Phantoms of the Dead"
+            ],
+            "10": [
+                "Solar Dragon",
+                "Solar Dragon"
+            ],
+            "11": [
+                "The Hero of the Village",
+                "The Hero of the Village"
+            ],
+            "12": [
+                "The Northern Checkpoint",
+                "The Northern Checkpoint"
+            ],
+            "13": [
+                "Liberation Festival",
+                "Liberation Festival"
+            ],
+            "14": [
+                "Monsters That Speak",
+                "Monsters That Speak"
+            ],
+            "15": [
+                "Draht",
+                "Draht"
+            ],
+            "16": [
+                "The Murder of a Guard",
+                "The Murder of a Guard"
+            ],
+            "17": [
+                "Frieren the Slayer",
+                "Frieren the Slayer"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern"
+        ],
+        "img": "images/frieren/vol_002.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "3": {
+        "title": [],
+        "date_release": [
+            "December 18, 2020",
+            "March 8, 2022"
+        ],
+        "pages": [
+            "200",
+            "200"
+        ],
+        "ISBN": [
+            "978-1-9747-2724-7",
+            "978-4-09-850285-1"
+        ],
+        "chapters": {
+            "18": [
+                "The Undead Army",
+                "The Undead Army"
+            ],
+            "19": [
+                "Raid",
+                "Raid"
+            ],
+            "20": [
+                "Master's Technique",
+                "Master's Technique"
+            ],
+            "21": [
+                "Coward",
+                "Coward"
+            ],
+            "22": [
+                "The Scales of Obedience",
+                "The Scales of Obedience"
+            ],
+            "23": [
+                "A Victory and a Funeral",
+                "A Victory and a Funeral"
+            ],
+            "24": [
+                "The Elves' Wish",
+                "The Elves' Wish"
+            ],
+            "25": [
+                "The Village of the Sword",
+                "The Village of the Sword"
+            ],
+            "26": [
+                "A Gift to a Warrior",
+                "A Gift to a Warrior"
+            ],
+            "27": [
+                "A Priest from an Ordinary Village",
+                "A Priest from an Ordinary Village"
+            ]
+        },
+        "cover_characters": [
+            "Stark",
+            "Frieren",
+            "Fern",
+            "Linie",
+            "Draht",
+            "Lügner",
+            "Aura"
+        ],
+        "img": "images/frieren/vol_003.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "4": {
+        "title": [],
+        "date_release": [
+            "March 17, 2021",
+            "May 17, 2022"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-2725-4",
+            "978-4-09-850490-9"
+        ],
+        "chapters": {
+            "28": [
+                "The Priest and His Regret",
+                "The Priest and His Regret"
+            ],
+            "29": [
+                "Ideal Adult",
+                "Ideal Adult"
+            ],
+            "30": [
+                "Mirrored Lotus",
+                "Mirrored Lotus"
+            ],
+            "31": [
+                "Chaos Flower",
+                "Chaos Flower"
+            ],
+            "32": [
+                "The Orden Family",
+                "The Orden Family"
+            ],
+            "33": [
+                "Old Man Voll",
+                "Old Man Voll"
+            ],
+            "34": [
+                "The Statues of Heroes",
+                "The Statues of Heroes"
+            ],
+            "35": [
+                "A Reason to Begin the Journey",
+                "A Reason to Begin the Journey"
+            ],
+            "36": [
+                "Emotional Support",
+                "Emotional Support"
+            ],
+            "37": [
+                "The First-Class Exam",
+                "The First-Class Exam"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern",
+            "Stark",
+            "Sein"
+        ],
+        "img": "images/frieren/vol_004.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "5": {
+        "title": [],
+        "date_release": [
+            "July 16, 2021",
+            "July 19, 2022"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-3007-0",
+            "978-4-09-850634-7"
+        ],
+        "chapters": {
+            "38": [
+                "Stille—Meteoric Iron Bird",
+                "Stille—Meteoric Iron Bird"
+            ],
+            "39": [
+                "Commence Capture Strategy",
+                "Commence Capture Strategy"
+            ],
+            "40": [
+                "A Spell to Capture a Bird",
+                "A Spell to Capture a Bird"
+            ],
+            "41": [
+                "Time for Resolve",
+                "Time for Resolve"
+            ],
+            "42": [
+                "A Reason to Fight",
+                "A Reason to Fight"
+            ],
+            "43": [
+                "Privilege",
+                "Privilege"
+            ],
+            "44": [
+                "Recapture the Stille",
+                "Recapture the Stille"
+            ],
+            "45": [
+                "Water-Manipulation Magic",
+                "Water-Manipulation Magic"
+            ],
+            "46": [
+                "An Even-Better Flavor",
+                "An Even-Better Flavor"
+            ],
+            "47": [
+                "Fern and Her Baked Sweets",
+                "Fern and Her Baked Sweets"
+            ]
+        },
+        "cover_characters": [
+            "Richter",
+            "Denken",
+            "Wirbel",
+            "Ehre",
+            "Fern",
+            "Kanne",
+            "Frieren",
+            "Lawine"
+        ],
+        "img": "images/frieren/vol_005.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "6": {
+        "title": [],
+        "date_release": [
+            "November 18, 2021",
+            "October 18, 2022"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-3400-9",
+            "978-4-09-850728-3"
+        ],
+        "chapters": {
+            "48": [
+                "The Ruins of the King's Tomb",
+                "The Ruins of the King's Tomb"
+            ],
+            "49": [
+                "Dungeons and Magical Items",
+                "Dungeons and Magical Items"
+            ],
+            "50": [
+                "Spiegel—A Water-Mirror Demon",
+                "Spiegel—A Water-Mirror Demon"
+            ],
+            "51": [
+                "Dungeon Battle",
+                "Dungeon Battle"
+            ],
+            "52": [
+                "Strategy Meeting",
+                "Strategy Meeting"
+            ],
+            "53": [
+                "An Era of Humans",
+                "An Era of Humans"
+            ],
+            "54": [
+                "A Spell that Slashes Almost Anything",
+                "A Spell that Slashes Almost Anything"
+            ],
+            "55": [
+                "The Second Exam Ends",
+                "The Second Exam Ends"
+            ],
+            "56": [
+                "Fern's Staff",
+                "Fern's Staff"
+            ],
+            "57": [
+                "The Third Exam",
+                "The Third Exam"
+            ]
+        },
+        "cover_characters": [
+            "Land",
+            "Übel",
+            "Frieren",
+            "Fern",
+            "Sense",
+            "Methode"
+        ],
+        "img": "images/frieren/vol_006.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "7": {
+        "title": [],
+        "date_release": [
+            "March 17, 2022",
+            "January 17, 2023"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-3620-1",
+            "978-4-09-850876-1"
+        ],
+        "chapters": {
+            "58": [
+                "Serie's Intuition",
+                "Serie's Intuition"
+            ],
+            "59": [
+                "With a Little Help",
+                "With a Little Help"
+            ],
+            "60": [
+                "Departure and Farewell",
+                "Departure and Farewell"
+            ],
+            "61": [
+                "Magic-Nullifying Crystal",
+                "Magic-Nullifying Crystal"
+            ],
+            "62": [
+                "Why I Set Out on This Journey",
+                "Why I Set Out on This Journey"
+            ],
+            "63": [
+                "The Hero of the South",
+                "The Hero of the South"
+            ],
+            "64": [
+                "The Demon with a Sword",
+                "The Demon with a Sword"
+            ],
+            "65": [
+                "The Secret Hot Spring of the Etwas Mountains",
+                "The Secret Hot Spring of the Etwas Mountains"
+            ],
+            "66": [
+                "The Places She Would Like",
+                "The Places She Would Like"
+            ],
+            "67": [
+                "Peaceful Time",
+                "Peaceful Time"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern",
+            "Stark"
+        ],
+        "img": "images/frieren/vol_007.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "8": {
+        "title": [],
+        "date_release": [
+            "June 17, 2022",
+            "June 20, 2023"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-3860-1",
+            "978-4-09-851148-8"
+        ],
+        "chapters": {
+            "68": [
+                "Northern Plateau",
+                "Northern Plateau"
+            ],
+            "69": [
+                "Boshaft—The Emperor's Spirit",
+                "Boshaft—The Emperor's Spirit"
+            ],
+            "70": [
+                "The Norm Company",
+                "The Norm Company"
+            ],
+            "71": [
+                "Subjugation Request",
+                "Subjugation Request"
+            ],
+            "72": [
+                "The General",
+                "The General"
+            ],
+            "73": [
+                "Encounter Battle",
+                "Encounter Battle"
+            ],
+            "74": [
+                "Divine Revolte",
+                "Divine Revolte"
+            ],
+            "75": [
+                "Erilfrachte-The Spell to Dispel Fog",
+                "Erilfrachte-The Spell to Dispel Fog"
+            ],
+            "76": [
+                "Settling",
+                "Settling"
+            ],
+            "77": [
+                "A Thunder of Dragons",
+                "A Thunder of Dragons"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Genau",
+            "Fern",
+            "Methode",
+            "Stark",
+            "Revolte"
+        ],
+        "img": "images/frieren/vol_008.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "9": {
+        "title": [],
+        "date_release": [
+            "September 15, 2022",
+            "October 17, 2023"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-4060-4",
+            "978-4-09-851260-7"
+        ],
+        "chapters": {
+            "78": [
+                "Lake Korridor",
+                "Lake Korridor"
+            ],
+            "79": [
+                "The Great Tor Canyon",
+                "The Great Tor Canyon"
+            ],
+            "80": [
+                "Holy Snow Crystals",
+                "Holy Snow Crystals"
+            ],
+            "81": [
+                "The Golden Land",
+                "The Golden Land"
+            ],
+            "82": [
+                "Diagoldze—The Spell to Transmute All Creation into Gold",
+                "Diagoldze—The Spell to Transmute All Creation into Gold"
+            ],
+            "83": [
+                "Stone Bracelet of Servitude",
+                "Stone Bracelet of Servitude"
+            ],
+            "84": [
+                "Daredevil",
+                "Daredevil"
+            ],
+            "85": [
+                "Malice",
+                "Malice"
+            ],
+            "86": [
+                "Discussions",
+                "Discussions"
+            ],
+            "87": [
+                "Affection",
+                "Affection"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Denken",
+            "Macht",
+            "Fern",
+            "Stark"
+        ],
+        "img": "images/frieren/vol_009.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "10": {
+        "title": [],
+        "date_release": [
+            "March 16, 2023",
+            "February 20, 2024"
+        ],
+        "pages": [
+            "200",
+            "200"
+        ],
+        "ISBN": [
+            "978-1-9747-4361-2",
+            "978-4-09-851771-8"
+        ],
+        "chapters": {
+            "88": [
+                "Solitär",
+                "Solitär"
+            ],
+            "89": [
+                "Guilt",
+                "Guilt"
+            ],
+            "90": [
+                "Glück",
+                "Glück"
+            ],
+            "91": [
+                "Onstage",
+                "Onstage"
+            ],
+            "92": [
+                "The End of Weise",
+                "The End of Weise"
+            ],
+            "93": [
+                "The Great Barrier",
+                "The Great Barrier"
+            ],
+            "94": [
+                "Analysis",
+                "Analysis"
+            ],
+            "95": [
+                "Nameless Greater Demon",
+                "Nameless Greater Demon"
+            ],
+            "96": [
+                "Master and Apprentice",
+                "Master and Apprentice"
+            ],
+            "97": [
+                "Observation",
+                "Observation"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Denken",
+            "Macht",
+            "Solitär",
+            "Glück"
+        ],
+        "img": "images/frieren/vol_010.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "11": {
+        "title": [],
+        "date_release": [
+            "September 15, 2023",
+            "September 10, 2024"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-9747-4898-3",
+            "978-4-09-852769-4"
+        ],
+        "chapters": {
+            "98": [
+                "Retribution",
+                "Retribution"
+            ],
+            "99": [
+                "Offense and Defense",
+                "Offense and Defense"
+            ],
+            "100": [
+                "The Fundamentals of Mages",
+                "The Fundamentals of Mages"
+            ],
+            "101": [
+                "Breakthrough",
+                "Breakthrough"
+            ],
+            "102": [
+                "A Draw",
+                "A Draw"
+            ],
+            "103": [
+                "Time for Retribution",
+                "Time for Retribution"
+            ],
+            "104": [
+                "A Visit to Her Grave",
+                "A Visit to Her Grave"
+            ],
+            "105": [
+                "Golem",
+                "Golem"
+            ],
+            "106": [
+                "Sky-Mountain Dragon",
+                "Sky-Mountain Dragon"
+            ],
+            "107": [
+                "The Monument of the Goddess",
+                "The Monument of the Goddess"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Denken",
+            "Macht",
+            "Solitär"
+        ],
+        "img": "images/frieren/vol_011.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "12": {
+        "title": [],
+        "date_release": [
+            "December 18, 2023",
+            "February 11, 2025"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-97-475181-5",
+            "978-4-09-853030-4"
+        ],
+        "chapters": {
+            "108": [
+                "Reunion",
+                "Reunion"
+            ],
+            "109": [
+                "Zart the Remnant",
+                "Zart the Remnant"
+            ],
+            "110": [
+                "The Party of Heroes",
+                "The Party of Heroes"
+            ],
+            "111": [
+                "Escort Mission",
+                "Escort Mission"
+            ],
+            "112": [
+                "Faith",
+                "Faith"
+            ],
+            "113": [
+                "Abyssal Dragon",
+                "Abyssal Dragon"
+            ],
+            "114": [
+                "The Sword of the Hero",
+                "The Sword of the Hero"
+            ],
+            "115": [
+                "Best Friend",
+                "Best Friend"
+            ],
+            "116": [
+                "Spell to Return",
+                "Spell to Return"
+            ],
+            "117": [
+                "Miraculous Illusion",
+                "Miraculous Illusion"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Himmel",
+            "Heiter",
+            "Eisen"
+        ],
+        "img": "images/frieren/vol_012.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "13": {
+        "title": [],
+        "date_release": [
+            "April 17, 2024",
+            "May 13, 2025"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-97-475291-1",
+            "978-4-09-853233-9"
+        ],
+        "chapters": {
+            "118": [
+                "Vialathor",
+                "Vialathor"
+            ],
+            "119": [
+                "Memories",
+                "Memories"
+            ],
+            "120": [
+                "False Image of a Hero",
+                "False Image of a Hero"
+            ],
+            "121": [
+                "Monsters on the Road",
+                "Monsters on the Road"
+            ],
+            "122": [
+                "The Titan Fortress Ruins",
+                "The Titan Fortress Ruins"
+            ],
+            "123": [
+                "Proof of Perseverance",
+                "Proof of Perseverance"
+            ],
+            "124": [
+                "Shadow Warrior",
+                "Shadow Warrior"
+            ],
+            "125": [
+                "Family",
+                "Family"
+            ],
+            "126": [
+                "A New Mission",
+                "A New Mission"
+            ],
+            "127": [
+                "Retrieval Mission",
+                "Retrieval Mission"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern",
+            "Stark",
+            "Sense",
+            "Falsch",
+            "Übel",
+            "Land"
+        ],
+        "img": "images/frieren/vol_013.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "14": {
+        "title": [],
+        "date_release": [
+            "March 18, 2025",
+            "February 10, 2026"
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "978-1-97-476158-6",
+            "978-4-09-854017-4"
+        ],
+        "chapters": {
+            "128": [
+                "Magic Special Forces",
+                "Magic Special Forces"
+            ],
+            "129": [
+                "Shadow of the Empire",
+                "Shadow of the Empire"
+            ],
+            "130": [
+                "Beneath the Water's Surface",
+                "Beneath the Water's Surface"
+            ],
+            "131": [
+                "Escape",
+                "Escape"
+            ],
+            "132": [
+                "Chase",
+                "Chase"
+            ],
+            "133": [
+                "Silver Coins",
+                "Silver Coins"
+            ],
+            "134": [
+                "Trace Back",
+                "Trace Back"
+            ],
+            "135": [
+                "Prelude",
+                "Prelude"
+            ],
+            "136": [
+                "Reunion",
+                "Reunion"
+            ],
+            "137": [
+                "Repel",
+                "Repel"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern",
+            "Stark",
+            "Übel",
+            "Land",
+            "Kanone",
+            "Neu",
+            "Weg"
+        ],
+        "img": "images/frieren/vol_014.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "15": {
+        "title": [],
+        "date_release": [
+            "December 18, 2025",
+            ""
+        ],
+        "pages": [
+            "192",
+            "192"
+        ],
+        "ISBN": [
+            "",
+            "978-4-09-854346-5"
+        ],
+        "chapters": {
+            "138": [
+                "Traitor",
+                "Traitor"
+            ],
+            "139": [
+                "Kreis the Blacksmith",
+                "Kreis the Blacksmith"
+            ],
+            "140": [
+                "Ballroom",
+                "Ballroom"
+            ],
+            "141": [
+                "Symbol of Peace",
+                "Symbol of Peace"
+            ],
+            "142": [
+                "Enemy Encounter",
+                "Enemy Encounter"
+            ],
+            "143": [
+                "Mind Games",
+                "Mind Games"
+            ],
+            "144": [
+                "Prophetic Dream",
+                "Prophetic Dream"
+            ],
+            "145": [
+                "Clairvoyance",
+                "Clairvoyance"
+            ],
+            "146": [
+                "The Strongest Warrior",
+                "The Strongest Warrior"
+            ],
+            "147": [
+                "The Land with No Hero",
+                "The Land with No Hero"
+            ]
+        },
+        "cover_characters": [
+            "Frieren",
+            "Fern",
+            "Stark",
+            "Sein",
+            "Clematis",
+            "Iris",
+            "Routine"
+        ],
+        "img": "images/frieren/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    }
+}
