@@ -26,8 +26,7 @@ const volumeLinks = [
     "https://static.wikia.nocookie.net/witch-hat-atelier/images/6/6e/Volume_12_cover.jpg/revision/latest?cb=20230907200829",
     "https://static.wikia.nocookie.net/witch-hat-atelier/images/d/dd/Volume_13_cover.jpg/revision/latest?cb=20260111030504",
     "https://static.wikia.nocookie.net/witch-hat-atelier/images/f/f7/Volume_14_cover.jpg/revision/latest?cb=20260111030613",
-    "https://static.wikia.nocookie.net/witch-hat-atelier/images/c/c0/Volume_15_cover.jpg/revision/latest?cb=20260111030645",
-    "https://static.wikia.nocookie.net/frieren/images/7/75/No_image_available.png/revision/latest?cb=20220112213151"
+    "https://static.wikia.nocookie.net/witch-hat-atelier/images/c/c0/Volume_15_cover.jpg/revision/latest?cb=20260111030645"
 ];
 
 async function downloadImage(url, filename) {
