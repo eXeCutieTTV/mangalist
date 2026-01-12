@@ -12,9 +12,9 @@ if (!fs.existsSync(folder)) {
 
 // Array of image URLs (your existing volumeLinks)
 const volumeLinks = [
-    "https://static.wikia.nocookie.net/naruto/images/3/30/Vol4.png/revision/latest/scale-to-width-down/100?cb=20210223121145",
-    "https://static.wikia.nocookie.net/naruto/images/3/30/Vol4.png/revision/latest/scale-to-width-down/100?cb=20210223121145",
-    "https://static.wikia.nocookie.net/naruto/images/3/30/Vol4.png/revision/latest/scale-to-width-down/100?cb=20210223121145",
+    "https://static.wikia.nocookie.net/naruto/images/2/2b/Vol1.png/revision/latest/scale-to-width-down/100?cb=20210224013411",
+    "https://static.wikia.nocookie.net/naruto/images/c/ca/Vol2.png/revision/latest/scale-to-width-down/100?cb=20210224103341",
+    "https://static.wikia.nocookie.net/naruto/images/e/e1/Vol3.png/revision/latest/scale-to-width-down/100?cb=20210224103354",
     "https://static.wikia.nocookie.net/naruto/images/3/30/Vol4.png/revision/latest/scale-to-width-down/100?cb=20210223121145",
     "https://static.wikia.nocookie.net/naruto/images/4/41/Vol5.png/revision/latest/scale-to-width-down/100?cb=20210224103406",
     "https://static.wikia.nocookie.net/naruto/images/d/d0/Vol6.png/revision/latest/scale-to-width-down/100?cb=20210224103709",
