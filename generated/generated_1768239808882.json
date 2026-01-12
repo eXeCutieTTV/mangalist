@@ -6069,7 +6069,10 @@
     "released": "August 18, 2020",
     "volumes": {
       "1": {
-        "title": [],
+        "title": [
+          "The Journey's End",
+          "The Journey's End"
+        ],
         "date_release": [
           "August 18, 2020",
           "November 9, 2021"
@@ -6119,12 +6122,15 @@
           "Eisen"
         ],
         "img": "images/frieren/vol_001.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
+        "title": [
+          "One One-Hundredth",
+          "One One-Hundredth"
+        ],
         "date_release": [
           "October 16, 2020",
           "January 11, 2022"
@@ -6184,12 +6190,15 @@
           "Fern"
         ],
         "img": "images/frieren/vol_002.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
+        "title": [
+          "The Undead Army",
+          "The Undead Army"
+        ],
         "date_release": [
           "December 18, 2020",
           "March 8, 2022"
@@ -6254,12 +6263,15 @@
           "Aura"
         ],
         "img": "images/frieren/vol_003.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
+        "title": [
+          "The Priest and His Regret",
+          "The Priest and His Regret"
+        ],
         "date_release": [
           "March 17, 2021",
           "May 17, 2022"
@@ -6321,12 +6333,15 @@
           "Sein"
         ],
         "img": "images/frieren/vol_004.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
+        "title": [
+          "Stille—Meteoric Iron Bird",
+          "Stille—Meteoric Iron Bird"
+        ],
         "date_release": [
           "July 16, 2021",
           "July 19, 2022"
@@ -6392,12 +6407,15 @@
           "Lawine"
         ],
         "img": "images/frieren/vol_005.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
+        "title": [
+          "The Ruins of the King's Tomb",
+          "The Ruins of the King's Tomb"
+        ],
         "date_release": [
           "November 18, 2021",
           "October 18, 2022"
@@ -6461,12 +6479,15 @@
           "Methode"
         ],
         "img": "images/frieren/vol_006.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
+        "title": [
+          "Serie's Intuition",
+          "Serie's Intuition"
+        ],
         "date_release": [
           "March 17, 2022",
           "January 17, 2023"
@@ -6527,12 +6548,15 @@
           "Stark"
         ],
         "img": "images/frieren/vol_007.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
+        "title": [
+          "Northern Plateau",
+          "Northern Plateau"
+        ],
         "date_release": [
           "June 17, 2022",
           "June 20, 2023"
@@ -6596,12 +6620,15 @@
           "Revolte"
         ],
         "img": "images/frieren/vol_008.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
+        "title": [
+          "Lake Korridor",
+          "Lake Korridor"
+        ],
         "date_release": [
           "September 15, 2022",
           "October 17, 2023"
@@ -6664,12 +6691,15 @@
           "Stark"
         ],
         "img": "images/frieren/vol_009.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
+        "title": [
+          "Solitär",
+          "Solitär"
+        ],
         "date_release": [
           "March 16, 2023",
           "February 20, 2024"
@@ -6732,12 +6762,15 @@
           "Glück"
         ],
         "img": "images/frieren/vol_010.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
+        "title": [
+          "Retribution",
+          "Retribution"
+        ],
         "date_release": [
           "September 15, 2023",
           "September 10, 2024"
@@ -6799,12 +6832,15 @@
           "Solitär"
         ],
         "img": "images/frieren/vol_011.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
+        "title": [
+          "Reunion",
+          "Reunion"
+        ],
         "date_release": [
           "December 18, 2023",
           "February 11, 2025"
@@ -6866,12 +6902,15 @@
           "Eisen"
         ],
         "img": "images/frieren/vol_012.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
-        "title": [],
+        "title": [
+          "Vialathor",
+          "Vialathor"
+        ],
         "date_release": [
           "April 17, 2024",
           "May 13, 2025"
@@ -6936,12 +6975,15 @@
           "Land"
         ],
         "img": "images/frieren/vol_013.png",
-        "owned": true,
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
-        "title": [],
+        "title": [
+          "Magic Special Forces",
+          "Magic Special Forces"
+        ],
         "date_release": [
           "March 18, 2025",
           "February 10, 2026"
@@ -7012,7 +7054,10 @@
         "date_bought": ""
       },
       "15": {
-        "title": [],
+        "title": [
+          "Traitor",
+          "Traitor"
+        ],
         "date_release": [
           "December 18, 2025",
           ""
