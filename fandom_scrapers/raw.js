@@ -6,7 +6,7 @@ function raw(id, title) {
         pages: [],
         ISBN: [],
         chapters: {},
-        cover_characters: "",
+        cover_characters: [],
         img: `images/${title}/vol_${String(id + 1).padStart(3, "0")}.png`,
         owned: false,
         prise: "10 €",
