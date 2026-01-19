@@ -14709,143 +14709,481 @@
     "volumes": {
       "1": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "April 25, 2012",
+          "April 21, 2015"
+        ],
+        "pages": [
+          "275",
+          "196"
+        ],
+        "ISBN": [
+          "978-4-8401-4546-6",
+          "978-0-3163-8311-0"
+        ],
+        "chapters": {
+          "1": [
+            "Prologue",
+            "プロローグ"
+          ],
+          "2": [
+            "Novice(Beginner)",
+            "第一章──素人(ビギナー)"
+          ],
+          "3": [
+            "Contender(Challenger)",
+            "第二章──挑戦者(チャレンジャー)"
+          ],
+          "4": [
+            "Veteran(Expert)",
+            "第三章──熟練者(エキスパート)"
+          ],
+          "5": [
+            "King(Grandmaster)",
+            "第四章──国王(グランドマスター)"
+          ],
+          "6": [
+            "Epilogue",
+            "エピローグ"
+          ]
+        },
+        "cover_characters": [
+          "Shiro",
+          "Sora"
+        ],
+        "img": "images/ngnl/vol_001.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "September 25, 2012",
+          "July 21, 2015"
+        ],
+        "pages": [
+          "273",
+          "192"
+        ],
+        "ISBN": [
+          "978-4-8401-4819-1",
+          "978-0-3163-8517-6"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "cover_characters": [
+          "Jibril"
+        ],
+        "img": "images/ngnl/vol_002.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "January 25, 2013",
+          "October 27, 2015"
+        ],
+        "pages": [
+          "293",
+          "208"
+        ],
+        "ISBN": [
+          "978-4-8401-4958-7",
+          "978-0-3163-8519-0"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "cover_characters": [
+          "Hatsuse Izuna"
+        ],
+        "img": "images/ngnl/vol_003.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "June 25, 2013",
+          "March 22, 2016"
+        ],
+        "pages": [
+          "261",
+          "192"
+        ],
+        "ISBN": [
+          "978-4-8401-5185-6",
+          "978-0-3163-8521-3"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "cover_characters": [
+          "Plum"
+        ],
+        "img": "images/ngnl/vol_004.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "November 25, 2013",
+          "December 20, 2016"
+        ],
+        "pages": [
+          "209",
+          "208"
+        ],
+        "ISBN": [
+          "978-4-0406-6080-6",
+          "978-0-3163-8523-7"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "cover_characters": [
+          "Azril"
+        ],
+        "img": "images/ngnl/vol_005.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "April 25, 2014",
+          "July 25, 2017"
+        ],
+        "pages": [
+          "325",
+          "240"
+        ],
+        "ISBN": [
+          "978-4-0406-6382-1",
+          "978-0-3163-8526-8"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "cover_characters": [
+          "Tet"
+        ],
+        "img": "images/ngnl/vol_006.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "July 24, 2015",
+          "October 30, 2018"
+        ],
+        "pages": [
+          "311",
+          "240"
+        ],
+        "ISBN": [
+          "978-4-04-067494-0",
+          "978-0-316-31643-9"
+        ],
+        "chapters": {
+          "1": [
+            "Theoretical Start",
+            "セオリティカルスタート"
+          ],
+          "2": [
+            "Reverse Time Form(Closed Circle)",
+            "第一章──倒叙形式(クローズドサークル)"
+          ],
+          "3": [
+            "Overestimation(Whodunit)",
+            "第二章──過剰解釈(フーダニット)"
+          ],
+          "4": [
+            "Mistaken Persuasion(Howdunit)",
+            "第三章──誤誘導法(ハウダニット)"
+          ],
+          "5": [
+            "Strange Taste(Whydunit)",
+            "第四章──奇妙な味(ホワイダニット)"
+          ],
+          "6": [
+            "Practical End",
+            "プラクティカルエンド"
+          ]
+        },
+        "cover_characters": [
+          "Miko",
+          "Sora",
+          "Shiro",
+          "Stephanie Dola",
+          "Jibril",
+          "Plum",
+          "Hatsuse Ino",
+          "Hatsuse Izuna"
+        ],
+        "img": "images/ngnl/vol_007.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "December 25, 2015",
+          "April 2, 2019"
+        ],
+        "pages": [
+          "328",
+          "224"
+        ],
+        "ISBN": [
+          "978-4-04-067952-5",
+          "978-0-316-50266-5"
+        ],
+        "chapters": {
+          "1": [
+            "Continue",
+            "コンティニュー"
+          ],
+          "2": [
+            "Tactless Tactics(Preparation)",
+            "第一章──不戦戦術(プレパレーション)"
+          ],
+          "3": [
+            "Crooked Conquest(Handover)",
+            "第二章──不正勝利(ハンドオーバー)"
+          ],
+          "4": [
+            "Absurd Answer(Disclosure)",
+            "第三章──不当解答(ディスクローズド)"
+          ],
+          "5": [
+            "Correct Choice(Who Are You?)",
+            "第四章──正当選択(フーアーユー？)"
+          ],
+          "6": [
+            "Ideal End",
+            "アイディアルエンド"
+          ]
+        },
+        "cover_characters": [
+          "Holou"
+        ],
+        "img": "images/ngnl/vol_008.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "August 25, 2016",
+          "October 29, 2019"
+        ],
+        "pages": [
+          "328",
+          "224"
+        ],
+        "ISBN": [
+          "978-4-04-068457-4",
+          "978-0-31-647134-3"
+        ],
+        "chapters": {
+          "1": [
+            "Skip Start",
+            "スキップスタート"
+          ],
+          "2": [
+            "Halting Problem(Definite)",
+            "第一章──停止問題(デフィニット)"
+          ],
+          "3": [
+            "Inductive Inference(Retroduction)",
+            "第二章──帰納推論(レトロダクション)"
+          ],
+          "4": [
+            "Deductive Determination(Oracle Maker)",
+            "第三章──演繹決定(オラクルメーカー)"
+          ],
+          "5": [
+            "Wishful Observation(The Game of Life)",
+            "第四章──希望的観測(ゲーム・オブ・ライフ)"
+          ],
+          "6": [
+            "One-Turn End",
+            "ワンターンエンド"
+          ]
+        },
+        "cover_characters": [
+          "Emir-Eins"
+        ],
+        "img": "images/ngnl/vol_009.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "February 24, 2018",
+          "February 18, 2020"
+        ],
+        "pages": [
+          "343",
+          "224"
+        ],
+        "ISBN": [
+          "978-4-04-069336-1",
+          "978-1-97-538678-8"
+        ],
+        "chapters": {
+          "1": [
+            "Re:Start",
+            "Ｒｅ：Ｓｔａｒｔ"
+          ],
+          "2": [
+            "Relativism(Another Age)",
+            "第一章──相対論(アナザーエイジ)"
+          ],
+          "3": [
+            "Aestheticism(Silent Line)",
+            "第二章──感性論(サイレントライン)"
+          ],
+          "4": [
+            "Generalization(Formula Front)",
+            "第三章──一般論(フォーミュラフロント)"
+          ],
+          "5": [
+            "Emotionalism(Verdict Day)",
+            "第四章──感情論(ヴァーディクトデイ)"
+          ],
+          "6": [
+            "Pragmatism(For Answer)",
+            "第五章──結果論(フォーアンサー)"
+          ],
+          "7": [
+            "Crash/END",
+            "Ｃｒａｓｈ／ＥＮＤ"
+          ]
+        },
+        "cover_characters": [
+          "Nýi Tilvilg"
+        ],
+        "img": "images/ngnl/vol_010.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "November 25, 2021",
+          "May 17, 2022"
+        ],
+        "pages": [
+          "392",
+          "280"
+        ],
+        "ISBN": [
+          "9784040653822",
+          "9781975345495"
+        ],
+        "chapters": {
+          "1": [
+            "Stream Start",
+            "ストリームスタート"
+          ],
+          "2": [
+            "Vertical Thinking(In the Bottom)",
+            "第一章——垂直思考(イン・ザ・ボトム)"
+          ],
+          "3": [
+            "Horizontal Thinking(Lateral Approach)",
+            "第二章——水平思考(ラテラル・アプローチ)"
+          ],
+          "4": [
+            "Parallel Thinking(Point at Infinity)",
+            "第三章——平行思考(ポイント・アット・インフィニティ)"
+          ],
+          "5": [
+            "Upended Thoughts(Turning World)",
+            "第四章——転回指向(ターニング・ワールド)"
+          ],
+          "6": [
+            "Temporary End",
+            "テンポラリーエンド"
+          ]
+        },
+        "cover_characters": [
+          "Foeniculum"
+        ],
+        "img": "images/ngnl/vol_011.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "February 25, 2023",
+          "December 12, 2023"
+        ],
+        "pages": [
+          "360",
+          "280"
+        ],
+        "ISBN": [
+          "9784046820396",
+          "9781975370350"
+        ],
+        "chapters": {
+          "1": [
+            "Prelude",
+            "プレリュード"
+          ],
+          "2": [
+            "The Devil Appears!(Phantasma)",
+            "第一章——魔王があらわれた！(ファンタズマ)"
+          ],
+          "3": [
+            "The Hero Flees!(Phantôma)",
+            "第二章——勇者はげだした！(ファントマ)"
+          ],
+          "4": [
+            "The Heroes Attack!(Meta-Phantasy)",
+            "第三章——勇者達のこうげき！(メタファンタジー)"
+          ],
+          "5": [
+            "Roleplaying End",
+            "ロールプレイングエンド"
+          ]
+        },
+        "cover_characters": [
+          "Schira Ha",
+          "the Devil"
+        ],
+        "img": "images/ngnl/vol_012.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
+        "date_release": [
+          "2026",
+          ""
+        ],
+        "pages": [
+          "",
+          ""
+        ],
+        "ISBN": [
+          "",
+          ""
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/ngnl/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
