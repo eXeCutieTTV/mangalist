@@ -1,0 +1,946 @@
+{
+    "1": {
+        "title": [],
+        "date_release": [
+            "January 17, 2023",
+            "July 17, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-317-8",
+            "978-4-08-891650-7"
+        ],
+        "chapters": {
+            "1": [
+                "Mother & Children",
+                "母と子"
+            ],
+            "2": [
+                "Big Brother & Little Sister",
+                "兄と妹"
+            ],
+            "3": [
+                "Babysitter",
+                "ベビーシッター"
+            ],
+            "4": [
+                "How to Smile",
+                "笑顔の作り方"
+            ],
+            "5": [
+                "Director & Actress",
+                "監督と女優"
+            ],
+            "6": [
+                "Child Actors",
+                "子役達"
+            ],
+            "7": [
+                "If You Fear Falling, You'll Fall Harder",
+                "転ぶの恐れれば余計に転ぶ"
+            ],
+            "8": [
+                "Ai Hoshino Part 1",
+                "星野アイ前編"
+            ],
+            "9": [
+                "Ai Hoshino Part 2",
+                "星野アイ後編"
+            ],
+            "10": [
+                "Introduction",
+                "イントロダクション"
+            ]
+        },
+        "cover_characters": [
+            "Ai Hoshino"
+        ],
+        "img": "images/oshink/vol_001.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "2": {
+        "title": [],
+        "date_release": [
+            "May 23, 2023",
+            "October 16, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-319-2",
+            "978-4-08-891717-7"
+        ],
+        "chapters": {
+            "11": [
+                "Audition",
+                "オーディション"
+            ],
+            "12": [
+                "The Third Option",
+                "三つ目の選択肢"
+            ],
+            "13": [
+                "Procedures",
+                "手続き"
+            ],
+            "14": [
+                "Connection",
+                "コネクション"
+            ],
+            "15": [
+                "The Manga Drama",
+                "漫画原作ドラマ"
+            ],
+            "16": [
+                "Acting Skills",
+                "演技力"
+            ],
+            "17": [
+                "Staging",
+                "演出"
+            ],
+            "18": [
+                "Modest Praise",
+                "小さな称賛"
+            ],
+            "19": [
+                "The Entertainment Department",
+                "芸能科"
+            ],
+            "20": [
+                "New Member",
+                "加入"
+            ]
+        },
+        "cover_characters": [
+            "Ruby Hoshino"
+        ],
+        "img": "images/oshink/vol_002.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "3": {
+        "title": [],
+        "date_release": [
+            "August 22, 2023",
+            "February 19, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-321-5",
+            "978-4-08-891801-3"
+        ],
+        "chapters": {
+            "21": [
+                "The Dating Reality Show",
+                "恋愛リアリティショー"
+            ],
+            "22": [
+                "Wannabe Idol",
+                "自称アイドル"
+            ],
+            "23": [
+                "A Mark",
+                "爪痕"
+            ],
+            "24": [
+                "Egosearch",
+                "エゴサーチ"
+            ],
+            "25": [
+                "Up in Flames",
+                "炎上"
+            ],
+            "26": [
+                "Storm",
+                "嵐"
+            ],
+            "27": [
+                "Viral",
+                "バズ"
+            ],
+            "28": [
+                "Role Creation",
+                "役作り"
+            ],
+            "29": [
+                "Perfect Copy",
+                "完コピ"
+            ],
+            "30": [
+                "The First",
+                "初めて"
+            ]
+        },
+        "cover_characters": [
+            "Aqua Hoshino"
+        ],
+        "img": "images/oshink/vol_003.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "4": {
+        "title": [],
+        "date_release": [
+            "November 21, 2023",
+            "May 19, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-323-9",
+            "978-4-08-891872-3"
+        ],
+        "chapters": {
+            "31": [
+                "Love for Real",
+                "今ガチ"
+            ],
+            "32": [
+                "Appropriate Age",
+                "適正年齢"
+            ],
+            "33": [
+                "Motivation",
+                "モチベーション"
+            ],
+            "34": [
+                "Center",
+                "センター"
+            ],
+            "35": [
+                "Responsible",
+                "責任感"
+            ],
+            "36": [
+                "The Night Before",
+                "前夜"
+            ],
+            "37": [
+                "Pressure",
+                "プレッシャー"
+            ],
+            "38": [
+                "Group Fan",
+                "箱推し"
+            ],
+            "39": [
+                "A Job That's Kinda Fun",
+                "ちょっと楽しいお仕事"
+            ],
+            "40": [
+                "Sore Loser",
+                "負けず嫌い"
+            ]
+        },
+        "cover_characters": [
+            "Kana Arima"
+        ],
+        "img": "images/oshink/vol_004.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "5": {
+        "title": [],
+        "date_release": [
+            "February 20, 2024",
+            "August 18, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-324-6",
+            "978-4-08-892056-6"
+        ],
+        "chapters": {
+            "41": [
+                "Introductions",
+                "顔合わせ"
+            ],
+            "42": [
+                "Read-Through",
+                "読み合わせ"
+            ],
+            "43": [
+                "The Losing Heroine",
+                "負けヒロイン"
+            ],
+            "44": [
+                "The Visit",
+                "見学"
+            ],
+            "45": [
+                "The Telephone Game",
+                "伝言ゲーム"
+            ],
+            "46": [
+                "Theater",
+                "箱"
+            ],
+            "47": [
+                "Studio Visit",
+                "職場訪問"
+            ],
+            "48": [
+                "Crunch Time",
+                "修羅場"
+            ],
+            "49": [
+                "Rewriting",
+                "リライティング"
+            ],
+            "50": [
+                "Emotional Acting",
+                "感情演技"
+            ]
+        },
+        "cover_characters": [
+            "Akane Kurokawa"
+        ],
+        "img": "images/oshink/vol_005.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "6": {
+        "title": [],
+        "date_release": [
+            "May 21, 2024",
+            "November 19, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-327-7",
+            "978-4-08-892135-8"
+        ],
+        "chapters": {
+            "51": [
+                "Observation",
+                "考察"
+            ],
+            "52": [
+                "Boyfriend-Girlfriend",
+                "カレシカノジョ"
+            ],
+            "53": [
+                "Pickup",
+                "軟派"
+            ],
+            "54": [
+                "Point of Contention",
+                "対立軸"
+            ],
+            "55": [
+                "The Curtain Rises",
+                "開幕"
+            ],
+            "56": [
+                "First Clash",
+                "緒戦"
+            ],
+            "57": [
+                "Lousy",
+                "ヘタクソ"
+            ],
+            "58": [
+                "Growth",
+                "成長"
+            ],
+            "59": [
+                "Aspiration",
+                "憧れ"
+            ],
+            "60": [
+                "Sun",
+                "太陽"
+            ]
+        },
+        "cover_characters": [
+            "Yoriko Kichijouji",
+            "Abiko Samejima"
+        ],
+        "img": "images/oshink/vol_006.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "7": {
+        "title": [],
+        "date_release": [
+            "August 20, 2024",
+            "February 18, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+            "978-1-97536-329-1",
+            "978-4-08-892224-9"
+        ],
+        "chapters": {
+            "61": [
+                "Reacting",
+                "受け"
+            ],
+            "62": [
+                "Ad-lib",
+                "アドリブ"
+            ],
+            "63": [
+                "Genius Actor",
+                "天才役者"
+            ],
+            "64": [
+                "Trigger",
+                "トリガー"
+            ],
+            "65": [
+                "Regret",
+                "後悔"
+            ],
+            "66": [
+                "Curtain",
+                "閉幕"
+            ],
+            "67": [
+                "Drinking Party",
+                "飲み会"
+            ],
+            "68": [
+                "Release",
+                "開放"
+            ],
+            "69": [
+                "Room Tour",
+                "ルームツアー"
+            ],
+            "70": [
+                "Fire",
+                "火"
+            ]
+        },
+        "cover_characters": [
+            "Ai Hoshino",
+            "Aqua Hoshino",
+            "Ruby Hoshino"
+        ],
+        "img": "images/oshink/vol_007.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "8": {
+        "title": [],
+        "date_release": [
+            "November 19, 2024",
+            "June 17, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-85540-559-0",
+            "978-4-08-892363-5"
+        ],
+        "chapters": {
+            "71": [
+                "Pedestrian Bridge",
+                "歩道橋"
+            ],
+            "72": [
+                "Freedom",
+                "自由"
+            ],
+            "73": [
+                "Stylish",
+                "スマート"
+            ],
+            "74": [
+                "Takachiho",
+                "高千穂"
+            ],
+            "75": [
+                "Mother and Mother",
+                "母親と母親"
+            ],
+            "76": [
+                "Music Video",
+                "M (エム) V (バ) "
+            ],
+            "77": [
+                "Reunion",
+                "再会"
+            ],
+            "78": [
+                "Use",
+                "利用"
+            ],
+            "79": [
+                "Role",
+                "役目"
+            ],
+            "80": [
+                "Wishes",
+                "願い"
+            ]
+        },
+        "cover_characters": [
+            "Mem-Cho"
+        ],
+        "img": "images/oshink/vol_008.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "9": {
+        "title": [],
+        "date_release": [
+            "February 18, 2025",
+            "October 19, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-85540-561-3",
+            "978-4-08-892429-8"
+        ],
+        "chapters": {
+            "81": [
+                "Rapid Advance",
+                "躍進"
+            ],
+            "82": [
+                "B-Komachi's Night",
+                "B小町の夜"
+            ],
+            "83": [
+                "Obsession",
+                "入れ込み"
+            ],
+            "84": [
+                "Sales Pitch",
+                "売り込み"
+            ],
+            "85": [
+                "Calculations",
+                "打算"
+            ],
+            "86": [
+                "AD",
+                "A (エー) D (ディ) "
+            ],
+            "87": [
+                "Lie",
+                "空音"
+            ],
+            "88": [
+                "Offer",
+                "オファー"
+            ],
+            "89": [
+                "Cosplay",
+                "コスプレ"
+            ],
+            "90": [
+                "Compliance",
+                "コンプライアンス"
+            ]
+        },
+        "cover_characters": [
+            "Minami Kotobuki"
+        ],
+        "img": "images/oshink/vol_009.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "10": {
+        "title": [],
+        "date_release": [
+            "May 27, 2025",
+            "January 19, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-85540-563-7",
+            "978-4-08-892535-6"
+        ],
+        "chapters": {
+            "91": [
+                "Dig Deep",
+                "深堀り"
+            ],
+            "92": [
+                "Purification",
+                "禊"
+            ],
+            "93": [
+                "Leak",
+                "リーク"
+            ],
+            "94": [
+                "Rapid Progress",
+                "躍進"
+            ],
+            "95": [
+                "Blind",
+                "盲目"
+            ],
+            "96": [
+                "White Roses",
+                "白薔薇"
+            ],
+            "97": [
+                "Together",
+                "一緒に"
+            ],
+            "98": [
+                "Off the Path",
+                "道を外す"
+            ],
+            "99": [
+                "Drinking",
+                "飲み"
+            ],
+            "100": [
+                "Marketing",
+                "営業"
+            ]
+        },
+        "cover_characters": [
+            "Aqua Hoshino"
+        ],
+        "img": "images/oshink/vol_010.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "11": {
+        "title": [],
+        "date_release": [
+            "August 26, 2025",
+            "March 17, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-85540-565-1",
+            "978-4-08-892630-8"
+        ],
+        "chapters": {
+            "101": [
+                "A Tight Spot",
+                "窮地"
+            ],
+            "102": [
+                "Idols and Romance",
+                "アイドルと恋愛"
+            ],
+            "103": [
+                "Scandal",
+                "スキャンダル"
+            ],
+            "104": [
+                "Countermeasures",
+                "対策"
+            ],
+            "105": [
+                "Reporter",
+                "記者"
+            ],
+            "106": [
+                "Rift",
+                "決裂"
+            ],
+            "107": [
+                "Friends",
+                "友達"
+            ],
+            "108": [
+                "Plan",
+                "計画"
+            ],
+            "109": [
+                "Night",
+                "夜"
+            ],
+            "110": [
+                "That Was the Start",
+                "それが始まり"
+            ]
+        },
+        "cover_characters": [
+            "Kana Arima"
+        ],
+        "img": "images/oshink/vol_011.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "12": {
+        "title": [],
+        "date_release": [
+            "December 16, 2025",
+            "July 19, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-855-40567-5",
+            "978-4-08-892780-0"
+        ],
+        "chapters": {
+            "111": [
+                "Mammon-Worship and Passion",
+                "拝金と情熱"
+            ],
+            "112": [
+                "Towards the Future",
+                "未来に向けて"
+            ],
+            "113": [
+                "Commercial Work",
+                "商業作品"
+            ],
+            "114": [
+                "Interpersonal Audition",
+                "個人間オーディション"
+            ],
+            "115": [
+                "Roles",
+                "役"
+            ],
+            "116": [
+                "Responsibility",
+                "責任"
+            ],
+            "117": [
+                "Panda",
+                "パンダ"
+            ],
+            "118": [
+                "Activation",
+                "始動"
+            ],
+            "119": [
+                "Biological Mother",
+                "実母"
+            ],
+            "120": [
+                "Lack of Ability",
+                "実力不足"
+            ]
+        },
+        "cover_characters": [
+            "Frill Shiranui"
+        ],
+        "img": "images/oshink/vol_012.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "13": {
+        "title": [],
+        "date_release": [
+            "April 28, 2026 ",
+            "November 17, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+            "979-8-85540-569-9",
+            "978-4-08-893002-2"
+        ],
+        "chapters": {
+            "121": [
+                "Sarina Tendouji",
+                "天童寺さりな"
+            ],
+            "122": [
+                "Doc",
+                "せんせ"
+            ],
+            "123": [
+                "Bad Move",
+                "悪手"
+            ],
+            "124": [
+                "Reversal",
+                "反転"
+            ],
+            "125": [
+                "Dazzled",
+                "眩"
+            ],
+            "126": [
+                "Management",
+                "マネジメント"
+            ],
+            "127": [
+                "Scouting A Girl",
+                "ガールスカウト"
+            ],
+            "128": [
+                "Script Reading",
+                "本読み"
+            ],
+            "129": [
+                "Piece",
+                "ピース"
+            ],
+            "130": [
+                "Basic Tactic",
+                "基本戦術"
+            ],
+            "-interlude- 1": [
+                "-interlude- 1",
+                "-interlude- 1"
+            ],
+            "-interlude- 2": [
+                "-interlude- 2",
+                "-interlude- 2"
+            ],
+            "-interlude- 3": [
+                "-interlude- 3",
+                "-interlude- 3"
+            ],
+            "-interlude- 4": [
+                "-interlude- 4",
+                "-interlude- 4"
+            ]
+        },
+        "cover_characters": [
+            "Miyako Saitou"
+        ],
+        "img": "images/oshink/vol_013.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "14": {
+        "title": [],
+        "date_release": [
+            "TBA",
+            "April 18, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+            "TBA",
+            "978-4-08-893172-2"
+        ],
+        "chapters": {
+            "131": [
+                "Atonement",
+                "贖罪"
+            ],
+            "132": [
+                "Nino",
+                "ニノ"
+            ],
+            "133": [
+                "Acting",
+                "芝居"
+            ],
+            "134": [
+                "Depths",
+                "奥底"
+            ],
+            "135": [
+                "By Her Side",
+                "傍"
+            ],
+            "136": [
+                "Fight",
+                "喧嘩"
+            ],
+            "137": [
+                "Idol",
+                "偶像"
+            ],
+            "138": [
+                "Amends",
+                "清算"
+            ],
+            "139": [
+                "Lookism",
+                "ルッキズム"
+            ],
+            "140": [
+                "Is This Right?",
+                "正しいですか?"
+            ],
+            "141": [
+                "Chain",
+                "連鎖"
+            ]
+        },
+        "cover_characters": [
+            "Ai Hoshino",
+            "Ruby Hoshino"
+        ],
+        "img": "images/oshink/vol_014.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "15": {
+        "title": [],
+        "date_release": [
+            "TBA",
+            "July 18, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+            "TBA",
+            "978-4-08-893303-0"
+        ],
+        "chapters": {
+            "142": [
+                "Responsibility",
+                "責任"
+            ],
+            "143": [
+                "Blind Follower",
+                "全肯定オタク"
+            ],
+            "144": [
+                "Fan of the Originals",
+                "原作ファン"
+            ],
+            "145": [
+                "Children",
+                "子供たち"
+            ],
+            "146": [
+                "Role",
+                "役柄"
+            ],
+            "147": [
+                "Wish",
+                "願い"
+            ],
+            "148": [
+                "End of Summer",
+                "夏の終わり"
+            ],
+            "149": [
+                "By the Sea",
+                "海にて"
+            ],
+            "150": [
+                "Knife",
+                "ナイフ"
+            ],
+            "151": [
+                "Catch Ball",
+                "キャッチボール"
+            ],
+            "152": [
+                "Interview",
+                "インタビュー"
+            ]
+        },
+        "cover_characters": [
+            "Akane Kurokawa",
+            "Kana Arima"
+        ],
+        "img": "images/oshink/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    }
+}
