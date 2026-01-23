@@ -111,7 +111,5 @@ function apothecary(id) {
     temp[id + 1] = result;
 }
 for (let i = 0; i < 16; i++) apothecary(i);
-//console.log(temp, imgs);
 JSON.stringify(temp);
-//JSON.stringify(imgs);
 // for some weird aah reason, vol 11 chapters 19 & 20 are broken ---
