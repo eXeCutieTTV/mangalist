@@ -25,12 +25,11 @@ async function page2() {
             return btoa(binary);
         }
 
-        const sorted = Object.fromEntries(
+        const sorted = Object.fromEntries(//<-- sorts alphabetically
             Object.entries(entryMap).sort(([, aVal], [, bVal]) =>
                 aVal.author.localeCompare(bVal.author)
             )
         );
-        //^^ sorts alphabetically
         const content = JSON.stringify(sorted, null, 2);
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
