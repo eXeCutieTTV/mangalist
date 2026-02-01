@@ -8796,186 +8796,1322 @@
     "volumes": {
       "1": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 11, 2022",
+          "August 4, 2021"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "978-1-97-473463-4",
+          "978-4-08-882599-1"
+        ],
+        "chapters": {
+          "1": [
+            "That's How Love Starts, Ya Know!",
+            "それって恋のはじまりじゃんよ"
+          ],
+          "2": [
+            "That's a Space Alien, Ain't It?!",
+            "それって宇宙人じゃね"
+          ],
+          "3": [
+            "It's a Granny vs. Granny Clash!",
+            "ババアとババアが激突じゃんか"
+          ],
+          "4": [
+            "Let's Go to the John",
+            "トイレにいこう"
+          ],
+          "5": [
+            "Kicking Turbo Granny's Ass",
+            "ターボババアをぶっ飛ばそう"
+          ]
+        },
+        "cover_characters": [
+          "Momo Ayase",
+          "Okarun"
+        ],
+        "img": "images/dandadan/vol_001.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "January 10, 2023",
+          "October 4, 2021"
+        ],
+        "pages": [
+          202,
+          202
+        ],
+        "ISBN": [
+          "978-1-97-473530-3",
+          "978-4-08-882804-6"
+        ],
+        "chapters": {
+          "6": [
+            "A Craving for Crab",
+            "カニ食べたくね"
+          ],
+          "7": [
+            "You're the Hundred Kmph Granny",
+            "100キロババアだろ"
+          ],
+          "8": [
+            "Let's Eat Crab",
+            "カニ食べよう"
+          ],
+          "9": [
+            "I Can't Find Him",
+            "会えないじゃん"
+          ],
+          "10": [
+            "Like, Where Are Your Balls?!",
+            "タマはどこじゃんよ"
+          ],
+          "11": [
+            "You're A Rotten Tangerine, Ain't Ya?",
+            "腐ったみかんじゃね"
+          ],
+          "12": [
+            "Seems He Finally Realized She's Cute",
+            "かわいいって気付いたっぽい"
+          ],
+          "13": [
+            "A Dangerous Woman Arrives",
+            "ヤベー女がきた"
+          ],
+          "14": [
+            "\"Acrobatic Silky\" Pretty Is Kinda Long",
+            "アクロバティックさらさらって長くね"
+          ]
+        },
+        "cover_characters": [
+          "Okarun",
+          "Momo Ayase"
+        ],
+        "img": "images/dandadan/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 11, 2023",
+          "December 3, 2021"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "978-1974735310",
+          "978-4-08-882854-1"
+        ],
+        "chapters": {
+          "15": [
+            "Let's Just Call Her \"Acro-Silky\"",
+            "アクサラって呼ぼう"
+          ],
+          "16": [
+            "Acro-Silky",
+            "アクさら"
+          ],
+          "17": [
+            "To a Kinder World",
+            "優しい世界へ"
+          ],
+          "18": [
+            "Eat Some Somen Noodles or Something",
+            "そうめんでも食べよ"
+          ],
+          "19": [
+            "I've Got This Funny Feeling",
+            "なんかモヤモヤするじゃんよ"
+          ],
+          "20": [
+            "They're, Like, Back Again",
+            "また来たじゃんよ"
+          ],
+          "21": [
+            "Gotta Put On Some Clothes!",
+            "服が着たい"
+          ],
+          "22": [
+            "Momo Still Has Some Pent-Up Feelings",
+            "モモちゃんまだモヤモヤしてます"
+          ],
+          "23": [
+            "You're Bothered, Aren't You?",
+            "気にしてるじゃんか"
+          ]
+        },
+        "cover_characters": [
+          "Aira Shiratori",
+          "Okarun"
+        ],
+        "img": "images/dandadan/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 11, 2023",
+          "March 4, 2022"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "978-1974737444",
+          "978-4-08-883046-9"
+        ],
+        "chapters": {
+          "24": [
+            "Merge! Serpo Dover Demon Nessie!",
+            "合体！セルポドーバーデーモンネッシー！"
+          ],
+          "25": [
+            "It Makes Your Heart Race, Don't It?!",
+            "ドキドキじゃんよ"
+          ],
+          "26": [
+            "We Picked Up A Kappa Monster",
+            "(河童を拾いました"
+          ],
+          "27": [
+            "Have You Ever Seen a Cattle Mutilation?",
+            "キャトルミューティレーションを君は見たか"
+          ],
+          "28": [
+            "That's A Premonition About The Turmoils of Love!",
+            "ラヴ波乱の予感じゃんよ"
+          ],
+          "29": [
+            "First Love!",
+            "初恋の人"
+          ],
+          "30": [
+            "Don't Give Up!",
+            "あきらめるなよ！"
+          ],
+          "31": [
+            "The Life of an Anatomical Doll",
+            "人体模型の生活"
+          ],
+          "32": [
+            "Let's Go to the Cursed House",
+            "呪いの家へレッツゴー"
+          ]
+        },
+        "cover_characters": [
+          "Seiko",
+          "Aira Shiratori"
+        ],
+        "img": "images/dandadan/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 10, 2023",
+          "May 2, 2022"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "978-1974740598",
+          "978-4-08-883103-9"
+        ],
+        "chapters": {
+          "33": [
+            "Better Decide Which One's Into Her",
+            "どっちが好きか決めようや"
+          ],
+          "34": [
+            "The Kito Family Is Coming",
+            "鬼頭家が来る"
+          ],
+          "35": [
+            "Where's The Tsuchinoko Monster?",
+            "ツチノコはどこ"
+          ],
+          "36": [
+            "The Kito Family's Old Lady",
+            "鬼頭家のババア"
+          ],
+          "37": [
+            "Like, This Is the Legend of the Giant Snake",
+            "大蛇伝説ってこれじゃんよ"
+          ],
+          "38": [
+            "Mongolian Death Worms Are Deadly",
+            "モンゴリアンデスワームはやばい"
+          ],
+          "39": [
+            "The Evil Eye",
+            "邪視"
+          ],
+          "40": [
+            "Contract",
+            "契約"
+          ],
+          "One-ShShot": [
+            "Profoundly Mysterious Kick-the-Can Battle",
+            "缶蹴りをしよう"
+          ]
+        },
+        "cover_characters": [
+          "Jiji",
+          "Seiko"
+        ],
+        "img": "images/dandadan/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "January 9, 2024",
+          "August 4, 2022"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974742837",
+          "978-4-08-883208-1"
+        ],
+        "chapters": {
+          "41": [
+            "Jiji the Prodigy",
+            "天才ジジ"
+          ],
+          "42": [
+            "Escape! Multistage!",
+            "脱出！多段式！"
+          ],
+          "43": [
+            "You Won't Get Away With This!",
+            "ゆるさねえぜ"
+          ],
+          "44": [
+            "That House Is a Damn Eyesore",
+            "目障りな家じゃんよ"
+          ],
+          "45": [
+            "It's a Pump",
+            "ポンプです"
+          ],
+          "46": [
+            "Put That Fire Out",
+            "消火しよう"
+          ],
+          "47": [
+            "That's, Like, Way Deadly",
+            "やば過ぎじゃんよ"
+          ],
+          "48": [
+            "That UFO Is Awesome",
+            "UFOすげえ"
+          ],
+          "49": [
+            "He's, Like, Sealed",
+            "封印じゃんよ"
+          ]
+        },
+        "cover_characters": [
+          "Okarun",
+          "Evil Eye"
+        ],
+        "img": "images/dandadan/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 9, 2024",
+          "October 4, 2022"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974743391",
+          "978-4-08-883270-8"
+        ],
+        "chapters": {
+          "50": [
+            "Let's All Carry Around Hot Water",
+            "みんなでお湯を持とう"
+          ],
+          "51": [
+            "We Can All Stay There Together!",
+            "みんなでお泊まりじゃんよ"
+          ],
+          "52": [
+            "The Hayashi Performers Are Here",
+            "囃子が来ました"
+          ],
+          "53": [
+            "We Became a Family",
+            "家族になりました"
+          ],
+          "54": [
+            "Get a Part-Time Job",
+            "バイトをしよう"
+          ],
+          "55": [
+            "Moe Moe Tri-Beam",
+            "モエモエ気功砲"
+          ],
+          "56": [
+            "Feeling Kinda Gloomy",
+            "なんかモヤモヤするじゃんよ"
+          ],
+          "57": [
+            "Scary Dudes at School",
+            "学校の怖いやつ"
+          ],
+          "58": [
+            "Symphony No. 6",
+            "交響曲第6番"
+          ]
+        },
+        "cover_characters": [
+          "Aira Shiratori",
+          "Okarun"
+        ],
+        "img": "images/dandadan/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 16, 2024",
+          "January 4, 2023"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974746019",
+          "978-4-08-883370-5"
+        ],
+        "chapters": {
+          "59": [
+            "Symphony No. 9",
+            "交響曲第9番"
+          ],
+          "60": [
+            "You Can Do It, Okarun!",
+            "がんばれオカルン"
+          ],
+          "61": [
+            "The Evil Eye's Briefs",
+            "邪視のブリーフ"
+          ],
+          "62": [
+            "I Want to Rebuild the House",
+            "家を建て直したい"
+          ],
+          "63": [
+            "School Life",
+            "学生生活"
+          ],
+          "64": [
+            "The Secret Art of Being Attractive",
+            "モテる秘訣はなんだ"
+          ],
+          "65": [
+            "I Can't See Them!",
+            "見えないじゃんよ"
+          ],
+          "66": [
+            "Hey, It's a Kaiju",
+            "怪獣じゃんよ"
+          ],
+          "67": [
+            "The Kaiju's Wicked Strong",
+            "怪獣はめちゃ強い"
+          ]
+        },
+        "cover_characters": [
+          "Momo Ayase",
+          "Aira Shiratori"
+        ],
+        "img": "images/dandadan/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 15, 2024",
+          "March 3, 2023"
+        ],
+        "pages": [
+          218,
+          218
+        ],
+        "ISBN": [
+          "978-1974748976",
+          "978-4-08-883414-6"
+        ],
+        "chapters": {
+          "68": [
+            "Kinta's Imagination",
+            "金太のイメージ"
+          ],
+          "69": [
+            "Clash! Space Kaiju vs. Giant Robot!",
+            "激突！宇宙怪獣対巨大ロボ！"
+          ],
+          "70": [
+            "This Is How You Beat A Kaiju, Okay?",
+            "怪獣の倒し方はこれじゃんよ"
+          ],
+          "71": [
+            "I'm Sick of Robots and Kaiju!",
+            "ロボットも怪獣もこりごりだ"
+          ],
+          "72": [
+            "Somebody, Please Translate",
+            "だれか翻訳してくれ"
+          ],
+          "73": [
+            "Let's Eat Some Takoyaki",
+            "タコヤキを食べよう"
+          ],
+          "74": [
+            "Let's Go To School",
+            "学校へ行こう"
+          ],
+          "75": [
+            "Ran Into Someone Deadly",
+            "やべえ奴に遭遇しました"
+          ],
+          "76": [
+            "What Do We Do With Her?",
+            "どーするこいつ"
+          ]
+        },
+        "cover_characters": [
+          "Kinta Sakata",
+          "Momo Ayase"
+        ],
+        "img": "images/dandadan/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "December 17, 2024",
+          "May 2, 2023"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974749843",
+          "978-4-08-883503-7"
+        ],
+        "chapters": {
+          "77": [
+            "This Person is a Pain in the Butt",
+            "めんどくせえ奴"
+          ],
+          "78": [
+            "A Pulse-Pounding Night",
+            "ときめきナイトじゃんよ"
+          ],
+          "79": [
+            "Just Who the Heck Is This Person?",
+            "こいつは一体何者なんだよ"
+          ],
+          "80": [
+            "Ran Into Some Deadly Dudes 2",
+            "やべえやつらに遭遇しました2"
+          ],
+          "81": [
+            "What Do We Do About These Deadly Dudes?",
+            "どうしようやべえやつら"
+          ],
+          "82": [
+            "Number One Deadliest Dude",
+            "一番やべえやつ"
+          ],
+          "83": [
+            "At Work",
+            "バイト中"
+          ],
+          "84": [
+            "Annoying Dudes",
+            "ムカツクやつら"
+          ],
+          "85": [
+            "The Power of Nessie",
+            "ネッシーの力"
+          ]
+        },
+        "cover_characters": [
+          "Bamora",
+          "Kinta Sakata"
+        ],
+        "img": "images/dandadan/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "February 4, 2025",
+          "August 4, 2023"
+        ],
+        "pages": [
+          183,
+          183
+        ],
+        "ISBN": [
+          "978-1974751808",
+          "978-4-08-883599-0"
+        ],
+        "chapters": {
+          "86": [
+            "I Just Wanna Leave Already",
+            "早く帰りたいじゃんよ"
+          ],
+          "87": [
+            "Can Never Sleep at a Manga Cafe",
+            "マンガ喫茶は眠れない"
+          ],
+          "88": [
+            "Spy",
+            "スパイ "
+          ],
+          "89": [
+            "Argument",
+            "ケンカ "
+          ],
+          "90": [
+            "What're We Gonna Do?",
+            "どーするかねえ "
+          ],
+          "91": [
+            "Initiate! The Road to Counterattack!",
+            "始動！逆襲への道!  "
+          ],
+          "92": [
+            "Just Can't Sleep",
+            "寝てられないじゃんよ  "
+          ],
+          "93": [
+            "Astral Body Adventure",
+            "幽体離脱の冒険  "
+          ]
+        },
+        "cover_characters": [
+          "Jiji",
+          "Bamora"
+        ],
+        "img": "images/dandadan/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 1, 2025",
+          "December 4, 2023"
+        ],
+        "pages": [
+          202,
+          202
+        ],
+        "ISBN": [
+          "978-1974752270",
+          "978-4-08-883726-0"
+        ],
+        "chapters": {
+          "94": [
+            "Please Tell Me How To Get Back Into My Body",
+            "体の戻り方教えてください"
+          ],
+          "95": [
+            "Day of the Decisive Battle",
+            "決戦の日"
+          ],
+          "96": [
+            "Motivation",
+            "やる気"
+          ],
+          "97": [
+            "What To Do About the Name?",
+            "どーする名前"
+          ],
+          "98": [
+            "What To Do About My Beauty Treatment",
+            "どーする美容"
+          ],
+          "99": [
+            "My Turn",
+            "おれのターン"
+          ],
+          "100": [
+            "Close That Gate",
+            "ゲートを閉じろ"
+          ],
+          "101": [
+            "Vamola",
+            "バモラ"
+          ],
+          "102": [
+            "Vamola 2",
+            "バモラ2"
+          ]
+        },
+        "cover_characters": [
+          "Seiko",
+          "Turbo Granny",
+          "Jiji"
+        ],
+        "img": "images/dandadan/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "June 3, 2025",
+          "January 4, 2024"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "978-1974755110",
+          "978-4-08-883841-0"
+        ],
+        "chapters": {
+          "103": [
+            "Vamola 3",
+            "バモラ3"
+          ],
+          "104": [
+            "Vamola 4",
+            "バモラ4"
+          ],
+          "105": [
+            "Banga",
+            "バンガ"
+          ],
+          "106": [
+            "Vamola's Reasons",
+            "バモラの理由"
+          ],
+          "107": [
+            "I've Decided on Takoyaki",
+            "タコ焼き決定じゃんよ"
+          ],
+          "108": [
+            "I'm Gonna Kick Ya Into Tomorrow",
+            "蹴っ飛ばしてやるわい"
+          ],
+          "109": [
+            "Mantis Shrimp's Calculation",
+            "シャコの計算"
+          ],
+          "110": [
+            "Wicked Power",
+            "やばい力"
+          ],
+          "111": [
+            "Everyone's Reconvened",
+            "集まってきちゃった"
+          ]
+        },
+        "cover_characters": [
+          "Okarun",
+          "Seiko Ayase"
+        ],
+        "img": "images/dandadan/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "August 5, 2025",
+          "April 4, 2024"
+        ],
+        "pages": [
+          202,
+          202
+        ],
+        "ISBN": [
+          "978-1974755752",
+          "978-4-08-883897-7"
+        ],
+        "chapters": {
+          "112": [
+            "Today Is a Tuesday",
+            "今日は火曜日"
+          ],
+          "113": [
+            "Wreck 'Em",
+            "ブチ壊せ"
+          ],
+          "114": [
+            "A Persistent Bastard",
+            "しぶとい野郎"
+          ],
+          "115": [
+            "It's Kinta's Turn Onstage",
+            "金太の出番じゃんよ"
+          ],
+          "116": [
+            "Howl, Great Kinta!",
+            "唸れグレートキンタ"
+          ],
+          "117": [
+            "Out of the Frying Pan",
+            "一難去ってまた一難"
+          ],
+          "118": [
+            "The Power of Reiko Kashima",
+            "カシマレイコの力"
+          ],
+          "119": [
+            "That Note",
+            "あの手紙"
+          ],
+          "120": [
+            "Reiko Kashima's Maiden Heart",
+            "カシマレイコの乙女心"
+          ]
+        },
+        "cover_characters": [
+          "Momo Ayase",
+          "Okarun"
+        ],
+        "img": "images/dandadan/vol_014.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "15": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 7, 2025",
+          "July 4, 2024"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974757923",
+          "978-4-08-884054-3"
+        ],
+        "chapters": {
+          "121": [
+            "Who's This Person?",
+            "こいつは誰だ"
+          ],
+          "122": [
+            "Let's Form a Club",
+            "部活を作ろう"
+          ],
+          "123": [
+            "The Class Rep's Secret",
+            "委員長の秘密"
+          ],
+          "124": [
+            "Ombusman",
+            "オンブズマン"
+          ],
+          "125": [
+            "Let's Do an Exorcism",
+            "おはらいしようぜ"
+          ],
+          "126": [
+            "It's a Parade Float. It's a Festival. It's Ninomiya",
+            "山車だ祭りだ二宮だ"
+          ],
+          "127": [
+            "Float Performance Face-Off",
+            "ひっかわせ Hikkawase"
+          ],
+          "128": [
+            "Let's Be Idols",
+            "アイドルやろうぜ"
+          ],
+          "129": [
+            "Kawabanga",
+            "カワバンガ"
+          ]
+        },
+        "cover_characters": [
+          "Count Saint-Germain"
+        ],
+        "img": "images/dandadan/vol_015.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "16": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "December 9, 2025",
+          "October 4, 2024"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974757930",
+          "978-4-08-884227-1"
+        ],
+        "chapters": {
+          "130": [
+            "Mission Impossible",
+            "スパイ大作戦"
+          ],
+          "131": [
+            "It's, Like, Pride",
+            "プライドじゃんよ"
+          ],
+          "132": [
+            "Delinquents' Track Meet",
+            "ヤンキー運動会"
+          ],
+          "133": [
+            "Where’s Zuma?",
+            "ズマはどこだ？"
+          ],
+          "134": [
+            "Deadly Magic Object",
+            "やべえ呪物"
+          ],
+          "135": [
+            "She Went and Entered It",
+            "入っちゃったじゃんよ"
+          ],
+          "136": [
+            "It's, Like, a Board Game",
+            "これボードゲームじゃんよ"
+          ],
+          "137": [
+            "That Zuma Dude",
+            "ズマってやつ"
+          ],
+          "138": [
+            "Start Game",
+            "ゲームスタート"
+          ]
+        },
+        "cover_characters": [
+          "Rin Sawaki",
+          "Count Saint-Germain"
+        ],
+        "img": "images/dandadan/vol_016.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "17": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
+        "date_release": [
+          "February 3, 2026",
+          "November 1, 2024"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974761982",
+          "978-4-08-884259-2"
+        ],
+        "chapters": {
+          "139": [
+            "Let 'Em Eat Cake",
+            "ケーキ食わせろや"
+          ],
+          "140": [
+            "How to Use Powers",
+            "能力の使い方"
+          ],
+          "141": [
+            "Eatin' Too Many Treats",
+            "お菓子食い過ぎじゃんよ"
+          ],
+          "142": [
+            "That's Enough Of Sweets!",
+            "甘いものはもういいぜ"
+          ],
+          "143": [
+            "Let's Take a Break!",
+            "休憩しようぜ"
+          ],
+          "144": [
+            "Let's Go On An Adventure!",
+            "冒険しようぜ"
+          ],
+          "145": [
+            "Commence Castle Siege",
+            "攻城戦開幕"
+          ],
+          "146": [
+            "Castle Sieges Are Hard",
+            "攻城戦は難しい"
+          ],
+          "147": [
+            "It's a Megabrawl",
+            "大乱闘じゃんよ"
+          ]
+        },
+        "cover_characters": [
+          "Unji Zuma",
+          "Rin Sawaki"
+        ],
+        "img": "images/dandadan/vol_017.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "18": {
+        "title": [],
+        "date_release": [
+          "April 7, 2026",
+          "January 4, 2025"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "978-1974761999",
+          "978-4-08-884340-7"
+        ],
+        "chapters": {
+          "148": [
+            "Game Cleared",
+            "ゲームクリア"
+          ],
+          "149": [
+            "That Devil, the Fairy-Tale Card",
+            "悪魔のメルヘンカルタ"
+          ],
+          "150": [
+            "This Guy's a Pain",
+            "厄介なやつ"
+          ],
+          "151": [
+            "Get That Family Jewel Back",
+            "金玉を取り戻せ"
+          ],
+          "152": [
+            "Turbo Granny vs. Brella Boy",
+            "ターボババアVSアンブレボーイ"
+          ],
+          "153": [
+            "Unji Zuma",
+            "頭間雲児"
+          ],
+          "154": [
+            "Unji Zuma 2",
+            "頭間雲児2"
+          ],
+          "155": [
+            "Unji Zuma 3",
+            "頭間雲児3"
+          ],
+          "156": [
+            "'Brella Boy",
+            "アンブレボーイ"
+          ]
+        },
+        "cover_characters": [
+          "Rokuro Serpo",
+          "Unji Zuma"
+        ],
+        "img": "images/dandadan/vol_018.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "19": {
+        "title": [],
+        "date_release": [
+          "TBA",
+          "April 4, 2025"
+        ],
+        "pages": [
+          210,
+          210
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884470-1"
+        ],
+        "chapters": {
+          "157": [
+            "Masamichi Bega",
+            "部賀正道"
+          ],
+          "158": [
+            "That Kawabanga Girl",
+            "カワバンガというやつは"
+          ],
+          "159": [
+            "Escape from the Cursed Trunk!",
+            "脱出!! 呪行李!!"
+          ],
+          "160": [
+            "The Power of the Demonic Fairy-Tale Card",
+            "悪魔のメルヘンカルタの力"
+          ],
+          "161": [
+            "Saint-Germain, the Mysterious Man",
+            "謎の男サンジェルマン"
+          ],
+          "162": [
+            "Let's Blow the Demonic Fairy-Tale Card Away!",
+            "悪魔のメルヘンカルタをぶっ飛ばせ！！"
+          ],
+          "163": [
+            "Saviors, Don't Be Late!",
+            "間に合え救出!!"
+          ],
+          "164": [
+            "She's Gone All Little!",
+            "小っちゃくなったじゃんよ"
+          ],
+          "165": [
+            "Family Jewels—Intact",
+            "金玉コンプリート"
+          ]
+        },
+        "cover_characters": [
+          "Count Saint-Germain",
+          "Rokuro Serpo"
+        ],
+        "img": "images/dandadan/vol_019.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "20": {
+        "title": [],
+        "date_release": [
+          "TBA",
+          "July 4, 2025"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884592-0"
+        ],
+        "chapters": {
+          "166": [
+            "Is This a Little Fairy?",
+            "これは小人妖精か"
+          ],
+          "167": [
+            "Hey, There's Something There",
+            "なんかいるじゃんよ"
+          ],
+          "168": [
+            "There's Someone Here",
+            "なんか来たじゃんよ"
+          ],
+          "169": [
+            "Find the Culprit!",
+            "犯人をさがせ!"
+          ],
+          "170": [
+            "A Suspicious Woman",
+            "怪しい女"
+          ],
+          "171": [
+            "Corner the Perp!",
+            "追い詰めろ犯人!"
+          ],
+          "172": [
+            "Those Pygmies Are Scary",
+            "小人は怖い"
+          ],
+          "173": [
+            "Corner the Criminal!",
+            "犯人を追い詰めろ！"
+          ],
+          "174": [
+            "Queen Sensei's Infirmary",
+            "女王先生の保健室"
+          ]
+        },
+        "cover_characters": [
+          "Momo Ayase",
+          "Count Saint-Germain"
+        ],
+        "img": "images/no_image_available.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "21": {
+        "title": [],
+        "date_release": [
+          "TBA",
+          "October 3, 2025"
+        ],
+        "pages": [
+          194,
+          194
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884720-7"
+        ],
+        "chapters": {
+          "175": [
+            "So Who's the True Perp?",
+            "真犯人は誰じゃんよ"
+          ],
+          "176": [
+            "Scattering the Bait",
+            "餌を撒いとこ"
+          ],
+          "177": [
+            "Let's Do Some Kung Fu",
+            "カンフーやったろうぜ"
+          ],
+          "178": [
+            "The Power of a God",
+            "神様の力"
+          ],
+          "179": [
+            "This Seems Kinda Deadly",
+            "なんかやばそうじゃんよ"
+          ],
+          "180": [
+            "The Owner of the Kozuka Knives",
+            "小柄の持ち主 "
+          ],
+          "181": [
+            "Must Be the Influence of a Curse",
+            "呪いの影響じゃね"
+          ],
+          "182": [
+            "Something's Taken the Bait",
+            "餌になにかが引っ掛かった"
+          ],
+          "183": [
+            "So It's You!",
+            "お前かい！"
+          ]
+        },
+        "cover_characters": [
+          "Seiko Ayase",
+          "Momo Ayase"
+        ],
+        "img": "images/no_image_available.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "22": {
+        "title": [],
+        "date_release": [
+          "TBA",
+          "January 3 2026"
+        ],
+        "pages": [
+          202,
+          202
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884824-2"
+        ],
+        "chapters": {
+          "184": [
+            "The Class Rep's Head",
+            "いんちょーの首"
+          ],
+          "185": [
+            "So You're the Perp!",
+            "犯人はお前か!!"
+          ],
+          "186": [
+            "Kouki Yukishiro's Power",
+            "雪ゆき白しろ幸こう姫きの力"
+          ],
+          "187": [
+            "Kick the Crap Outta Murakami!",
+            "村上をぶっ飛ばせ"
+          ],
+          "188": [
+            "Okarun and Kinta",
+            "オカルンと金太"
+          ],
+          "189": [
+            "Jumping Granny and Kung Fu Alien",
+            "ジャンピングババアとカンフーエイリアン"
+          ],
+          "190": [
+            "Merging Is What Makes Us Strong!",
+            "合体したら強くなるでしょうか！！"
+          ],
+          "191": [
+            "The Mistake",
+            "間違え"
+          ],
+          "192": [
+            "Departing for Shimane",
+            "島根に出発"
+          ]
+        },
+        "cover_characters": [
+          "Rin Sawaki",
+          "Seiko Ayase",
+          "Mai Kawabanga"
+        ],
         "img": "images/no_image_available.png",
         "owned": false,
         "prise": "10 €",
