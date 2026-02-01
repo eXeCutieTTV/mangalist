@@ -15,7 +15,7 @@ function chainsawman(id) {
     const isbn = volume.querySelectorAll('tr')[0].children[3].innerText.split("\n");
     const date = volume.querySelectorAll('tr')[0].children[2].innerText.split("\n");
     const result = {
-        title: [header[1].innerText.trim()],
+        title: [header[1].innerText.trim(), header[1].innerText.trim()],
         date_release: [date[0].replace(/\(..\)$/, "").trim(), date[1].replace(/\(..\)$/, "").trim()],// 0 1, or 1 0?
         pages: [],
         ISBN: [isbn[0].replace(/\(..\)$/, "").replace(/\ISBN/, "").trim(), isbn[1].replace(/\(..\)$/, "").replace(/\ISBN/, "").trim()],
