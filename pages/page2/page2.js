@@ -1,8 +1,12 @@
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
+    /*
     if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
     else localStorage.mangalist_token = prompt("pat_token")
+    */
+    if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
+    else console.log("pat token:", localStorage.mangalist_token);
 
     //vv file manipulation
     const folder = "generated"; // folder inside repo
@@ -348,3 +352,14 @@ async function page2() {
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
 // fix hxh^^
+
+//vv only show not owned volumes.
+/*
+    for (const div of $0.children) {
+        div.hidden = false; // to reset it first. important if you want other filters.
+        const inner = div.children;
+        if (inner[1].className.includes("volume-owned") === true) { //get the actual boolean from the json object instead. div.parentElement.children
+            div.hidden = true;
+        }
+    }
+*/

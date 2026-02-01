@@ -1,8 +1,13 @@
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
+    /*
     if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
     else localStorage.mangalist_token = prompt("pat_token")
+    */
+    if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
+    else console.log("pat token:", localStorage.mangalist_token);
+
 
     //vv file manipulation
     const folder = "generated"; // folder inside repo
@@ -217,8 +222,8 @@ async function page2() {
                         <div>
                             <ul style="margin: 0;">
                                 ${Object.entries(volData.chapters)
-                                .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
-                                .join("")}
+                        .map(([chapNum, titles]) => `<li>Chapter ${chapNum}: ${titles[0]} / ${titles[1]}</li>`)
+                        .join("")}
                             </ul>
                         </div>
                     </div>

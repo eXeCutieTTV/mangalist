@@ -2159,6 +2159,1503 @@
       }
     }
   },
+  "Chainsaw Man": {
+    "1": {
+      "title": [
+        "Dog & Chainsaw"
+      ],
+      "date_release": [
+        "March 4, 2019",
+        "October 6, 2020"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088817804",
+        "978-1974709939"
+      ],
+      "chapters": {
+        "1": [
+          "Dog & Chainsaw",
+          "犬とチェンソー"
+        ],
+        "2": [
+          "The Place Where Pochita Is",
+          "ポチタの行方"
+        ],
+        "3": [
+          "Arrival in Tokyo",
+          "東京到着"
+        ],
+        "4": [
+          "Power",
+          "力"
+        ],
+        "5": [
+          "A Way to Touch Some Boobs",
+          "胸を揉む方法"
+        ],
+        "6": [
+          "Service",
+          "使役"
+        ],
+        "7": [
+          "Meowy's Whereabouts",
+          "ニャーコの行方"
+        ]
+      },
+      "cover_characters": [
+        "Denji"
+      ],
+      "img": "images/chainsawman/vol_001.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "2": {
+      "title": [
+        "Chainsaw vs. Bat"
+      ],
+      "date_release": [
+        "May 2, 2019",
+        "December 1, 2020"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088818313",
+        "978-1974709946"
+      ],
+      "chapters": {
+        "8": [
+          "Chainsaw vs. Bat",
+          "チェーンソーVSコウモリ"
+        ],
+        "9": [
+          "Rescue",
+          "救出"
+        ],
+        "10": [
+          "Kon",
+          "コン"
+        ],
+        "11": [
+          "Compromise",
+          "妥協"
+        ],
+        "12": [
+          "Squeeze",
+          "揉む"
+        ],
+        "13": [
+          "Gun Devil",
+          "銃の悪魔"
+        ],
+        "14": [
+          "French Kiss",
+          "エロキス"
+        ],
+        "15": [
+          "Endless 8th Floor",
+          "エンドレス8階"
+        ],
+        "16": [
+          "The First Taste",
+          "はじめての味"
+        ]
+      },
+      "cover_characters": [
+        "Power"
+      ],
+      "img": "images/chainsawman/vol_002.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "3": {
+      "title": [
+        "Kill Denji"
+      ],
+      "date_release": [
+        "August 2, 2019",
+        "February 2, 2021"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088820163",
+        "978-1974709953"
+      ],
+      "chapters": {
+        "17": [
+          "Kill Denji",
+          "デンジを殺せ"
+        ],
+        "18": [
+          "Chainsaw vs Eternity",
+          "チェンソーVS永遠"
+        ],
+        "19": [
+          "Nobel Prize",
+          "ノーベル賞"
+        ],
+        "20": [
+          "Drinking",
+          "飲み"
+        ],
+        "21": [
+          "Taste of a Kiss",
+          "キスのお味"
+        ],
+        "22": [
+          "Cola-Flavor Chupa Chups",
+          "チュッパチャップスコーラ味"
+        ],
+        "23": [
+          "Gunfire",
+          "銃声"
+        ],
+        "24": [
+          "Curse",
+          "呪い"
+        ],
+        "25": [
+          "Ghost, Snake, Chainsaw",
+          "ゴースト・ヘビ・チェンソー"
+        ]
+      },
+      "cover_characters": [
+        "Himeno"
+      ],
+      "img": "images/chainsawman/vol_003.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "4": {
+      "title": [
+        "The Gun is Mightier"
+      ],
+      "date_release": [
+        "October 4, 2019",
+        "April 6, 2021"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088820750",
+        "978-1974717279"
+      ],
+      "chapters": {
+        "26": [
+          "The Gun is Mightier",
+          "銃は強し"
+        ],
+        "27": [
+          "From Kyoto",
+          "京都より"
+        ],
+        "28": [
+          "Secrets & Lies",
+          "秘密と嘘"
+        ],
+        "29": [
+          "Perfect Score",
+          "100点満点"
+        ],
+        "30": [
+          "Bruised & Battered",
+          "もっとボロボロ"
+        ],
+        "31": [
+          "The Future Rules",
+          "未来最高"
+        ],
+        "32": [
+          "Over and Over Again",
+          "繰り返し繰り返し"
+        ],
+        "33": [
+          "Mission Start",
+          "作戦開始"
+        ],
+        "34": [
+          "Full Team",
+          "全員集合"
+        ]
+      },
+      "cover_characters": [
+        "Aki Hayakawa"
+      ],
+      "img": "images/chainsawman/vol_004.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "5": {
+      "title": [
+        "Minor"
+      ],
+      "date_release": [
+        "January 4, 2020",
+        "June 1, 2021"
+      ],
+      "pages": [
+        200,
+        200
+      ],
+      "ISBN": [
+        "978-4088821719",
+        "978-1974719228"
+      ],
+      "chapters": {
+        "35": [
+          "Minor",
+          "未成年"
+        ],
+        "36": [
+          "Katana vs. Chainsaw",
+          "日本刀VSチェンソー"
+        ],
+        "37": [
+          "Train, Head, Chainsaw",
+          "電車・頭・チェンソー"
+        ],
+        "38": [
+          "Easy Revenge!",
+          "気楽に復讐を!"
+        ],
+        "39": [
+          "Tearjerker",
+          "きっと泣く"
+        ],
+        "40": [
+          "Love, Flower, Chainsaw",
+          "恋・花・チェンソー"
+        ],
+        "41": [
+          "Before the Storm",
+          "嵐の前"
+        ],
+        "42": [
+          "Teach Me How To Swim",
+          "泳ぎ方を教えて"
+        ],
+        "43": [
+          "Jane Fell Asleep in the Church",
+          "ジェーンは教会で眠った"
+        ]
+      },
+      "cover_characters": [
+        "Denji",
+        "Katana Man"
+      ],
+      "img": "images/chainsawman/vol_005.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "6": {
+      "title": [
+        "Boom Boom Boom"
+      ],
+      "date_release": [
+        "March 4, 2020",
+        "August 3, 2021"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088822242",
+        "978-1974720712"
+      ],
+      "chapters": {
+        "44": [
+          "Boom Boom Boom",
+          "バン バン バン"
+        ],
+        "45": [
+          "A Fine Day for Explosions",
+          "爆発日和"
+        ],
+        "46": [
+          "Massacre Melody",
+          "皆殺しのメロディ"
+        ],
+        "47": [
+          "Luck with Women",
+          "女運"
+        ],
+        "48": [
+          "Kaboom Kaboom Kaboom",
+          "ボンボンボン"
+        ],
+        "49": [
+          "Shark Hurricane",
+          "サメハリケーン"
+        ],
+        "50": [
+          "Sharknado",
+          "シャークネード"
+        ],
+        "51": [
+          "Dark Diving",
+          "ダークダイビング"
+        ],
+        "52": [
+          "Lost Love, Flower, Chainsaw",
+          "失恋・花・チェンソー"
+        ]
+      },
+      "cover_characters": [
+        "Denji",
+        "Reze"
+      ],
+      "img": "images/chainsawman/vol_006.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "7": {
+      "title": [
+        "In a Dream"
+      ],
+      "date_release": [
+        "June 4, 2020",
+        "October 5, 2021"
+      ],
+      "pages": [
+        200,
+        200
+      ],
+      "ISBN": [
+        "978-4088823287",
+        "978-1974720965"
+      ],
+      "chapters": {
+        "53": [
+          "In a Dream",
+          "夢の中"
+        ],
+        "54": [
+          "To Go to Enoshima",
+          "江の島にいくには"
+        ],
+        "55": [
+          "Let's Go",
+          "レッツゴー"
+        ],
+        "56": [
+          "A Curse and A First",
+          "呪いと初めて"
+        ],
+        "57": [
+          "Suddenly",
+          "突然"
+        ],
+        "58": [
+          "Yutaro Kurose",
+          "黒瀬ユウタロウ"
+        ],
+        "59": [
+          "Mess",
+          "めちゃくちゃ"
+        ],
+        "60": [
+          "Quanxi and Fiends' 49-Person Massacre",
+          "クァンシと魔人達四十九人斬り"
+        ],
+        "61": [
+          "News Reporter",
+          "ニュースレポーター"
+        ]
+      },
+      "cover_characters": [
+        "Denji",
+        "Master",
+        "Eldest Brother",
+        "Quanxi",
+        "Santa Claus"
+      ],
+      "img": "images/chainsawman/vol_007.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "8": {
+      "title": [
+        "Super Mess"
+      ],
+      "date_release": [
+        "August 4, 2020",
+        "December 7, 2021"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088823768",
+        "978-1974722785"
+      ],
+      "chapters": {
+        "62": [
+          "Super Mess",
+          "ちょうめちゃくちゃ"
+        ],
+        "63": [
+          "Trip to Hell",
+          "地獄旅行"
+        ],
+        "64": [
+          "Welcome to Hell",
+          "ウェルカムトゥーデヘル"
+        ],
+        "65": [
+          "The Darkness Devil",
+          "闇の悪魔"
+        ],
+        "66": [
+          "Woof!",
+          "ワン！"
+        ],
+        "67": [
+          "The First Devil Hunter",
+          "最初のデビルハンター"
+        ],
+        "68": [
+          "Dark Power",
+          "ダークパワー"
+        ],
+        "69": [
+          "Shining Power",
+          "シャイニングパワー"
+        ],
+        "70": [
+          "Pinch",
+          "摘む"
+        ]
+      },
+      "cover_characters": [
+        "Denji",
+        "Quanxi"
+      ],
+      "img": "images/chainsawman/vol_008.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "9": {
+      "title": [
+        "Bath"
+      ],
+      "date_release": [
+        "November 4, 2020",
+        "February 1, 2022"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088824703",
+        "978-1974724048"
+      ],
+      "chapters": {
+        "71": [
+          "Bath",
+          "お風呂"
+        ],
+        "72": [
+          "All Together",
+          "みんな一緒"
+        ],
+        "73": [
+          "Everyday Life No More",
+          "日常の終わりに"
+        ],
+        "74": [
+          "What the Waves Say",
+          "波の言う事"
+        ],
+        "75": [
+          "9, 12",
+          "9,12"
+        ],
+        "76": [
+          "Don't Open It",
+          "開けちゃダメ"
+        ],
+        "77": [
+          "Ring Ring Ring",
+          "チャイムチャイムチャイム"
+        ],
+        "78": [
+          "Snowball Fight",
+          "ゆきがっせん"
+        ],
+        "79": [
+          "Play Catch",
+          "キャッチボール"
+        ]
+      },
+      "cover_characters": [
+        "Aki Hayakawa",
+        "Angel Devil"
+      ],
+      "img": "images/chainsawman/vol_009.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "10": {
+      "title": [
+        "A Dog's Feeling"
+      ],
+      "date_release": [
+        "January 4, 2021",
+        "April 5, 2022"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088825274",
+        "978-1974725359"
+      ],
+      "chapters": {
+        "80": [
+          "A Dog's Feeling",
+          "犬の気持ち"
+        ],
+        "81": [
+          "Paw",
+          "おてて"
+        ],
+        "82": [
+          "Always Eat a Hearty Breakfast",
+          "朝食はしっかり"
+        ],
+        "83": [
+          "Death, Resurrection, Chainsaw",
+          "死・復活・チェンソー"
+        ],
+        "84": [
+          "Hero of Hell",
+          "地獄のヒーロー"
+        ],
+        "85": [
+          "Bloody Good Gut Feeling",
+          "超跳腸・胃胃肝血"
+        ],
+        "86": [
+          "Date Chainsaw",
+          "デートチェンソー"
+        ],
+        "87": [
+          "Chainsaw Man Vs. the Horrifying Weapon Humans",
+          "チェンソーマンVS恐怖の武器人間"
+        ],
+        "88": [
+          "Star Chainsaw",
+          "スターチェンソー"
+        ]
+      },
+      "cover_characters": [
+        "Makima"
+      ],
+      "img": "images/chainsawman/vol_010.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "11": {
+      "title": [
+        "Go Get 'Em, Chainsaw Man"
+      ],
+      "date_release": [
+        "March 4, 2021",
+        "June 7, 2022"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088825762",
+        "978-1974727117"
+      ],
+      "chapters": {
+        "89": [
+          "Go Get 'Em, Chainsaw Man",
+          "がんばれチェンソーマン"
+        ],
+        "90": [
+          "Super Power",
+          "超パワー"
+        ],
+        "91": [
+          "Power, Power, Power",
+          "パワー・パワー・パワー"
+        ],
+        "92": [
+          "Vanilla Sky",
+          "バニラスカイ"
+        ],
+        "93": [
+          "You & Crappy Movies",
+          "君と糞映画"
+        ],
+        "94": [
+          "Chainsaw Man vs. the Weapon Humans",
+          "チェンソーマン対武器人間ズ"
+        ],
+        "95": [
+          "Chainsaw Man vs. Control Devil",
+          "チェンソーマンVS支配の悪魔"
+        ],
+        "96": [
+          "This Kind of Taste",
+          "こんな味"
+        ],
+        "97": [
+          "I, Love, Chainsaw",
+          "愛・ラブ・チェンソー"
+        ]
+      },
+      "cover_characters": [
+        "Denji"
+      ],
+      "img": "images/chainsawman/vol_011.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "12": {
+      "title": [
+        "Bird and War"
+      ],
+      "date_release": [
+        "October 4, 2022",
+        "October 3, 2023"
+      ],
+      "pages": [
+        200,
+        192
+      ],
+      "ISBN": [
+        "978-4088832715",
+        "978-1974740581"
+      ],
+      "chapters": {
+        "98": [
+          "Bird and War",
+          "鳥と戦争"
+        ],
+        "99": [
+          "Two Birds",
+          "２羽"
+        ],
+        "100": [
+          "How to Walk Shoeless",
+          "裸足の歩き方"
+        ],
+        "101": [
+          "After School Devil Hunters",
+          "放課後デビルハンター"
+        ],
+        "102": [
+          "Save the Cat",
+          "セーブザキャット"
+        ],
+        "103": [
+          "Denji Dream",
+          "デンジドリーム"
+        ]
+      },
+      "cover_characters": [
+        "Yoru"
+      ],
+      "img": "images/chainsawman/vol_012.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "13": {
+      "title": [
+        "Spoiler"
+      ],
+      "date_release": [
+        "January 4, 2023",
+        "December 5, 2023"
+      ],
+      "pages": [
+        200,
+        192
+      ],
+      "ISBN": [
+        "978-4088833163",
+        "978-1974741021"
+      ],
+      "chapters": {
+        "104": [
+          "Spoiler",
+          "ネタバレ"
+        ],
+        "105": [
+          "Red Hot",
+          "灼熱"
+        ],
+        "106": [
+          "Bonfire",
+          "焚火"
+        ],
+        "107": [
+          "School Attacker",
+          "学校の襲撃者"
+        ],
+        "108": [
+          "Something Important to Asa",
+          "アサの大切なもの"
+        ],
+        "109": [
+          "The Easy Way to Stop Bullying",
+          "簡単なイジメのなくしかれ"
+        ],
+        "110": [
+          "A Ring in the Night",
+          "夜のチャイム"
+        ],
+        "111": [
+          "Aha Ha Ha Ha",
+          "Ahahahaha"
+        ],
+        "112": [
+          "Between Cat and Criminal",
+          "猫と犯罪者の間"
+        ]
+      },
+      "cover_characters": [
+        "Yuko"
+      ],
+      "img": "images/chainsawman/vol_013.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "14": {
+      "title": [
+        "I Wanna See Penguins!"
+      ],
+      "date_release": [
+        "April 4, 2023",
+        "February 6, 2024"
+      ],
+      "pages": [
+        192,
+        184
+      ],
+      "ISBN": [
+        "978-4088834641",
+        "978-1974743582"
+      ],
+      "chapters": {
+        "113": [
+          "I Wanna See Penguins!",
+          "ペンギンが見たい！"
+        ],
+        "114": [
+          "Endless Aquarium",
+          "エンドレス水族館"
+        ],
+        "115": [
+          "High Schoolers These Days",
+          "今時の高校生"
+        ],
+        "116": [
+          "Taste of Starfish",
+          "ヒトデの味"
+        ],
+        "117": [
+          "Penguin and Weapon",
+          "ペンギンと武器"
+        ],
+        "118": [
+          "Saying Goodbye",
+          "別れの挨拶"
+        ],
+        "119": [
+          "Thief",
+          "泥棒"
+        ],
+        "120": [
+          "Triangle",
+          "トライアングル"
+        ],
+        "121": [
+          "Theory of Happiness",
+          "幸福論"
+        ],
+        "122": [
+          "The Prophecies",
+          "大予言"
+        ]
+      },
+      "cover_characters": [
+        "Fami"
+      ],
+      "img": "images/chainsawman/vol_014.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "15": {
+      "title": [
+        "Hors D'oeuvre"
+      ],
+      "date_release": [
+        "August 4, 2023",
+        "May 7, 2024"
+      ],
+      "pages": [
+        200,
+        200
+      ],
+      "ISBN": [
+        "978-4088835983",
+        "978-1974746408"
+      ],
+      "chapters": {
+        "123": [
+          "Hors D'oeuvre",
+          "前菜"
+        ],
+        "124": [
+          "Soup",
+          "スープ"
+        ],
+        "125": [
+          "Apple Thief",
+          "林檎万引き犯"
+        ],
+        "126": [
+          "Food Fight",
+          "ぐちゃぐちゃファイト"
+        ],
+        "127": [
+          "Save the Asa",
+          "セーブザアサ"
+        ],
+        "128": [
+          "Main Dish",
+          "メインディッシュ"
+        ],
+        "129": [
+          "Save Me, Chainsaw Man",
+          "助けてチェンソーマン"
+        ],
+        "130": [
+          "Kill Building",
+          "斬るビル"
+        ],
+        "131": [
+          "Taste of Crap",
+          "糞の味"
+        ],
+        "132": [
+          "Protection",
+          "保護"
+        ],
+        "133": [
+          "Chainsaw Man Protest",
+          "チェンソーマンデモ"
+        ]
+      },
+      "cover_characters": [
+        "Falling Devil"
+      ],
+      "img": "images/chainsawman/vol_015.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "16": {
+      "title": [
+        "Ordinary Happiness"
+      ],
+      "date_release": [
+        "December 4, 2023",
+        "September 3, 2024"
+      ],
+      "pages": [
+        184,
+        184
+      ],
+      "ISBN": [
+        "978-4088837017",
+        "978-1974748747"
+      ],
+      "chapters": {
+        "134": [
+          "Ordinary Happiness",
+          "普通の幸せ"
+        ],
+        "135": [
+          "Sentimental Drive",
+          "センチメンタルドライブ"
+        ],
+        "136": [
+          "Normal Life",
+          "普通の日々"
+        ],
+        "137": [
+          "Chu Chu Lovely Muni Muni Mura Mura",
+          "チューチューラブリームニムニムラムラ"
+        ],
+        "138": [
+          "Sword Man",
+          "ソードマン"
+        ],
+        "139": [
+          "A Chair's Feelings",
+          "イスの気持ち"
+        ],
+        "140": [
+          "Scales",
+          "天秤"
+        ],
+        "141": [
+          "Normal Life Plus",
+          "普通の人生プルス"
+        ],
+        "142": [
+          "Denji Fan Club",
+          "デンジファンクラブ"
+        ],
+        "143": [
+          "Rawr",
+          "がおー"
+        ]
+      },
+      "cover_characters": [
+        "Miri Sugo"
+      ],
+      "img": "images/chainsawman/vol_016.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "17": {
+      "title": [
+        "Guns, Nails, Katana"
+      ],
+      "date_release": [
+        "April 4, 2024",
+        "January 7, 2025"
+      ],
+      "pages": [
+        184,
+        184
+      ],
+      "ISBN": [
+        "978-4088840352",
+        "978-1974752690"
+      ],
+      "chapters": {
+        "144": [
+          "Guns, Nails, Katana",
+          "銃・釘・刀"
+        ],
+        "145": [
+          "Kumbaya",
+          "クンバヤ"
+        ],
+        "146": [
+          "Chainsaw Man War",
+          "チェンソーマン戦争"
+        ],
+        "147": [
+          "Cremation",
+          "火葬"
+        ],
+        "148": [
+          "Room 606 Sword",
+          "606号室剣"
+        ],
+        "149": [
+          "Devil's Choice",
+          "悪魔の選択"
+        ],
+        "150": [
+          "Dream's Next Stage",
+          "夢の次"
+        ],
+        "151": [
+          "The Return of Chainsaw Man",
+          "帰ってきたチェンソーマン"
+        ],
+        "152": [
+          "Massage",
+          "マッサージ"
+        ],
+        "153": [
+          "Chainsaw Man Hunters",
+          "チェンソーマンハンター"
+        ]
+      },
+      "cover_characters": [
+        "Hirofumi Yoshida"
+      ],
+      "img": "images/chainsawman/vol_017.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "18": {
+      "title": [
+        "All Pets"
+      ],
+      "date_release": [
+        "August 2, 2024",
+        "May 6, 2025"
+      ],
+      "pages": [
+        192,
+        184
+      ],
+      "ISBN": [
+        "978-4088841557",
+        "978-1974754939"
+      ],
+      "chapters": {
+        "154": [
+          "All Pets",
+          "みんなペット"
+        ],
+        "155": [
+          "The Old Me",
+          "前の私"
+        ],
+        "156": [
+          "Whup Whup Whup Whup Bzzz Split Split",
+          "ババババヴヴヴヴバラバラ"
+        ],
+        "157": [
+          "College Fund",
+          "進学資金"
+        ],
+        "158": [
+          "Gyohnee Guillotine",
+          "ギョニーギロチン"
+        ],
+        "159": [
+          "Attack on Samurai",
+          "アタックオンサムライ"
+        ],
+        "160": [
+          "That For Which The Heart Beats",
+          "心臓の動く向き"
+        ],
+        "161": [
+          "Chainsaw Man Puzzle",
+          "チェンソーマンパズル"
+        ],
+        "162": [
+          "Fearsome",
+          "恐ろしい奴"
+        ],
+        "163": [
+          "Dream Balls",
+          "夢のタマキン"
+        ],
+        "164": [
+          "Charred Remains",
+          "焼け跡"
+        ]
+      },
+      "cover_characters": [
+        "Nayuta"
+      ],
+      "img": "images/chainsawman/vol_018.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "19": {
+      "title": [
+        "Everyday Scenery"
+      ],
+      "date_release": [
+        "December 4, 2024",
+        "October 7, 2025"
+      ],
+      "pages": [
+        184,
+        184
+      ],
+      "ISBN": [
+        "978-4088843131",
+        "978-1974758548"
+      ],
+      "chapters": {
+        "165": [
+          "Everyday Scenery",
+          "いつもの風景"
+        ],
+        "166": [
+          "Rain, Brothel, Removal",
+          "雨・ソープ・切断"
+        ],
+        "167": [
+          "Super Smooch",
+          "超チュー"
+        ],
+        "168": [
+          "Kiss, Love, Sperm",
+          "キス・好き・スペルマ"
+        ],
+        "169": [
+          "Hands and Adaptation",
+          "手と適応"
+        ],
+        "170": [
+          "How to Eat Sushi",
+          "寿司の食べ方"
+        ],
+        "171": [
+          "Special Division 5",
+          "特異5課"
+        ],
+        "172": [
+          "Bzzz! Boom! Chomp!",
+          "ヴヴン！ドオン！ガブ！"
+        ],
+        "173": [
+          "Hard of Hearing",
+          "少し聞こえてる"
+        ],
+        "174": [
+          "Ayyy, Aging",
+          "おーい老い"
+        ],
+        "175": [
+          "Both Hands",
+          "両の手"
+        ]
+      },
+      "cover_characters": [
+        "Fumiko Mifune"
+      ],
+      "img": "images/chainsawman/vol_019.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "20": {
+      "title": [
+        "Two Children"
+      ],
+      "date_release": [
+        "April 4, 2025",
+        "March 3, 2026"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088844718",
+        "978-1974762231"
+      ],
+      "chapters": {
+        "176": [
+          "Two Children",
+          "二子"
+        ],
+        "177": [
+          "Trigger Finger",
+          "人差し指"
+        ],
+        "178": [
+          "Gun Goddess",
+          "銃の女神"
+        ],
+        "179": [
+          "Vamvagah",
+          "ヴァンヴァガ"
+        ],
+        "180": [
+          "Aging’s World",
+          "老いの世界"
+        ],
+        "181": [
+          "Trees on the Mind",
+          "気になる木"
+        ],
+        "182": [
+          "Cute",
+          "可愛い顔"
+        ],
+        "183": [
+          "Barf, Head, Perv",
+          "ゲロ・顔・エロ"
+        ],
+        "184": [
+          "Run, Denji!",
+          "走れデンジ"
+        ],
+        "185": [
+          "Stomach in Another World",
+          "胃は異世界"
+        ],
+        "186": [
+          "Yank, Blorsh, Bdroom",
+          "ギュッ・ボッ・ヴヴン"
+        ]
+      },
+      "cover_characters": [
+        "Asa Mitaka"
+      ],
+      "img": "images/chainsawman/vol_020.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "21": {
+      "title": [
+        "Barf!"
+      ],
+      "date_release": [
+        "July 4, 2025",
+        "June 2, 2026"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088845937",
+        "978-1974716463"
+      ],
+      "chapters": {
+        "187": [
+          "Barf!",
+          "ゲロれ！"
+        ],
+        "188": [
+          "Octopus, War, Chainsaw",
+          "蛸・ウォー・チェンソー"
+        ],
+        "189": [
+          "Heart Pass, Octopus",
+          "ハートパス・オクトパス"
+        ],
+        "190": [
+          "To Their Respective Worlds",
+          "元の世界へ"
+        ],
+        "191": [
+          "Cuz I'm a Devil",
+          "だって悪魔だから"
+        ],
+        "192": [
+          "How Devils Play",
+          "悪魔の遊び方"
+        ],
+        "193": [
+          "Burning Kiss",
+          "バーニングKISS"
+        ],
+        "194": [
+          "Fun School Festival",
+          "楽しみ文化祭"
+        ],
+        "195": [
+          "Kill Me Tears",
+          "キルミー涙"
+        ],
+        "196": [
+          "Chainsaw Man to the Rescue!",
+          "やってきた! チェンソーマン!"
+        ],
+        "197": [
+          "3 Seconds",
+          "3秒"
+        ],
+        "198": [
+          "It's Fami!",
+          "キガちゃんデス!"
+        ]
+      },
+      "cover_characters": [
+        "Famine Devil"
+      ],
+      "img": "images/no_image_available.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "22": {
+      "title": [
+        "Enjoy Your Food"
+      ],
+      "date_release": [
+        "September 4, 2025",
+        "TBA"
+      ],
+      "pages": [
+        192,
+        192
+      ],
+      "ISBN": [
+        "978-4088846699",
+        "TBA"
+      ],
+      "chapters": {
+        "199": [
+          "Enjoy Your Food",
+          "おいしく食べよう"
+        ],
+        "200": [
+          "Toxic Couple",
+          "有害な二人"
+        ],
+        "201": [
+          "Terror Looks Like This!",
+          "恐怖ってのはこう!"
+        ],
+        "202": [
+          "Devil Combination",
+          "悪魔合体"
+        ],
+        "203": [
+          "Human Shield",
+          "人シールド"
+        ],
+        "204": [
+          "With One Life",
+          "一人の命で"
+        ],
+        "205": [
+          "Who?",
+          "誰?"
+        ],
+        "206": [
+          "Chest, Woman, Apology",
+          "胸・女・謝罪"
+        ],
+        "207": [
+          "Budda Budda Budda Budda!",
+          "バババババババババ！"
+        ],
+        "208": [
+          "Changed My Mind",
+          "やっぱイヤ"
+        ],
+        "209": [
+          "Terrifying Weapon",
+          "恐ろしい兵器"
+        ],
+        "210": [
+          "Peace",
+          "ピース"
+        ]
+      },
+      "cover_characters": [
+        "Asa Mitaka",
+        "Yoru"
+      ],
+      "img": "images/no_image_available.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    },
+    "23": {
+      "title": [
+        "War, Panties, Chainsaw"
+      ],
+      "date_release": [
+        "February 4, 2026",
+        "TBA"
+      ],
+      "pages": [
+        192,
+        184
+      ],
+      "ISBN": [
+        "978-4088847788",
+        "TBA"
+      ],
+      "chapters": {
+        "211": [
+          "War, Panties, Chainsaw",
+          "戦争・パンツ・チェンソー"
+        ],
+        "212": [
+          "Really Good Girl",
+          "すごくいいこ"
+        ],
+        "213": [
+          "Role",
+          "役割"
+        ],
+        "214": [
+          "Bff, Creak, Door",
+          "ボオ・ギイ・ドア"
+        ],
+        "215": [
+          "Declaration of War",
+          "宣戦布告"
+        ],
+        "216": [
+          "Yearning",
+          "憧れの"
+        ],
+        "217": [
+          "Two Good People",
+          "良い二人"
+        ],
+        "218": [
+          "Eat Me",
+          "私を食べて"
+        ],
+        "219": [
+          "The Bereft",
+          "失った者達"
+        ],
+        "220": [
+          "Bonds and Michigan",
+          "絆とミシガン州"
+        ],
+        "221": [
+          "Safe Battle",
+          "安全バトル"
+        ],
+        "222": [
+          "Denji Man",
+          "デンジーマン"
+        ]
+      },
+      "cover_characters": [
+        "Pochita"
+      ],
+      "img": "images/no_image_available.png",
+      "owned": false,
+      "prise": "10 €",
+      "date_bought": ""
+    }
+  },
   "Bleach": {
     "title": "Bleach",
     "author": "Tite Kubo",
