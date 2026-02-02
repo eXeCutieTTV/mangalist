@@ -7,15 +7,16 @@ function bbox(id) {
         body: tbl.querySelectorAll("tr")[3].querySelectorAll("td")
     }
     const bodyObj = {
-        chapters: tblObj[0].querySelectorAll("li"),
-        info: tblObj[1],
-        img: tblObj[2]
+        chapters: tblObj.body[0].querySelectorAll("li"),
+        info: tblObj.body[1],
+        img: tblObj.body[2]
     }
+    const temp_isbn = [tblObj.header[4].querySelector("p"), tblObj.header[2].querySelector("p")]
     const result = {
         title: [bodyObj.info.children[0].innerText, bodyObj.info.children[0].innerText],
         date_release: [tblObj.header[3].innerText, tblObj.header[1].innerText],
         pages: [bodyObj.info.innerText.match(/\d+/), bodyObj.info.innerText.match(/\d+/)],
-        ISBN: [tblObj.header[4].querySelector("p").innerText, tblObj.header[2].querySelector("p").innerText],
+        ISBN: [`${temp_isbn[0] ? temp_isbn[0].innerText : "TBA"}`, `${temp_isbn[1] ? temp_isbn[1].innerText : "TBA"}`],
         chapters: {},
         cover_characters: [],
         img: `images/bbox/vol_${String(id + 1).padStart(3, "0")}.png`,
@@ -29,7 +30,7 @@ function bbox(id) {
 
         result.chapters[number] = title;
     }
-    for (const character of bodyObj.info.children[6].querySelectorAll("li")) {
+    for (const character of bodyObj.info.querySelector("ul").querySelectorAll("li")) {
         result.cover_characters.push(character.innerText);
     }
     imgs.push(bodyObj.img.children[0].children[0].children[2].querySelector("a").href);

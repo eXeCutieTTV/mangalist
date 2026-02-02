@@ -11946,166 +11946,1006 @@
     "released": "August 4, 2021",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "Chinatsu Senpai",
+          "Chinatsu Senpai"
+        ],
+        "date_release": [
+          "November 1st, 2022",
+          "August 4th, 2021"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974734627",
+          "978-4088827315"
+        ],
+        "chapters": {
+          "1": "Chinatsu Senpai",
+          "2": "You Have to Go to Nationals",
+          "3": "Pretending to Be a Stranger",
+          "4": "Chosen One",
+          "5": "What I Call Her",
+          "6": "At Least One Step",
+          "7": "You'll Be Fine"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_001.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "An Ordinary Girl",
+          "An Ordinary Girl"
+        ],
+        "date_release": [
+          "January 3rd, 2023",
+          "October 4th, 2021"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974736119",
+          "978-4088827940"
+        ],
+        "chapters": {
+          "8": "Doubles",
+          "9": "Gym Uniforms",
+          "10": "The Day Before",
+          "11": "Regional Preliminaries",
+          "12": "If He Wins",
+          "13": "Date",
+          "14": "Aquarium",
+          "15": "An Ordinary Girl",
+          "16": "Kindred Spirits"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_002.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "Score!",
+          "Score!"
+        ],
+        "date_release": [
+          "March 7th, 2023",
+          "January 4th, 2022"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974736263",
+          "978-4088830070"
+        ],
+        "chapters": {
+          "17": "No Problems",
+          "18": "Wish Me Luck",
+          "19": "I'll Carry Your Bags",
+          "20": "Eavesdropping",
+          "21": "Can I Have One?",
+          "22": "Score!",
+          "23": "I'll Definitely Get It In!",
+          "24": "That's Just Sports",
+          "25": "Good Job"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Hina Chono",
+          "Taiki Inomata"
+        ],
+        "img": "images/bbox/vol_003.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "A Chance",
+          "A Chance"
+        ],
+        "date_release": [
+          "May 2nd, 2023",
+          "March 4th, 2022"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974736416",
+          "978-4088830636"
+        ],
+        "chapters": {
+          "26": "I'll Be Rooting For You",
+          "27": "A Chance",
+          "28": "Your Own House",
+          "29": "It's Not a Good Thing",
+          "30": "Getting Closer",
+          "31": "Is It a Date?",
+          "32": "Uncool!",
+          "33": "When the Underdog Wins",
+          "34": "Girls..."
+        },
+        "cover_characters": [
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_004.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "Better Get Going",
+          "Better Get Going"
+        ],
+        "date_release": [
+          "July 4th, 2023",
+          "June 3rd, 2022"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974737413",
+          "978-4088831497"
+        ],
+        "chapters": {
+          "35": "Something Interesting",
+          "36": "Better Get Going",
+          "37": "Helloooo",
+          "38": "A Flirt",
+          "39": "Testing it Out",
+          "40": "The One Who's Cool...",
+          "41": "I Want a Back-and-Forth Rally",
+          "42": "An Impossible Notion",
+          "43": "What's the Connection?"
+        },
+        "cover_characters": [
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_005.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "August 26",
+          "August 26"
+        ],
+        "date_release": [
+          "September 5th, 2023",
+          "August 4th, 2022"
+        ],
+        "pages": [
+          [
+            "26"
+          ],
+          [
+            "26"
+          ]
+        ],
+        "ISBN": [
+          "978-1974740376",
+          "978-4088831923"
+        ],
+        "chapters": {
+          "44": "It Didn't Come True",
+          "45": "August 26",
+          "46": "August 26, Part 2",
+          "47": "August 26, Part 3",
+          "48": "If We Weren't a Year Apart",
+          "49": "At Morning Practice Again",
+          "50": "Unfair Woman",
+          "51": "This is Just Right",
+          "52": "Of Course I Want to See It"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_006.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "I Know",
+          "I Know"
+        ],
+        "date_release": [
+          "November 7th, 2023",
+          "October 4th, 2022"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974740727",
+          "978-4088832593"
+        ],
+        "chapters": {
+          "53": "Doing Great",
+          "54": "Hydration",
+          "55": "Inomata",
+          "56": "Who Do I Think I Am?",
+          "57": "I Know",
+          "58": "Right or Left?",
+          "59": "We Didn't!",
+          "60": "Let's Go See It",
+          "61": "I've Got Plans"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Kyo Kasahara",
+          "Kengo Haryu",
+          "Chinatsu Kano",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_007.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "A Chance to Blossom",
+          "A Chance to Blossom"
+        ],
+        "date_release": [
+          "January 2nd, 2024",
+          "December 2nd, 2022"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974742806",
+          "978-4088833897"
+        ],
+        "chapters": {
+          "62": "What'd You Say?",
+          "63": "Help Me Out!",
+          "64": "As One of Her Closest Friends",
+          "65": "It's Not That",
+          "66": "I'm Here to Lend an Ear",
+          "67": "A Chance to Blossom",
+          "68": "Girl Manager",
+          "69": "Inota!",
+          "70": "An Exciting Event"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Hina Chono",
+          "Taiki Inomata"
+        ],
+        "img": "images/bbox/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "That's What I Know",
+          "That's What I Know"
+        ],
+        "date_release": [
+          "March 5th, 2024",
+          "February 3rd, 2023"
+        ],
+        "pages": [
+          [
+            "208"
+          ],
+          [
+            "208"
+          ]
+        ],
+        "ISBN": [
+          "978-1974743162",
+          "978-4088834337"
+        ],
+        "chapters": {
+          "71": "Joint Training Camp",
+          "72": "Spinning",
+          "73": "That's What I Know",
+          "74": "I Don't Need an Answer",
+          "75": "A Roller Coaster",
+          "76": "Didn't Mean to Say",
+          "77": "Even So",
+          "78": "You Are Too",
+          "79": "Shopping for a Tracksuit",
+          "80": "Because That's Who I Am"
+        },
+        "cover_characters": [
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "They're One and the Same",
+          "They're One and the Same"
+        ],
+        "date_release": [
+          "May 7th, 2024",
+          "May 2nd, 2023"
+        ],
+        "pages": [
+          [
+            "208"
+          ],
+          [
+            "208"
+          ]
+        ],
+        "ISBN": [
+          "978-1974745951",
+          "978-4088835396"
+        ],
+        "chapters": {
+          "81": "I Was Hoping You Could Try It",
+          "82": "Where It Hurts",
+          "83": "Déjà Vu",
+          "84": "How That Made Her Feel",
+          "85": "Because I Hate Her",
+          "86": "Admiration",
+          "87": "Excuses and Sound Arguments",
+          "88": "Can't Stay Like This",
+          "89": "Yumeka, You",
+          "90": "They're One and the Same"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Ryosuke Nishida",
+          "Kengo Haryu",
+          "Kyo Kasahara",
+          "Chinatsu Kano",
+          "Hina Chono",
+          "Nina Shimazaki",
+          "Karen Moriya",
+          "Ayame Moriya",
+          "Nagisa Funami",
+          "Yumeka Goto",
+          "Kazuma Matsuoka",
+          "Shuji Yusa",
+          "Sosuke"
+        ],
+        "img": "images/bbox/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Most Powerful Feeling",
+          "The Most Powerful Feeling"
+        ],
+        "date_release": [
+          "July 2nd, 2024",
+          "August 4th, 2023"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974745968",
+          "978-4088835914"
+        ],
+        "chapters": {
+          "91": "The Most Powerful Feeling",
+          "92": "Whenever You're Struggling",
+          "93": "To Strip Away",
+          "94": "Has It Been Two Years?",
+          "95": "It's Back",
+          "96": "Christmas Eve",
+          "97": "Are You Having Problems?",
+          "98": "The End of the Year",
+          "99": "Don't Hesitate"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Yumeka Goto"
+        ],
+        "img": "images/bbox/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "I Need to Tell You Something",
+          "I Need to Tell You Something"
+        ],
+        "date_release": [
+          "October 1st, 2024",
+          "October 4th, 2023"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974748716",
+          "978-4088836904"
+        ],
+        "chapters": {
+          "100": "I Wanna See Her",
+          "101": "Today Too",
+          "102": "It's So Beautiful",
+          "103": "I Need to Tell You Something",
+          "104": "January 4, Midday",
+          "105": "Let's Keep It a Secret",
+          "106": "So Nervous",
+          "107": "Your Style of Love, Chii",
+          "108": "It's Already Settled"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Challenger",
+          "Challenger"
+        ],
+        "date_release": [
+          "December 3rd, 2024",
+          "December 4th, 2023"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974749218",
+          "978-4088837901"
+        ],
+        "chapters": {
+          "109": "January 15",
+          "110": "Interview",
+          "111": "Reward",
+          "112": "Got It All Sorted Out",
+          "113": "A Waste",
+          "114": "Challenger",
+          "115": "Lucky",
+          "116": "It's Rude",
+          "117": "A Big Step"
+        },
+        "cover_characters": [
+          "Taiki Inomata"
+        ],
+        "img": "images/bbox/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Difference Between Grades",
+          "Difference Between Grades"
+        ],
+        "date_release": [
+          "March 4th, 2025",
+          "March 4th, 2024"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974751778",
+          "978-4088838489"
+        ],
+        "chapters": {
+          "118": "That Kind of Person",
+          "119": "Almost Got the Wrong Idea",
+          "120": "Outrageous",
+          "121": "Good Luck, Senpai",
+          "122": "Show Off Your Skills",
+          "123": "Difference Between Grades",
+          "124": "Great to Hear",
+          "125": "You Know What That Means",
+          "126": "Take Our Time"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_014.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "15": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "That Can't Be True",
+          "That Can't Be True"
+        ],
+        "date_release": [
+          "May 6th, 2025",
+          "June 4th, 2024"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974754892",
+          "978-4088840413"
+        ],
+        "chapters": {
+          "127": "Gives Me Goosebumps",
+          "128": "With Hyodo",
+          "129": "With the Right Effort",
+          "130": "I'm Borrowing One",
+          "131": "That Can't Be True",
+          "132": "I Get That",
+          "133": "Why?",
+          "134": "Get On",
+          "135": "That's Not True"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Ayame Moriya",
+          "Taiki Inomata",
+          "Kyo Kasahara",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "16": {
+        "title": [
+          "Final Game",
+          "Final Game"
+        ],
+        "date_release": [
+          "July 1st, 2025",
+          "August 2nd, 2024"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974755370",
+          "978-4088841335"
+        ],
+        "chapters": {
+          "136": "Go Eimei!",
+          "137": "The Guy Who Carried Her",
+          "138": "A Badminton Day",
+          "139": "I've Done My Fair Share",
+          "140": "A Senpai's Love",
+          "141": "You Can Do It!",
+          "142": "Final Game",
+          "143": "Forehead Flick",
+          "144": "Let's Replace It"
+        },
+        "cover_characters": [
+          "Taiki Inomata",
+          "Kyo Kasahara",
+          "Kengo Haryu",
+          "Ryosuke Nishida",
+          "Haruto Yusa"
+        ],
+        "img": "images/bbox/vol_016.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "17": {
+        "title": [
+          "Last Fireworks",
+          "Last Fireworks"
+        ],
+        "date_release": [
+          "September 2nd, 2025",
+          "October 4th, 2024"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974754908",
+          "978-4088842073"
+        ],
+        "chapters": {
+          "145": "She Really Is Tough",
+          "146": "The Feeling's Mutual",
+          "147": "Secret Someone",
+          "148": "If We Hadn't Broken Up",
+          "149": "Deck of Kindness",
+          "150": "Last Fireworks",
+          "151": "Hello",
+          "152": "Because It's So Precious",
+          "153": "Don't Eat Ice Cream"
+        },
+        "cover_characters": [
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_017.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "18": {
+        "title": [
+          "Have Fun",
+          "Have Fun"
+        ],
+        "date_release": [
+          "November 4th, 2025",
+          "December 4th, 2024"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974758814",
+          "978-4088843834"
+        ],
+        "chapters": {
+          "154": "Into That Box",
+          "155": "Could It Be",
+          "156": "Winning",
+          "157": "The Beach in Summer",
+          "158": "Ten Challenges",
+          "159": "Guest of Honor",
+          "160": "A Wish",
+          "161": "Thanks for Taking Care of Us",
+          "162": "It Might Work Out"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Taiki Inomata",
+          "Kengo Haryu",
+          "Ryosuke Nishida"
+        ],
+        "img": "images/bbox/vol_018.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "19": {
+        "title": [
+          "This Feeling Is",
+          "This Feeling Is"
+        ],
+        "date_release": [
+          "February 3rd, 2026",
+          "March 4th, 2025"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974761555",
+          "978-4088844107"
+        ],
+        "chapters": {
+          "163": "Show Up When Someone's in Trouble",
+          "164": "Socially Awkward",
+          "165": "The Haunted House",
+          "166": "This Feeling Is",
+          "167": "If It's Not Too Late",
+          "168": "This Is Who I Am",
+          "169": "Your Stamp",
+          "170": "A Year Since Then",
+          "171": "Are You Over Him?"
+        },
+        "cover_characters": [
+          "Ayame Moriya",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_019.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "20": {
+        "title": [
+          "Rewards",
+          "Rewards"
+        ],
+        "date_release": [
+          "May 5th, 2026",
+          "May 2nd, 2025"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974765713",
+          "978-4088845104"
+        ],
+        "chapters": {
+          "172": "What's in Front of You Right Now",
+          "173": "Let Me Carry That Weight",
+          "174": "Only Basketball",
+          "175": "A Child",
+          "176": "I Want to Be in a Relationship",
+          "177": "It's Been Essential",
+          "178": "Thanks",
+          "179": "Seeing Things",
+          "180": "Rewards"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Taiki Inomata"
+        ],
+        "img": "images/bbox/vol_020.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "21": {
+        "title": [
+          "Let's Play Basketball",
+          "Let's Play Basketball"
+        ],
+        "date_release": [
+          "August 4th, 2026",
+          "July 4th, 2025"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "978-1974716449",
+          "978-4088845647"
+        ],
+        "chapters": {
+          "181": "Not Gonna Miss",
+          "182": "So Much Fun, I Could Cry",
+          "183": "Let's Play Basketball",
+          "184": "You're Parent Approved",
+          "185": "A Problem",
+          "186": "I Hope He Doesn't Feel Lonely",
+          "187": "Stay Close to Her",
+          "188": "When You're Lonely",
+          "189": "To a Good Game"
+        },
+        "cover_characters": [
+          "Yumeka Goto",
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_021.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "22": {
+        "title": [
+          "I Love You",
+          "I Love You"
+        ],
+        "date_release": [
+          "TBD",
+          "October 3rd, 2025"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4088846934"
+        ],
+        "chapters": {
+          "190": "No Such Thing as Fate",
+          "191": "It's Your Turn",
+          "192": "I'm Indebted to You",
+          "193": "New Year",
+          "194": "Pure Happiness",
+          "195": "Stay Right Here",
+          "196": "I Love You",
+          "197": "Take It Slow",
+          "198": "You Have to Attack"
+        },
+        "cover_characters": [
+          "Chinatsu Kano"
+        ],
+        "img": "images/bbox/vol_022.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "23": {
+        "title": [
+          "Nothing Yet",
+          "Nothing Yet"
+        ],
+        "date_release": [
+          "TBD",
+          "December 4th, 2025"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4088848174"
+        ],
+        "chapters": {
+          "199": "Show Some Understanding",
+          "200": "I Wanna Get Closer",
+          "201": "Preciously",
+          "202": "Just As I Am",
+          "203": "Jigsaw Puzzle",
+          "204": "The Possibilities",
+          "205": "What're You Doing?",
+          "206": "Nothing Yet",
+          "207": "Welcome Home"
+        },
+        "cover_characters": [
+          "Ayame Moriya",
+          "Hina Chono",
+          "Kyo Kasahara",
+          "Taiki Inomata"
+        ],
+        "img": "images/bbox/vol_023.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "24": {
+        "title": [
+          "The Final Year",
+          "The Final Year"
+        ],
+        "date_release": [
+          "TBD",
+          "February 4th, 2026"
+        ],
+        "pages": [
+          [
+            "192"
+          ],
+          [
+            "192"
+          ]
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4088848334"
+        ],
+        "chapters": {
+          "208": "Became Memories",
+          "209": "My Treasure",
+          "210": "All in Here",
+          "211": "The Final Year",
+          "212": "New Challenges to Face",
+          "213": "The Final Burden",
+          "214": "Do Your Best",
+          "215": "That's Youth for Ya",
+          "216": "I'm Gonna Win"
+        },
+        "cover_characters": [
+          "Chinatsu Kano",
+          "Hina Chono"
+        ],
+        "img": "images/bbox/vol_024.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
