@@ -37277,5 +37277,54 @@
         "date_bought": ""
       }
     }
+  },
+  "Wanted!": {
+    "title": "Wanted!",
+    "author": "Eiichiro Oda",
+    "released": "November 4, 1998",
+    "volumes": {
+      "Wanted!": {
+        "title": "Wanted!",
+        "date_released": [
+          "November 4, 1998",
+          "November 4, 1998"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "4-08-872631-6",
+          "4-08-872631-6"
+        ],
+        "chapters": {
+          "1": [
+            "Wanted!",
+            "ウォンテッド"
+          ],
+          "2": [
+            "Future Present from God",
+            "神から未来のプレゼント"
+          ],
+          "3": [
+            "Ikki Yako",
+            "一鬼夜行"
+          ],
+          "4": [
+            "Monsters",
+            "モンスターズ"
+          ],
+          "5": [
+            "Romance Dawn",
+            "ロマンス ドーン"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/wanted/vol_001.png",
+        "owned": true,
+        "prise": "10 €",
+        "date_bought": ""
+      }
+    }
   }
 }
