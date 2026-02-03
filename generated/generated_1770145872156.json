@@ -17149,254 +17149,1480 @@
     "released": "June 3, 2016",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Cruelty",
+          "Cruelty"
+        ],
+        "date_release": [
+          "July 3rd, 2018",
+          "June 3rd, 2016"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0052-3",
+          "978-4-08-880723-2"
+        ],
+        "chapters": {
+          "1": [
+            "1. Cruelty",
+            "1. Cruelty"
+          ],
+          "2": [
+            "2. The Stranger",
+            "2. The Stranger"
+          ],
+          "3": [
+            "3. Return by Dawn",
+            "3. Return by Dawn"
+          ],
+          "4": [
+            "4. Tanjiro's Journal, Part 1",
+            "4. Tanjiro's Journal, Part 1"
+          ],
+          "5": [
+            "5. Tanjiro's Journal, Part 2",
+            "5. Tanjiro's Journal, Part 2"
+          ],
+          "6": [
+            "6. A Mountain of Hands",
+            "6. A Mountain of Hands"
+          ],
+          "7": [
+            "7. Spirits of the Deceased",
+            "7. Spirits of the Deceased"
+          ]
+        },
+        "cover_characters": [
+          "Cruelty",
+          "Tanjiro Kamado",
+          "Nezuko Kamado"
+        ],
+        "img": "images/dslayer/vol_001.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "It Was You",
+          "It Was You"
+        ],
+        "date_release": [
+          "September 4th, 2018",
+          "August 4th, 2016"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0053-0",
+          "978-4-08-880755-3"
+        ],
+        "chapters": {
+          "8": [
+            "8. Big Brother",
+            "8. Big Brother"
+          ],
+          "9": [
+            "9. Welcome Back",
+            "9. Welcome Back"
+          ],
+          "10": [
+            "10. Kidnapper's Bog",
+            "10. Kidnapper's Bog"
+          ],
+          "11": [
+            "11. Suggestion",
+            "11. Suggestion"
+          ],
+          "12": [
+            "12. I Can't Tell You",
+            "12. I Can't Tell You"
+          ],
+          "13": [
+            "13. It Was You",
+            "13. It Was You"
+          ],
+          "14": [
+            "14. Kibutsuji's Wrath / The Smell of Enchanting Blood",
+            "14. Kibutsuji's Wrath / The Smell of Enchanting Blood"
+          ],
+          "15": [
+            "15. The Doctor's Opinion",
+            "15. The Doctor's Opinion"
+          ],
+          "16": [
+            "16. Playing Temari",
+            "16. Playing Temari"
+          ]
+        },
+        "cover_characters": [
+          "It Was You",
+          "Tanjiro Kamado",
+          "Muzan Kibutsuji"
+        ],
+        "img": "images/dslayer/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Believe in Yourself",
+          "Believe in Yourself"
+        ],
+        "date_release": [
+          "November 6th, 2018",
+          "October 4th, 2016"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0054-7",
+          "978-4-08-880795-9"
+        ],
+        "chapters": {
+          "17": [
+            "17. Arrow Demon",
+            "17. Arrow Demon"
+          ],
+          "18": [
+            "18. The Curse",
+            "18. The Curse"
+          ],
+          "19": [
+            "19. Together Forever",
+            "19. Together Forever"
+          ],
+          "20": [
+            "20. Zenitsu Agatsuma",
+            "20. Zenitsu Agatsuma"
+          ],
+          "21": [
+            "21. Tsuzumi Mansion",
+            "21. Tsuzumi Mansion"
+          ],
+          "22": [
+            "22. Rushing Boar",
+            "22. Rushing Boar"
+          ],
+          "23": [
+            "23. The Boar Bares Its Fangs, Zenitsu Sleeps",
+            "23. The Boar Bares Its Fangs, Zenitsu Sleeps"
+          ],
+          "24": [
+            "24. Former Member of the Twelve Kizuki",
+            "24. Former Member of the Twelve Kizuki"
+          ],
+          "25": [
+            "25. Believe in Yourself",
+            "25. Believe in Yourself"
+          ]
+        },
+        "cover_characters": [
+          "Believe in Yourself",
+          "Tanjiro Kamado",
+          "Zenitsu Agatsuma"
+        ],
+        "img": "images/dslayer/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Robust Blade",
+          "Robust Blade"
+        ],
+        "date_release": [
+          "January 1st, 2019",
+          "December 2nd, 2016"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0055-4",
+          "978-4-08-880826-0"
+        ],
+        "chapters": {
+          "26": [
+            "26. Barehanded Fight",
+            "26. Barehanded Fight"
+          ],
+          "27": [
+            "27. Inosuke Hashibira",
+            "27. Inosuke Hashibira"
+          ],
+          "28": [
+            "28. Urgent Summons",
+            "28. Urgent Summons"
+          ],
+          "29": [
+            "29. Mount Natagumo",
+            "29. Mount Natagumo"
+          ],
+          "30": [
+            "30. Marionettes",
+            "30. Marionettes"
+          ],
+          "31": [
+            "31. Letting Someone Else Go First",
+            "31. Letting Someone Else Go First"
+          ],
+          "32": [
+            "32. Pungent Odor",
+            "32. Pungent Odor"
+          ],
+          "33": [
+            "33. Suffering and Floundering as You Move Forward",
+            "33. Suffering and Floundering as You Move Forward"
+          ],
+          "34": [
+            "34. Robust Blade",
+            "34. Robust Blade"
+          ]
+        },
+        "cover_characters": [
+          "Robust Blade",
+          "Tanjiro Kamado",
+          "Inosuke Hashibira"
+        ],
+        "img": "images/dslayer/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "To Hell",
+          "To Hell"
+        ],
+        "date_release": [
+          "March 5th 2019",
+          "March 3rd, 2017"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0056-1",
+          "978-4-08-881026-3"
+        ],
+        "chapters": {
+          "35": [
+            "35. Scattered",
+            "35. Scattered"
+          ],
+          "36": [
+            "36. This is Bad!",
+            "36. This is Bad!"
+          ],
+          "37": [
+            "37. Broken Blade",
+            "37. Broken Blade"
+          ],
+          "38": [
+            "38. Real and Fake",
+            "38. Real and Fake"
+          ],
+          "39": [
+            "39. Life Passing Before One's Eyes",
+            "39. Life Passing Before One's Eyes"
+          ],
+          "40": [
+            "40. Hinokami",
+            "40. Hinokami"
+          ],
+          "41": [
+            "41. Shinobu Kocho",
+            "41. Shinobu Kocho"
+          ],
+          "42": [
+            "42. Behind",
+            "42. Behind"
+          ],
+          "43": [
+            "43. To Hell",
+            "43. To Hell"
+          ]
+        },
+        "cover_characters": [
+          "To Hell",
+          "Giyu Tomioka"
+        ],
+        "img": "images/dslayer/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Demon Slayer Corps Gathers",
+          "The Demon Slayer Corps Gathers"
+        ],
+        "date_release": [
+          "May 7th, 2019",
+          "May 2nd, 2017"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-9747-0057-8",
+          "978-4-08-881076-8"
+        ],
+        "chapters": {
+          "44": [
+            "44. Against Corps Rules",
+            "44. Against Corps Rules"
+          ],
+          "45": [
+            "45. Trial by Hashira",
+            "45. Trial by Hashira"
+          ],
+          "46": [
+            "46. Master of the Mansion",
+            "46. Master of the Mansion"
+          ],
+          "47": [
+            "47. Hmph!",
+            "47. Hmph!"
+          ],
+          "48": [
+            "48. Butterfly Mansion",
+            "48. Butterfly Mansion"
+          ],
+          "49": [
+            "49. Rehabilitation Training, Part 1",
+            "49. Rehabilitation Training, Part 1"
+          ],
+          "50": [
+            "50. Rehabilitation Training, Part 2",
+            "50. Rehabilitation Training, Part 2"
+          ],
+          "51": [
+            "51. The Nichirin Sword Returns",
+            "51. The Nichirin Sword Returns"
+          ],
+          "52": [
+            "52. Cruel and Heartless",
+            "52. Cruel and Heartless"
+          ]
+        },
+        "cover_characters": [
+          "The Demon Slayer Corps Gathers",
+          "Shinobu Kocho"
+        ],
+        "img": "images/dslayer/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Trading Blows at Close Quarters",
+          "Trading Blows at Close Quarters"
+        ],
+        "date_release": [
+          "July 2nd, 2019",
+          "August 4th, 2017"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-1-9747-0441-5",
+          "978-4-08-881193-2"
+        ],
+        "chapters": {
+          "53": [
+            "53. You Are",
+            "53. You Are"
+          ],
+          "54": [
+            "54. Good Evening, Rengoku",
+            "54. Good Evening, Rengoku"
+          ],
+          "55": [
+            "55. Train of Infinite Dreams",
+            "55. Train of Infinite Dreams"
+          ],
+          "56": [
+            "56. Wake Up",
+            "56. Wake Up"
+          ],
+          "57": [
+            "57. Draw Your Blade",
+            "57. Draw Your Blade"
+          ],
+          "58": [
+            "58. Good Morning",
+            "58. Good Morning"
+          ],
+          "59": [
+            "59. Insult",
+            "59. Insult"
+          ],
+          "60": [
+            "60. Defending 200 People",
+            "60. Defending 200 People"
+          ],
+          "61": [
+            "61. Trading Blows at Close Quarters",
+            "61. Trading Blows at Close Quarters"
+          ],
+          "Bonus": [
+            "Bonus Manga",
+            "Bonus Manga"
+          ]
+        },
+        "cover_characters": [
+          "Trading Blows at Close Quarters",
+          "Inosuke Hashibira"
+        ],
+        "img": "images/dslayer/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Strength of the Hashira",
+          "The Strength of the Hashira"
+        ],
+        "date_release": [
+          "September 3rd 2019",
+          "October 4th, 2017"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0442-2",
+          "978-4-08-881212-0"
+        ],
+        "chapters": {
+          "62": [
+            "62. Ending in a Dream",
+            "62. Ending in a Dream"
+          ],
+          "63": [
+            "63. Akaza",
+            "63. Akaza"
+          ],
+          "64": [
+            "64. The Strength of the Hashira",
+            "64. The Strength of the Hashira"
+          ],
+          "65": [
+            "65. Whose Victory?",
+            "65. Whose Victory?"
+          ],
+          "66": [
+            "66. Scattering into Dawn",
+            "66. Scattering into Dawn"
+          ],
+          "67": [
+            "67. Looking for Something",
+            "67. Looking for Something"
+          ],
+          "68": [
+            "68. Wielder",
+            "68. Wielder"
+          ],
+          "69": [
+            "69. Move Forward—Even if Just a Little",
+            "69. Move Forward—Even if Just a Little"
+          ],
+          "70": [
+            "70. Kidnapper",
+            "70. Kidnapper"
+          ]
+        },
+        "cover_characters": [
+          "The Strength of the Hashira",
+          "Kyojuro Rengoku"
+        ],
+        "img": "images/dslayer/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Operation: Entertainment District",
+          "Operation: Entertainment District"
+        ],
+        "date_release": [
+          "November 5th, 2019",
+          "December 4th, 2017"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0443-9",
+          "978-4-08-881283-0"
+        ],
+        "chapters": {
+          "71": [
+            "71. Operation: Entertainment District",
+            "71. Operation: Entertainment District"
+          ],
+          "72": [
+            "72. Search For My Wives",
+            "72. Search For My Wives"
+          ],
+          "73": [
+            "73. The Chase",
+            "73. The Chase"
+          ],
+          "74": [
+            "74. Daki",
+            "74. Daki"
+          ],
+          "75": [
+            "75. Various Feelings",
+            "75. Various Feelings"
+          ],
+          "76": [
+            "76. In Various Places",
+            "76. In Various Places"
+          ],
+          "77": [
+            "77. Roar",
+            "77. Roar"
+          ],
+          "78": [
+            "78. Wriggly",
+            "78. Wriggly"
+          ],
+          "79": [
+            "79. Air Hole",
+            "79. Air Hole"
+          ]
+        },
+        "cover_characters": [
+          "Operation: Entertainment District",
+          "Tengen Uzui"
+        ],
+        "img": "images/dslayer/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Human and Demon",
+          "Human and Demon"
+        ],
+        "date_release": [
+          "January 7th, 2020",
+          "March 2nd, 2018"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-1-9747-0455-2",
+          "978-4-08-881355-4"
+        ],
+        "chapters": {
+          "80": [
+            "80. Value",
+            "80. Value"
+          ],
+          "81": [
+            "81. Layered Memories",
+            "81. Layered Memories"
+          ],
+          "82": [
+            "82. Human and Demon",
+            "82. Human and Demon"
+          ],
+          "83": [
+            "83. Transformation",
+            "83. Transformation"
+          ],
+          "84": [
+            "84. What is Important",
+            "84. What is Important"
+          ],
+          "85": [
+            "85. Weeping",
+            "85. Weeping"
+          ],
+          "86": [
+            "86. Gyutaro",
+            "86. Gyutaro"
+          ],
+          "87": [
+            "87. Gathering",
+            "87. Gathering"
+          ],
+          "88": [
+            "88. How to Defeat Them",
+            "88. How to Defeat Them"
+          ],
+          "Bonus": [
+            "Bonus Chapter: Inosuke's Fairy Tale",
+            "Bonus Chapter: Inosuke's Fairy Tale"
+          ]
+        },
+        "cover_characters": [
+          "Human and Demon",
+          "Tanjiro Kamado"
+        ],
+        "img": "images/dslayer/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "A Close Fight",
+          "A Close Fight"
+        ],
+        "date_release": [
+          "March 3rd 2020",
+          "June 4th, 2018"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-0648-8",
+          "978-4-08-881399-8"
+        ],
+        "chapters": {
+          "89": [
+            "89. A Close Fight",
+            "89. A Close Fight"
+          ],
+          "90": [
+            "90. Grateful",
+            "90. Grateful"
+          ],
+          "91": [
+            "91. A Change of Strategy",
+            "91. A Change of Strategy"
+          ],
+          "92": [
+            "92. Worm, Simpleton, Stupid Coward",
+            "92. Worm, Simpleton, Stupid Coward"
+          ],
+          "93": [
+            "93. Never Give Up",
+            "93. Never Give Up"
+          ],
+          "94": [
+            "94. Do Something",
+            "94. Do Something"
+          ],
+          "95": [
+            "95. Final Moments",
+            "95. Final Moments"
+          ],
+          "96": [
+            "96. No Matter How Many Lives, Part 1",
+            "96. No Matter How Many Lives, Part 1"
+          ],
+          "97": [
+            "97. No Matter How Many Lives, Part 2",
+            "97. No Matter How Many Lives, Part 2"
+          ]
+        },
+        "cover_characters": [
+          "A Close Fight",
+          "Nezuko Kamado"
+        ],
+        "img": "images/dslayer/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Upper Ranks Gather",
+          "The Upper Ranks Gather"
+        ],
+        "date_release": [
+          "May 5th, 2020",
+          "August 3rd, 2018"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1112-3",
+          "978-4-08-881540-4"
+        ],
+        "chapters": {
+          "98": [
+            "98. The Upper Ranks Gather",
+            "98. The Upper Ranks Gather"
+          ],
+          "99": [
+            "99. Someone's Dream",
+            "99. Someone's Dream"
+          ],
+          "100": [
+            "100. Go to the Village!!",
+            "100. Go to the Village!!"
+          ],
+          "101": [
+            "101. A Secret",
+            "101. A Secret"
+          ],
+          "102": [
+            "102. Hello, Tokito",
+            "102. Hello, Tokito"
+          ],
+          "103": [
+            "103. Yoriichi Type Zero",
+            "103. Yoriichi Type Zero"
+          ],
+          "104": [
+            "104. Kotetsu",
+            "104. Kotetsu"
+          ],
+          "105": [
+            "105. Something Came Out",
+            "105. Something Came Out"
+          ],
+          "106": [
+            "106. Enemy Attack",
+            "106. Enemy Attack"
+          ]
+        },
+        "cover_characters": [
+          "The Upper Ranks Gather",
+          "Muichiro Tokito"
+        ],
+        "img": "images/dslayer/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Transitions",
+          "Transitions"
+        ],
+        "date_release": [
+          "June 2nd, 2020",
+          "November 2nd, 2018"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1113-0",
+          "978-4-08-881626-5"
+        ],
+        "chapters": {
+          "107": [
+            "107. In The Way",
+            "107. In The Way"
+          ],
+          "108": [
+            "108. Thank You, Tokito",
+            "108. Thank You, Tokito"
+          ],
+          "109": [
+            "109. Won't Die",
+            "109. Won't Die"
+          ],
+          "110": [
+            "110. Sneaking Around",
+            "110. Sneaking Around"
+          ],
+          "111": [
+            "111. Pretentious Artist",
+            "111. Pretentious Artist"
+          ],
+          "112": [
+            "112. Transitions",
+            "112. Transitions"
+          ],
+          "113": [
+            "113. Bright Red Blade",
+            "113. Bright Red Blade"
+          ],
+          "114": [
+            "114. Wanted: Respect",
+            "114. Wanted: Respect"
+          ],
+          "115": [
+            "115. To Be a Hashira",
+            "115. To Be a Hashira"
+          ]
+        },
+        "cover_characters": [
+          "Transitions",
+          "Genya Shinazugawa"
+        ],
+        "img": "images/dslayer/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Mu of Muichiro",
+          "The Mu of Muichiro"
+        ],
+        "date_release": [
+          "July 7th, 2020",
+          "January 4th, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1114-4",
+          "978-4-08-881695-1"
+        ],
+        "chapters": {
+          "116": [
+            "116. Awful Villain",
+            "116. Awful Villain"
+          ],
+          "117": [
+            "117. Swordsmith",
+            "117. Swordsmith"
+          ],
+          "118": [
+            "118. The Mu of Muichiro",
+            "118. The Mu of Muichiro"
+          ],
+          "119": [
+            "119. Coming Back",
+            "119. Coming Back"
+          ],
+          "120": [
+            "120. Trading Insults",
+            "120. Trading Insults"
+          ],
+          "121": [
+            "121. Abnormal Situation",
+            "121. Abnormal Situation"
+          ],
+          "122": [
+            "122. A Passing Moment of Excitement",
+            "122. A Passing Moment of Excitement"
+          ],
+          "123": [
+            "123. Mitsuri Kanroji's Life Passes Before Her Eyes",
+            "123. Mitsuri Kanroji's Life Passes Before Her Eyes"
+          ],
+          "124": [
+            "124. Get it Together, Moron!",
+            "124. Get it Together, Moron!"
+          ]
+        },
+        "cover_characters": [
+          "The Mu of Muichiro",
+          "Mitsuri Kanroji"
+        ],
+        "img": "images/dslayer/vol_014.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "15": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Daybreak and First Light",
+          "Daybreak and First Light"
+        ],
+        "date_release": [
+          "August 4th, 2020",
+          "April 4th, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1478-0",
+          "978-4-08-881799-6"
+        ],
+        "chapters": {
+          "125": [
+            "125. Dawn Approaches",
+            "125. Dawn Approaches"
+          ],
+          "126": [
+            "126. Daybreak and First Light",
+            "126. Daybreak and First Light"
+          ],
+          "127": [
+            "127. The Rumble of Victory",
+            "127. The Rumble of Victory"
+          ],
+          "128": [
+            "128. A Request for Instruction",
+            "128. A Request for Instruction"
+          ],
+          "129": [
+            "129. To Become a Marked One",
+            "129. To Become a Marked One"
+          ],
+          "130": [
+            "130. A Place to Be",
+            "130. A Place to Be"
+          ],
+          "131": [
+            "131. Visitor",
+            "131. Visitor"
+          ],
+          "132": [
+            "132. Full Strength Training",
+            "132. Full Strength Training"
+          ],
+          "133": [
+            "133. Welcome",
+            "133. Welcome"
+          ]
+        },
+        "cover_characters": [
+          "Daybreak and First Light",
+          "Gyomei Himejima"
+        ],
+        "img": "images/dslayer/vol_015.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "16": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Indestructible",
+          "Indestructible"
+        ],
+        "date_release": [
+          "September 1st, 2020",
+          "July 4th, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1477-3",
+          "978-4-08-881867-2"
+        ],
+        "chapters": {
+          "134": [
+            "134. Repetitive Action",
+            "134. Repetitive Action"
+          ],
+          "135": [
+            "135. Himejima Hell",
+            "135. Himejima Hell"
+          ],
+          "136": [
+            "136. Moving",
+            "136. Moving"
+          ],
+          "137": [
+            "137. Undying",
+            "137. Undying"
+          ],
+          "138": [
+            "138. A Sudden Turn",
+            "138. A Sudden Turn"
+          ],
+          "139": [
+            "139. Falling",
+            "139. Falling"
+          ],
+          "140": [
+            "140. The Final Battle Begins",
+            "140. The Final Battle Begins"
+          ],
+          "141": [
+            "141. Vengeance",
+            "141. Vengeance"
+          ],
+          "142": [
+            "142. Insect Hashira, Shinobu Kocho",
+            "142. Insect Hashira, Shinobu Kocho"
+          ]
+        },
+        "cover_characters": [
+          "Indestructible",
+          "Kagaya Ubuyashiki",
+          "Amane Ubuyashiki"
+        ],
+        "img": "images/dslayer/vol_016.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "17": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Successors",
+          "Successors"
+        ],
+        "date_release": [
+          "October 6th, 2020",
+          "October 4th, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1061-4",
+          "978-4-08-882080-4"
+        ],
+        "chapters": {
+          "143": [
+            "143. Wrath",
+            "143. Wrath"
+          ],
+          "144": [
+            "144. Successors",
+            "144. Successors"
+          ],
+          "145": [
+            "145. Box of Happiness",
+            "145. Box of Happiness"
+          ],
+          "146": [
+            "146. Pride",
+            "146. Pride"
+          ],
+          "147": [
+            "147. Small Cogs",
+            "147. Small Cogs"
+          ],
+          "148": [
+            "148. Clashing",
+            "148. Clashing"
+          ],
+          "149": [
+            "149. Disgust",
+            "149. Disgust"
+          ],
+          "150": [
+            "150. Noticing",
+            "150. Noticing"
+          ],
+          "151": [
+            "151. The Sound of Bells on a Snowy Moonlight Night",
+            "151. The Sound of Bells on a Snowy Moonlight Night"
+          ]
+        },
+        "cover_characters": [
+          "Successors",
+          "Sanemi Shinazugawa"
+        ],
+        "img": "images/dslayer/vol_017.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "18": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Assaulted by Memories",
+          "Assaulted by Memories"
+        ],
+        "date_release": [
+          "November 3rd, 2020",
+          "December 4th, 2019"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1760-6",
+          "978-4-08-882141-2"
+        ],
+        "chapters": {
+          "152": [
+            "152. The Transparent World",
+            "152. The Transparent World"
+          ],
+          "153": [
+            "153. Pulled",
+            "153. Pulled"
+          ],
+          "154": [
+            "154. Assaulted by Memories",
+            "154. Assaulted by Memories"
+          ],
+          "155": [
+            "155. Useless Komainu",
+            "155. Useless Komainu"
+          ],
+          "156": [
+            "156. Thank You",
+            "156. Thank You"
+          ],
+          "157": [
+            "157. Returning Spirit",
+            "157. Returning Spirit"
+          ],
+          "158": [
+            "158. Chaos",
+            "158. Chaos"
+          ],
+          "159": [
+            "159. Face",
+            "159. Face"
+          ],
+          "160": [
+            "160. Similar Features, Returning Memories",
+            "160. Similar Features, Returning Memories"
+          ]
+        },
+        "cover_characters": [
+          "Assaulted by Memories",
+          "Kanao Tsuyuri"
+        ],
+        "img": "images/dslayer/vol_018.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "19": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Flapping Butterfly Wings",
+          "Flapping Butterfly Wings"
+        ],
+        "date_release": [
+          "December 1st, 2020",
+          "February 4th, 2020"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-1811-5",
+          "978-4-08-882204-4"
+        ],
+        "chapters": {
+          "161": [
+            "161. Flapping Butterfly Wings",
+            "161. Flapping Butterfly Wings"
+          ],
+          "162": [
+            "162. Trio of Victory",
+            "162. Trio of Victory"
+          ],
+          "163": [
+            "163. Overflowing Heart",
+            "163. Overflowing Heart"
+          ],
+          "164": [
+            "164. Just Overdid It A Little",
+            "164. Just Overdid It A Little"
+          ],
+          "165": [
+            "165. Stunned and Trembling",
+            "165. Stunned and Trembling"
+          ],
+          "166": [
+            "166. True Feelings",
+            "166. True Feelings"
+          ],
+          "167": [
+            "167. A Request",
+            "167. A Request"
+          ],
+          "168": [
+            "168. Never Disappear",
+            "168. Never Disappear"
+          ],
+          "169": [
+            "169. Rumbling",
+            "169. Rumbling"
+          ]
+        },
+        "cover_characters": [
+          "Flapping Butterfly Wings",
+          "Obanai Iguro"
+        ],
+        "img": "images/dslayer/vol_019.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "20": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Path of Opening a Steadfast Heart",
+          "The Path of Opening a Steadfast Heart"
+        ],
+        "date_release": [
+          "February 2nd, 2021",
+          "May 13th, 2020"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-2097-2",
+          "978-4-08-882282-2"
+        ],
+        "chapters": {
+          "170": [
+            "170. The Immovable Hashira",
+            "170. The Immovable Hashira"
+          ],
+          "171": [
+            "171. Transformation",
+            "171. Transformation"
+          ],
+          "172": [
+            "172. A Weakling's Potential",
+            "172. A Weakling's Potential"
+          ],
+          "173": [
+            "173. The Path of Opening a Steadfast Heart",
+            "173. The Path of Opening a Steadfast Heart"
+          ],
+          "174": [
+            "174. Nightmare on the Night of a Red Moon",
+            "174. Nightmare on the Night of a Red Moon"
+          ],
+          "175": [
+            "175. Respect for Future Generations",
+            "175. Respect for Future Generations"
+          ],
+          "176": [
+            "176. Samurai",
+            "176. Samurai"
+          ],
+          "177": [
+            "177. Younger Brother",
+            "177. Younger Brother"
+          ],
+          "178": [
+            "178. Even If You Reach Out Your Hand",
+            "178. Even If You Reach Out Your Hand"
+          ]
+        },
+        "cover_characters": [
+          "The Path of Opening a Steadfast Heart",
+          "Yoriichi Tsugikuni"
+        ],
+        "img": "images/dslayer/vol_020.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "21": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Ancient Memories",
+          "Ancient Memories"
+        ],
+        "date_release": [
+          "April 6th, 2021",
+          "July 3rd, 2020"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-2120-7",
+          "978-4-08-882363-8"
+        ],
+        "chapters": {
+          "179": [
+            "179. Feelings for Elder Brother, Feelings for Younger Brother",
+            "179. Feelings for Elder Brother, Feelings for Younger Brother"
+          ],
+          "180": [
+            "180. Recovery",
+            "180. Recovery"
+          ],
+          "181": [
+            "181. Disaster",
+            "181. Disaster"
+          ],
+          "182": [
+            "182. Rage",
+            "182. Rage"
+          ],
+          "183": [
+            "183. A Clash of Wills",
+            "183. A Clash of Wills"
+          ],
+          "184": [
+            "184. Leaving the Warfront",
+            "184. Leaving the Warfront"
+          ],
+          "185": [
+            "185. A World Without Smell",
+            "185. A World Without Smell"
+          ],
+          "186": [
+            "186. Ancient Memories",
+            "186. Ancient Memories"
+          ],
+          "187": [
+            "187. Innocent Person",
+            "187. Innocent Person"
+          ]
+        },
+        "cover_characters": [
+          "Ancient Memories",
+          "Tamayo",
+          "Yushiro"
+        ],
+        "img": "images/dslayer/vol_021.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "22": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "The Wheel of Fate",
+          "The Wheel of Fate"
+        ],
+        "date_release": [
+          "June 1st, 2021",
+          "October 2nd, 2020"
+        ],
+        "pages": [
+          "192",
+          "192"
+        ],
+        "ISBN": [
+          "978-1-9747-2341-6",
+          "978-4-08-882424-6"
+        ],
+        "chapters": {
+          "188": [
+            "188. Sorrowful Love",
+            "188. Sorrowful Love"
+          ],
+          "189": [
+            "189. Reassuring Comrades",
+            "189. Reassuring Comrades"
+          ],
+          "190": [
+            "190. One After Another",
+            "190. One After Another"
+          ],
+          "191": [
+            "191. Which One of Us is the Demon",
+            "191. Which One of Us is the Demon"
+          ],
+          "192": [
+            "192. The Wheel of Fate",
+            "192. The Wheel of Fate"
+          ],
+          "193": [
+            "193. A Difficult Door Begins to Open",
+            "193. A Difficult Door Begins to Open"
+          ],
+          "194": [
+            "194. Burn Scars",
+            "194. Burn Scars"
+          ],
+          "195": [
+            "195. Bewilderment",
+            "195. Bewilderment"
+          ],
+          "196": [
+            "196. I Am",
+            "196. I Am"
+          ]
+        },
+        "cover_characters": [
+          "The Wheel of Fate",
+          "Muzan Kibutsuji"
+        ],
+        "img": "images/dslayer/vol_022.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "23": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Life Shining Across the Years",
+          "Life Shining Across the Years"
+        ],
+        "date_release": [
+          "August 3rd, 2021",
+          "December 4th, 2020"
+        ],
+        "pages": [
+          "232",
+          "232"
+        ],
+        "ISBN": [
+          "978-1-9747-2363-8",
+          "978-4-08-882495-6"
+        ],
+        "chapters": {
+          "197": [
+            "197. Tenacity",
+            "197. Tenacity"
+          ],
+          "198": [
+            "198. The Next Thing We Knew...",
+            "198. The Next Thing We Knew..."
+          ],
+          "199": [
+            "199. Millenial Dawn",
+            "199. Millenial Dawn"
+          ],
+          "200": [
+            "200. The Price of Victory",
+            "200. The Price of Victory"
+          ],
+          "201": [
+            "201. The King of Demons",
+            "201. The King of Demons"
+          ],
+          "202": [
+            "202. Let's Go Home",
+            "202. Let's Go Home"
+          ],
+          "203": [
+            "203. Voices of Encouragement",
+            "203. Voices of Encouragement"
+          ],
+          "204": [
+            "204. A World Without Demons",
+            "204. A World Without Demons"
+          ],
+          "205": [
+            "205. Life Shining Across the Years",
+            "205. Life Shining Across the Years"
+          ]
+        },
+        "cover_characters": [
+          "Life Shining Across the Years",
+          "Tanjiro Kamado",
+          "Nezuko Kamado"
+        ],
+        "img": "images/dslayer/vol_023.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
