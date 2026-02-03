@@ -19,7 +19,7 @@ function sololvl(id) {
         date_bought: ""
     }
     for (const chapter of tblObj.korean[2].querySelectorAll("a")) {
-        if (chapter.innerText.includes("Prologue")) result.chapters[0] = [chapter.innerText, chapter.innerText];
+        if (chapter.innerText.includes("Prologue")) result.chapters["Prologue"] = [chapter.innerText, chapter.innerText];
         else {
             const title = chapter.innerText;
             const number = Number(title.match(/\d+/)[0]);
