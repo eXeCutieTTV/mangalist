@@ -1509,254 +1509,442 @@
     "released": "June 6, 2017",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 1 Whisper, Chant, Prayer, Awaken",
+          "Level.1 ささやき、詠唱、祈り、目覚めよ"
+        ],
+        "date_release": [
+          "June 6, 2017",
+          "June 25, 2013"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626926585",
+          "978-4906866229"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_001.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 2 Everything is Precious",
+          "Level.2 大切じゃないものなんか、ない。"
+        ],
+        "date_release": [
+          "August 8, 2017",
+          "November 25, 2013"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626926608",
+          "978-4906866472"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 3 You Have to Accept That Things Won't Always Go Your Way",
+          "Level.3 思い通りに行かないのが 世の中だと割り切るしかなくても"
+        ],
+        "date_release": [
+          "October 10, 2017",
+          "March 25, 2014"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626926622",
+          "978-4906866694"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 4 The Leaders and the Led",
+          "Level.4 導き導かれし者たち"
+        ],
+        "date_release": [
+          "December 12, 2017",
+          "July 25, 2014"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626926660",
+          "978-4906866915"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 5 Hear Me Out, and Try Not to Laugh",
+          "Level.5 笑わないで聞いておくれよ"
+        ],
+        "date_release": [
+          "February 20, 2018",
+          "February 25, 2015"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626926837",
+          "978-4865540260"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 6 Towards a Glory Not Worth Taking",
+          "Level.6 とるにたらない栄光に向かって"
+        ],
+        "date_release": [
+          "May 1, 2018",
+          "October 25, 2015"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626927995",
+          "978-4865540727"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 7 The Rainbow on the Other Side",
+          "Level.7 彼方の虹"
+        ],
+        "date_release": [
+          "July 10, 2018",
+          "December 25, 2015"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626928404",
+          "978-4865540864"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 8 And So We Wait For Tomorrow",
+          "Level.8 そして僕らは明日を待つ"
+        ],
+        "date_release": [
+          "October 30, 2018",
+          "March 25, 2016"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626929111",
+          "978-4865541144"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 9 Here and Now, to Far Far Away",
+          "Level.9 ここにいる今、遥か遠くへ"
+        ],
+        "date_release": [
+          "February 5, 2019",
+          "August 25, 2016"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1626929883",
+          "978-4865541496"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 10 Love Songs Won't Reach",
+          "Level.10 ラブソングは届かない"
+        ],
+        "date_release": [
+          "July 30, 2019",
+          "March 25, 2017"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1642750874",
+          "978-4865542028"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 11 At That Time, We Each Dreamed on Our Own Paths",
+          "Level.11 あの時それぞれの道で夢を見た"
+        ],
+        "date_release": [
+          "October 8, 2019",
+          "July 25, 2017"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1642757040",
+          "978-4865542349"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 12 That was the Beginning of a Legend Revolving Around a Certain Island and Dragon",
+          "Level.12 それはある島と竜を巡る伝説の始まり"
+        ],
+        "date_release": [
+          "March 24, 2020",
+          "March 25, 2018"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1645052128",
+          "978-4865542837"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 13 Heart, Open, A New Door",
+          "Level.13 心、ひらけ、新たなる扉"
+        ],
+        "date_release": [
+          "July 14, 2020",
+          "June 25, 2018"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1645053002",
+          "978-4865543469"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 14 Parano-mania",
+          "Level.14 パラノマニア"
+        ],
+        "date_release": [
+          "November 10, 2020",
+          "December 25, 2018"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1645057482",
+          "978-4865544299"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_014.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "15": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 14+ Not Choosing to Stay the Same",
+          "Level.14+ 相変わらずではいられない"
+        ],
+        "date_release": [
+          "March 30, 2021",
+          "March 25, 2019"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1645057697",
+          "978-4865544664"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_015.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "16": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 14++ If I Could Meet You Again",
+          "Level.14++ もし君とまた会えたなら"
+        ],
+        "date_release": [
+          "March 30, 2021",
+          "June 25, 2019"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1645057697",
+          "978-4865545128"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_016.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "17": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 15 A Fleeting New Game Plus",
+          "Level.15 強くて儚きニューゲーム"
+        ],
+        "date_release": [
+          "June 29, 2021",
+          "December 25, 2019"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1718306325",
+          "978-4865545906"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_017.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "18": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 16 Without Even Knowing the Reason for Our Good-bye",
+          "Level.16 さよならの訳さえ僕らは知らないままで"
+        ],
+        "date_release": [
+          "November 30, 2021",
+          "July 25, 2020"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1718306349",
+          "978-4865545906"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_018.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "19": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 17 Someday We Shall Bid Farewell to These War-Torn Days",
+          "Level.17 いつか戦いの日にさらばと告げよう"
+        ],
+        "date_release": [
+          "February 1, 2022",
+          "January 25, 2021"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "N/A",
+          "978-1648273179"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_019.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "20": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 18 The World Hates Me",
+          "Level.18 わたしは世界に嫌われている"
+        ],
+        "date_release": [
+          "February 21, 2023",
+          "October 25, 2021"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1718306387",
+          "978-4824000248"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_020.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "21": {
-        "title": [],
-        "date_release": [],
+        "title": [
+          "Level. 19 To Embrace This World Is Pain",
+          "Level.19 この世のすべてを抱きしめて痛い"
+        ],
+        "date_release": [
+          "July 4, 2023",
+          "June 25, 2022"
+        ],
         "pages": [],
-        "ISBN": [],
+        "ISBN": [
+          "978-1718306400",
+          "978-4824001870"
+        ],
         "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": false,
-        "prise": "10 €",
-        "date_bought": ""
-      },
-      "22": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": false,
-        "prise": "10 €",
-        "date_bought": ""
-      },
-      "23": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "cover_characters": [],
+        "img": "images/grimgar/vol_021.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
