@@ -21,7 +21,7 @@ function hparadise(id) {
     for (const chapter of tblObj.body[0].querySelectorAll("li")) {
         const title = chapter.innerText;
         const number = title.match(/\d+/)[0].trim();
-        result.chapters[number] = title;
+        result.chapters[number] = [title, title];
     }
     for (const character of tblObj.body[1].querySelectorAll(":scope > a")) {
         result.cover_characters.push(character.innerText.trim());
