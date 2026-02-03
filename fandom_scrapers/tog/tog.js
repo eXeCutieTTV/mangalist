@@ -12,7 +12,7 @@ function tog(id) {
         title: [`Book ${id + 1}`, `Book ${id + 1}`],
         date_release: [tblObj.enInfo[5].children[1].innerText.trim(), tblObj.koInfo[5].children[1].innerText.trim()],
         pages: [tblObj.uniInfo[3].children[1].innerText.trim(), tblObj.uniInfo[3].children[1].innerText.trim()],
-        ISBN: [tblObj.enInfo[1].children[1].innerText.trim(), tblObj.koInfo[1].children[1].innerText.trim()],
+        ISBN: [tblObj.enInfo[1].children[1].innerText.trim().replace("ISBN ", ""), tblObj.koInfo[1].children[1].innerText.trim().replace("ISBN ", "")],
         chapters: {},
         cover_characters: [],
         img: `images/tog/vol_${String(id + 1).padStart(3, "0")}.png`,
