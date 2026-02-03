@@ -37284,7 +37284,10 @@
     "released": "November 4, 1998",
     "volumes": {
       "Wanted!": {
-        "title": "Wanted!",
+        "title": [
+          "Wanted!",
+          "Wanted!"
+        ],
         "date_release": [
           "November 4, 1998",
           "November 4, 1998"
