@@ -10444,6 +10444,58 @@
       }
     }
   },
+  "BURN THE WITCH": {
+    "title": "BURN THE WITCH",
+    "author": "Tite Kubo",
+    "released": "July 16th, 2018",
+    "volumes": {
+      "one-shot": {
+        "title": [
+          "Don't Judge a Book By It's Cover 1",
+          "Don't Judge a Book By It's Cover 1"
+        ],
+        "date_release": [
+          "July 16th, 2018",
+          "July 16th, 2018"
+        ],
+        "pages": [
+          "251",
+          "251"
+        ],
+        "ISBN": [
+          "978-1-9747-2359-1",
+          "978-1-9747-2359-1"
+        ],
+        "chapters": {
+          "0.8": [
+            "Don't Judge a Book By It's Cover",
+            "Don't Judge a Book By It's Cover"
+          ],
+          "1": [
+            "Witches Blow a New Pipe",
+            "Witches Blow a New Pipe"
+          ],
+          "2": [
+            "Ghillie Suit",
+            "Ghillie Suit"
+          ],
+          "3": [
+            "She Makes Me Special",
+            "She Makes Me Special"
+          ],
+          "4": [
+            "If a Lion Could Speak, We Couldn't Understand",
+            "If a Lion Could Speak, We Couldn't Understand"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/btwitch/vol_001.png",
+        "owned": true,
+        "prise": "10 €",
+        "date_bought": ""
+      }
+    }
+  },
   "Solo Leveling": {
     "title": "Solo Leveling",
     "author": "Jang Sung-rak",
