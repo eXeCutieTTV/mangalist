@@ -32969,133 +32969,1594 @@
     "released": "April 2, 2021",
     "volumes": {
       "1": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "title": [
+          "The Legendary Hit Man",
+          "The Legendary Hit Man"
+        ],
+        "date_release": [
+          "April 5, 2022",
+          "April 2, 2021"
+        ],
+        "pages": [
+          "200",
+          "192"
+        ],
+        "ISBN": [
+          "978-1974728947",
+          "978-4-08-882657-8"
+        ],
+        "chapters": {
+          "1": [
+            "Days 1: The Legendary Hit Man",
+            "Days 1: The Legendary Hit Man"
+          ],
+          "2": [
+            "Days 2: Sakamoto Family Rules",
+            "Days 2: Sakamoto Family Rules"
+          ],
+          "3": [
+            "Days 3: Officer Nakase and the Mysterious Hero",
+            "Days 3: Officer Nakase and the Mysterious Hero"
+          ],
+          "4": [
+            "Days 4: China Invasion!",
+            "Days 4: China Invasion!"
+          ],
+          "5": [
+            "Days 5: Vs. Son Hee and Bacho",
+            "Days 5: Vs. Son Hee and Bacho"
+          ],
+          "6": [
+            "Days 6: Nagumo",
+            "Days 6: Nagumo"
+          ],
+          "7": [
+            "Days 7: Welcome to Sugar Park!",
+            "Days 7: Welcome to Sugar Park!"
+          ]
+        },
+        "cover_characters": [
+          "Taro Sakamoto",
+          "Shin"
+        ],
+        "img": "images/sakamoto/vol_001.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Hard-Boiled",
+          "Hard-Boiled"
+        ],
+        "date_release": [
+          "June 14, 2022",
+          "June 4, 2021"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974732142",
+          "978-4-08-882685-1"
+        ],
+        "chapters": {
+          "8": [
+            "Days 8: Showtime",
+            "Days 8: Showtime"
+          ],
+          "9": [
+            "Days 9: Boiled and Obiguro",
+            "Days 9: Boiled and Obiguro"
+          ],
+          "10": [
+            "Days 10: Hard-Boiled",
+            "Days 10: Hard-Boiled"
+          ],
+          "11": [
+            "Days 11: Sakamoto vs. Boiled",
+            "Days 11: Sakamoto vs. Boiled"
+          ],
+          "12": [
+            "Days 12: Source of Strength",
+            "Days 12: Source of Strength"
+          ],
+          "13": [
+            "Days 13: Video Rental",
+            "Days 13: Video Rental"
+          ],
+          "14": [
+            "Days 14: Stealth Mission",
+            "Days 14: Stealth Mission"
+          ],
+          "15": [
+            "Days 15: Initiation",
+            "Days 15: Initiation"
+          ],
+          "16": [
+            "Days 16: Department Store War",
+            "Days 16: Department Store War"
+          ]
+        },
+        "cover_characters": [
+          "Shin",
+          "Lu Shaotang",
+          "Taro Sakamoto"
+        ],
+        "img": "images/sakamoto/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Heisuke Mashimo",
+          "Heisuke Mashimo"
+        ],
+        "date_release": [
+          "August 9, 2022",
+          "September 3, 2021"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974732197",
+          "978-4-08-882763-6"
+        ],
+        "chapters": {
+          "17": [
+            "Days 17: Heisuke Mashimo",
+            "Days 17: Heisuke Mashimo"
+          ],
+          "18": [
+            "Days 18: Versus Sniper",
+            "Days 18: Versus Sniper"
+          ],
+          "19": [
+            "Days 19: Fight",
+            "Days 19: Fight"
+          ],
+          "20": [
+            "Days 20: Invisible Highway",
+            "Days 20: Invisible Highway"
+          ],
+          "21": [
+            "Days 21: Let's Go to the Museum!",
+            "Days 21: Let's Go to the Museum!"
+          ],
+          "22": [
+            "Days 22: Jurassic Bastard",
+            "Days 22: Jurassic Bastard"
+          ],
+          "23": [
+            "Days 23: Asakura and Shin",
+            "Days 23: Asakura and Shin"
+          ],
+          "24": [
+            "Days 24: Assassins x Science",
+            "Days 24: Assassins x Science"
+          ],
+          "25": [
+            "Days 25: Science Bastard",
+            "Days 25: Science Bastard"
+          ]
+        },
+        "cover_characters": [
+          "Heisuke Mashimo",
+          "Shin",
+          "Taro Sakamoto",
+          "Piisuke"
+        ],
+        "img": "images/sakamoto/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Quiet on the Train",
+          "Quiet on the Train"
+        ],
+        "date_release": [
+          "October 11, 2022",
+          "November 4, 2021"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974733965",
+          "978-4-08-882819-0"
+        ],
+        "chapters": {
+          "26": [
+            "Days 26: Order",
+            "Days 26: Order"
+          ],
+          "27": [
+            "Days 27: Sakamoto's Vs the Lab",
+            "Days 27: Sakamoto's Vs the Lab"
+          ],
+          "28": [
+            "Days 28: Top-Notch",
+            "Days 28: Top-Notch"
+          ],
+          "29": [
+            "Days 29: All Aboard",
+            "Days 29: All Aboard"
+          ],
+          "30": [
+            "Days 30: Quiet on the Train",
+            "Days 30: Quiet on the Train"
+          ],
+          "31": [
+            "Days 31: See?",
+            "Days 31: See?"
+          ],
+          "32": [
+            "Days 32: Bathhouse Mode",
+            "Days 32: Bathhouse Mode"
+          ],
+          "33": [
+            "Days 33: Surprise",
+            "Days 33: Surprise"
+          ],
+          "34": [
+            "Days 34: Wutang",
+            "Days 34: Wutang"
+          ]
+        },
+        "cover_characters": [
+          "Seba",
+          "Kashima",
+          "Shin",
+          "Taro Sakamoto"
+        ],
+        "img": "images/sakamoto/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Death Row Prisoner",
+          "Death Row Prisoner"
+        ],
+        "date_release": [
+          "December 13, 2022",
+          "January 4, 2022"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974734412",
+          "978-4-08-882879-4"
+        ],
+        "chapters": {
+          "35": [
+            "Days 35: Casino Battle",
+            "Days 35: Casino Battle"
+          ],
+          "36": [
+            "Days 36: Bluff",
+            "Days 36: Bluff"
+          ],
+          "37": [
+            "Days 37: Death Row Prisoners",
+            "Days 37: Death Row Prisoners"
+          ],
+          "38": [
+            "Days 38: No Brakes",
+            "Days 38: No Brakes"
+          ],
+          "39": [
+            "Days 39: Encounter",
+            "Days 39: Encounter"
+          ],
+          "40": [
+            "Days 40: Overload",
+            "Days 40: Overload"
+          ],
+          "41": [
+            "Days 41: How to Live",
+            "Days 41: How to Live"
+          ],
+          "42": [
+            "Days 42: Just Deserts",
+            "Days 42: Just Deserts"
+          ],
+          "43": [
+            "Days 43: I Love You",
+            "Days 43: I Love You"
+          ]
+        },
+        "cover_characters": [
+          "Osaragi"
+        ],
+        "img": "images/sakamoto/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Bad Luck",
+          "Bad Luck"
+        ],
+        "date_release": [
+          "February 14, 2023",
+          "March 4, 2022"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974736218",
+          "978-4-08-883072-8"
+        ],
+        "chapters": {
+          "44": [
+            "Days 44: Every Which Way",
+            "Days 44: Every Which Way"
+          ],
+          "45": [
+            "Days 45: Strong Assault",
+            "Days 45: Strong Assault"
+          ],
+          "46": [
+            "Days 46: Bad Luck",
+            "Days 46: Bad Luck"
+          ],
+          "47": [
+            "Days 47: Going Up",
+            "Days 47: Going Up"
+          ],
+          "48": [
+            "Days 48: The Heart Thread",
+            "Days 48: The Heart Thread"
+          ],
+          "49": [
+            "Days 49: Round and Round the Tower",
+            "Days 49: Round and Round the Tower"
+          ],
+          "50": [
+            "Days 50: Bicycle",
+            "Days 50: Bicycle"
+          ],
+          "51": [
+            "Days 51: Parade",
+            "Days 51: Parade"
+          ],
+          "52": [
+            "Days 52: Slice Slice Dance",
+            "Days 52: Slice Slice Dance"
+          ]
+        },
+        "cover_characters": [
+          "Nagumo"
+        ],
+        "img": "images/sakamoto/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "I Got This",
+          "I Got This"
+        ],
+        "date_release": [
+          "April 11, 2023",
+          "June 3, 2022"
+        ],
+        "pages": [
+          "200",
+          "192"
+        ],
+        "ISBN": [
+          "978-1974736805",
+          "978-4-08-883147-3"
+        ],
+        "chapters": {
+          "53": [
+            "Days 53: No Way",
+            "Days 53: No Way"
+          ],
+          "54": [
+            "Days 54: I Got This",
+            "Days 54: I Got This"
+          ],
+          "55": [
+            "Days 55: Break",
+            "Days 55: Break"
+          ],
+          "56": [
+            "Days 56: JCC",
+            "Days 56: JCC"
+          ],
+          "57": [
+            "Days 57: Have a Nice Flight",
+            "Days 57: Have a Nice Flight"
+          ],
+          "58": [
+            "Days 58: Newbies",
+            "Days 58: Newbies"
+          ],
+          "59": [
+            "Days 59: Cut",
+            "Days 59: Cut"
+          ],
+          "60": [
+            "Days 60: Kanaguri",
+            "Days 60: Kanaguri"
+          ],
+          "61": [
+            "Days 61: Pretty Decent",
+            "Days 61: Pretty Decent"
+          ]
+        },
+        "cover_characters": [
+          "Gaku"
+        ],
+        "img": "images/sakamoto/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Exam, Stage Three",
+          "Exam, Stage Three"
+        ],
+        "date_release": [
+          "June 6, 2023",
+          "August 4, 2022"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974738625",
+          "978-4-08-883191-6"
+        ],
+        "chapters": {
+          "62": [
+            "Days 62: Exam, Stage Three",
+            "Days 62: Exam, Stage Three"
+          ],
+          "63": [
+            "Days 63: Survival",
+            "Days 63: Survival"
+          ],
+          "64": [
+            "Days 64: Path",
+            "Days 64: Path"
+          ],
+          "65": [
+            "Days 65: Mutual Fans",
+            "Days 65: Mutual Fans"
+          ],
+          "66": [
+            "Days 66: Lag",
+            "Days 66: Lag"
+          ],
+          "67": [
+            "Days 67: Remote Work",
+            "Days 67: Remote Work"
+          ],
+          "68": [
+            "Days 68: Fwollow Me",
+            "Days 68: Fwollow Me"
+          ],
+          "69": [
+            "Days 69: Kaji",
+            "Days 69: Kaji"
+          ],
+          "70": [
+            "Days 70: Sounds vs. Gaku",
+            "Days 70: Sounds vs. Gaku"
+          ]
+        },
+        "cover_characters": [
+          "Akira Akao"
+        ],
+        "img": "images/sakamoto/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Hard Mode",
+          "Hard Mode"
+        ],
+        "date_release": [
+          "August 1, 2023",
+          "November 4, 2022"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974738960",
+          "978-4-08-883292-0"
+        ],
+        "chapters": {
+          "71": [
+            "Days 71: Hard Mode",
+            "Days 71: Hard Mode"
+          ],
+          "72": [
+            "Days 72: So Long",
+            "Days 72: So Long"
+          ],
+          "73": [
+            "Days 73: Killer Lotto Scratch",
+            "Days 73: Killer Lotto Scratch"
+          ],
+          "74": [
+            "Days 74: Undercover",
+            "Days 74: Undercover"
+          ],
+          "75": [
+            "Days 75: Damn Telepath",
+            "Days 75: Damn Telepath"
+          ],
+          "76": [
+            "Days 76: Each One's Mission",
+            "Days 76: Each One's Mission"
+          ],
+          "77": [
+            "Days 77: K-I-L-L-I-N-G",
+            "Days 77: K-I-L-L-I-N-G"
+          ],
+          "78": [
+            "Days 78: Banished",
+            "Days 78: Banished"
+          ],
+          "79": [
+            "Days 79: Invisible Intent to Kill",
+            "Days 79: Invisible Intent to Kill"
+          ]
+        },
+        "cover_characters": [
+          "Nao Toramaru",
+          "Taro Sakamoto"
+        ],
+        "img": "images/sakamoto/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Reunion",
+          "Reunion"
+        ],
+        "date_release": [
+          "December 5, 2023",
+          "February 3, 2023"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974741137",
+          "978-4-08-883429-0"
+        ],
+        "chapters": {
+          "80": [
+            "Days 80: Reunion",
+            "Days 80: Reunion"
+          ],
+          "81": [
+            "Days 81: Test",
+            "Days 81: Test"
+          ],
+          "82": [
+            "Days 82: Aikido Love",
+            "Days 82: Aikido Love"
+          ],
+          "83": [
+            "Days 83: Genius Style",
+            "Days 83: Genius Style"
+          ],
+          "84": [
+            "Days 84: What a Nice Smell",
+            "Days 84: What a Nice Smell"
+          ],
+          "85": [
+            "Days 85: Nightmare",
+            "Days 85: Nightmare"
+          ],
+          "86": [
+            "Days 86: Third-Rate Style",
+            "Days 86: Third-Rate Style"
+          ],
+          "87": [
+            "Days 87: Database",
+            "Days 87: Database"
+          ],
+          "88": [
+            "Days 88: Clap",
+            "Days 88: Clap"
+          ]
+        },
+        "cover_characters": [
+          "Kei Uzuki"
+        ],
+        "img": "images/sakamoto/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "One Blow",
+          "One Blow"
+        ],
+        "date_release": [
+          "April 2, 2024",
+          "April 4, 2023"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974743667",
+          "978-4-08-883449-8"
+        ],
+        "chapters": {
+          "89": [
+            "Days 89: Sensei",
+            "Days 89: Sensei"
+          ],
+          "90": [
+            "Days 90: Sensei, Part 2",
+            "Days 90: Sensei, Part 2"
+          ],
+          "91": [
+            "Days 91: Kanaguri Vs. Sakamoto",
+            "Days 91: Kanaguri Vs. Sakamoto"
+          ],
+          "92": [
+            "Days 92: Deal",
+            "Days 92: Deal"
+          ],
+          "93": [
+            "Days 93: Rapport",
+            "Days 93: Rapport"
+          ],
+          "94": [
+            "Days 94: Twisted",
+            "Days 94: Twisted"
+          ],
+          "95": [
+            "Days 95: Amane",
+            "Days 95: Amane"
+          ],
+          "96": [
+            "Days 96: Healthy",
+            "Days 96: Healthy"
+          ],
+          "97": [
+            "Days 97: One Blow",
+            "Days 97: One Blow"
+          ]
+        },
+        "cover_characters": [
+          "Shishiba",
+          "Satoru Yotsumura"
+        ],
+        "img": "images/sakamoto/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
-        "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "title": [
+          "Roll Film",
+          "Roll Film"
+        ],
+        "date_release": [
+          "June 4, 2024",
+          "June 2, 2023"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974745890",
+          "978-4-08-883555-6"
+        ],
+        "chapters": {
+          "98": [
+            "Days 98: Tora Tora",
+            "Days 98: Tora Tora"
+          ],
+          "99": [
+            "Days 99: That Day",
+            "Days 99: That Day"
+          ],
+          "100": [
+            "Days 100: Lightning Strikes",
+            "Days 100: Lightning Strikes"
+          ],
+          "101": [
+            "Days 101: Secret Maneuvers",
+            "Days 101: Secret Maneuvers"
+          ],
+          "102": [
+            "Days 102: Final Curtain",
+            "Days 102: Final Curtain"
+          ],
+          "103": [
+            "Days 103: Roll Film",
+            "Days 103: Roll Film"
+          ],
+          "104": [
+            "Days 104: Strange Feeling",
+            "Days 104: Strange Feeling"
+          ],
+          "105": [
+            "Days 105: Each One's Goal",
+            "Days 105: Each One's Goal"
+          ],
+          "106": [
+            "Days 106: Reason",
+            "Days 106: Reason"
+          ]
+        },
+        "cover_characters": [
+          "Kanaguri"
+        ],
+        "img": "images/sakamoto/vol_012.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "13": {
+        "title": [
+          "Reminiscence",
+          "Reminiscence"
+        ],
+        "date_release": [
+          "September 3, 2024",
+          "September 4, 2023"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974748884",
+          "978-4-08-883633-1"
+        ],
+        "chapters": {
+          "107": [
+            "Days 107: Reminiscence",
+            "Days 107: Reminiscence"
+          ],
+          "108": [
+            "Days 108: Assassin Department Store",
+            "Days 108: Assassin Department Store"
+          ],
+          "109": [
+            "Days 109: Kindaka",
+            "Days 109: Kindaka"
+          ],
+          "110": [
+            "Days 110: Mission",
+            "Days 110: Mission"
+          ],
+          "111": [
+            "Days 111: Bodyguard Assignment",
+            "Days 111: Bodyguard Assignment"
+          ],
+          "112": [
+            "Days 112: Mini Mission",
+            "Days 112: Mini Mission"
+          ],
+          "113": [
+            "Days 113: Car Chase",
+            "Days 113: Car Chase"
+          ],
+          "114": [
+            "Days 114: Each One's Task",
+            "Days 114: Each One's Task"
+          ],
+          "115": [
+            "Days 115: The Good-Deed Collector",
+            "Days 115: The Good-Deed Collector"
+          ]
+        },
+        "cover_characters": [
+          "Rion Akao"
+        ],
+        "img": "images/sakamoto/vol_013.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "14": {
+        "title": [
+          "Bizarre Data",
+          "Bizarre Data"
+        ],
+        "date_release": [
+          "November 5, 2024",
+          "November 2, 2023"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974749782",
+          "978-4-08-883692-8"
+        ],
+        "chapters": {
+          "116": [
+            "Days 116: Friends",
+            "Days 116: Friends"
+          ],
+          "117": [
+            "Days 117: Kill Without Moving",
+            "Days 117: Kill Without Moving"
+          ],
+          "118": [
+            "Days 118: Strength",
+            "Days 118: Strength"
+          ],
+          "119": [
+            "Days 119: Goodbye",
+            "Days 119: Goodbye"
+          ],
+          "120": [
+            "Days 120: Final",
+            "Days 120: Final"
+          ],
+          "121": [
+            "Days 121: Bizarre Data",
+            "Days 121: Bizarre Data"
+          ],
+          "122": [
+            "Days 122: Bad Feeling",
+            "Days 122: Bad Feeling"
+          ],
+          "123": [
+            "Days 123: One Shot",
+            "Days 123: One Shot"
+          ],
+          "124": [
+            "Days 124: Kumanomi",
+            "Days 124: Kumanomi"
+          ]
+        },
+        "cover_characters": [
+          "Hyo"
+        ],
+        "img": "images/sakamoto/vol_014.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "15": {
+        "title": [
+          "The Assassin Exhibit of the Century",
+          "The Assassin Exhibit of the Century"
+        ],
+        "date_release": [
+          "January 7, 2025",
+          "January 4, 2024"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974751693",
+          "978-4-08-883793-2"
+        ],
+        "chapters": {
+          "125": [
+            "Days 125: My Turn",
+            "Days 125: My Turn"
+          ],
+          "126": [
+            "Days 126: I'll Kill You Later",
+            "Days 126: I'll Kill You Later"
+          ],
+          "127": [
+            "Days 127: See Ya",
+            "Days 127: See Ya"
+          ],
+          "128": [
+            "Days 128: Convergence",
+            "Days 128: Convergence"
+          ],
+          "129": [
+            "Days 129: Reunion",
+            "Days 129: Reunion"
+          ],
+          "130": [
+            "Days 130: Reunion, Part 2",
+            "Days 130: Reunion, Part 2"
+          ],
+          "131": [
+            "Days 131: Deal",
+            "Days 131: Deal"
+          ],
+          "132": [
+            "Days 132: The Assassin Exhibit of the Century",
+            "Days 132: The Assassin Exhibit of the Century"
+          ],
+          "133": [
+            "Days 133: Bait",
+            "Days 133: Bait"
+          ]
+        },
+        "cover_characters": [
+          "Kumanomi"
+        ],
+        "img": "images/sakamoto/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "16": {
+        "title": [
+          "Encounter",
+          "Encounter"
+        ],
+        "date_release": [
+          "March 4, 2025",
+          "April 4, 2024"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974752768",
+          "978-4-08-883878-6"
+        ],
+        "chapters": {
+          "134": [
+            "Days 134: The End",
+            "Days 134: The End"
+          ],
+          "135": [
+            "Days 135: Kamihate",
+            "Days 135: Kamihate"
+          ],
+          "136": [
+            "Days 136: Kamihate, Part 2",
+            "Days 136: Kamihate, Part 2"
+          ],
+          "137": [
+            "Days 137: Trust",
+            "Days 137: Trust"
+          ],
+          "138": [
+            "Days 138: Delivery",
+            "Days 138: Delivery"
+          ],
+          "139": [
+            "Days 139: Nothing Like It",
+            "Days 139: Nothing Like It"
+          ],
+          "140": [
+            "Days 140: Each One's Goal",
+            "Days 140: Each One's Goal"
+          ],
+          "141": [
+            "Days 141: Encounter",
+            "Days 141: Encounter"
+          ],
+          "142": [
+            "Days 142: X's Goal",
+            "Days 142: X's Goal"
+          ]
+        },
+        "cover_characters": [
+          "Kamihate",
+          "Heisuke Mashimo",
+          "Taro Sakamoto",
+          "Shin Asakura"
+        ],
+        "img": "images/sakamoto/vol_016.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "17": {
+        "title": [
+          "Entry",
+          "Entry"
+        ],
+        "date_release": [
+          "May 6, 2025",
+          "June 4, 2024"
+        ],
+        "pages": [
+          "184",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974755875",
+          "978-4-08-884120-5"
+        ],
+        "chapters": {
+          "143": [
+            "Days 143: Entry",
+            "Days 143: Entry"
+          ],
+          "144": [
+            "Days 144: Kaiju",
+            "Days 144: Kaiju"
+          ],
+          "145": [
+            "Days 145: Crackle",
+            "Days 145: Crackle"
+          ],
+          "146": [
+            "Days 146: Ghost",
+            "Days 146: Ghost"
+          ],
+          "147": [
+            "Days 147: Uproar",
+            "Days 147: Uproar"
+          ],
+          "148": [
+            "Days 148: Fan Activities",
+            "Days 148: Fan Activities"
+          ],
+          "149": [
+            "Days 149: Protrusion",
+            "Days 149: Protrusion"
+          ],
+          "150": [
+            "Days 150: Bullies",
+            "Days 150: Bullies"
+          ],
+          "151": [
+            "Days 151: Nagumo vs. Gaku",
+            "Days 151: Nagumo vs. Gaku"
+          ]
+        },
+        "cover_characters": [
+          "Mafuyu Seba"
+        ],
+        "img": "images/sakamoto/vol_017.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "18": {
+        "title": [
+          "Melee",
+          "Melee"
+        ],
+        "date_release": [
+          "August 5, 2025",
+          "August 2, 2024"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974755943",
+          "978-4-08-884131-1"
+        ],
+        "chapters": {
+          "152": [
+            "Days 152: Speedrun",
+            "Days 152: Speedrun"
+          ],
+          "153": [
+            "Days 153: What It Takes to Kill",
+            "Days 153: What It Takes to Kill"
+          ],
+          "154": [
+            "Days 154: Maniacs",
+            "Days 154: Maniacs"
+          ],
+          "155": [
+            "Days 155: Melee",
+            "Days 155: Melee"
+          ],
+          "156": [
+            "Days 156: Sportsman",
+            "Days 156: Sportsman"
+          ],
+          "157": [
+            "Days 157: Sportsmanship",
+            "Days 157: Sportsmanship"
+          ],
+          "158": [
+            "Days 158: Super Sumo",
+            "Days 158: Super Sumo"
+          ],
+          "159": [
+            "Days 159: The Final Attack",
+            "Days 159: The Final Attack"
+          ],
+          "160": [
+            "Days 160: Like My Master",
+            "Days 160: Like My Master"
+          ],
+          "161": [
+            "Days 161: Shark",
+            "Days 161: Shark"
+          ]
+        },
+        "cover_characters": [
+          "Haruma"
+        ],
+        "img": "images/sakamoto/vol_018.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "19": {
+        "title": [
+          "Museum Closed",
+          "Museum Closed"
+        ],
+        "date_release": [
+          "November 11, 2025",
+          "November 1, 2024"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974759002",
+          "978-4-08-884250-9"
+        ],
+        "chapters": {
+          "162": [
+            "Days 162: Familiar Faces",
+            "Days 162: Familiar Faces"
+          ],
+          "163": [
+            "Days 163: Misfortune",
+            "Days 163: Misfortune"
+          ],
+          "164": [
+            "Days 164: Takamura",
+            "Days 164: Takamura"
+          ],
+          "165": [
+            "Days 165: Accessibility",
+            "Days 165: Accessibility"
+          ],
+          "166": [
+            "Days 166: False Madman",
+            "Days 166: False Madman"
+          ],
+          "167": [
+            "Days 167: Peering Into the Abyss",
+            "Days 167: Peering Into the Abyss"
+          ],
+          "168": [
+            "Days 168: Museum Closed",
+            "Days 168: Museum Closed"
+          ],
+          "169": [
+            "Days 169: A New Mission",
+            "Days 169: A New Mission"
+          ],
+          "170": [
+            "Days 170: Cake",
+            "Days 170: Cake"
+          ]
+        },
+        "cover_characters": [
+          "Takamura"
+        ],
+        "img": "images/sakamoto/vol_019.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "20": {
+        "title": [
+          "Belonging",
+          "Belonging"
+        ],
+        "date_release": [
+          "January 6, 2026",
+          "January 4, 2025"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974762309",
+          "978-4-08-884389-6"
+        ],
+        "chapters": {
+          "171": [
+            "Days 171: Belonging",
+            "Days 171: Belonging"
+          ],
+          "172": [
+            "Days 172: Mirage",
+            "Days 172: Mirage"
+          ],
+          "173": [
+            "Days 173: Escape",
+            "Days 173: Escape"
+          ],
+          "174": [
+            "Days 174: A Certain Skilled Assassin",
+            "Days 174: A Certain Skilled Assassin"
+          ],
+          "175": [
+            "Days 175: Karma",
+            "Days 175: Karma"
+          ],
+          "176": [
+            "Days 176: Awaken",
+            "Days 176: Awaken"
+          ],
+          "177": [
+            "Days 177: Kindaka",
+            "Days 177: Kindaka"
+          ],
+          "178": [
+            "Days 178: Means and End",
+            "Days 178: Means and End"
+          ],
+          "179": [
+            "Days 179: Torres",
+            "Days 179: Torres"
+          ],
+          "180": [
+            "Days 180: I Know Someone",
+            "Days 180: I Know Someone"
+          ]
+        },
+        "cover_characters": [
+          "Taro Sakamoto"
+        ],
+        "img": "images/sakamoto/vol_020.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "21": {
+        "title": [
+          "Today's Fortune",
+          "Today's Fortune"
+        ],
+        "date_release": [
+          "March 17, 2026",
+          "March 4, 2025"
+        ],
+        "pages": [
+          "200",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974762316",
+          "978-4-08-884409-1"
+        ],
+        "chapters": {
+          "181": [
+            "Days 181: Welcome Party",
+            "Days 181: Welcome Party"
+          ],
+          "182": [
+            "Days 182: A Peaceful Day",
+            "Days 182: A Peaceful Day"
+          ],
+          "183": [
+            "Days 183: Jo Shackles",
+            "Days 183: Jo Shackles"
+          ],
+          "184": [
+            "Days 184: Told Ya",
+            "Days 184: Told Ya"
+          ],
+          "185": [
+            "Days 185: Hunter",
+            "Days 185: Hunter"
+          ],
+          "186": [
+            "Days 186: Today's Fortune",
+            "Days 186: Today's Fortune"
+          ],
+          "187": [
+            "Days 187: Take a Chance",
+            "Days 187: Take a Chance"
+          ],
+          "188": [
+            "Days 188: Here and Now",
+            "Days 188: Here and Now"
+          ],
+          "189": [
+            "Days 189: Great Misfortune",
+            "Days 189: Great Misfortune"
+          ],
+          "190": [
+            "Days 190: One in 10-40000",
+            "Days 190: One in 10-40000"
+          ]
+        },
+        "cover_characters": [
+          "Atari"
+        ],
+        "img": "images/sakamoto/vol_021.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "22": {
+        "title": [
+          "Tenkyu vs. Shin",
+          "Tenkyu vs. Shin"
+        ],
+        "date_release": [
+          "June 9, 2026",
+          "June 4, 2025"
+        ],
+        "pages": [
+          "192",
+          "null"
+        ],
+        "ISBN": [
+          "978-1974765829",
+          "978-4-08-884554-8"
+        ],
+        "chapters": {
+          "191": [
+            "Days 191: Out of Luck",
+            "Days 191: Out of Luck"
+          ],
+          "192": [
+            "Days 192: True Feelings",
+            "Days 192: True Feelings"
+          ],
+          "193": [
+            "Days 193: Tenkyu vs. Shin",
+            "Days 193: Tenkyu vs. Shin"
+          ],
+          "194": [
+            "Days 194: Tachypsychia",
+            "Days 194: Tachypsychia"
+          ],
+          "195": [
+            "Days 195: I Know",
+            "Days 195: I Know"
+          ],
+          "196": [
+            "Days 196: First Encounter",
+            "Days 196: First Encounter"
+          ],
+          "197": [
+            "Days 197: Seat Belt",
+            "Days 197: Seat Belt"
+          ],
+          "198": [
+            "Days 198: Useful",
+            "Days 198: Useful"
+          ],
+          "199": [
+            "Days 199: Ikari",
+            "Days 199: Ikari"
+          ]
+        },
+        "cover_characters": [
+          "Tenkyu"
+        ],
+        "img": "images/sakamoto/vol_022.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "23": {
+        "title": [
+          "The New JAA",
+          "The New JAA"
+        ],
+        "date_release": [
+          "TBA",
+          "August 4, 2025"
+        ],
+        "pages": [
+          "184",
+          "null"
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884608-8"
+        ],
+        "chapters": {
+          "200": [
+            "Days 200: Bubbles",
+            "Days 200: Bubbles"
+          ],
+          "201": [
+            "Days 201: What Took You?",
+            "Days 201: What Took You?"
+          ],
+          "202": [
+            "Days 202: Last Chance",
+            "Days 202: Last Chance"
+          ],
+          "203": [
+            "Days 203: Recovery",
+            "Days 203: Recovery"
+          ],
+          "204": [
+            "Days 204: Revolution and Succession",
+            "Days 204: Revolution and Succession"
+          ],
+          "205": [
+            "Days 205: A Three-Stage Revolution",
+            "Days 205: A Three-Stage Revolution"
+          ],
+          "206": [
+            "Days 206: Forbidden Zone",
+            "Days 206: Forbidden Zone"
+          ],
+          "207": [
+            "Days 207: The New JAA",
+            "Days 207: The New JAA"
+          ],
+          "208": [
+            "Days 208: Domino Effect",
+            "Days 208: Domino Effect"
+          ]
+        },
+        "cover_characters": [
+          "Shin Asakura"
+        ],
+        "img": "images/sakamoto/vol_023.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "24": {
+        "title": [
+          "Electric Shock Hazard",
+          "Electric Shock Hazard"
+        ],
+        "date_release": [
+          "TBA",
+          "October 3, 2025"
+        ],
+        "pages": [
+          "184",
+          "null"
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884692-7"
+        ],
+        "chapters": {
+          "209": [
+            "Days 209: An Ideal World",
+            "Days 209: An Ideal World"
+          ],
+          "210": [
+            "Days 210: Hostility and Hostility",
+            "Days 210: Hostility and Hostility"
+          ],
+          "211": [
+            "Days 211: Electric Shock Hazard",
+            "Days 211: Electric Shock Hazard"
+          ],
+          "212": [
+            "Days 212: Shin's Mission",
+            "Days 212: Shin's Mission"
+          ],
+          "213": [
+            "Days 213: Resistance",
+            "Days 213: Resistance"
+          ],
+          "214": [
+            "Days 214: Lost Child",
+            "Days 214: Lost Child"
+          ],
+          "215": [
+            "Days 215: Sea of Corpses",
+            "Days 215: Sea of Corpses"
+          ],
+          "216": [
+            "Days 216: Tunnel",
+            "Days 216: Tunnel"
+          ],
+          "217": [
+            "Days 217: It Starts With Me",
+            "Days 217: It Starts With Me"
+          ]
+        },
+        "cover_characters": [
+          "Gozu"
+        ],
+        "img": "images/sakamoto/vol_024.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "25": {
+        "title": [
+          "More than Friends, Less than Assassins",
+          "More than Friends, Less than Assassins"
+        ],
+        "date_release": [
+          "TBA",
+          "December 4, 2025"
+        ],
+        "pages": [
+          "184",
+          "null"
+        ],
+        "ISBN": [
+          "TBA",
+          "978-4-08-884810-5"
+        ],
+        "chapters": {
+          "218": [
+            "Days 218: Stop Acting Cool",
+            "Days 218: Stop Acting Cool"
+          ],
+          "219": [
+            "Days 219: Fake",
+            "Days 219: Fake"
+          ],
+          "220": [
+            "Days 220: I Won't Let You Die!",
+            "Days 220: I Won't Let You Die!"
+          ],
+          "221": [
+            "Days 221: Protect",
+            "Days 221: Protect"
+          ],
+          "222": [
+            "Days 222: The Battle Begins",
+            "Days 222: The Battle Begins"
+          ],
+          "223": [
+            "Days 223: Conceited",
+            "Days 223: Conceited"
+          ],
+          "224": [
+            "Days 224: Security Scort",
+            "Days 224: Security Scort"
+          ],
+          "225": [
+            "Days 225: Protect What Matters",
+            "Days 225: Protect What Matters"
+          ],
+          "226": [
+            "Days 226: More than Friends, Less than Assassins",
+            "Days 226: More than Friends, Less than Assassins"
+          ]
+        },
+        "cover_characters": [
+          "Oki"
+        ],
+        "img": "images/sakamoto/vol_025.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
