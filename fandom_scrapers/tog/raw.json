@@ -1,0 +1,226 @@
+{
+    "1": {
+        "title": [
+            "Book 1",
+            "Book 1"
+        ],
+        "date_release": [
+            "November 22, 2022",
+            "November 12, 2019"
+        ],
+        "pages": [
+            "288",
+            "288"
+        ],
+        "ISBN": [
+            "ISBN 978-1990259906",
+            "ISBN 979-1-19-015317-1"
+        ],
+        "chapters": {
+            "10": [
+                "Ch.10: 2F - Lero-Ro's Test (2)",
+                "Ch.10: 2F - Lero-Ro's Test (2)"
+            ],
+            "11": [
+                "Ch.11: 2F - Yu Han Sung's Examination (1)",
+                "Ch.11: 2F - Yu Han Sung's Examination (1)"
+            ],
+            "01": [
+                "Ch.01: 1F - Headon's Floor (1)",
+                "Ch.01: 1F - Headon's Floor (1)"
+            ],
+            "02": [
+                "Ch.02: 1F - Headon's Floor (2)",
+                "Ch.02: 1F - Headon's Floor (2)"
+            ],
+            "03": [
+                "Ch.03: 1F - Headon's Floor (3)",
+                "Ch.03: 1F - Headon's Floor (3)"
+            ],
+            "04": [
+                "Ch.04: 1F - Headon's Floor (4)",
+                "Ch.04: 1F - Headon's Floor (4)"
+            ],
+            "05": [
+                "Ch.05: 2F - Evankhell's Hell (1)",
+                "Ch.05: 2F - Evankhell's Hell (1)"
+            ],
+            "06": [
+                "Ch.06: 2F - Evankhell's Hell (2)",
+                "Ch.06: 2F - Evankhell's Hell (2)"
+            ],
+            "07": [
+                "Ch.07: 2F - Evankhell's Hell (3)",
+                "Ch.07: 2F - Evankhell's Hell (3)"
+            ],
+            "08": [
+                "Ch.08: 2F - Evankhell's Hell (4)",
+                "Ch.08: 2F - Evankhell's Hell (4)"
+            ],
+            "09": [
+                "Ch.09: 2F - Lero-Ro's Test (1)",
+                "Ch.09: 2F - Lero-Ro's Test (1)"
+            ]
+        },
+        "cover_characters": [
+            "Ha Yuri Zahard",
+            "Headon",
+            "Rachel",
+            "Khun Aguero Agnis",
+            "Rak Wraithraiser",
+            "Twenty-Fifth Baam"
+        ],
+        "img": "images/tog/vol_001.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "2": {
+        "title": [
+            "Book 2",
+            "Book 2"
+        ],
+        "date_release": [
+            "May 23, 2023",
+            "November 12, 2019"
+        ],
+        "pages": [
+            "272",
+            "272"
+        ],
+        "ISBN": [
+            "ISBN 978-1990778056",
+            "ISBN 979-1-19-015318-8"
+        ],
+        "chapters": {
+            "11": [
+                "Ch.11: 2F - Yu Han Sung's Examination (1)",
+                "Ch.11: 2F - Yu Han Sung's Examination (1)"
+            ],
+            "12": [
+                "Ch.12: 2F - Yu Han Sung's Examination (2)",
+                "Ch.12: 2F - Yu Han Sung's Examination (2)"
+            ],
+            "13": [
+                "Ch.13: 2F - Yu Han Sung's Examination (3)",
+                "Ch.13: 2F - Yu Han Sung's Examination (3)"
+            ],
+            "14": [
+                "Ch.14: 2F - Crown Game (1)",
+                "Ch.14: 2F - Crown Game (1)"
+            ],
+            "15": [
+                "Ch.15: 2F - Crown Game (2)",
+                "Ch.15: 2F - Crown Game (2)"
+            ],
+            "16": [
+                "Ch.16: 2F - Crown Game (3)",
+                "Ch.16: 2F - Crown Game (3)"
+            ],
+            "17": [
+                "Ch.17: 2F - Crown Game (4)",
+                "Ch.17: 2F - Crown Game (4)"
+            ],
+            "18": [
+                "Ch.18: 2F - Crown Game (5)",
+                "Ch.18: 2F - Crown Game (5)"
+            ],
+            "19": [
+                "Ch.19: 2F - Crown Game (6)",
+                "Ch.19: 2F - Crown Game (6)"
+            ],
+            "20": [
+                "Ch.20: 2F - Crown Game (7)",
+                "Ch.20: 2F - Crown Game (7)"
+            ],
+            "21": [
+                "Ch.21: 2F - Crown Game (8)",
+                "Ch.21: 2F - Crown Game (8)"
+            ]
+        },
+        "cover_characters": [
+            "Yu Han Sung",
+            "Anak Zahard",
+            "Khun Aguero Agnis",
+            "Rak Wraithraiser",
+            "Twenty-Fifth Baam",
+            "Palgyon"
+        ],
+        "img": "images/tog/vol_002.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "3": {
+        "title": [
+            "Book 3",
+            "Book 3"
+        ],
+        "date_release": [
+            "November 28, 2023",
+            "May 27, 2020"
+        ],
+        "pages": [
+            "280",
+            "280"
+        ],
+        "ISBN": [
+            "ISBN 978-1990778193",
+            "ISBN 979-1-19-015329-4"
+        ],
+        "chapters": {
+            "22": [
+                "Ch.22: 2F - Crown Game (9)",
+                "Ch.22: 2F - Crown Game (9)"
+            ],
+            "23": [
+                "Ch.23: 2F - Crown Game (10)",
+                "Ch.23: 2F - Crown Game (10)"
+            ],
+            "24": [
+                "Ch.24: 2F - Crown Game (11)",
+                "Ch.24: 2F - Crown Game (11)"
+            ],
+            "25": [
+                "Ch.25: 2F - Crown Game (12)",
+                "Ch.25: 2F - Crown Game (12)"
+            ],
+            "26": [
+                "Ch.26: 2F - Rest (1)",
+                "Ch.26: 2F - Rest (1)"
+            ],
+            "27": [
+                "Ch.27: 2F - Rest (2)",
+                "Ch.27: 2F - Rest (2)"
+            ],
+            "28": [
+                "Ch.28: 2F - Position Test (1)",
+                "Ch.28: 2F - Position Test (1)"
+            ],
+            "29": [
+                "Ch.29: 2F - Position Test (2)",
+                "Ch.29: 2F - Position Test (2)"
+            ],
+            "30": [
+                "Ch.30: 2F - Position Test (3)",
+                "Ch.30: 2F - Position Test (3)"
+            ],
+            "31": [
+                "Ch.31: 2F - Zahard's Princess (1)",
+                "Ch.31: 2F - Zahard's Princess (1)"
+            ]
+        },
+        "cover_characters": [
+            "Lero-Ro",
+            "Hax",
+            "Khun Aguero Agnis",
+            "Rak Wraithraiser",
+            "Twenty-Fifth Baam",
+            "Akryung"
+        ],
+        "img": "images/tog/vol_003.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    }
+}
