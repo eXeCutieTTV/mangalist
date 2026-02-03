@@ -1,0 +1,447 @@
+{
+    "1": {
+        "title": [],
+        "date_release": [
+            "April 4, 2018",
+            "April 4, 2018"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088814711",
+            "978-4088814711"
+        ],
+        "chapters": {
+            "1": "Chapter 1",
+            "2": "Chapter 2",
+            "3": "Chapter 3",
+            "4": "Chapter 4",
+            "5": "Chapter 5",
+            "6": "Chapter 6"
+        },
+        "cover_characters": [
+            "Gabimaru"
+        ],
+        "img": "images/hparadise/vol_001.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "2": {
+        "title": [],
+        "date_release": [
+            "June 4, 2018",
+            "June 4, 2018"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088815022",
+            "978-4088815022"
+        ],
+        "chapters": {
+            "7": "Chapter 7",
+            "8": "Chapter 8",
+            "9": "Chapter 9",
+            "10": "Chapter 10",
+            "11": "Chapter 11",
+            "12": "Chapter 12",
+            "13": "Chapter 13",
+            "14": "Chapter 14",
+            "15": "Chapter 15",
+            "16": "Chapter 16"
+        },
+        "cover_characters": [
+            "Sagiri"
+        ],
+        "img": "images/hparadise/vol_002.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "3": {
+        "title": [],
+        "date_release": [
+            "August 3, 2018",
+            "August 3, 2018"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088815466",
+            "978-4088815466"
+        ],
+        "chapters": {
+            "17": "Chapter 17",
+            "18": "Chapter 18",
+            "19": "Chapter 19",
+            "20": "Chapter 20",
+            "21": "Chapter 21",
+            "22": "Chapter 22",
+            "23": "Chapter 23",
+            "24": "Chapter 24",
+            "25": "Chapter 25",
+            "26": "Chapter 26"
+        },
+        "cover_characters": [
+            "Yamada Asaemon Tenza",
+            "Nurugai"
+        ],
+        "img": "images/hparadise/vol_003.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "4": {
+        "title": [],
+        "date_release": [
+            "November 2, 2018",
+            "November 2, 2018"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088816012",
+            "978-4088816012"
+        ],
+        "chapters": {
+            "27": "Chapter 27",
+            "28": "Chapter 28",
+            "29": "Chapter 29",
+            "30": "Chapter 30",
+            "31": "Chapter 31",
+            "32": "Chapter 32",
+            "33": "Chapter 33",
+            "34": "Chapter 34",
+            "35": "Chapter 35",
+            "36": "Chapter 36"
+        },
+        "cover_characters": [
+            "Aza Tōma",
+            "Aza Chōbē"
+        ],
+        "img": "images/hparadise/vol_004.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "5": {
+        "title": [],
+        "date_release": [
+            "March 4, 2019",
+            "March 4, 2019"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088816975",
+            "978-4088816975"
+        ],
+        "chapters": {
+            "37": "Chapter 37",
+            "38": "Chapter 38",
+            "39": "Chapter 39",
+            "40": "Chapter 40",
+            "41": "Chapter 41",
+            "42": "Chapter 42",
+            "43": "Chapter 43",
+            "44": "Chapter 44",
+            "45": "Chapter 45",
+            "46": "Chapter 46"
+        },
+        "cover_characters": [
+            "Yuzuriha"
+        ],
+        "img": "images/hparadise/vol_005.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "6": {
+        "title": [],
+        "date_release": [
+            "June 4, 2019",
+            "June 4, 2019"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4088818030",
+            "978-4088818030"
+        ],
+        "chapters": {
+            "47": "Chapter 47",
+            "48": "Chapter 48",
+            "49": "Chapter 49",
+            "50": "Chapter 50",
+            "51": "Chapter 51",
+            "52": "Chapter 52",
+            "53": "Chapter 53",
+            "54": "Chapter 54",
+            "55": "Chapter 55",
+            "56": "Chapter 56"
+        },
+        "cover_characters": [
+            "Mei",
+            "Rien"
+        ],
+        "img": "images/hparadise/vol_006.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "7": {
+        "title": [],
+        "date_release": [
+            "September 4, 2019",
+            "September 4, 2019"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4-08-882056-9",
+            "978-4-08-882056-9"
+        ],
+        "chapters": {
+            "57": "Chapter 57",
+            "58": "Chapter 58",
+            "59": "Chapter 59",
+            "60": "Chapter 60",
+            "61": "Chapter 61",
+            "62": "Chapter 62",
+            "63": "Chapter 63",
+            "64": "Chapter 64",
+            "65": "Chapter 65",
+            "66": "Chapter 66"
+        },
+        "cover_characters": [
+            "Yamada Asaemon Shugen"
+        ],
+        "img": "images/hparadise/vol_007.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "8": {
+        "title": [],
+        "date_release": [
+            "December 4, 2019",
+            "December 4, 2019"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4-08-882148-1",
+            "978-4-08-882148-1"
+        ],
+        "chapters": {
+            "67": "Chapter 67",
+            "68": "Chapter 68",
+            "69": "Chapter 69",
+            "70": "Chapter 70",
+            "71": "Chapter 71",
+            "72": "Chapter 72",
+            "73": "Chapter 73",
+            "74": "Chapter 74",
+            "75": "Chapter 75",
+            "76": "Chapter 76"
+        },
+        "cover_characters": [
+            "Tamiya Gantetsusai",
+            "Yamada Asaemon Fuchi"
+        ],
+        "img": "images/hparadise/vol_008.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "9": {
+        "title": [],
+        "date_release": [
+            "March 4, 2020",
+            "March 4, 2020"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4-08-882230-3",
+            "978-4-08-882230-3"
+        ],
+        "chapters": {
+            "77": "Chapter 77",
+            "78": "Chapter 78",
+            "79": "Chapter 79",
+            "80": "Chapter 80",
+            "81": "Chapter 81",
+            "82": "Chapter 82",
+            "83": "Chapter 83",
+            "84": "Chapter 84",
+            "85": "Chapter 85",
+            "86": "Chapter 86"
+        },
+        "cover_characters": [
+            "Yamada Asaemon Shion",
+            "Yamada Asaemon Tenza"
+        ],
+        "img": "images/hparadise/vol_009.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "10": {
+        "title": [],
+        "date_release": [
+            "June 4, 2020",
+            "June 4, 2020"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "",
+            ""
+        ],
+        "chapters": {
+            "87": "Chapter 87",
+            "88": "Chapter 88",
+            "89": "Chapter 89",
+            "90": "Chapter 90",
+            "91": "Chapter 91",
+            "92": "Chapter 92",
+            "93": "Chapter 93",
+            "94": "Chapter 94",
+            "95": "Chapter 95",
+            "96": "Chapter 96"
+        },
+        "cover_characters": [
+            "Shija"
+        ],
+        "img": "images/hparadise/vol_010.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "11": {
+        "title": [],
+        "date_release": [
+            "September 4, 2020",
+            "September 4, 2020"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4-08-882407-9",
+            "978-4-08-882407-9"
+        ],
+        "chapters": {
+            "97": "Chapter 97",
+            "98": "Chapter 98",
+            "99": "Chapter 99",
+            "100": "Chapter 100",
+            "101": "Chapter 101",
+            "102": "Chapter 102",
+            "103": "Chapter 103",
+            "104": "Chapter 104",
+            "105": "Chapter 105",
+            "106": "Chapter 106"
+        },
+        "cover_characters": [
+            "Yamada Asaemon Jikka"
+        ],
+        "img": "images/hparadise/vol_011.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "12": {
+        "title": [],
+        "date_release": [
+            "December 4, 2020",
+            "December 4, 2020"
+        ],
+        "pages": [
+            "208",
+            "208"
+        ],
+        "ISBN": [
+            "978-4-08-882523-6",
+            "978-4-08-882523-6"
+        ],
+        "chapters": {
+            "107": "Chapter 107",
+            "108": "Chapter 108",
+            "109": "Chapter 109",
+            "110": "Chapter 110",
+            "111": "Chapter 111",
+            "112": "Chapter 112",
+            "113": "Chapter 113",
+            "114": "Chapter 114",
+            "115": "Chapter 115",
+            "116": "Chapter 116"
+        },
+        "cover_characters": [
+            "Yui"
+        ],
+        "img": "images/hparadise/vol_012.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    },
+    "13": {
+        "title": [],
+        "date_release": [
+            "April 30, 2021",
+            "April 30, 2021"
+        ],
+        "pages": [
+            "224",
+            "224"
+        ],
+        "ISBN": [
+            "978-4-08-882583-0",
+            "978-4-08-882583-0"
+        ],
+        "chapters": {
+            "117": "Chapter 117",
+            "118": "Chapter 118",
+            "119": "Chapter 119",
+            "120": "Chapter 120",
+            "121": "Chapter 121",
+            "122": "Chapter 122",
+            "123": "Chapter 123",
+            "124": "Chapter 124",
+            "125": "Chapter 125",
+            "126": "Chapter 126",
+            "127": "Chapter 127"
+        },
+        "cover_characters": [
+            "Gabimaru",
+            "Yamada Asaemon Sagiri"
+        ],
+        "img": "images/hparadise/vol_013.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+    }
+}
