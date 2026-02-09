@@ -38688,5 +38688,4333 @@
         "date_bought": ""
       }
     }
+  },
+  "Jojos Bizarre Adventure": {
+    "title": "Jojos Bizarre Adventure",
+    "author": "Hirohiko Araki",
+    "released": "August 10, 1987",
+    "volumes": {
+      "1": {
+        "title": [
+          "Phantom Blood Volume 1",
+          "Phantom Blood Volume 1"
+        ],
+        "date_release": [
+          "February 24, 2015",
+          "February 24, 2015"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7879-8",
+          "978-1-4215-7879-8"
+        ],
+        "chapters": {
+          "1": [
+            "Prologue",
+            "プロローグ"
+          ],
+          "2": [
+            "Dio Brando the Invader, Part 1",
+            "侵略者ディオ・ブランドー その①"
+          ],
+          "3": [
+            "Dio Brando the Invader, Part 2",
+            "侵略者ディオ・ブランドー その②"
+          ],
+          "4": [
+            "Dio Brando the Invader, Part 3",
+            "侵略者ディオ・ブランドー その③"
+          ],
+          "5": [
+            "Dio Brando the Invader, Part 4",
+            "侵略者ディオ・ブランドー その④"
+          ],
+          "6": [
+            "A Letter from the Past, Part 1",
+            "過去からの手紙 その①"
+          ],
+          "7": [
+            "A Letter from the Past, Part 2",
+            "過去からの手紙 その②"
+          ],
+          "8": [
+            "The Stone Mask, Part 1",
+            "石仮面 その①"
+          ],
+          "9": [
+            "The Stone Mask, Part 2",
+            "石仮面 その②"
+          ],
+          "10": [
+            "The Stone Mask, Part 3",
+            "石仮面 その③"
+          ],
+          "11": [
+            "The Stone Mask, Part 4",
+            "石仮面 その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_001.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "2": {
+        "title": [
+          "Phantom Blood Volume 2",
+          "Phantom Blood Volume 2"
+        ],
+        "date_release": [
+          "May 5, 2015",
+          "May 5, 2015"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7880-4",
+          "978-1-4215-7880-4"
+        ],
+        "chapters": {
+          "12": [
+            "Youth with Dio, Part 1",
+            "ディオとの青春 その①"
+          ],
+          "13": [
+            "Youth with Dio, Part 2",
+            "ディオとの青春 その②"
+          ],
+          "14": [
+            "Youth with Dio, Part 3",
+            "ディオとの青春 その③"
+          ],
+          "15": [
+            "Youth with Dio, Part 4",
+            "ディオとの青春 その④"
+          ],
+          "16": [
+            "Youth with Dio, Part 5",
+            "ディオとの青春 その⑤"
+          ],
+          "17": [
+            "The Birth of DIO",
+            "DIOの誕生"
+          ],
+          "18": [
+            "Jack the Ripper and Zeppeli the Eccentric, Part 1",
+            "切り裂きジャックと奇人ツェペリ その①"
+          ],
+          "19": [
+            "Jack the Ripper and Zeppeli the Eccentric, Part 2",
+            "切り裂きジャックと奇人ツェペリ その②"
+          ],
+          "20": [
+            "Jack the Ripper and Zeppeli the Eccentric, Part 3",
+            "切り裂きジャックと奇人ツェペリ その③"
+          ],
+          "21": [
+            "Jack the Ripper and Zeppeli the Eccentric, Part 4",
+            "切り裂きジャックと奇人ツェペリ その④"
+          ],
+          "22": [
+            "Jack the Ripper and Zeppeli the Eccentric, Part 5",
+            "切り裂きジャックと奇人ツェペリ その⑤"
+          ],
+          "23": [
+            "Hamon Overdrive, Part 1",
+            "波紋疾走 その①"
+          ],
+          "24": [
+            "Hamon Overdrive, Part 2",
+            "波紋疾走 その②"
+          ],
+          "25": [
+            "Hamon Overdrive, Part 3",
+            "波紋疾走 その③"
+          ],
+          "26": [
+            "Tarkus and the Dark Knight Blueford, Part 1",
+            "タルカスと黒騎士ブラフォード その①"
+          ],
+          "27": [
+            "Tarkus and the Dark Knight Blueford, Part 2",
+            "タルカスと黒騎士ブラフォード その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_002.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "3": {
+        "title": [
+          "Phantom Blood Volume 3",
+          "Phantom Blood Volume 3"
+        ],
+        "date_release": [
+          "August 4, 2015",
+          "August 4, 2015"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7881-1",
+          "978-1-4215-7881-1"
+        ],
+        "chapters": {
+          "28": [
+            "Tarukus and the Dark Knight Blueford, Part 3",
+            "タルカスと黒騎士ブラフォード その③"
+          ],
+          "29": [
+            "Tarukus and the Dark Knight Blueford, Part 4",
+            "タルカスと黒騎士ブラフォード その④"
+          ],
+          "30": [
+            "Sleep as a Hero",
+            "英雄として瞑る"
+          ],
+          "31": [
+            "The Knights' Ruins",
+            "騎士たちの遺跡"
+          ],
+          "32": [
+            "The Medieval Knights' Training Ground for Murder",
+            "中世騎士殺人修練場"
+          ],
+          "33": [
+            "Pluck for Tomorrow and the Successor, Part 1",
+            "あしたの勇気・うけ継ぐ者 その①"
+          ],
+          "34": [
+            "Pluck for Tomorrow and the Successor, Part 2",
+            "あしたの勇気・うけ継ぐ者 その②"
+          ],
+          "35": [
+            "Pluck for Tomorrow and the Successor, Part 3",
+            "あしたの勇気・うけ継ぐ者 その③"
+          ],
+          "36": [
+            "The Three from a Faraway Land, Part 1",
+            "遥かな国からの3人 その①"
+          ],
+          "37": [
+            "The Three from a Faraway Land, Part 2",
+            "遥かな国からの3人 その②"
+          ],
+          "38": [
+            "The Three from a Faraway Land, Part 3",
+            "遥かな国からの3人 その③"
+          ],
+          "39": [
+            "Fire and Ice, Jonathan and Dio, Part 1",
+            "炎と氷 ジョナサンとディオ その①"
+          ],
+          "40": [
+            "Fire and Ice, Jonathan and Dio, Part 2",
+            "炎と氷 ジョナサンとディオ その②"
+          ],
+          "41": [
+            "Fire and Ice, Jonathan and Dio, Part 3",
+            "炎と氷 ジョナサンとディオ その③"
+          ],
+          "42": [
+            "Fire and Ice, Jonathan and Dio, Part 4",
+            "炎と氷 ジョナサンとディオ その④"
+          ],
+          "43": [
+            "Fire and Ice, Jonathan and Dio, Part 5",
+            "炎と氷 ジョナサンとディオ その⑤"
+          ],
+          "44": [
+            "Fire and Ice, Jonathan and Dio, Part 6",
+            "炎と氷 ジョナサンとディオ その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_003.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "4": {
+        "title": [
+          "Battle Tendency Volume 1",
+          "Battle Tendency Volume 1"
+        ],
+        "date_release": [
+          "November 3, 2015",
+          "November 3, 2015"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7882-8",
+          "978-1-4215-7882-8"
+        ],
+        "chapters": {
+          "1": [
+            "Joseph Joestar of New York, Part 1",
+            "ニューヨークのジョセフ・ジョースター その①"
+          ],
+          "2": [
+            "Joseph Joestar of New York, Part 2",
+            "ニューヨークのジョセフ・ジョースター その②"
+          ],
+          "3": [
+            "Joseph Joestar of New York, Part 3",
+            "ニューヨークのジョセフ・ジョースター その③"
+          ],
+          "4": [
+            "Straizo vs. Joseph, Part 1",
+            "ストレイツォVSジョセフ その①"
+          ],
+          "5": [
+            "Straizo vs. Joseph, Part 2",
+            "ストレイツォVSジョセフ その②"
+          ],
+          "6": [
+            "Straizo vs. Joseph, Part 3",
+            "ストレイツォVSジョセフ その③"
+          ],
+          "7": [
+            "Straizo vs. Joseph, Part 4",
+            "ストレイツォVSジョセフ その④"
+          ],
+          "8": [
+            "Straizo vs. Joseph, Part 5",
+            "ストレイツォVSジョセフ その⑤"
+          ],
+          "9": [
+            "The Pillar Man",
+            "「柱の男」"
+          ],
+          "10": [
+            "The Pillar Man, Santviento, Part 1",
+            "「柱の男・サンタナ」 その①"
+          ],
+          "11": [
+            "The Pillar Man, Santviento, Part 2",
+            "「柱の男・サンタナ」 その②"
+          ],
+          "12": [
+            "The Pillar Man, Santviento, Part 3",
+            "「柱の男・サンタナ」 その③"
+          ],
+          "13": [
+            "The Pillar Man, Santviento, Part 4",
+            "「柱の男・サンタナ」 その④"
+          ],
+          "14": [
+            "The Pillar Man, Santviento, Part 5",
+            "「柱の男・サンタナ」 その⑤"
+          ],
+          "15": [
+            "The Pillar Man, Santviento, Part 6",
+            "「柱の男・サンタナ」 その⑥"
+          ],
+          "16": [
+            "The Pillar Man, Santviento, Part 7",
+            "「柱の男・サンタナ」 その⑦"
+          ],
+          "17": [
+            "The Pillar Man, Santviento, Part 8",
+            "「柱の男・サンタナ」 その⑧"
+          ],
+          "18": [
+            "The Pillar Man, Santviento, Part 9",
+            "「柱の男・サンタナ」 その⑨"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_004.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "5": {
+        "title": [
+          "Battle Tendency Volume 2",
+          "Battle Tendency Volume 2"
+        ],
+        "date_release": [
+          "February 2, 2016",
+          "February 2, 2016"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7883-5",
+          "978-1-4215-7883-5"
+        ],
+        "chapters": {
+          "19": [
+            "Joseph Joestar of Rome",
+            "ローマのジョセフ・ジョースター"
+          ],
+          "20": [
+            "The Red Stone of Aja",
+            "エイジャの赤石"
+          ],
+          "21": [
+            "Ultimate Warriors from Ancient Times, Part 1",
+            "太古から来た究極戦士 その①"
+          ],
+          "22": [
+            "Ultimate Warriors from Ancient Times, Part 2",
+            "太古から来た究極戦士 その②"
+          ],
+          "23": [
+            "Ultimate Warriors from Ancient Times, Part 3",
+            "太古から来た究極戦士 その③"
+          ],
+          "24": [
+            "Ultimate Warriors from Ancient Times, Part 4",
+            "太古から来た究極戦士 その④"
+          ],
+          "25": [
+            "Ultimate Warriors from Ancient Times, Part 5",
+            "太古から来た究極戦士 その⑤"
+          ],
+          "26": [
+            "An Engagement with Death: The Wedding Ring",
+            "死の契約・結婚指輪"
+          ],
+          "27": [
+            "Hamon Teacher Lisa Lisa, Part 1",
+            "波紋教師 リサリサ その①"
+          ],
+          "28": [
+            "Hamon Teacher Lisa Lisa, Part 2",
+            "波紋教師 リサリサ その②"
+          ],
+          "29": [
+            "Hamon Teacher Lisa Lisa, Part 3",
+            "波紋教師 リサリサ その③"
+          ],
+          "30": [
+            "Hamon Teacher Lisa Lisa, Part 4",
+            "波紋教師 リサリサ その④"
+          ],
+          "31": [
+            "Hamon Teacher Lisa Lisa, Part 5",
+            "波紋教師 リサリサ その⑤"
+          ],
+          "32": [
+            "Hamon Teacher Lisa Lisa, Part 6",
+            "波紋教師 リサリサ その⑥"
+          ],
+          "33": [
+            "Go! Hamon Master",
+            "行け！波紋マスター"
+          ],
+          "34": [
+            "Flame Mode Esidisi, Part 1",
+            "炎・流法 エシディシ その①"
+          ],
+          "35": [
+            "Flame Mode Esidisi, Part 2",
+            "炎・流法 エシディシ その②"
+          ],
+          "36": [
+            "Flame Mode Esidisi, Part 3",
+            "炎・流法 エシディシ その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_005.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "6": {
+        "title": [
+          "Battle Tendency Volume 3",
+          "Battle Tendency Volume 3"
+        ],
+        "date_release": [
+          "May 3, 2016",
+          "May 3, 2016"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7884-2",
+          "978-1-4215-7884-2"
+        ],
+        "chapters": {
+          "37": [
+            "The Remains Lurk, Part 1",
+            "忍びよる残骸 その①"
+          ],
+          "38": [
+            "The Remains Lurk, Part 2",
+            "忍びよる残骸 その②"
+          ],
+          "39": [
+            "Stroheim's Unit Strikes Back, Part 1",
+            "シュトロハイム隊の逆襲 その①"
+          ],
+          "40": [
+            "Stroheim's Unit Strikes Back, Part 2",
+            "シュトロハイム隊の逆襲 その②"
+          ],
+          "41": [
+            "Stroheim's Unit Strikes Back, Part 3",
+            "シュトロハイム隊の逆襲 その③"
+          ],
+          "42": [
+            "Light Mode Kars, Part 1",
+            "光・流法 カーズ その①"
+          ],
+          "43": [
+            "Light Mode Kars, Part 2",
+            "光・流法 カーズ その②"
+          ],
+          "44": [
+            "Caesar: A Lonely Youth, Part 1",
+            "シーザー孤独の青春 その①"
+          ],
+          "45": [
+            "Caesar: A Lonely Youth, Part 2",
+            "シーザー孤独の青春 その②"
+          ],
+          "46": [
+            "Caesar: A Lonely Youth, Part 3",
+            "シーザー孤独の青春 その③"
+          ],
+          "47": [
+            "Caesar: A Lonely Youth, Part 4",
+            "シーザー孤独の青春 その④"
+          ],
+          "48": [
+            "Caesar: A Lonely Youth, Part 5",
+            "シーザー孤独の青春 その⑤"
+          ],
+          "49": [
+            "Caesar: A Lonely Youth, Part 6",
+            "シーザー孤独の青春 その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_006.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "7": {
+        "title": [
+          "Battle Tendency Volume 4",
+          "Battle Tendency Volume 4"
+        ],
+        "date_release": [
+          "August 2, 2016",
+          "August 2, 2016"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-7885-9",
+          "978-1-4215-7885-9"
+        ],
+        "chapters": {
+          "50": [
+            "Climb Out of the Fortified Hotel",
+            "要塞ホテルを登り切れ"
+          ],
+          "51": [
+            "The Wind, the Chariot, and Wamuu, Part 1",
+            "風と戦車とワムウ その①"
+          ],
+          "52": [
+            "The Wind, the Chariot, and Wamuu, Part 2",
+            "風と戦車とワムウ その②"
+          ],
+          "53": [
+            "The Wind, the Chariot, and Wamuu, Part 3",
+            "風と戦車とワムウ その③"
+          ],
+          "54": [
+            "The Wind, the Chariot, and Wamuu, Part 4",
+            "風と戦車とワムウ その④"
+          ],
+          "55": [
+            "The Wind, the Chariot, and Wamuu, Part 5",
+            "風と戦車とワムウ その⑤"
+          ],
+          "56": [
+            "The Wind, the Chariot, and Wamuu, Part 6",
+            "風と戦車とワムウ その⑥"
+          ],
+          "57": [
+            "The Wind, the Chariot, and Wamuu, Part 7",
+            "風と戦車とワムウ その⑦"
+          ],
+          "58": [
+            "The Wind, the Chariot, and Wamuu, Part 8",
+            "風と戦車とワムウ その⑧"
+          ],
+          "59": [
+            "The Wind, the Chariot, and Wamuu, Part 9",
+            "風と戦車とワムウ その⑨"
+          ],
+          "60": [
+            "The Warrior Returns to the Wind",
+            "風に帰る戦士"
+          ],
+          "61": [
+            "The Bond That Binds Lisa Lisa and JoJo, Part 1",
+            "リサリサとジョジョを結ぶ絆 その①"
+          ],
+          "62": [
+            "The Bond That Binds Lisa Lisa and JoJo, Part 2",
+            "リサリサとジョジョを結ぶ絆 その②"
+          ],
+          "63": [
+            "JoJo: The Final Hamon, Part 1",
+            "ジョジョ 最後の波紋 その①"
+          ],
+          "64": [
+            "JoJo: The Final Hamon, Part 2",
+            "ジョジョ 最後の波紋 その②"
+          ],
+          "65": [
+            "Kars the Superbeing is Born, Part 1",
+            "超生物カーズ誕生 その①"
+          ],
+          "66": [
+            "Kars the Superbeing is Born, Part 2",
+            "超生物カーズ誕生 その②"
+          ],
+          "67": [
+            "Joseph's Final Gamble",
+            "ジョセフ最後の賭け"
+          ],
+          "68": [
+            "The Man Who Became a God",
+            "神となった男"
+          ],
+          "69": [
+            "The Man Who Crossed the Atlantic",
+            "大西洋を越えて来た男"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_007.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "8": {
+        "title": [
+          "Stardust Crusaders Volume 1",
+          "Stardust Crusaders Volume 1"
+        ],
+        "date_release": [
+          "November 1, 2016",
+          "November 1, 2016"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9065-3",
+          "978-1-4215-9065-3"
+        ],
+        "chapters": {
+          "1": [
+            "Jotaro Kujo, Part 1",
+            "空条承太郎 その①"
+          ],
+          "2": [
+            "Jotaro Kujo, Part 2",
+            "空条承太郎 その②"
+          ],
+          "3": [
+            "Jotaro Kujo, Part 3",
+            "空条承太郎 その③"
+          ],
+          "4": [
+            "The Man with the Star",
+            "星のアザを持つ男"
+          ],
+          "5": [
+            "Noriaki Kakyoin, Part 1",
+            "花京院典明 その①"
+          ],
+          "6": [
+            "Noriaki Kakyoin, Part 2",
+            "花京院典明 その②"
+          ],
+          "7": [
+            "Noriaki Kakyoin, Part 3",
+            "花京院典明 その③"
+          ],
+          "8": [
+            "The Power Called a \"Stand\"",
+            "「スタンド」という力"
+          ],
+          "9": [
+            "Head to Egypt",
+            "エジプトへ向かえ"
+          ],
+          "10": [
+            "Tower of Gray",
+            "灰の塔"
+          ],
+          "11": [
+            "Silver Chariot, Part 1",
+            "銀の戦車 その①"
+          ],
+          "12": [
+            "Silver Chariot, Part 2",
+            "銀の戦車 その②"
+          ],
+          "13": [
+            "Silver Chariot, Part 3",
+            "銀の戦車 その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_008.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "9": {
+        "title": [
+          "Stardust Crusaders Volume 2",
+          "Stardust Crusaders Volume 2"
+        ],
+        "date_release": [
+          "February 7, 2017",
+          "February 7, 2017"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9157-5",
+          "978-1-4215-9157-5"
+        ],
+        "chapters": {
+          "14": [
+            "Dark Blue Moon, Part 1",
+            "暗青の月 その①"
+          ],
+          "15": [
+            "Dark Blue Moon, Part 2",
+            "暗青の月 その②"
+          ],
+          "16": [
+            "Dark Blue Moon, Part 3",
+            "暗青の月 その③"
+          ],
+          "17": [
+            "Strength, Part 1",
+            "力 その①"
+          ],
+          "18": [
+            "Strength, Part 2",
+            "力 その②"
+          ],
+          "19": [
+            "Strength, Part 3",
+            "力 その③"
+          ],
+          "20": [
+            "The Devil, Part 1",
+            "悪魔 その①"
+          ],
+          "21": [
+            "The Devil, Part 2",
+            "悪魔 その②"
+          ],
+          "22": [
+            "The Devil, Part 3",
+            "悪魔 その③"
+          ],
+          "23": [
+            "Yellow Temperance, Part 1",
+            "黄の節制 その①"
+          ],
+          "24": [
+            "Yellow Temperance, Part 2",
+            "黄の節制 その②"
+          ],
+          "25": [
+            "Yellow Temperance, Part 3",
+            "黄の節制 その③"
+          ],
+          "26": [
+            "Yellow Temperance, Part 4",
+            "黄の節制 その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_009.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "10": {
+        "title": [
+          "Stardust Crusaders Volume 3",
+          "Stardust Crusaders Volume 3"
+        ],
+        "date_release": [
+          "May 2, 2017",
+          "May 2, 2017"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9169-8",
+          "978-1-4215-9169-8"
+        ],
+        "chapters": {
+          "27": [
+            "The Emperor and the Hanged Man, Part 1",
+            "皇帝と吊られた男 その①"
+          ],
+          "28": [
+            "The Emperor and the Hanged Man, Part 2",
+            "皇帝と吊られた男 その②"
+          ],
+          "29": [
+            "The Emperor and the Hanged Man, Part 3",
+            "皇帝と吊られた男 その③"
+          ],
+          "30": [
+            "The Emperor and the Hanged Man, Part 4",
+            "皇帝と吊られた男 その④"
+          ],
+          "31": [
+            "The Emperor and the Hanged Man, Part 5",
+            "皇帝と吊られた男 その⑤"
+          ],
+          "32": [
+            "The Emperor and the Hanged Man, Part 6",
+            "皇帝と吊られた男 その⑥"
+          ],
+          "33": [
+            "The Empress, Part 1",
+            "女帝 その①"
+          ],
+          "34": [
+            "The Empress, Part 2",
+            "女帝 その②"
+          ],
+          "35": [
+            "The Empress, Part 3",
+            "女帝 その③"
+          ],
+          "36": [
+            "The Empress, Part 4",
+            "女帝 その④"
+          ],
+          "37": [
+            "Wheel of Fortune, Part 1",
+            "運命の車輪 その①"
+          ],
+          "38": [
+            "Wheel of Fortune, Part 2",
+            "運命の車輪 その②"
+          ],
+          "39": [
+            "Wheel of Fortune, Part 3",
+            "運命の車輪 その③"
+          ],
+          "40": [
+            "Wheel of Fortune, Part 4",
+            "運命の車輪 その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_010.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "11": {
+        "title": [
+          "Stardust Crusaders Volume 4",
+          "Stardust Crusaders Volume 4"
+        ],
+        "date_release": [
+          "August 1, 2017",
+          "August 1, 2017"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9170-4",
+          "978-1-4215-9170-4"
+        ],
+        "chapters": {
+          "41": [
+            "Justice, Part 1",
+            "正義 その①"
+          ],
+          "42": [
+            "Justice, Part 2",
+            "正義 その②"
+          ],
+          "43": [
+            "Justice, Part 3",
+            "正義 その③"
+          ],
+          "44": [
+            "Justice, Part 4",
+            "正義 その④"
+          ],
+          "45": [
+            "Justice, Part 5",
+            "正義 その⑤"
+          ],
+          "46": [
+            "Justice, Part 6",
+            "正義 その⑥"
+          ],
+          "47": [
+            "The Lovers, Part 1",
+            "恋人 その①"
+          ],
+          "48": [
+            "The Lovers, Part 2",
+            "恋人 その②"
+          ],
+          "49": [
+            "The Lovers, Part 3",
+            "恋人 その③"
+          ],
+          "50": [
+            "The Lovers, Part 4",
+            "恋人 その④"
+          ],
+          "51": [
+            "The Lovers, Part 5",
+            "恋人 その⑤"
+          ],
+          "52": [
+            "The Lovers, Part 6",
+            "恋人 その⑥"
+          ],
+          "53": [
+            "The Sun, Part 1",
+            "太陽 その①"
+          ],
+          "54": [
+            "The Sun, Part 2",
+            "太陽 その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_011.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "12": {
+        "title": [
+          "Stardust Crusaders Volume 5",
+          "Stardust Crusaders Volume 5"
+        ],
+        "date_release": [
+          "November 7, 2017",
+          "November 7, 2017"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9171-1",
+          "978-1-4215-9171-1"
+        ],
+        "chapters": {
+          "55": [
+            "Death 13, Part 1",
+            "死神13 その①"
+          ],
+          "56": [
+            "Death 13, Part 2",
+            "死神13 その②"
+          ],
+          "57": [
+            "Death 13, Part 3",
+            "死神13 その③"
+          ],
+          "58": [
+            "Death 13, Part 4",
+            "死神13 その④"
+          ],
+          "59": [
+            "Death 13, Part 5",
+            "死神13 その⑤"
+          ],
+          "60": [
+            "Death 13, Part 6",
+            "死神13 その⑥"
+          ],
+          "61": [
+            "Judgement, Part 1",
+            "審判 その①"
+          ],
+          "62": [
+            "Judgement, Part 2",
+            "審判 その②"
+          ],
+          "63": [
+            "Judgement, Part 3",
+            "審判 その③"
+          ],
+          "64": [
+            "Judgement, Part 4",
+            "審判 その④"
+          ],
+          "65": [
+            "Judgement, Part 5",
+            "審判 その⑤"
+          ],
+          "66": [
+            "The High Priestess, Part 1",
+            "女教皇 その①"
+          ],
+          "67": [
+            "The High Priestess, Part 2",
+            "女教皇 その②"
+          ],
+          "68": [
+            "The High Priestess, Part 3",
+            "女教皇 その③"
+          ],
+          "69": [
+            "The High Priestess, Part 4",
+            "女教皇 その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_012.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "13": {
+        "title": [
+          "Stardust Crusaders Volume 6",
+          "Stardust Crusaders Volume 6"
+        ],
+        "date_release": [
+          "February 6, 2018",
+          "February 6, 2018"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9172-8",
+          "978-1-4215-9172-8"
+        ],
+        "chapters": {
+          "70": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 1",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その①"
+          ],
+          "71": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 2",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その②"
+          ],
+          "72": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 3",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その③"
+          ],
+          "73": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 4",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その④"
+          ],
+          "74": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 5",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その⑤"
+          ],
+          "75": [
+            "Iggy \"The Fool\" and \"Geb\" N'doul, Part 6",
+            "「愚者」のイギーと「ゲブ神」のンドゥール その⑥"
+          ],
+          "76": [
+            "\"Khnum\" Oingo and \"Thoth\" Boingo, Part 1",
+            "「クヌム神」のオインゴ「トト神」のボインゴ その①"
+          ],
+          "77": [
+            "\"Khnum\" Oingo and \"Thoth\" Boingo, Part 2",
+            "「クヌム神」のオインゴ「トト神」のボインゴ その②"
+          ],
+          "78": [
+            "\"Khnum\" Oingo and \"Thoth\" Boingo, Part 3",
+            "「クヌム神」のオインゴ「トト神」のボインゴ その③"
+          ],
+          "79": [
+            "\"Khnum\" Oingo and \"Thoth\" Boingo, Part 4",
+            "「クヌム神」のオインゴ「トト神」のボインゴ その④"
+          ],
+          "80": [
+            "Anubis, Part 1",
+            "「アヌビス神」 その①"
+          ],
+          "81": [
+            "Anubis, Part 2",
+            "「アヌビス神」 その②"
+          ],
+          "82": [
+            "Anubis, Part 3",
+            "「アヌビス神」 その③"
+          ],
+          "83": [
+            "Anubis, Part 4",
+            "「アヌビス神」 その④"
+          ],
+          "84": [
+            "Anubis, Part 5",
+            "「アヌビス神」 その⑤"
+          ],
+          "85": [
+            "Anubis, Part 6",
+            "「アヌビス神」 その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_013.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "14": {
+        "title": [
+          "Stardust Crusaders Volume 7",
+          "Stardust Crusaders Volume 7"
+        ],
+        "date_release": [
+          "May 1, 2018",
+          "May 1, 2018"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9173-5",
+          "978-1-4215-9173-5"
+        ],
+        "chapters": {
+          "86": [
+            "\"Bast\" Mariah, Part 1",
+            "「バステト女神」のマライア その①"
+          ],
+          "87": [
+            "\"Bast\" Mariah, Part 2",
+            "「バステト女神」のマライア その②"
+          ],
+          "88": [
+            "\"Bast\" Mariah, Part 3",
+            "「バステト女神」のマライア その③"
+          ],
+          "89": [
+            "\"Bast\" Mariah, Part 4",
+            "「バステト女神」のマライア その④"
+          ],
+          "90": [
+            "\"Bast\" Mariah, Part 5",
+            "「バステト女神」のマライア その⑤"
+          ],
+          "91": [
+            "\"Bast\" Mariah, Part 6",
+            "「バステト女神」のマライア その⑥"
+          ],
+          "92": [
+            "\"Set\" Alessi, Part 1",
+            "「セト神」のアレッシー その①"
+          ],
+          "93": [
+            "\"Set\" Alessi, Part 2",
+            "「セト神」のアレッシー その②"
+          ],
+          "94": [
+            "\"Set\" Alessi, Part 3",
+            "「セト神」のアレッシー その③"
+          ],
+          "95": [
+            "\"Set\" Alessi, Part 4",
+            "「セト神」のアレッシー その④"
+          ],
+          "96": [
+            "\"Set\" Alessi, Part 5",
+            "「セト神」のアレッシー その⑤"
+          ],
+          "97": [
+            "The Man Who Shot DIO",
+            "DIOを撃つ!?"
+          ],
+          "98": [
+            "D'Arby the Gambler, Part 1",
+            "ダービー・ザ・ギャンブラー その①"
+          ],
+          "99": [
+            "D'Arby the Gambler, Part 2",
+            "ダービー・ザ・ギャンブラー その②"
+          ],
+          "100": [
+            "D'Arby the Gambler, Part 3",
+            "ダービー・ザ・ギャンブラー その③"
+          ],
+          "101": [
+            "D'Arby the Gambler, Part 4",
+            "ダービー・ザ・ギャンブラー その④"
+          ],
+          "102": [
+            "D'Arby the Gambler, Part 5",
+            "ダービー・ザ・ギャンブラー その⑤"
+          ],
+          "103": [
+            "D'Arby the Gambler, Part 6",
+            "ダービー・ザ・ギャンブラー その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_014.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "15": {
+        "title": [
+          "Stardust Crusaders Volume 8",
+          "Stardust Crusaders Volume 8"
+        ],
+        "date_release": [
+          "August 7, 2018",
+          "August 7, 2018"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9174-2",
+          "978-1-4215-9174-2"
+        ],
+        "chapters": {
+          "104": [
+            "Hol Horse and Boingo, Part 1",
+            "ホル・ホースとボインゴ その①"
+          ],
+          "105": [
+            "Hol Horse and Boingo, Part 2",
+            "ホル・ホースとボインゴ その②"
+          ],
+          "106": [
+            "Hol Horse and Boingo, Part 3",
+            "ホル・ホースとボインゴ その③"
+          ],
+          "107": [
+            "Hol Horse and Boingo, Part 4",
+            "ホル・ホースとボインゴ その④"
+          ],
+          "108": [
+            "Hol Horse and Boingo, Part 5",
+            "ホル・ホースとボインゴ その⑤"
+          ],
+          "109": [
+            "Pet Shop, the Gatekeeper of Hell, Part 1",
+            "地獄の門番ペット・ショップ その①"
+          ],
+          "110": [
+            "Pet Shop, the Gatekeeper of Hell, Part 2",
+            "地獄の門番ペット・ショップ その②"
+          ],
+          "111": [
+            "Pet Shop, the Gatekeeper of Hell, Part 3",
+            "地獄の門番ペット・ショップ その③"
+          ],
+          "112": [
+            "Pet Shop, the Gatekeeper of Hell, Part 4",
+            "地獄の門番ペット・ショップ その④"
+          ],
+          "113": [
+            "Pet Shop, the Gatekeeper of Hell, Part 5",
+            "地獄の門番ペット・ショップ その⑤"
+          ],
+          "114": [
+            "D'Arby the Player, Part 1",
+            "ダービー・ザ・プレイヤー その①"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_015.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "16": {
+        "title": [
+          "Stardust Crusaders Volume 9",
+          "Stardust Crusaders Volume 9"
+        ],
+        "date_release": [
+          "November 6, 2018",
+          "November 6, 2018"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9175-9",
+          "978-1-4215-9175-9"
+        ],
+        "chapters": {
+          "115": [
+            "D'Arby the Player, Part 2",
+            "ダービー・ザ・プレイヤー その②"
+          ],
+          "116": [
+            "D'Arby the Player, Part 3",
+            "ダービー・ザ・プレイヤー その③"
+          ],
+          "117": [
+            "D'Arby the Player, Part 4",
+            "ダービー・ザ・プレイヤー その④"
+          ],
+          "118": [
+            "D'Arby the Player, Part 5",
+            "ダービー・ザ・プレイヤー その⑤"
+          ],
+          "119": [
+            "D'Arby the Player, Part 6",
+            "ダービー・ザ・プレイヤー その⑥"
+          ],
+          "120": [
+            "D'Arby the Player, Part 7",
+            "ダービー・ザ・プレイヤー その⑦"
+          ],
+          "121": [
+            "D'Arby the Player, Part 8",
+            "ダービー・ザ・プレイヤー その⑧"
+          ],
+          "122": [
+            "D'Arby the Player, Part 9",
+            "ダービー・ザ・プレイヤー その⑨"
+          ],
+          "123": [
+            "D'Arby the Player, Part 10",
+            "ダービー・ザ・プレイヤー その⑩"
+          ],
+          "124": [
+            "D'Arby the Player, Part 11",
+            "ダービー・ザ・プレイヤー その⑪"
+          ],
+          "125": [
+            "The Dark Void of Cool Ice, Part 1",
+            "亜空の瘴気 ヴァニラ・アイス その①"
+          ],
+          "126": [
+            "The Dark Void of Cool Ice, Part 2",
+            "亜空の瘴気 ヴァニラ・アイス その②"
+          ],
+          "127": [
+            "The Dark Void of Cool Ice, Part 3",
+            "亜空の瘴気 ヴァニラ・アイス その③"
+          ],
+          "128": [
+            "The Dark Void of Cool Ice, Part 4",
+            "亜空の瘴気 ヴァニラ・アイス その④"
+          ],
+          "129": [
+            "The Dark Void of Cool Ice, Part 5",
+            "亜空の瘴気 ヴァニラ・アイス その⑤"
+          ],
+          "130": [
+            "The Dark Void of Cool Ice, Part 6",
+            "亜空の瘴気 ヴァニラ・アイス その⑥"
+          ],
+          "131": [
+            "The Dark Void of Cool Ice, Part 7",
+            "亜空の瘴気 ヴァニラ・アイス その⑦"
+          ],
+          "132": [
+            "The Dark Void of Cool Ice, Part 8",
+            "亜空の瘴気 ヴァニラ・アイス その⑧"
+          ],
+          "133": [
+            "Suzie Q Joestar Visits Her Daughter",
+            "スージー・Q・ジョスター 娘に会いにくる"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_016.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "17": {
+        "title": [
+          "Stardust Crusaders Volume 10",
+          "Stardust Crusaders Volume 10"
+        ],
+        "date_release": [
+          "February 5, 2019",
+          "February 5, 2019"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-4215-9176-6",
+          "978-1-4215-9176-6"
+        ],
+        "chapters": {
+          "134": [
+            "DIO's World, Part 1",
+            "DIOの世界 その①"
+          ],
+          "135": [
+            "DIO's World, Part 2",
+            "DIOの世界 その②"
+          ],
+          "136": [
+            "DIO's World, Part 3",
+            "DIOの世界 その③"
+          ],
+          "137": [
+            "DIO's World, Part 4",
+            "DIOの世界 その④"
+          ],
+          "138": [
+            "DIO's World, Part 5",
+            "DIOの世界 その⑤"
+          ],
+          "139": [
+            "DIO's World, Part 6",
+            "DIOの世界 その⑥"
+          ],
+          "140": [
+            "DIO's World, Part 7",
+            "DIOの世界 その⑦"
+          ],
+          "141": [
+            "DIO's World, Part 8",
+            "DIOの世界 その⑧"
+          ],
+          "142": [
+            "DIO's World, Part 9",
+            "DIOの世界 その⑨"
+          ],
+          "143": [
+            "DIO's World, Part 10",
+            "DIOの世界 その⑩"
+          ],
+          "144": [
+            "DIO's World, Part 11",
+            "DIOの世界 その⑪"
+          ],
+          "145": [
+            "DIO's World, Part 12",
+            "DIOの世界 その⑫"
+          ],
+          "146": [
+            "DIO's World, Part 13",
+            "DIOの世界 その⑬"
+          ],
+          "147": [
+            "DIO's World, Part 14",
+            "DIOの世界 その⑭"
+          ],
+          "148": [
+            "DIO's World, Part 15",
+            "DIOの世界 その⑮"
+          ],
+          "149": [
+            "DIO's World, Part 16",
+            "DIOの世界 その⑯"
+          ],
+          "150": [
+            "DIO's World, Part 17",
+            "DIOの世界 その⑰"
+          ],
+          "151": [
+            "DIO's World, Part 18",
+            "DIOの世界 その⑱"
+          ],
+          "152": [
+            "The Faraway Journey, Farewell Friends",
+            "遥かなる旅路 さらば友よ"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_017.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "18": {
+        "title": [
+          "Diamond Is Unbreakable Volume 1",
+          "Diamond Is Unbreakable Volume 1"
+        ],
+        "date_release": [
+          "May 7, 2019",
+          "May 7, 2019"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0652-5",
+          "978-1-9747-0652-5"
+        ],
+        "chapters": {
+          "1": [
+            "Jotaro Kujo Meets Josuke Higashikata, Part 1",
+            "空条承太郎! 東方仗助に会う その①"
+          ],
+          "2": [
+            "Jotaro Kujo Meets Josuke Higashikata, Part 2",
+            "空条承太郎! 東方仗助に会う その②"
+          ],
+          "3": [
+            "Jotaro Kujo Meets Josuke Higashikata, Part 3",
+            "空条承太郎! 東方仗助に会う その③"
+          ],
+          "4": [
+            "Josuke Higashikata Meets Angelo, Part 1",
+            "東方仗助！アンジェロに会う その①"
+          ],
+          "5": [
+            "Josuke Higashikata Meets Angelo, Part 2",
+            "東方仗助！アンジェロに会う その②"
+          ],
+          "6": [
+            "Josuke Higashikata Meets Angelo, Part 3",
+            "東方仗助！アンジェロに会う その③"
+          ],
+          "7": [
+            "Josuke Higashikata Meets Angelo, Part 4",
+            "東方仗助！アンジェロに会う その④"
+          ],
+          "8": [
+            "Josuke Higashikata Meets Angelo, Part 5",
+            "東方仗助！アンジェロに会う その⑤"
+          ],
+          "9": [
+            "The Nijimura Brothers, Part 1",
+            "虹村兄弟 その①"
+          ],
+          "10": [
+            "The Nijimura Brothers, Part 2",
+            "虹村兄弟 その②"
+          ],
+          "11": [
+            "The Nijimura Brothers, Part 3",
+            "虹村兄弟 その③"
+          ],
+          "12": [
+            "The Nijimura Brothers, Part 4",
+            "虹村兄弟 その④"
+          ],
+          "13": [
+            "The Nijimura Brothers, Part 5",
+            "虹村兄弟 その⑤"
+          ],
+          "14": [
+            "The Nijimura Brothers, Part 6",
+            "虹村兄弟 その⑥"
+          ],
+          "15": [
+            "The Nijimura Brothers, Part 7",
+            "虹村兄弟 その⑦"
+          ],
+          "16": [
+            "The Nijimura Brothers, Part 8",
+            "虹村兄弟 その⑧"
+          ],
+          "17": [
+            "The Nijimura Brothers, Part 9",
+            "虹村兄弟 その⑨"
+          ],
+          "18": [
+            "The Nijimura Brothers, Part 10",
+            "虹村兄弟 その⑩"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_018.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "19": {
+        "title": [
+          "Diamond Is Unbreakable Volume 2",
+          "Diamond Is Unbreakable Volume 2"
+        ],
+        "date_release": [
+          "August 6, 2019",
+          "August 6, 2019"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0808-6",
+          "978-1-9747-0808-6"
+        ],
+        "chapters": {
+          "19": [
+            "Koichi Hirose (Reverb), Part 1",
+            "広瀬康一(エコーズ) その①"
+          ],
+          "20": [
+            "Koichi Hirose (Reverb), Part 2",
+            "広瀬康一(エコーズ) その②"
+          ],
+          "21": [
+            "Koichi Hirose (Reverb), Part 3",
+            "広瀬康一(エコーズ) その③"
+          ],
+          "22": [
+            "Koichi Hirose (Reverb), Part 4",
+            "広瀬康一(エコーズ) その④"
+          ],
+          "23": [
+            "Koichi Hirose (Reverb), Part 5",
+            "広瀬康一(エコーズ) その⑤"
+          ],
+          "24": [
+            "Toshikazu Hazamada (Show Off), Part 1",
+            "間田敏和(サーフィス) その①"
+          ],
+          "25": [
+            "Toshikazu Hazamada (Show Off), Part 2",
+            "間田敏和(サーフィス) その②"
+          ],
+          "26": [
+            "Toshikazu Hazamada (Show Off), Part 3",
+            "間田敏和(サーフィス) その③"
+          ],
+          "27": [
+            "Toshikazu Hazamada (Show Off), Part 4",
+            "間田敏和(サーフィス) その④"
+          ],
+          "28": [
+            "Toshikazu Hazamada (Show Off), Part 5",
+            "間田敏和(サーフィス) その⑤"
+          ],
+          "29": [
+            "Yukako Yamagishi Falls In Love, Part 1",
+            "山岸由花子は恋をする その①"
+          ],
+          "30": [
+            "Yukako Yamagishi Falls In Love, Part 2",
+            "山岸由花子は恋をする その②"
+          ],
+          "31": [
+            "Yukako Yamagishi Falls In Love, Part 3",
+            "山岸由花子は恋をする その③"
+          ],
+          "32": [
+            "Yukako Yamagishi Falls In Love, Part 4",
+            "山岸由花子は恋をする その④"
+          ],
+          "33": [
+            "Yukako Yamagishi Falls In Love, Part 5",
+            "山岸由花子は恋をする その⑤"
+          ],
+          "34": [
+            "Yukako Yamagishi Falls In Love, Part 6",
+            "山岸由花子は恋をする その⑥"
+          ],
+          "35": [
+            "Yukako Yamagishi Falls In Love, Part 7",
+            "山岸由花子は恋をする その⑦"
+          ],
+          "36": [
+            "Yukako Yamagishi Falls In Love, Part 8",
+            "山岸由花子は恋をする その⑧"
+          ],
+          "37": [
+            "Yukako Yamagishi Falls In Love, Part 9",
+            "山岸由花子は恋をする その⑨"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_019.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "20": {
+        "title": [
+          "Diamond Is Unbreakable Volume 3",
+          "Diamond Is Unbreakable Volume 3"
+        ],
+        "date_release": [
+          "November 5, 2019",
+          "November 5, 2019"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0809-3",
+          "978-1-9747-0809-3"
+        ],
+        "chapters": {
+          "38": [
+            "Let's Go Eat Some Italian Food, Part 1",
+            "イタリア料理を食べに行こう その①"
+          ],
+          "39": [
+            "Let's Go Eat Some Italian Food, Part 2",
+            "イタリア料理を食べに行こう その②"
+          ],
+          "40": [
+            "Let's Go Eat Some Italian Food, Part 3",
+            "イタリア料理を食べに行こう その③"
+          ],
+          "41": [
+            "Let's Go Eat Some Italian Food, Part 4",
+            "イタリア料理を食べに行こう その④"
+          ],
+          "42": [
+            "Chili Pepper, Part 1",
+            "レッド・ホット・チリ・ペッパー その①"
+          ],
+          "43": [
+            "Chili Pepper, Part 2",
+            "レッド・ホット・チリ・ペッパー その②"
+          ],
+          "44": [
+            "Chili Pepper, Part 3",
+            "レッド・ホット・チリ・ペッパー その③"
+          ],
+          "45": [
+            "Chili Pepper, Part 4",
+            "レッド・ホット・チリ・ペッパー その④"
+          ],
+          "46": [
+            "Chili Pepper, Part 5",
+            "レッド・ホット・チリ・ペッパー その⑤"
+          ],
+          "47": [
+            "Chili Pepper, Part 6",
+            "レッド・ホット・チリ・ペッパー その⑥"
+          ],
+          "48": [
+            "Chili Pepper, Part 7",
+            "レッド・ホット・チリ・ペッパー その⑦"
+          ],
+          "49": [
+            "Chili Pepper, Part 8",
+            "レッド・ホット・チリ・ペッパー その⑧"
+          ],
+          "50": [
+            "We Picked Up Something Crazy!, Part 1",
+            "やばいものを拾ったっス！ その①"
+          ],
+          "51": [
+            "We Picked Up Something Crazy!, Part 2",
+            "やばいものを拾ったっス！ その②"
+          ],
+          "52": [
+            "We Picked Up Something Crazy!, Part 3",
+            "やばいものを拾ったっス！ その③"
+          ],
+          "53": [
+            "Let's Go to the Manga Artist's House, Part 1",
+            "漫画家のうちへ遊びに行こう その①"
+          ],
+          "54": [
+            "Let's Go to the Manga Artist's House, Part 2",
+            "漫画家のうちへ遊びに行こう その②"
+          ],
+          "55": [
+            "Let's Go to the Manga Artist's House, Part 3",
+            "漫画家のうちへ遊びに行こう その③"
+          ],
+          "56": [
+            "Let's Go to the Manga Artist's House, Part 4",
+            "漫画家のうちへ遊びに行こう その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_020.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "21": {
+        "title": [
+          "Diamond Is Unbreakable Volume 4",
+          "Diamond Is Unbreakable Volume 4"
+        ],
+        "date_release": [
+          "February 4, 2020",
+          "February 4, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0810-9",
+          "978-1-9747-0810-9"
+        ],
+        "chapters": {
+          "57": [
+            "Let's Go to the Manga Artist's House, Part 5",
+            "漫画家のうちへ遊びに行こう その⑤"
+          ],
+          "58": [
+            "Let's Go to the Manga Artist's House, Part 6",
+            "漫画家のうちへ遊びに行こう その⑥"
+          ],
+          "59": [
+            "Let's Go to the Manga Artist's House, Part 7",
+            "漫画家のうちへ遊びに行こう その⑦"
+          ],
+          "60": [
+            "Let's Go Hunting!, Part 1",
+            "「狩り」に行こう！ その①"
+          ],
+          "61": [
+            "Let's Go Hunting!, Part 2",
+            "「狩り」に行こう！ その②"
+          ],
+          "62": [
+            "Let's Go Hunting!, Part 3",
+            "「狩り」に行こう！ その③"
+          ],
+          "63": [
+            "Let's Go Hunting!, Part 4",
+            "「狩り」に行こう！ その④"
+          ],
+          "64": [
+            "Let's Go Hunting!, Part 5",
+            "「狩り」に行こう！ その⑤"
+          ],
+          "65": [
+            "Rohan Kishibe's Adventure, Part 1",
+            "岸辺露伴の冒険 その①"
+          ],
+          "66": [
+            "Rohan Kishibe's Adventure, Part 2",
+            "岸辺露伴の冒険 その②"
+          ],
+          "67": [
+            "Rohan Kishibe's Adventure, Part 3",
+            "岸辺露伴の冒険 その③"
+          ],
+          "68": [
+            "Rohan Kishibe's Adventure, Part 4",
+            "岸辺露伴の冒険 その④"
+          ],
+          "69": [
+            "Rohan Kishibe's Adventure, Part 5",
+            "岸辺露伴の冒険 その⑤"
+          ],
+          "70": [
+            "Shigechi's Harvest, Part 1",
+            "「重ちー」の収穫 その①"
+          ],
+          "71": [
+            "Shigechi's Harvest, Part 2",
+            "「重ちー」の収穫 その②"
+          ],
+          "72": [
+            "Shigechi's Harvest, Part 3",
+            "「重ちー」の収穫 その③"
+          ],
+          "73": [
+            "Shigechi's Harvest, Part 4",
+            "「重ちー」の収穫 その④"
+          ],
+          "74": [
+            "Shigechi's Harvest, Part 5",
+            "「重ちー」の収穫 その⑤"
+          ],
+          "75": [
+            "Shigechi's Harvest, Part 6",
+            "「重ちー」の収穫 その⑥"
+          ],
+          "76": [
+            "Shigechi's Harvest, Part 7",
+            "「重ちー」の収穫 その⑦"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_021.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "22": {
+        "title": [
+          "Diamond Is Unbreakable Volume 5",
+          "Diamond Is Unbreakable Volume 5"
+        ],
+        "date_release": [
+          "May 5, 2020",
+          "May 5, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0811-6",
+          "978-1-9747-0811-6"
+        ],
+        "chapters": {
+          "77": [
+            "Yoshikage Kira Wants to Live Quietly, Part 1",
+            "吉良吉影は静かに暮らしたい その①"
+          ],
+          "78": [
+            "Yoshikage Kira Wants to Live Quietly, Part 2",
+            "吉良吉影は静かに暮らしたい その②"
+          ],
+          "79": [
+            "Yoshikage Kira Wants to Live Quietly, Part 3",
+            "吉良吉影は静かに暮らしたい その③"
+          ],
+          "80": [
+            "Yoshikage Kira Wants to Live Quietly, Part 4",
+            "吉良吉影は静かに暮らしたい その④"
+          ],
+          "81": [
+            "Yoshikage Kira Wants to Live Quietly, Part 5",
+            "吉良吉影は静かに暮らしたい その⑤"
+          ],
+          "82": [
+            "The People of Morioh",
+            "杜王町の人々"
+          ],
+          "83": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 1",
+            "山岸由花子はシンデレラに憧れる その①"
+          ],
+          "84": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 2",
+            "山岸由花子はシンデレラに憧れる その②"
+          ],
+          "85": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 3",
+            "山岸由花子はシンデレラに憧れる その③"
+          ],
+          "86": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 4",
+            "山岸由花子はシンデレラに憧れる その④"
+          ],
+          "87": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 5",
+            "山岸由花子はシンデレラに憧れる その⑤"
+          ],
+          "88": [
+            "Yukako Yamagishi Dreams of Cinderella, Part 6",
+            "山岸由花子はシンデレラに憧れる その⑥"
+          ],
+          "89": [
+            "Heart Attack, Part 1",
+            "シアーハートアタック その①"
+          ],
+          "90": [
+            "Heart Attack, Part 2",
+            "シアーハートアタック その②"
+          ],
+          "91": [
+            "Heart Attack, Part 3",
+            "シアーハートアタック その③"
+          ],
+          "92": [
+            "Heart Attack, Part 4",
+            "シアーハートアタック その④"
+          ],
+          "93": [
+            "Heart Attack, Part 5",
+            "シアーハートアタック その⑤"
+          ],
+          "94": [
+            "Heart Attack, Part 6",
+            "シアーハートアタック その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_022.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "23": {
+        "title": [
+          "Diamond Is Unbreakable Volume 6",
+          "Diamond Is Unbreakable Volume 6"
+        ],
+        "date_release": [
+          "August 4, 2020",
+          "August 4, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0812-3",
+          "978-1-9747-0812-3"
+        ],
+        "chapters": {
+          "95": [
+            "Heart Attack, Part 7",
+            "シアーハートアタック その⑦"
+          ],
+          "96": [
+            "Heart Attack, Part 8",
+            "シアーハートアタック その⑧"
+          ],
+          "97": [
+            "Heart Attack, Part 9",
+            "シアーハートアタック その⑨"
+          ],
+          "98": [
+            "Heart Attack, Part 10",
+            "シアーハートアタック その⑩"
+          ],
+          "99": [
+            "Heart Attack, Part 11",
+            "シアーハートアタック その⑪"
+          ],
+          "100": [
+            "Heart Father, Part 1",
+            "アトム・ハート・ファーザー その①"
+          ],
+          "101": [
+            "Heart Father, Part 2",
+            "アトム・ハート・ファーザー その②"
+          ],
+          "102": [
+            "Heart Father, Part 3",
+            "アトム・ハート・ファーザー その③"
+          ],
+          "103": [
+            "Heart Father, Part 4",
+            "アトム・ハート・ファーザー その④"
+          ],
+          "104": [
+            "Heart Father, Part 5",
+            "アトム・ハート・ファーザー その⑤"
+          ],
+          "105": [
+            "Yoshikage Kira's New Life, Part 1",
+            "吉良吉影の新しい事情 その①"
+          ],
+          "106": [
+            "Rosham Boy Is Here!, Part 1",
+            "ジャンケン小僧がやって来る！ その①"
+          ],
+          "107": [
+            "Rosham Boy Is Here!, Part 2",
+            "ジャンケン小僧がやって来る！ その②"
+          ],
+          "108": [
+            "Rosham Boy Is Here!, Part 3",
+            "ジャンケン小僧がやって来る！ その③"
+          ],
+          "109": [
+            "Rosham Boy Is Here!, Part 4",
+            "ジャンケン小僧がやって来る！ その④"
+          ],
+          "110": [
+            "Rosham Boy Is Here!, Part 5",
+            "ジャンケン小僧がやって来る！ その⑤"
+          ],
+          "111": [
+            "Rosham Boy Is Here!, Part 6",
+            "ジャンケン小僧がやって来る！ その⑥"
+          ],
+          "112": [
+            "Yoshikage Kira's New Life, Part 2",
+            "吉良吉影の新しい事情 その②"
+          ],
+          "113": [
+            "I Am An Alien, Part 1",
+            "ぼくは宇宙人 その①"
+          ],
+          "114": [
+            "I Am An Alien, Part 2",
+            "ぼくは宇宙人 その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_023.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "24": {
+        "title": [
+          "Diamond Is Unbreakable Volume 7",
+          "Diamond Is Unbreakable Volume 7"
+        ],
+        "date_release": [
+          "November 3, 2020",
+          "November 3, 2020"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0813-0",
+          "978-1-9747-0813-0"
+        ],
+        "chapters": {
+          "115": [
+            "I Am An Alien, Part 3",
+            "ぼくは宇宙人 その③"
+          ],
+          "116": [
+            "I Am An Alien, Part 4",
+            "ぼくは宇宙人 その④"
+          ],
+          "117": [
+            "I Am An Alien, Part 5",
+            "ぼくは宇宙人 その⑤"
+          ],
+          "118": [
+            "I Am An Alien, Part 6",
+            "ぼくは宇宙人 その⑥"
+          ],
+          "119": [
+            "Highway Go Go, Part 1",
+            "ハイウェイ・スター その①"
+          ],
+          "120": [
+            "Highway Go Go, Part 2",
+            "ハイウェイ・スター その②"
+          ],
+          "121": [
+            "Highway Go Go, Part 3",
+            "ハイウェイ・スター その③"
+          ],
+          "122": [
+            "Highway Go Go, Part 4",
+            "ハイウェイ・スター その④"
+          ],
+          "123": [
+            "Highway Go Go, Part 5",
+            "ハイウェイ・スター その⑤"
+          ],
+          "124": [
+            "Highway Go Go, Part 6",
+            "ハイウェイ・スター その⑥"
+          ],
+          "125": [
+            "Highway Go Go, Part 7",
+            "ハイウェイ・スター その⑦"
+          ],
+          "126": [
+            "Highway Go Go, Part 8",
+            "ハイウェイ・スター その⑧"
+          ],
+          "127": [
+            "Cats Love Yoshikage Kira, Part 1",
+            "猫は吉良吉影が好き その①"
+          ],
+          "128": [
+            "Cats Love Yoshikage Kira, Part 2",
+            "猫は吉良吉影が好き その②"
+          ],
+          "129": [
+            "Cats Love Yoshikage Kira, Part 3",
+            "猫は吉良吉影が好き その③"
+          ],
+          "130": [
+            "Cats Love Yoshikage Kira, Part 4",
+            "猫は吉良吉影が好き その④"
+          ],
+          "131": [
+            "Cats Love Yoshikage Kira, Part 5",
+            "猫は吉良吉影が好き その⑤"
+          ],
+          "132": [
+            "Cats Love Yoshikage Kira, Part 6",
+            "猫は吉良吉影が好き その⑥"
+          ],
+          "133": [
+            "Let's Live on a Transmission Tower, Part 1",
+            "鉄塔に住もう その①"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_024.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "25": {
+        "title": [
+          "Diamond Is Unbreakable Volume 8",
+          "Diamond Is Unbreakable Volume 8"
+        ],
+        "date_release": [
+          "February 2, 2021",
+          "February 2, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0814-7",
+          "978-1-9747-0814-7"
+        ],
+        "chapters": {
+          "134": [
+            "Let's Live on a Transmission Tower, Part 2",
+            "鉄塔に住もう その②"
+          ],
+          "135": [
+            "Let's Live on a Transmission Tower, Part 3",
+            "鉄塔に住もう その③"
+          ],
+          "136": [
+            "Let's Live on a Transmission Tower, Part 4",
+            "鉄塔に住もう その④"
+          ],
+          "137": [
+            "Let's Live on a Transmission Tower, Part 5",
+            "鉄塔に住もう その⑤"
+          ],
+          "138": [
+            "Let's Live on a Transmission Tower, Part 6",
+            "鉄塔に住もう その⑥"
+          ],
+          "139": [
+            "Misterioso, Part 1",
+            "エニグマの少年 その①"
+          ],
+          "140": [
+            "Misterioso, Part 2",
+            "エニグマの少年 その②"
+          ],
+          "141": [
+            "Misterioso, Part 3",
+            "エニグマの少年 その③"
+          ],
+          "142": [
+            "Misterioso, Part 4",
+            "エニグマの少年 その④"
+          ],
+          "143": [
+            "Misterioso, Part 5",
+            "エニグマの少年 その⑤"
+          ],
+          "144": [
+            "Misterioso, Part 6",
+            "エニグマの少年 その⑥"
+          ],
+          "145": [
+            "My Dad is Not My Dad, Part 1",
+            "ぼくのパパはパパじゃない その①"
+          ],
+          "146": [
+            "My Dad is Not My Dad, Part 2",
+            "ぼくのパパはパパじゃない その②"
+          ],
+          "147": [
+            "Cheap Trap, Part 1",
+            "チープ・トリック その①"
+          ],
+          "148": [
+            "Cheap Trap, Part 2",
+            "チープ・トリック その②"
+          ],
+          "149": [
+            "Cheap Trap, Part 3",
+            "チープ・トリック その③"
+          ],
+          "150": [
+            "Cheap Trap, Part 4",
+            "チープ・トリック その④"
+          ],
+          "151": [
+            "Cheap Trap, Part 5",
+            "チープ・トリック その⑤"
+          ],
+          "152": [
+            "Cheap Trap, Part 6",
+            "チープ・トリック その⑥"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_025.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "26": {
+        "title": [
+          "Diamond Is Unbreakable Volume 9",
+          "Diamond Is Unbreakable Volume 9"
+        ],
+        "date_release": [
+          "May 4, 2021",
+          "May 4, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-0815-4",
+          "978-1-9747-0815-4"
+        ],
+        "chapters": {
+          "153": [
+            "Bites The Dust, Part 1",
+            "アナザーワン バイツァ・ダスト その①"
+          ],
+          "154": [
+            "Bites The Dust, Part 2",
+            "アナザーワン バイツァ・ダスト その②"
+          ],
+          "155": [
+            "Bites The Dust, Part 3",
+            "アナザーワン バイツァ・ダスト その③"
+          ],
+          "156": [
+            "Bites The Dust, Part 4",
+            "アナザーワン バイツァ・ダスト その④"
+          ],
+          "157": [
+            "Bites The Dust, Part 5",
+            "アナザーワン バイツァ・ダスト その⑤"
+          ],
+          "158": [
+            "Bites The Dust, Part 6",
+            "アナザーワン バイツァ・ダスト その⑥"
+          ],
+          "159": [
+            "Bites The Dust, Part 7",
+            "アナザーワン バイツァ・ダスト その⑦"
+          ],
+          "160": [
+            "Bites The Dust, Part 8",
+            "アナザーワン バイツァ・ダスト その⑧"
+          ],
+          "161": [
+            "Bites The Dust, Part 9",
+            "アナザーワン バイツァ・ダスト その⑨"
+          ],
+          "162": [
+            "Bites The Dust, Part 10",
+            "アナザーワン バイツァ・ダスト その⑩"
+          ],
+          "163": [
+            "Shining D (Diamond) Is Unbreakable, Part 1",
+            "クレイジー・Dは砕けない その①"
+          ],
+          "164": [
+            "Shining D (Diamond) Is Unbreakable, Part 2",
+            "クレイジー・Dは砕けない その②"
+          ],
+          "165": [
+            "Shining D (Diamond) Is Unbreakable, Part 3",
+            "クレイジー・Dは砕けない その③"
+          ],
+          "166": [
+            "Shining D (Diamond) Is Unbreakable, Part 4",
+            "クレイジー・Dは砕けない その④"
+          ],
+          "167": [
+            "Shining D (Diamond) Is Unbreakable, Part 5",
+            "クレイジー・Dは砕けない その⑤"
+          ],
+          "168": [
+            "Shining D (Diamond) Is Unbreakable, Part 6",
+            "クレイジー・Dは砕けない その⑥"
+          ],
+          "169": [
+            "Shining D (Diamond) Is Unbreakable, Part 7",
+            "クレイジー・Dは砕けない その⑦"
+          ],
+          "170": [
+            "Shining D (Diamond) Is Unbreakable, Part 8",
+            "クレイジー・Dは砕けない その⑧"
+          ],
+          "171": [
+            "Shining D (Diamond) Is Unbreakable, Part 9",
+            "クレイジー・Dは砕けない その⑨"
+          ],
+          "172": [
+            "Let Me Remind You",
+            "思い出させてあげる"
+          ],
+          "173": [
+            "Town Guardian Spirits",
+            "町の守護聖霊"
+          ],
+          "174": [
+            "Goodbye Morioh Town—The Golden Heart",
+            "さよなら杜王町－黄金の心"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_026.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "27": {
+        "title": [
+          "Golden Wind Volume 1",
+          "Golden Wind Volume 1"
+        ],
+        "date_release": [
+          "August 3, 2021",
+          "August 3, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2349-2",
+          "978-1-9747-2349-2"
+        ],
+        "chapters": {
+          "1": [
+            "Golden Wind, Part 1",
+            "黄金体験 その①"
+          ],
+          "2": [
+            "Golden Wind, Part 2",
+            "黄金体験 その②"
+          ],
+          "3": [
+            "Golden Wind, Part 3",
+            "黄金体験 その③"
+          ],
+          "4": [
+            "Bucciarati Appears, Part 1",
+            "ブチャラティが来る その①"
+          ],
+          "5": [
+            "Bucciarati Appears, Part 2",
+            "ブチャラティが来る その②"
+          ],
+          "6": [
+            "Bucciarati Appears, Part 3",
+            "ブチャラティが来る その③"
+          ],
+          "7": [
+            "Bucciarati Appears, Part 4",
+            "ブチャラティが来る その④"
+          ],
+          "8": [
+            "Bucciarati Appears, Part 5",
+            "ブチャラティが来る その⑤"
+          ],
+          "9": [
+            "Meet the Mafioso Behind the Wall, Part 1",
+            "塀の中のギャングに会え その①"
+          ],
+          "10": [
+            "Meet the Mafioso Behind the Wall, Part 2",
+            "塀の中のギャングに会え その②"
+          ],
+          "11": [
+            "Joining the Famiglia, Part 1",
+            "ギャング入門 その①"
+          ],
+          "12": [
+            "Joining the Famiglia, Part 2",
+            "ギャング入門 その②"
+          ],
+          "13": [
+            "Joining the Famiglia, Part 3",
+            "ギャング入門 その③"
+          ],
+          "14": [
+            "Joining the Famiglia, Part 4",
+            "ギャング入門 その④"
+          ],
+          "15": [
+            "Joining the Famiglia, Part 5",
+            "ギャング入門 その⑤"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_027.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "28": {
+        "title": [
+          "Golden Wind Volume 2",
+          "Golden Wind Volume 2"
+        ],
+        "date_release": [
+          "November 2, 2021",
+          "November 2, 2021"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2399-7",
+          "978-1-9747-2399-7"
+        ],
+        "chapters": {
+          "16": [
+            "Joining the Famiglia, Part 6",
+            "ギャング入門 その⑥"
+          ],
+          "17": [
+            "Five Plus One",
+            "5プラス1"
+          ],
+          "18": [
+            "Find Polpo's Fortune!",
+            "ポルポの遺産を狙え！"
+          ],
+          "19": [
+            "The Secret of Tender Machine, Part 1",
+            "ソフト・マシーンの謎 その①"
+          ],
+          "20": [
+            "The Secret of Tender Machine, Part 2",
+            "ソフト・マシーンの謎 その②"
+          ],
+          "21": [
+            "Moody Jazz's Counterattack, Part 1",
+            "ムーディー・ブルースの逆襲 その①"
+          ],
+          "22": [
+            "Moody Jazz's Counterattack, Part 2",
+            "ムーディー・ブルースの逆襲 その②"
+          ],
+          "23": [
+            "Six Bullets Appears, Part 1",
+            "セックス・ピストルズ登場 その①"
+          ],
+          "24": [
+            "Six Bullets Appears, Part 2",
+            "セックス・ピストルズ登場 その②"
+          ],
+          "25": [
+            "Six Bullets Appears, Part 3",
+            "セックス・ピストルズ登場 その③"
+          ],
+          "26": [
+            "Six Bullets Appears, Part 4",
+            "セックス・ピストルズ登場 その④"
+          ],
+          "27": [
+            "Six Bullets Appears, Part 5",
+            "セックス・ピストルズ登場 その⑤"
+          ],
+          "28": [
+            "Six Bullets Appears, Part 6",
+            "セックス・ピストルズ登場 その⑥"
+          ],
+          "29": [
+            "The 600 Million Yen Stash",
+            "6億円の隠し場所"
+          ],
+          "30": [
+            "Bucciarati Capo: The First Order from The Boss",
+            "ブチャラティ幹部；ボスからの第一指令"
+          ],
+          "31": [
+            "Narancia's Li'l Bomber, Part 1",
+            "ナランチャのエアロスミス その①"
+          ],
+          "32": [
+            "Narancia's Li'l Bomber, Part 2",
+            "ナランチャのエアロスミス その②"
+          ],
+          "33": [
+            "Narancia's Li'l Bomber, Part 3",
+            "ナランチャのエアロスミス その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_028.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "29": {
+        "title": [
+          "Golden Wind Volume 3",
+          "Golden Wind Volume 3"
+        ],
+        "date_release": [
+          "February 1, 2022",
+          "February 1, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2411-6",
+          "978-1-9747-2411-6"
+        ],
+        "chapters": {
+          "34": [
+            "Narancia's Li'l Bomber, Part 4",
+            "ナランチャのエアロスミス その④"
+          ],
+          "35": [
+            "Narancia's Li'l Bomber, Part 5",
+            "ナランチャのエアロスミス その⑤"
+          ],
+          "36": [
+            "Narancia's Li'l Bomber, Part 6",
+            "ナランチャのエアロスミス その⑥"
+          ],
+          "37": [
+            "Narancia's Li'l Bomber, Part 7",
+            "ナランチャのエアロスミス その⑦"
+          ],
+          "38": [
+            "Narancia's Li'l Bomber, Part 8",
+            "ナランチャのエアロスミス その⑧"
+          ],
+          "39": [
+            "The Second Mission from the Boss",
+            "ボスからの第二指令；「鍵をゲットせよ！」"
+          ],
+          "40": [
+            "Mirror Man and Purple Smoke, Part 1",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その①"
+          ],
+          "41": [
+            "Mirror Man and Purple Smoke, Part 2",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その②"
+          ],
+          "42": [
+            "Mirror Man and Purple Smoke, Part 3",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その③"
+          ],
+          "43": [
+            "Mirror Man and Purple Smoke, Part 4",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その④"
+          ],
+          "44": [
+            "Mirror Man and Purple Smoke, Part 5",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その⑤"
+          ],
+          "45": [
+            "Mirror Man and Purple Smoke, Part 6",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その⑥"
+          ],
+          "46": [
+            "Mirror Man and Purple Smoke, Part 7",
+            "マン・イン・ザ・ミラーとパープル・ヘイズ その⑦"
+          ],
+          "47": [
+            "Il Treno Espresso per Firenze, Part 1",
+            "フィレンツェ行き超特急 その①"
+          ],
+          "48": [
+            "Il Treno Espresso per Firenze, Part 2",
+            "フィレンツェ行き超特急 その②"
+          ],
+          "49": [
+            "Thankful Death, Part 1",
+            "偉大なる死 その①"
+          ],
+          "50": [
+            "Thankful Death, Part 2",
+            "偉大なる死 その②"
+          ],
+          "51": [
+            "Thankful Death, Part 3",
+            "偉大なる死 その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_029.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "30": {
+        "title": [
+          "Golden Wind Volume 4",
+          "Golden Wind Volume 4"
+        ],
+        "date_release": [
+          "May 24, 2022",
+          "May 24, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2412-3",
+          "978-1-9747-2412-3"
+        ],
+        "chapters": {
+          "52": [
+            "Thankful Death, Part 4",
+            "偉大なる死 その④"
+          ],
+          "53": [
+            "Thankful Death, Part 5",
+            "偉大なる死 その⑤"
+          ],
+          "54": [
+            "Thankful Death, Part 6",
+            "偉大なる死 その⑥"
+          ],
+          "55": [
+            "Thankful Death, Part 7",
+            "偉大なる死 その⑦"
+          ],
+          "56": [
+            "Thankful Death, Part 8",
+            "偉大なる死 その⑧"
+          ],
+          "57": [
+            "Thankful Death, Part 9",
+            "偉大なる死 その⑨"
+          ],
+          "58": [
+            "Thankful Death, Part 10",
+            "偉大なる死 その⑩"
+          ],
+          "59": [
+            "Thankful Death, Part 11",
+            "偉大なる死 その⑪"
+          ],
+          "60": [
+            "Thankful Death, Part 12",
+            "偉大なる死 その⑫"
+          ],
+          "61": [
+            "Babyhead, Part 1",
+            "ベイビィ・フェイス その①"
+          ],
+          "62": [
+            "Babyhead, Part 2",
+            "ベイビィ・フェイス その②"
+          ],
+          "63": [
+            "Babyhead, Part 3",
+            "ベイビィ・フェイス その③"
+          ],
+          "64": [
+            "Babyhead, Part 4",
+            "ベイビィ・フェイス その④"
+          ],
+          "65": [
+            "Babyhead, Part 5",
+            "ベイビィ・フェイス その⑤"
+          ],
+          "66": [
+            "Babyhead, Part 6",
+            "ベイビィ・フェイス その⑥"
+          ],
+          "67": [
+            "Babyhead, Part 7",
+            "ベイビィ・フェイス その⑦"
+          ],
+          "68": [
+            "Verso Venezia!",
+            "ヴェネツィアに向かえ！"
+          ],
+          "69": [
+            "Retrieve the OA-DISC at Santa Lucia Station!",
+            "ヴェネツィア・サンタ・ルチア駅『OA-DISC』をゲットせよ！"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_030.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "31": {
+        "title": [
+          "Golden Wind Volume 5",
+          "Golden Wind Volume 5"
+        ],
+        "date_release": [
+          "August 23, 2022",
+          "August 23, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2413-0",
+          "978-1-9747-2413-0"
+        ],
+        "chapters": {
+          "70": [
+            "White Ice, Part 1",
+            "ホワイト・アルバム その①"
+          ],
+          "71": [
+            "White Ice, Part 2",
+            "ホワイト・アルバム その②"
+          ],
+          "72": [
+            "White Ice, Part 3",
+            "ホワイト・アルバム その③"
+          ],
+          "73": [
+            "White Ice, Part 4",
+            "ホワイト・アルバム その④"
+          ],
+          "74": [
+            "White Ice, Part 5",
+            "ホワイト・アルバム その⑤"
+          ],
+          "75": [
+            "White Ice, Part 6",
+            "ホワイト・アルバム その⑥"
+          ],
+          "76": [
+            "White Ice, Part 7",
+            "ホワイト・アルバム その⑦"
+          ],
+          "77": [
+            "The Final Orders From the Boss",
+            "ボスよりの最終指令"
+          ],
+          "78": [
+            "Bruno Bucciarati's Childhood",
+            "ブローノ・ブチャラティ その少年時代"
+          ],
+          "79": [
+            "The Mystery of Emperor Crimson, Part 1",
+            "キング・クリムゾンの謎 その①"
+          ],
+          "80": [
+            "The Mystery of Emperor Crimson, Part 2",
+            "キング・クリムゾンの謎 その②"
+          ],
+          "81": [
+            "The Mystery of Emperor Crimson, Part 3",
+            "キング・クリムゾンの謎 その③"
+          ],
+          "82": [
+            "The Mystery of Emperor Crimson, Part 4",
+            "キング・クリムゾンの謎 その④"
+          ],
+          "83": [
+            "The Mystery of Emperor Crimson, Part 5",
+            "キング・クリムゾンの謎 その⑤"
+          ],
+          "84": [
+            "The Mystery of Emperor Crimson, Part 6",
+            "キング・クリムゾンの謎 その⑥"
+          ],
+          "85": [
+            "The \"G\" in Gozzo",
+            "ガッツの「G」"
+          ],
+          "86": [
+            "Crush and Talking Mouth, Part 1",
+            "クラッシュとトーキング・ヘッド その①"
+          ],
+          "87": [
+            "Crush and Talking Mouth, Part 2",
+            "クラッシュとトーキング・ヘッド その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_031.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "32": {
+        "title": [
+          "Golden Wind Volume 6",
+          "Golden Wind Volume 6"
+        ],
+        "date_release": [
+          "November 22, 2022",
+          "November 22, 2022"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2414-7",
+          "978-1-9747-2414-7"
+        ],
+        "chapters": {
+          "88": [
+            "Crush and Talking Mouth, Part 3",
+            "クラッシュとトーキング・ヘッド その③"
+          ],
+          "89": [
+            "Crush and Talking Mouth, Part 4",
+            "クラッシュとトーキング・ヘッド その④"
+          ],
+          "90": [
+            "Crush and Talking Mouth, Part 5",
+            "クラッシュとトーキング・ヘッド その⑤"
+          ],
+          "91": [
+            "Crush and Talking Mouth, Part 6",
+            "クラッシュとトーキング・ヘッド その⑥"
+          ],
+          "92": [
+            "Crush and Talking Mouth, Part 7",
+            "クラッシュとトーキング・ヘッド その⑦"
+          ],
+          "93": [
+            "Unscheduled Departure for Sardinia",
+            "フライト・コードなし！サルディニアへ向かえ"
+          ],
+          "94": [
+            "Notorious Chase, Part 1",
+            "ノトーリアス・B・I・G その①"
+          ],
+          "95": [
+            "Notorious Chase, Part 2",
+            "ノトーリアス・B・I・G その②"
+          ],
+          "96": [
+            "Notorious Chase, Part 3",
+            "ノトーリアス・B・I・G その③"
+          ],
+          "97": [
+            "Notorious Chase, Part 4",
+            "ノトーリアス・B・I・G その④"
+          ],
+          "98": [
+            "Notorious Chase, Part 5",
+            "ノトーリアス・B・I・G その⑤"
+          ],
+          "99": [
+            "Notorious Chase, Part 6",
+            "ノトーリアス・B・I・G その⑥"
+          ],
+          "100": [
+            "Spicy Lady, Part 1",
+            "スパイス・ガール その①"
+          ],
+          "101": [
+            "Spicy Lady, Part 2",
+            "スパイス・ガール その②"
+          ],
+          "102": [
+            "A Storm Warning in Sardinia",
+            "サルディニア島嵐警報！"
+          ],
+          "103": [
+            "My Name is Doppio, Part 1",
+            "ぼくの名はドッピオ その①"
+          ],
+          "104": [
+            "My Name is Doppio, Part 2",
+            "ぼくの名はドッピオ その②"
+          ],
+          "105": [
+            "Emperor Crimson vs. Metallic, Part 1",
+            "キング・クリムゾンv.s.メタリカ その①"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_032.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "33": {
+        "title": [
+          "Golden Wind Volume 7",
+          "Golden Wind Volume 7"
+        ],
+        "date_release": [
+          "February 28, 2023",
+          "February 28, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2415-4",
+          "978-1-9747-2415-4"
+        ],
+        "chapters": {
+          "106": [
+            "Emperor Crimson vs. Metallic, Part 2",
+            "キング・クリムゾンv.s.メタリカ その②"
+          ],
+          "107": [
+            "Emperor Crimson vs. Metallic, Part 3",
+            "キング・クリムゾンv.s.メタリカ その③"
+          ],
+          "108": [
+            "Emperor Crimson vs. Metallic, Part 4",
+            "キング・クリムゾンv.s.メタリカ その④"
+          ],
+          "109": [
+            "Emperor Crimson vs. Metallic, Part 5",
+            "キング・クリムゾンv.s.メタリカ その⑤"
+          ],
+          "110": [
+            "Emperor Crimson vs. Metallic, Part 6",
+            "キング・クリムゾンv.s.メタリカ その⑥"
+          ],
+          "111": [
+            "Under a Sky That Could Come Falling Any Minute",
+            "今にも落ちて来そうな空の下で"
+          ],
+          "112": [
+            "Pronto! On the Phone, Part 1",
+            "プロント！通話中 その①"
+          ],
+          "113": [
+            "Pronto! On the Phone, Part 2",
+            "プロント！通話中 その②"
+          ],
+          "114": [
+            "Get to the Colosseum in Rome!",
+            "目的地はローマ！コロッセオ"
+          ],
+          "115": [
+            "Green Tea and Sanctuary, Part 1",
+            "『グリーン・ディ』と『オアシス』 その①"
+          ],
+          "116": [
+            "Green Tea and Sanctuary, Part 2",
+            "『グリーン・ディ』と『オアシス』 その②"
+          ],
+          "117": [
+            "Green Tea and Sanctuary, Part 3",
+            "『グリーン・ディ』と『オアシス』 その③"
+          ],
+          "118": [
+            "Green Tea and Sanctuary, Part 4",
+            "『グリーン・ディ』と『オアシス』 その④"
+          ],
+          "119": [
+            "Green Tea and Sanctuary, Part 5",
+            "『グリーン・ディ』と『オアシス』 その⑤"
+          ],
+          "120": [
+            "Green Tea and Sanctuary, Part 6",
+            "『グリーン・ディ』と『オアシス』 その⑥"
+          ],
+          "121": [
+            "Green Tea and Sanctuary, Part 7",
+            "『グリーン・ディ』と『オアシス』 その⑦"
+          ],
+          "122": [
+            "Green Tea and Sanctuary, Part 8",
+            "『グリーン・ディ』と『オアシス』 その⑧"
+          ],
+          "123": [
+            "Green Tea and Sanctuary, Part 9",
+            "『グリーン・ディ』と『オアシス』 その⑨"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_033.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "34": {
+        "title": [
+          "Golden Wind Volume 8",
+          "Golden Wind Volume 8"
+        ],
+        "date_release": [
+          "May 23, 2023",
+          "May 23, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2416-1",
+          "978-1-9747-2416-1"
+        ],
+        "chapters": {
+          "124": [
+            "Green Tea and Sanctuary, Part 10",
+            "『グリーン・ディ』と『オアシス』 その⑩"
+          ],
+          "125": [
+            "Green Tea and Sanctuary, Part 11",
+            "『グリーン・ディ』と『オアシス』 その⑪"
+          ],
+          "126": [
+            "Green Tea and Sanctuary, Part 12",
+            "『グリーン・ディ』と『オアシス』 その⑫"
+          ],
+          "127": [
+            "Green Tea and Sanctuary, Part 13",
+            "『グリーン・ディ』と『オアシス』 その⑬"
+          ],
+          "128": [
+            "Green Tea and Sanctuary, Part 14",
+            "『グリーン・ディ』と『オアシス』 その⑭"
+          ],
+          "129": [
+            "His Name is Diavolo, Part 1",
+            "そいつの名はディアボロ その①"
+          ],
+          "130": [
+            "A Little Story from the Past",
+            "ほんの少し昔の物語"
+          ],
+          "131": [
+            "His Name is Diavolo, Part 2",
+            "そいつの名はディアボロ その②"
+          ],
+          "132": [
+            "Beyond the Arrow",
+            "「矢」のさらに先に存在もの"
+          ],
+          "133": [
+            "The Requiem Quietly Plays, Part 1",
+            "鎮魂歌は静かに奏でられる その①"
+          ],
+          "134": [
+            "The Requiem Quietly Plays, Part 2",
+            "鎮魂歌は静かに奏でられる その②"
+          ],
+          "135": [
+            "The Requiem Quietly Plays, Part 3",
+            "鎮魂歌は静かに奏でられる その③"
+          ],
+          "136": [
+            "The Requiem Quietly Plays, Part 4",
+            "鎮魂歌は静かに奏でられる その④"
+          ],
+          "137": [
+            "The Requiem Quietly Plays, Part 5",
+            "鎮魂歌は静かに奏でられる その⑤"
+          ],
+          "138": [
+            "The Requiem Quietly Plays, Part 6",
+            "鎮魂歌は静かに奏でられる その⑥"
+          ],
+          "139": [
+            "The Requiem Quietly Plays, Part 7",
+            "鎮魂歌は静かに奏でられる その⑦"
+          ],
+          "140": [
+            "The Requiem Quietly Plays, Part 8",
+            "鎮魂歌は静かに奏でられる その⑧"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_034.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "35": {
+        "title": [
+          "Golden Wind Volume 9",
+          "Golden Wind Volume 9"
+        ],
+        "date_release": [
+          "August 22, 2023",
+          "August 22, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-2417-8",
+          "978-1-9747-2417-8"
+        ],
+        "chapters": {
+          "141": [
+            "Diavolo Surfaces, Part 1",
+            "ディアボロ浮上 その①"
+          ],
+          "142": [
+            "Diavolo Surfaces, Part 2",
+            "ディアボロ浮上 その②"
+          ],
+          "143": [
+            "Diavolo Surfaces, Part 3",
+            "ディアボロ浮上 その③"
+          ],
+          "144": [
+            "Diavolo Surfaces, Part 4",
+            "ディアボロ浮上 その④"
+          ],
+          "145": [
+            "Diavolo Surfaces, Part 5",
+            "ディアボロ浮上 その⑤"
+          ],
+          "146": [
+            "King of Kings",
+            "王の中の王"
+          ],
+          "147": [
+            "Golden Wind Requiem, Part 1",
+            "ゴールド・E・レクイエム その①"
+          ],
+          "148": [
+            "Golden Wind Requiem, Part 2",
+            "ゴールド・E・レクイエム その②"
+          ],
+          "149": [
+            "Golden Wind Requiem, Part 3",
+            "ゴールド・E・レクイエム その③"
+          ],
+          "150": [
+            "Golden Wind Requiem, Part 4",
+            "ゴールド・E・レクイエム その④"
+          ],
+          "151": [
+            "Epilogue, The Sleeping Slave",
+            "エピローグ『眠れる奴隷』"
+          ],
+          "152": [
+            "The Sleeping Slave, Part 2",
+            "眠れる奴隷 その②"
+          ],
+          "153": [
+            "The Sleeping Slave, Part 3",
+            "眠れる奴隷 その③"
+          ],
+          "154": [
+            "The Sleeping Slave, Part 4",
+            "眠れる奴隷 その④"
+          ],
+          "155": [
+            "The Sleeping Slave, Part 5",
+            "眠れる奴隷 その⑤"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_035.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "36": {
+        "title": [
+          "Stone Ocean Volume 1",
+          "Stone Ocean Volume 1"
+        ],
+        "date_release": [
+          "November 28, 2023",
+          "November 28, 2023"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-3266-1",
+          "978-1-9747-3266-1"
+        ],
+        "chapters": {
+          "1": [
+            "Stone Ocean, Part 1",
+            "石作りの海 その①"
+          ],
+          "2": [
+            "Stone Ocean, Part 2",
+            "石作りの海 その②"
+          ],
+          "3": [
+            "Stone Ocean, Part 3",
+            "石作りの海 その③"
+          ],
+          "4": [
+            "Prisoner FE40536—Jolyne Cujoh, Part 1",
+            "囚人番号FE40536空条徐倫 その①"
+          ],
+          "5": [
+            "Prisoner FE40536—Jolyne Cujoh, Part 2",
+            "囚人番号FE40536空条徐倫 その②"
+          ],
+          "6": [
+            "Prisoner FE40536—Jolyne Cujoh, Part 3",
+            "囚人番号FE40536空条徐倫 その③"
+          ],
+          "7": [
+            "G.G. Dolls",
+            "グーグー・ドールズ"
+          ],
+          "8": [
+            "Stone Ocean Appears, Part 1",
+            "ストーン・フリー その①"
+          ],
+          "9": [
+            "Stone Ocean Appears, Part 2",
+            "ストーン・フリー その②"
+          ],
+          "10": [
+            "Green Dolphin Street Prison",
+            "グリーン・ドルフィン・ストリート刑務所"
+          ],
+          "11": [
+            "The Visitor, Part 1",
+            "面会人 その①"
+          ],
+          "12": [
+            "The Visitor, Part 2",
+            "面会人 その②"
+          ],
+          "13": [
+            "The Visitor, Part 3",
+            "面会人 その③"
+          ],
+          "14": [
+            "The Visitor, Part 4",
+            "面会人 その④"
+          ],
+          "15": [
+            "The Visitor, Part 5",
+            "面会人 その⑤"
+          ],
+          "16": [
+            "The Visitor, Part 6",
+            "面会人 その⑥"
+          ],
+          "17": [
+            "The Visitor, Part 7",
+            "面会人 その⑦"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_036.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "37": {
+        "title": [
+          "Stone Ocean Volume 2",
+          "Stone Ocean Volume 2"
+        ],
+        "date_release": [
+          "January 23, 2024",
+          "January 23, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4288-2",
+          "978-1-9747-4288-2"
+        ],
+        "chapters": {
+          "18": [
+            "The Visitor, Part 8",
+            "面会人 その⑧"
+          ],
+          "19": [
+            "The Visitor, Part 9",
+            "面会人 その⑨"
+          ],
+          "20": [
+            "Prisoner of Love",
+            "プリズナー・オブ・ラヴ"
+          ],
+          "21": [
+            "Ermes's Stickers, Part 1",
+            "エルメェスのシール その①"
+          ],
+          "22": [
+            "Ermes's Stickers, Part 2",
+            "エルメェスのシール その②"
+          ],
+          "23": [
+            "Ermes's Stickers, Part 3",
+            "エルメェスのシール その③"
+          ],
+          "24": [
+            "Ermes's Stickers, Part 4",
+            "エルメェスのシール その④"
+          ],
+          "25": [
+            "Ermes's Stickers, Part 5",
+            "エルメェスのシール その⑤"
+          ],
+          "26": [
+            "There's Six of Us, Part 1",
+            "6人いる！ その①"
+          ],
+          "27": [
+            "There's Six of Us, Part 2",
+            "6人いる！ その②"
+          ],
+          "28": [
+            "There's Six of Us, Part 3",
+            "6人いる！ その③"
+          ],
+          "29": [
+            "There's Six of Us, Part 4",
+            "6人いる！ その④"
+          ],
+          "30": [
+            "There's Six of Us, Part 5",
+            "6人いる！ その⑤"
+          ],
+          "31": [
+            "F.F., Part 1",
+            "フー・ファイターズ その①"
+          ],
+          "32": [
+            "F.F., Part 2",
+            "フー・ファイターズ その②"
+          ],
+          "33": [
+            "F.F., Part 3",
+            "フー・ファイターズ その③"
+          ],
+          "34": [
+            "Debt Collector Mary Lynn Manson, Part 1",
+            "取り立て人マリリン・マンソン その①"
+          ],
+          "35": [
+            "Debt Collector Mary Lynn Manson, Part 2",
+            "取り立て人マリリン・マンソン その②"
+          ],
+          "36": [
+            "Debt Collector Mary Lynn Manson, Part 3",
+            "取り立て人マリリン・マンソン その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_037.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "38": {
+        "title": [
+          "Stone Ocean Volume 3",
+          "Stone Ocean Volume 3"
+        ],
+        "date_release": [
+          "March 26, 2024",
+          "March 26, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4322-3",
+          "978-1-9747-4322-3"
+        ],
+        "chapters": {
+          "37": [
+            "Debt Collector Mary Lynn Manson, Part 4",
+            "取り立て人マリリン・マンソン その④"
+          ],
+          "38": [
+            "Debt Collector Mary Lynn Manson, Part 5",
+            "取り立て人マリリン・マンソン その⑤"
+          ],
+          "39": [
+            "Debt Collector Mary Lynn Manson, Part 6",
+            "取り立て人マリリン・マンソン その⑥"
+          ],
+          "40": [
+            "Operation Savage Guardian (Head to the Courtyard!), Part 1",
+            "サヴェジ・ガーデン作戦(中庭へ向かえ！) その①"
+          ],
+          "41": [
+            "Operation Savage Guardian, Part 2",
+            "サヴェジ・ガーデン作戦 その②"
+          ],
+          "42": [
+            "Operation Savage Guardian, Part 3",
+            "サヴェジ・ガーデン作戦 その③"
+          ],
+          "43": [
+            "Operation Savage Guardian, Part 4",
+            "サヴェジ・ガーデン作戦 その④"
+          ],
+          "44": [
+            "Operation Savage Guardian, Part 5",
+            "サヴェジ・ガーデン作戦 その⑤"
+          ],
+          "45": [
+            "Operation Savage Guardian, Part 6",
+            "サヴェジ・ガーデン作戦 その⑥"
+          ],
+          "46": [
+            "Operation Savage Guardian, Part 7",
+            "サヴェジ・ガーデン作戦 その⑦"
+          ],
+          "47": [
+            "Operation Savage Guardian, Part 8",
+            "サヴェジ・ガーデン作戦 その⑧"
+          ],
+          "48": [
+            "Torrential Downpour Warning, Part 1",
+            "集中豪雨警報発令 その①"
+          ],
+          "49": [
+            "Torrential Downpour Warning, Part 2",
+            "集中豪雨警報発令 その②"
+          ],
+          "50": [
+            "Torrential Downpour Warning, Part 3",
+            "集中豪雨警報発令 その③"
+          ],
+          "51": [
+            "Smack of Love and Revenge, Part 1",
+            "愛と復讐のキッス その①"
+          ],
+          "52": [
+            "Smack of Love and Revenge, Part 2",
+            "愛と復讐のキッス その②"
+          ],
+          "53": [
+            "Smack of Love and Revenge, Part 3",
+            "愛と復讐のキッス その③"
+          ],
+          "54": [
+            "Smack of Love and Revenge, Part 4",
+            "愛と復讐のキッス その④"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_038.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "39": {
+        "title": [
+          "Stone Ocean Volume 4",
+          "Stone Ocean Volume 4"
+        ],
+        "date_release": [
+          "May 28, 2024",
+          "May 28, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4561-6",
+          "978-1-9747-4561-6"
+        ],
+        "chapters": {
+          "55": [
+            "Smack of Love and Revenge, Part 5",
+            "愛と復讐のキッス その⑤"
+          ],
+          "56": [
+            "Smack of Love and Revenge, Part 6",
+            "愛と復讐のキッス その⑥"
+          ],
+          "57": [
+            "Smack of Love and Revenge, Part 7",
+            "愛と復讐のキッス その⑦"
+          ],
+          "58": [
+            "Maximum Security Disciplinary Wing",
+            "ウルトラセキュリティ懲罰房"
+          ],
+          "59": [
+            "His Name Is Anastasia",
+            "その名はアナスイ"
+          ],
+          "60": [
+            "The Secret of Guard Westwood, Part 1",
+            "看守ウエストウッドの秘密 その①"
+          ],
+          "61": [
+            "The Secret of Guard Westwood, Part 2",
+            "看守ウエストウッドの秘密 その②"
+          ],
+          "62": [
+            "The Secret of Guard Westwood, Part 3",
+            "看守ウエストウッドの秘密 その③"
+          ],
+          "63": [
+            "The Secret of Guard Westwood, Part 4",
+            "看守ウエストウッドの秘密 その④"
+          ],
+          "64": [
+            "The Secret of Guard Westwood, Part 5",
+            "看守ウエストウッドの秘密 その⑤"
+          ],
+          "65": [
+            "The Secret of Guard Westwood, Part 6",
+            "看守ウエストウッドの秘密 その⑥"
+          ],
+          "66": [
+            "The Secret of Guard Westwood, Part 7",
+            "看守ウエストウッドの秘密 その⑦"
+          ],
+          "67": [
+            "Enter the Drake's Dream, Part 1",
+            "燃えよ龍の夢 その①"
+          ],
+          "68": [
+            "Enter the Drake's Dream, Part 2",
+            "燃えよ龍の夢 その②"
+          ],
+          "69": [
+            "Enter the Drake's Dream, Part 3",
+            "燃えよ龍の夢 その③"
+          ],
+          "70": [
+            "Enter the Drake's Dream, Part 4",
+            "燃えよ龍の夢 その④"
+          ],
+          "71": [
+            "Enter the Drake's Dream, Part 5",
+            "燃えよ龍の夢 その⑤"
+          ],
+          "72": [
+            "Enter the F.F.",
+            "燃えよフー・ファイターズ"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_039.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "40": {
+        "title": [
+          "Stone Ocean Volume 5",
+          "Stone Ocean Volume 5"
+        ],
+        "date_release": [
+          "July 23, 2024",
+          "July 23, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4608-8",
+          "978-1-9747-4608-8"
+        ],
+        "chapters": {
+          "73": [
+            "Enter the Drake's Dream, Part 6",
+            "燃えよ龍の夢 その⑥"
+          ],
+          "74": [
+            "Enter the Drake's Dream, Part 7",
+            "燃えよ龍の夢 その⑦"
+          ],
+          "75": [
+            "Jotaro and Jolyne, Father and Daughter",
+            "父・空条承太郎 娘・空条徐倫"
+          ],
+          "76": [
+            "Birth of the \"Green\", Part 1",
+            "『緑色』の誕生 その①"
+          ],
+          "77": [
+            "Birth of the \"Green\", Part 2",
+            "『緑色』の誕生 その②"
+          ],
+          "78": [
+            "Ya-Ya Ma Is Coming, Part 1",
+            "ヨーヨーマッが来る！ その①"
+          ],
+          "79": [
+            "Ya-Ya Ma Is Coming, Part 2",
+            "ヨーヨーマッが来る！ その②"
+          ],
+          "80": [
+            "Ya-Ya Ma Is Coming, Part 3",
+            "ヨーヨーマッが来る！ その③"
+          ],
+          "81": [
+            "Ya-Ya Ma Is Coming, Part 4",
+            "ヨーヨーマッが来る！ その④"
+          ],
+          "82": [
+            "Ya-Ya Ma Is Coming, Part 5",
+            "ヨーヨーマッが来る！ その⑤"
+          ],
+          "83": [
+            "F.F.—The Witness, Part 1",
+            "F・F-目撃者 その①"
+          ],
+          "84": [
+            "F.F.—The Witness, Part 2",
+            "F・F-目撃者 その②"
+          ],
+          "85": [
+            "Awaken, Part 1",
+            "AWAKEN-目醒め その①"
+          ],
+          "86": [
+            "Awaken, Part 2",
+            "AWAKEN-目醒め その②"
+          ],
+          "87": [
+            "Awaken, Part 3",
+            "AWAKEN-目醒め その③"
+          ],
+          "88": [
+            "Awaken, Part 4",
+            "AWAKEN-目醒め その④"
+          ],
+          "89": [
+            "Pale Snake—The Hunter, Part 1",
+            "ホワイトスネイク-追跡者 その①"
+          ],
+          "90": [
+            "Pale Snake—The Hunter, Part 2",
+            "ホワイトスネイク-追跡者 その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_040.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "41": {
+        "title": [
+          "Stone Ocean Volume 6",
+          "Stone Ocean Volume 6"
+        ],
+        "date_release": [
+          "September 24, 2024",
+          "September 24, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4880-8",
+          "978-1-9747-4880-8"
+        ],
+        "chapters": {
+          "91": [
+            "Pale Snake—The Hunter, Part 3",
+            "ホワイトスネイク-追跡者 その③"
+          ],
+          "92": [
+            "Pale Snake—The Hunter, Part 4",
+            "ホワイトスネイク-追跡者 その④"
+          ],
+          "93": [
+            "Pale Snake—The Hunter, Part 5",
+            "ホワイトスネイク-追跡者 その⑤"
+          ],
+          "94": [
+            "Time for Heaven",
+            "天国の時"
+          ],
+          "95": [
+            "New Moon! New Priest!",
+            "新月の時！　新神父"
+          ],
+          "96": [
+            "Jailhouse Lock!, Part 1",
+            "JAIL HOUSE LOCK！ その①"
+          ],
+          "97": [
+            "Jailhouse Lock!, Part 2",
+            "JAIL HOUSE LOCK！ その②"
+          ],
+          "98": [
+            "Jailhouse Lock!, Part 3",
+            "JAIL HOUSE LOCK！ その③"
+          ],
+          "99": [
+            "Jailhouse Lock!, Part 4",
+            "JAIL HOUSE LOCK！ その④"
+          ],
+          "100": [
+            "Jailhouse Lock!, Part 5",
+            "JAIL HOUSE LOCK！ その⑤"
+          ],
+          "101": [
+            "Jailhouse Lock!, Part 6",
+            "JAIL HOUSE LOCK！ その⑥"
+          ],
+          "102": [
+            "Jailbreak",
+            "脱獄へ…"
+          ],
+          "103": [
+            "The Three Men Who Were Brought to the Hospital",
+            "病院に運ばれた3人の男"
+          ],
+          "104": [
+            "Bohemian Ecstatic, Part 1",
+            "自由人の狂想曲 その①"
+          ],
+          "105": [
+            "Bohemian Ecstatic, Part 2",
+            "自由人の狂想曲 その②"
+          ],
+          "106": [
+            "Bohemian Ecstatic, Part 3",
+            "自由人の狂想曲 その③"
+          ],
+          "107": [
+            "Bohemian Ecstatic, Part 4",
+            "自由人の狂想曲 その④"
+          ],
+          "108": [
+            "Bohemian Ecstatic, Part 5",
+            "自由人の狂想曲 その⑤"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_041.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "42": {
+        "title": [
+          "Stone Ocean Volume 7",
+          "Stone Ocean Volume 7"
+        ],
+        "date_release": [
+          "November 26, 2024",
+          "November 26, 2024"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-4930-0",
+          "978-1-9747-4930-0"
+        ],
+        "chapters": {
+          "109": [
+            "Bohemian Ecstatic, Part 6",
+            "自由人の狂想曲 その⑥"
+          ],
+          "110": [
+            "Bohemian Ecstatic, Part 7",
+            "自由人の狂想曲 その⑦"
+          ],
+          "111": [
+            "It's Been a While, Romeo",
+            "ひさしぶりねロメオ"
+          ],
+          "112": [
+            "Sky Guy, Part 1",
+            "スカイ・ハイ その①"
+          ],
+          "113": [
+            "Sky Guy, Part 2",
+            "スカイ・ハイ その②"
+          ],
+          "114": [
+            "Sky Guy, Part 3",
+            "スカイ・ハイ その③"
+          ],
+          "115": [
+            "Sky Guy, Part 4",
+            "スカイ・ハイ その④"
+          ],
+          "116": [
+            "Sky Guy, Part 5",
+            "スカイ・ハイ その⑤"
+          ],
+          "117": [
+            "Sky Guy, Part 6",
+            "スカイ・ハイ その⑥"
+          ],
+          "118": [
+            "Heaven is at Hand: Three Days Until the New Moon",
+            "天国の時 新月まであと3日"
+          ],
+          "119": [
+            "Netherworld, Part 1",
+            "アンダー・ワールド その①"
+          ],
+          "120": [
+            "Netherworld, Part 2",
+            "アンダー・ワールド その②"
+          ],
+          "121": [
+            "Netherworld, Part 3",
+            "アンダー・ワールド その③"
+          ],
+          "122": [
+            "Netherworld, Part 4",
+            "アンダー・ワールド その④"
+          ],
+          "123": [
+            "Netherworld, Part 5",
+            "アンダー・ワールド その⑤"
+          ],
+          "124": [
+            "Netherworld, Part 6",
+            "アンダー・ワールド その⑥"
+          ],
+          "125": [
+            "Heavy Forecast, Part 1",
+            "ヘビー・ウェザー その①"
+          ],
+          "126": [
+            "Heavy Forecast, Part 2",
+            "ヘビー・ウェザー その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_042.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "43": {
+        "title": [
+          "Stone Ocean Volume 8",
+          "Stone Ocean Volume 8"
+        ],
+        "date_release": [
+          "January 28, 2025",
+          "January 28, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-5149-5",
+          "978-1-9747-5149-5"
+        ],
+        "chapters": {
+          "127": [
+            "Heavy Forecast, Part 3",
+            "ヘビー・ウェザー その③"
+          ],
+          "128": [
+            "Heavy Forecast, Part 4",
+            "ヘビー・ウェザー その④"
+          ],
+          "129": [
+            "Heavy Forecast, Part 5",
+            "ヘビー・ウェザー その⑤"
+          ],
+          "130": [
+            "Heavy Forecast, Part 6",
+            "ヘビー・ウェザー その⑥"
+          ],
+          "131": [
+            "Heavy Forecast, Part 7",
+            "ヘビー・ウェザー その⑦"
+          ],
+          "132": [
+            "Heavy Forecast, Part 8",
+            "ヘビー・ウェザー その⑧"
+          ],
+          "133": [
+            "Heavy Forecast, Part 9",
+            "ヘビー・ウェザー その⑨"
+          ],
+          "134": [
+            "Heavy Forecast, Part 10",
+            "ヘビー・ウェザー その⑩"
+          ],
+          "135": [
+            "Heavy Forecast, Part 11",
+            "ヘビー・ウェザー その⑪"
+          ],
+          "136": [
+            "Heavy Forecast, Part 12",
+            "ヘビー・ウェザー その⑫"
+          ],
+          "137": [
+            "Heavy Forecast, Part 13",
+            "ヘビー・ウェザー その⑬"
+          ],
+          "138": [
+            "At Cape Canaveral",
+            "ケープ・カナベラルにて"
+          ],
+          "139": [
+            "Gravity of the New Moon, Part 1",
+            "新月の重力 その①"
+          ],
+          "140": [
+            "Gravity of the New Moon, Part 2",
+            "新月の重力 その②"
+          ],
+          "141": [
+            "See Moon, Part 1",
+            "C-MOON その①"
+          ],
+          "142": [
+            "See Moon, Part 2",
+            "C-MOON その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_043.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "44": {
+        "title": [
+          "Stone Ocean Volume 9",
+          "Stone Ocean Volume 9"
+        ],
+        "date_release": [
+          "March 25, 2025",
+          "March 25, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-9747-5218-8",
+          "978-1-9747-5218-8"
+        ],
+        "chapters": {
+          "143": [
+            "See Moon, Part 3",
+            "C-MOON その③"
+          ],
+          "144": [
+            "See Moon, Part 4",
+            "C-MOON その④"
+          ],
+          "145": [
+            "See Moon, Part 5",
+            "C-MOON その⑤"
+          ],
+          "146": [
+            "See Moon, Part 6",
+            "C-MOON その⑥"
+          ],
+          "147": [
+            "See Moon, Part 7",
+            "C-MOON その⑦"
+          ],
+          "148": [
+            "See Moon, Part 8",
+            "C-MOON その⑧"
+          ],
+          "149": [
+            "Maiden Heaven, Part 1",
+            "メイド・イン・ヘブン その①"
+          ],
+          "150": [
+            "Maiden Heaven, Part 2",
+            "メイド・イン・ヘブン その②"
+          ],
+          "151": [
+            "Maiden Heaven, Part 3",
+            "メイド・イン・ヘブン その③"
+          ],
+          "152": [
+            "Maiden Heaven, Part 4",
+            "メイド・イン・ヘブン その④"
+          ],
+          "153": [
+            "Maiden Heaven, Part 5",
+            "メイド・イン・ヘブン その⑤"
+          ],
+          "154": [
+            "Maiden Heaven, Part 6",
+            "メイド・イン・ヘブン その⑥"
+          ],
+          "155": [
+            "Maiden Heaven, Part 7",
+            "メイド・イン・ヘブン その⑦"
+          ],
+          "156": [
+            "Maiden Heaven, Part 8",
+            "メイド・イン・ヘブン その⑧"
+          ],
+          "157": [
+            "Maiden Heaven, Part 9",
+            "メイド・イン・ヘブン その⑨"
+          ],
+          "158": [
+            "It's a Wonderful World",
+            "ホワット・ア・ワンダフル・ワールド"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_044.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "45": {
+        "title": [
+          "Steel Ball Run Volume 1",
+          "Steel Ball Run Volume 1"
+        ],
+        "date_release": [
+          "May 27, 2025",
+          "May 27, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974752-54-6",
+          "978-1-974752-54-6"
+        ],
+        "chapters": {
+          "1": [
+            "Steel Ball Run: The Press Conference",
+            "スティール・ボール・ラン　記者会見"
+          ],
+          "2": [
+            "Gyro Zeppeli",
+            "ジャイロ・ツェペリ"
+          ],
+          "3": [
+            "Johnny Joestar",
+            "ジョニィ・ジョースター"
+          ],
+          "4": [
+            "September 25, 1890: Three Hours Before the Start",
+            "1890年9月25日　スタート3時間前"
+          ],
+          "5": [
+            "First Stage: 9.3 Miles",
+            "1st. STAGE 15,000メートル"
+          ],
+          "6": [
+            "The Arroyo and Diego Brando",
+            "涸れた川；ディエゴ・ブランドー"
+          ],
+          "7": [
+            "Pocoloco and Sand Man",
+            "ポコロコとサンドマン"
+          ],
+          "8": [
+            "Into the Grove",
+            "雑木林越え"
+          ],
+          "9": [
+            "The Long, Long Road Down",
+            "長い長い下り坂"
+          ],
+          "10": [
+            "The Final Stretch: 1.2 Miles to Go",
+            "最終直線 残り2,000メートル"
+          ],
+          "11": [
+            "The Final Stretch: 0.5 Miles to Go",
+            "最終直線 残り1,000メートル"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_049.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "46": {
+        "title": [
+          "Steel Ball Run Volume 2",
+          "Steel Ball Run Volume 2"
+        ],
+        "date_release": [
+          "July 22, 2025",
+          "July 22, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974755-17-2",
+          "978-1-974755-17-2"
+        ],
+        "chapters": {
+          "12": [
+            "First Stage: Disqualified Victory",
+            "1st.STAGE 優勝失格"
+          ],
+          "13": [
+            "The Sheriff's Request to Mountain Tim",
+            "保安官 マウンテン・ティムへの依頼"
+          ],
+          "14": [
+            "Arizona Desert Crossing: The Shortest Route",
+            "アリゾナ砂漠越え 最短ルートを進め"
+          ],
+          "15": [
+            "The Desert-Born Outlaws, Part 1",
+            "砂漠で生まれたならず者 その①"
+          ],
+          "16": [
+            "The Desert-Born Outlaws, Part 2",
+            "砂漠で生まれたならず者 その②"
+          ],
+          "17": [
+            "The Desert-Born Outlaws, Part 3",
+            "砂漠で生まれたならず者 その③"
+          ],
+          "18": [
+            "The Devil's Palm, Part 1",
+            "悪魔の手のひら その①"
+          ],
+          "19": [
+            "The Devil's Palm, Part 2",
+            "悪魔の手のひら その②"
+          ],
+          "20": [
+            "Gyro Zeppeli's Destiny, Part 1",
+            "ジャイロ・ツェペリの宿命 その①"
+          ],
+          "21": [
+            "Gyro Zeppeli's Destiny, Part 2",
+            "ジャイロ・ツェペリの宿命 その②"
+          ],
+          "22": [
+            "The Terrorist from a Faraway Country, Part 1",
+            "遠い国から来たテロリスト その①"
+          ],
+          "23": [
+            "The Terrorist from a Faraway Country, Part 2",
+            "遠い国から来たテロリスト その②"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_046.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "47": {
+        "title": [
+          "Steel Ball Run Volume 3",
+          "Steel Ball Run Volume 3"
+        ],
+        "date_release": [
+          "September 23, 2025",
+          "September 23, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974758-37-1",
+          "978-1-974758-37-1"
+        ],
+        "chapters": {
+          "2": [
+            "The Story of Funny Valentine",
+            "ザ ストーリー オブ ファニー・ヴァレンタイン"
+          ],
+          "24": [
+            "Interlude",
+            "インタールード(間奏曲)"
+          ],
+          "25": [
+            "Tusk, Part 1",
+            "牙(タスク) その①"
+          ],
+          "26": [
+            "Tusk, Part 2",
+            "牙(タスク) その②"
+          ],
+          "27": [
+            "Tusk, Part 3",
+            "牙(タスク) その③"
+          ],
+          "28": [
+            "Frightening Monsters, Part 1",
+            "スケアリー モンスターズ その①"
+          ],
+          "29": [
+            "Frightening Monsters, Part 2",
+            "スケアリー モンスターズ その②"
+          ],
+          "30": [
+            "Frightening Monsters, Part 3",
+            "スケアリー モンスターズ その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_047.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "48": {
+        "title": [
+          "Steel Ball Run Volume 4",
+          "Steel Ball Run Volume 4"
+        ],
+        "date_release": [
+          "November 25, 2025",
+          "November 25, 2025"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974758-89-0",
+          "978-1-974758-89-0"
+        ],
+        "chapters": {
+          "31": [
+            "Frightening Monsters, Part 4",
+            "スケアリー モンスターズ その④"
+          ],
+          "32": [
+            "Third Stage Finish Line: Cañon City",
+            "3rd.STAGE ゴール．キャノン・シティ"
+          ],
+          "33": [
+            "A Man's World, Part 1",
+            "男の世界 その①"
+          ],
+          "34": [
+            "A Man's World, Part 2",
+            "男の世界 その②"
+          ],
+          "35": [
+            "A Man's World, Part 3",
+            "男の世界 その③"
+          ],
+          "36": [
+            "The Green Gravestone, Part 1",
+            "緑色の墓標 その①"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_048.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "49": {
+        "title": [
+          "Steel Ball Run Volume 5",
+          "Steel Ball Run Volume 5"
+        ],
+        "date_release": [
+          "January 27, 2026",
+          "January 27, 2026"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974761-86-9",
+          "978-1-974761-86-9"
+        ],
+        "chapters": {
+          "37": [
+            "The Green Gravestone, Part 2",
+            "緑色の墓標 その②"
+          ],
+          "38": [
+            "Stroboscope (One Stormy Night...), Part 1",
+            "キャッチ・ザ・レインボー(嵐の夜に…) その①"
+          ],
+          "39": [
+            "Stroboscope (One Stormy Night...), Part 2",
+            "キャッチ・ザ・レインボー(嵐の夜に…) その②"
+          ],
+          "40": [
+            "Silent Ways, Part 1",
+            "サイレント・ウェイ その①"
+          ],
+          "41": [
+            "Silent Ways, Part 2",
+            "サイレント・ウェイ その②"
+          ],
+          "42": [
+            "Silent Ways, Part 3",
+            "サイレント・ウェイ その③"
+          ]
+        },
+        "cover_characters": [],
+        "img": "images/jojos/vol_049.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "50": {
+        "title": [
+          "Steel Ball Run Volume 6",
+          "Steel Ball Run Volume 6"
+        ],
+        "date_release": [
+          "March 24, 2026",
+          "March 24, 2026"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974762-25-5",
+          "978-1-974762-25-5"
+        ],
+        "chapters": {},
+        "cover_characters": [],
+        "img": "images/jojos/vol_050.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "51": {
+        "title": [
+          "Steel Ball Run Volume 7",
+          "Steel Ball Run Volume 7"
+        ],
+        "date_release": [
+          "May 26, 2026",
+          "May 26, 2026"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974763-32-0",
+          "978-1-974763-32-0"
+        ],
+        "chapters": {},
+        "cover_characters": [],
+        "img": "images/jojos/vol_051.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      },
+      "52": {
+        "title": [
+          "Steel Ball Run Volume 8",
+          "Steel Ball Run Volume 8"
+        ],
+        "date_release": [
+          "July 28, 2026",
+          "July 28, 2026"
+        ],
+        "pages": [],
+        "ISBN": [
+          "978-1-974764-94-5",
+          "978-1-974764-94-5"
+        ],
+        "chapters": {},
+        "cover_characters": [],
+        "img": "images/jojos/vol_052.png",
+        "owned": false,
+        "prise": "10 €",
+        "date_bought": ""
+      }
+    }
   }
 }
