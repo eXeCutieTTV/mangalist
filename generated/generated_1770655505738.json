@@ -29629,165 +29629,680 @@
     "volumes": {
       "1": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
-        "owned": true,
+        "date_release": [
+          "January 20, 2015",
+          "August 21, 2010"
+        ],
+        "pages": [
+          "238",
+          "238"
+        ],
+        "ISBN": [
+          "978-0316259460",
+          "978-4757529809"
+        ],
+        "chapters": {
+          "1": [
+            "Kill the Darkness",
+            "Kill the Darkness"
+          ],
+          "2": [
+            "Kill the Country",
+            "Kill the Country"
+          ],
+          "3": [
+            "Kill the Authority",
+            "Kill the Authority"
+          ],
+          "4": [
+            "Kill Your Cares",
+            "Kill Your Cares"
+          ]
+        },
+        "cover_characters": [
+          "Akame"
+        ],
+        "img": "images/akame/vol_001.png",
+        "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "2": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 21, 2015",
+          "January 22, 2011"
+        ],
+        "pages": [
+          "216",
+          "216"
+        ],
+        "ISBN": [
+          "978-0316340021",
+          "978-4757531291"
+        ],
+        "chapters": {
+          "5": [
+            "Kill the Slasher",
+            "Kill the Slasher"
+          ],
+          "6": [
+            "Kill the Imperial Arm Users",
+            "Kill the Imperial Arm Users"
+          ],
+          "7": [
+            "Kill the Dream",
+            "Kill the Dream"
+          ],
+          "8": [
+            "Kill the Evil-Doers",
+            "Kill the Evil-Doers"
+          ],
+          "9": [
+            "Kill the Absolute Justice",
+            "Kill the Absolute Justice"
+          ]
+        },
+        "cover_characters": [
+          "Mine"
+        ],
+        "img": "images/akame/vol_002.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "3": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 21,2015",
+          "May 21, 2011"
+        ],
+        "pages": [
+          "196",
+          "196"
+        ],
+        "ISBN": [
+          "978-0316340045",
+          "978-4757532380"
+        ],
+        "chapters": {
+          "10": [
+            "Kill Your Sadness",
+            "Kill Your Sadness"
+          ],
+          "11": [
+            "Kill the Impostors",
+            "Kill the Impostors"
+          ],
+          "12": [
+            "Kill the Three",
+            "Kill the Three"
+          ],
+          "13": [
+            "Kill Esdeath's Group (Part 1)",
+            "Kill Esdeath's Group (Part 1)"
+          ],
+          "14": [
+            "Kill Esdeath's Group (Part 2)",
+            "Kill Esdeath's Group (Part 2)"
+          ]
+        },
+        "cover_characters": [
+          "Leone"
+        ],
+        "img": "images/akame/vol_003.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "4": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 27, 2015",
+          "January 21, 2012"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-0316340052",
+          "978-4757534827"
+        ],
+        "chapters": {
+          "15": [
+            "Kill the Hardship",
+            "Kill the Hardship"
+          ],
+          "16": [
+            "Kill the Battle Fanatic",
+            "Kill the Battle Fanatic"
+          ],
+          "17": [
+            "Kill the Bandits",
+            "Kill the Bandits"
+          ],
+          "18": [
+            "Kill the Temptation",
+            "Kill the Temptation"
+          ],
+          "19": [
+            "Kill Your Crisis",
+            "Kill Your Crisis"
+          ]
+        },
+        "cover_characters": [
+          "Esdeath"
+        ],
+        "img": "images/akame/vol_004.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "5": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "January 26, 2016",
+          "April 21, 2012"
+        ],
+        "pages": [
+          "190",
+          "190"
+        ],
+        "ISBN": [
+          "978-0316340076",
+          "978-4757535701"
+        ],
+        "chapters": {
+          "20": [
+            "Kill the Intruder",
+            "Kill the Intruder"
+          ],
+          "21": [
+            "Kill the Mad Scientist",
+            "Kill the Mad Scientist"
+          ],
+          "22": [
+            "Kill the Unexplored",
+            "Kill the Unexplored"
+          ],
+          "23": [
+            "Kill the Newcomers",
+            "Kill the Newcomers"
+          ],
+          "Extra": [
+            "Special Chapter",
+            "Special Chapter"
+          ]
+        },
+        "cover_characters": [
+          "Kurome"
+        ],
+        "img": "images/akame/vol_005.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "6": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 26, 2016",
+          "September 22, 2012"
+        ],
+        "pages": [
+          "180",
+          "180"
+        ],
+        "ISBN": [
+          "978-0316340083",
+          "978-4757537361"
+        ],
+        "chapters": {
+          "24": [
+            "Kill the Danger Beasts",
+            "Kill the Danger Beasts"
+          ],
+          "25": [
+            "Kill the Hindrances",
+            "Kill the Hindrances"
+          ],
+          "26": [
+            "Kill the Colossal Danger Beast",
+            "Kill the Colossal Danger Beast"
+          ],
+          "27": [
+            "Kill the Strong One",
+            "Kill the Strong One"
+          ],
+          "28": [
+            "Kill the Religious Organization",
+            "Kill the Religious Organization"
+          ]
+        },
+        "cover_characters": [
+          "Chelsea"
+        ],
+        "img": "images/akame/vol_006.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "7": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 26, 2016",
+          "February 22, 2013"
+        ],
+        "pages": [
+          "200",
+          "200"
+        ],
+        "ISBN": [
+          "978-0316340090",
+          "978-4757538818"
+        ],
+        "chapters": {
+          "29": [
+            "Kill the Jaegers",
+            "Kill the Jaegers"
+          ],
+          "30": [
+            "Kill the Puppets (Part 1)",
+            "Kill the Puppets (Part 1)"
+          ],
+          "31": [
+            "Kill the Puppets (Part 2)",
+            "Kill the Puppets (Part 2)"
+          ],
+          "32": [
+            "Kill the Curse",
+            "Kill the Curse"
+          ],
+          "33": [
+            "Kill the Strengthened Human",
+            "Kill the Strengthened Human"
+          ]
+        },
+        "cover_characters": [
+          "Najenda"
+        ],
+        "img": "images/akame/vol_007.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "8": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "October 25, 2016",
+          "July 22, 2013"
+        ],
+        "pages": [
+          "208",
+          "208"
+        ],
+        "ISBN": [
+          "978-0316340113",
+          "978-4757540118"
+        ],
+        "chapters": {
+          "34": [
+            "Kill the Demon (Part 1)",
+            "Kill the Demon (Part 1)"
+          ],
+          "35": [
+            "Kill the Demon (Part 2)",
+            "Kill the Demon (Part 2)"
+          ],
+          "36": [
+            "Kill the Fate (Part 1)",
+            "Kill the Fate (Part 1)"
+          ],
+          "37": [
+            "Kill the Fate (Part 2)",
+            "Kill the Fate (Part 2)"
+          ],
+          "38": [
+            "Kill the Fate (Part 3)",
+            "Kill the Fate (Part 3)"
+          ],
+          "Extra": [
+            "Kill the Reminiscences",
+            "Kill the Reminiscences"
+          ]
+        },
+        "cover_characters": [
+          "Seryu Ubiquitous"
+        ],
+        "img": "images/akame/vol_008.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "9": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "January 17, 2017",
+          "January 22, 2014"
+        ],
+        "pages": [
+          "218",
+          "218"
+        ],
+        "ISBN": [
+          "978-0316340120",
+          "978-4757542068"
+        ],
+        "chapters": {
+          "39": [
+            "Kill the Trauma",
+            "Kill the Trauma"
+          ],
+          "40": [
+            "Kill The Treachery",
+            "Kill The Treachery"
+          ],
+          "41": [
+            "Kill The Evil",
+            "Kill The Evil"
+          ],
+          "42": [
+            "Kill the Despair (Part 1)",
+            "Kill the Despair (Part 1)"
+          ],
+          "43": [
+            "Kill the Despair (Part 2)",
+            "Kill the Despair (Part 2)"
+          ]
+        },
+        "cover_characters": [
+          "Esdeath"
+        ],
+        "img": "images/akame/vol_009.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "10": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 18, 2017",
+          "June 21, 2014"
+        ],
+        "pages": [
+          "228",
+          "228"
+        ],
+        "ISBN": [
+          "978-0316469302",
+          "978-4757543386"
+        ],
+        "chapters": {
+          "44": [
+            "Kill the Hesitation",
+            "Kill the Hesitation"
+          ],
+          "45": [
+            "Kill the Heresy (Part 1)",
+            "Kill the Heresy (Part 1)"
+          ],
+          "46": [
+            "Kill the Heresy (Part 2)",
+            "Kill the Heresy (Part 2)"
+          ],
+          "47": [
+            "Kill the Foe (Part 1)",
+            "Kill the Foe (Part 1)"
+          ],
+          "48": [
+            "Kill the Foe (Part 2)",
+            "Kill the Foe (Part 2)"
+          ]
+        },
+        "cover_characters": [
+          "Mine"
+        ],
+        "img": "images/akame/vol_010.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "11": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 17, 2017",
+          "December 22, 2014"
+        ],
+        "pages": [
+          "227",
+          "227"
+        ],
+        "ISBN": [
+          "978-0316439602",
+          "978-4757545052"
+        ],
+        "chapters": {
+          "49": [
+            "Kill the Indecision",
+            "Kill the Indecision"
+          ],
+          "50": [
+            "Kill the Disaster",
+            "Kill the Disaster"
+          ],
+          "51": [
+            "Kill the Love",
+            "Kill the Love"
+          ],
+          "52": [
+            "Kill the Carnage",
+            "Kill the Carnage"
+          ],
+          "53": [
+            "Kill the Adversity (Part 1)",
+            "Kill the Adversity (Part 1)"
+          ],
+          "54": [
+            "Kill the Adversity (Part 2)",
+            "Kill the Adversity (Part 2)"
+          ]
+        },
+        "cover_characters": [
+          "Tatsumi"
+        ],
+        "img": "images/akame/vol_011.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "12": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "November 14, 2017",
+          "July 22, 2015"
+        ],
+        "pages": [
+          "236",
+          "236"
+        ],
+        "ISBN": [
+          "978-0316473323",
+          "978-4757546936"
+        ],
+        "chapters": {
+          "55": [
+            "Kill the Top Two",
+            "Kill the Top Two"
+          ],
+          "56": [
+            "Kill the Great General",
+            "Kill the Great General"
+          ],
+          "57": [
+            "Kill the Alchemist",
+            "Kill the Alchemist"
+          ],
+          "58": [
+            "Kill the Skilled!",
+            "Kill the Skilled!"
+          ],
+          "59": [
+            "Kill Your Assumption",
+            "Kill Your Assumption"
+          ],
+          "60": [
+            "Kill the Wild Hunt",
+            "Kill the Wild Hunt"
+          ]
+        },
+        "cover_characters": [
+          "Leone"
+        ],
+        "img": "images/akame/vol_012.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "13": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "January 23, 2018",
+          "January 22, 2016"
+        ],
+        "pages": [
+          "261",
+          "261"
+        ],
+        "ISBN": [
+          "978-0316473354",
+          "978-4757548633"
+        ],
+        "chapters": {
+          "61": [
+            "Kill the Reinforcements",
+            "Kill the Reinforcements"
+          ],
+          "62": [
+            "Kill the Past (Part 1)",
+            "Kill the Past (Part 1)"
+          ],
+          "63": [
+            "Kill the Past (Part 2)",
+            "Kill the Past (Part 2)"
+          ],
+          "64": [
+            "Kill the Little Sister (Part 1)",
+            "Kill the Little Sister (Part 1)"
+          ],
+          "65": [
+            "Kill the Little Sister (Part 2)",
+            "Kill the Little Sister (Part 2)"
+          ],
+          "66": [
+            "Kill the Fate",
+            "Kill the Fate"
+          ]
+        },
+        "cover_characters": [
+          "Kurome"
+        ],
+        "img": "images/akame/vol_013.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "14": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "April 24, 2018",
+          "August 22, 2016"
+        ],
+        "pages": [
+          "224",
+          "224"
+        ],
+        "ISBN": [
+          "978-1975300418",
+          "978-4757550803"
+        ],
+        "chapters": {
+          "67": [
+            "Kill the Darkness",
+            "Kill the Darkness"
+          ],
+          "68": [
+            "Kill the Source",
+            "Kill the Source"
+          ],
+          "69": [
+            "Kill the Bedlam (Part 1)",
+            "Kill the Bedlam (Part 1)"
+          ],
+          "70": [
+            "Kill the Bedlam (Part 2)",
+            "Kill the Bedlam (Part 2)"
+          ],
+          "71": [
+            "Kill the Great Enemy",
+            "Kill the Great Enemy"
+          ],
+          "72": [
+            "Kill the Root",
+            "Kill the Root"
+          ]
+        },
+        "cover_characters": [
+          "Tatsumi"
+        ],
+        "img": "images/akame/vol_014.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
       },
       "15": {
         "title": [],
-        "date_release": [],
-        "pages": [],
-        "ISBN": [],
-        "chapters": {},
-        "img": "images/no_image_available.png",
+        "date_release": [
+          "July 17, 2018",
+          "February 22, 2017"
+        ],
+        "pages": [
+          "285",
+          "285"
+        ],
+        "ISBN": [
+          "978-1975300449",
+          "978-4757552494"
+        ],
+        "chapters": {
+          "73": [
+            "Kill the Supreme",
+            "Kill the Supreme"
+          ],
+          "74": [
+            "Kill the Emperor",
+            "Kill the Emperor"
+          ],
+          "75": [
+            "Kill Esdeath (Part 1)",
+            "Kill Esdeath (Part 1)"
+          ],
+          "76": [
+            "Kill Esdeath (Part 2)",
+            "Kill Esdeath (Part 2)"
+          ],
+          "77": [
+            "Kill Esdeath (Part 3)",
+            "Kill Esdeath (Part 3)"
+          ],
+          "78": [
+            "Final chapter. 'Akame ga Kill'",
+            "Final chapter. 'Akame ga Kill'"
+          ]
+        },
+        "cover_characters": [
+          "Akame"
+        ],
+        "img": "images/akame/vol_015.png",
         "owned": false,
         "prise": "10 €",
         "date_bought": ""
