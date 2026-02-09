@@ -1,5 +1,25 @@
 let temp = {};
 let imgs = [];
+let range = [];
+
+let saga = 2;
+
+saga === 1
+    ? range = [0, 2]
+    : saga === 2
+        ? range = [3, 6]
+        : saga === 3
+            ? range = [7, 16]
+            : saga === 4
+                ? range = [17, 25]
+                : saga === 5
+                    ? range = [26, 34]
+                    : saga === 6
+                        ? range = [35, 43]
+                        : saga === 7
+                            ? range = [44, 51]
+                            : null;
+
 function jojos(id) {
     /*
     const index_id = id <= 3
@@ -18,31 +38,35 @@ function jojos(id) {
                                 ? `Volume_${id - 44}`
                                 : null;
                                 */
+
     let index_id = null;
     let url = null;
-    if (id <= 3) {
+    if (id <= 2) {
         index_id = `PB_Volume_${id + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_1`;
-    } else if (id <= 7) {
+    } else if (id <= 6) {
         index_id = `BT_Volume_${id - 3 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_2`;
-    } else if (id <= 17) {
+    } else if (id <= 16) {
         index_id = `SC_Volume_${id - 7 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Hardcover`;
-    } else if (id <= 26) {
+    } else if (id <= 25) {
         index_id = `DU_Volume_${id - 17 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_4`;
-    } else if (id <= 35) {
+    } else if (id <= 34) {
         index_id = `Volume_${id - 26 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_5`;
-    } else if (id <= 44) {
+    } else if (id <= 43) {
         index_id = `Volume_${id - 35 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_6`;
-    } else if (id <= 52) {
+    } else if (id <= 51) {
         index_id = `Volume_${id - 44 + 1}`;
         url = `https://jojowiki.com/List_of_English_JoJo%27s_Bizarre_Adventure_Chapters/Part_7`;
     }
+    console.log(index_id)
+
     const tbl = document.getElementById(index_id)
+    console.log(tbl);
     const tblObj = {
         header: tbl.children[0].children,
         body: tbl.children
@@ -81,13 +105,17 @@ function jojos(id) {
     temp[id + 1] = result;
     imgs.push(infoObj.img.querySelector("img").src);
 }
-const range = [45, 51];
-for (let i = range[0]; i < range[1]; i++)jojos(i);
-temp = JSON.stringify(Object.assign(JSON.parse(localStorage.prevTemp || "{}"), temp));
-imgs = JSON.stringify(imgs.concat(JSON.parse(localStorage.prevImgs || "[]")));
-localStorage.prevTemp = temp;
+
+//const range = [45, 51];
+for (let i = range[0]; i <= range[1]; i++)jojos(i);
+// merge temp normally 
+temp = Object.assign(JSON.parse(localStorage.prevTemp || "{}"), temp);
+localStorage.prevTemp = JSON.stringify(temp);
+
+imgs = JSON.stringify(imgs.reverse().concat(JSON.parse(localStorage.prevImgs || "[]")));
 localStorage.prevImgs = imgs;
-console.log([localStorage.prevTemp, localStorage.prevImgs]);
+
+console.log(localStorage.prevTemp, localStorage.prevImgs);
 /*
     localStorage.removeItem("prevTemp");
     localStorage.removeItem("prevImgs");

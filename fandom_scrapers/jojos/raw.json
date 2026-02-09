@@ -241,6 +241,100 @@
     "prise": "10 €",
     "date_bought": ""
   },
+  "4": {
+    "title": [
+      "Battle Tendency Volume 1",
+      "Battle Tendency Volume 1"
+    ],
+    "date_release": [
+      "November 3, 2015",
+      "November 3, 2015"
+    ],
+    "pages": [],
+    "ISBN": [
+      "978-1-4215-7882-8",
+      "978-1-4215-7882-8"
+    ],
+    "chapters": {
+      "1": [
+        "Joseph Joestar of New York, Part 1",
+        "ニューヨークのジョセフ・ジョースター その①"
+      ],
+      "2": [
+        "Joseph Joestar of New York, Part 2",
+        "ニューヨークのジョセフ・ジョースター その②"
+      ],
+      "3": [
+        "Joseph Joestar of New York, Part 3",
+        "ニューヨークのジョセフ・ジョースター その③"
+      ],
+      "4": [
+        "Straizo vs. Joseph, Part 1",
+        "ストレイツォVSジョセフ その①"
+      ],
+      "5": [
+        "Straizo vs. Joseph, Part 2",
+        "ストレイツォVSジョセフ その②"
+      ],
+      "6": [
+        "Straizo vs. Joseph, Part 3",
+        "ストレイツォVSジョセフ その③"
+      ],
+      "7": [
+        "Straizo vs. Joseph, Part 4",
+        "ストレイツォVSジョセフ その④"
+      ],
+      "8": [
+        "Straizo vs. Joseph, Part 5",
+        "ストレイツォVSジョセフ その⑤"
+      ],
+      "9": [
+        "The Pillar Man",
+        "「柱の男」"
+      ],
+      "10": [
+        "The Pillar Man, Santviento, Part 1",
+        "「柱の男・サンタナ」 その①"
+      ],
+      "11": [
+        "The Pillar Man, Santviento, Part 2",
+        "「柱の男・サンタナ」 その②"
+      ],
+      "12": [
+        "The Pillar Man, Santviento, Part 3",
+        "「柱の男・サンタナ」 その③"
+      ],
+      "13": [
+        "The Pillar Man, Santviento, Part 4",
+        "「柱の男・サンタナ」 その④"
+      ],
+      "14": [
+        "The Pillar Man, Santviento, Part 5",
+        "「柱の男・サンタナ」 その⑤"
+      ],
+      "15": [
+        "The Pillar Man, Santviento, Part 6",
+        "「柱の男・サンタナ」 その⑥"
+      ],
+      "16": [
+        "The Pillar Man, Santviento, Part 7",
+        "「柱の男・サンタナ」 その⑦"
+      ],
+      "17": [
+        "The Pillar Man, Santviento, Part 8",
+        "「柱の男・サンタナ」 その⑧"
+      ],
+      "18": [
+        "The Pillar Man, Santviento, Part 9",
+        "「柱の男・サンタナ」 その⑨"
+      ]
+    },
+    "cover_characters": [],
+    "img": "images/jojos/vol_004.png",
+    "owned": false,
+    "prise": "10 €",
+    "date_bought": ""
+  },
   "5": {
     "title": [
       "Battle Tendency Volume 2",
@@ -507,6 +601,80 @@
     },
     "cover_characters": [],
     "img": "images/jojos/vol_007.png",
+    "owned": false,
+    "prise": "10 €",
+    "date_bought": ""
+  },
+  "8": {
+    "title": [
+      "Stardust Crusaders Volume 1",
+      "Stardust Crusaders Volume 1"
+    ],
+    "date_release": [
+      "November 1, 2016",
+      "November 1, 2016"
+    ],
+    "pages": [],
+    "ISBN": [
+      "978-1-4215-9065-3",
+      "978-1-4215-9065-3"
+    ],
+    "chapters": {
+      "1": [
+        "Jotaro Kujo, Part 1",
+        "空条承太郎 その①"
+      ],
+      "2": [
+        "Jotaro Kujo, Part 2",
+        "空条承太郎 その②"
+      ],
+      "3": [
+        "Jotaro Kujo, Part 3",
+        "空条承太郎 その③"
+      ],
+      "4": [
+        "The Man with the Star",
+        "星のアザを持つ男"
+      ],
+      "5": [
+        "Noriaki Kakyoin, Part 1",
+        "花京院典明 その①"
+      ],
+      "6": [
+        "Noriaki Kakyoin, Part 2",
+        "花京院典明 その②"
+      ],
+      "7": [
+        "Noriaki Kakyoin, Part 3",
+        "花京院典明 その③"
+      ],
+      "8": [
+        "The Power Called a \"Stand\"",
+        "「スタンド」という力"
+      ],
+      "9": [
+        "Head to Egypt",
+        "エジプトへ向かえ"
+      ],
+      "10": [
+        "Tower of Gray",
+        "灰の塔"
+      ],
+      "11": [
+        "Silver Chariot, Part 1",
+        "銀の戦車 その①"
+      ],
+      "12": [
+        "Silver Chariot, Part 2",
+        "銀の戦車 その②"
+      ],
+      "13": [
+        "Silver Chariot, Part 3",
+        "銀の戦車 その③"
+      ]
+    },
+    "cover_characters": [],
+    "img": "images/jojos/vol_008.png",
     "owned": false,
     "prise": "10 €",
     "date_bought": ""
@@ -1261,6 +1429,100 @@
     },
     "cover_characters": [],
     "img": "images/jojos/vol_017.png",
+    "owned": false,
+    "prise": "10 €",
+    "date_bought": ""
+  },
+  "18": {
+    "title": [
+      "Diamond Is Unbreakable Volume 1",
+      "Diamond Is Unbreakable Volume 1"
+    ],
+    "date_release": [
+      "May 7, 2019",
+      "May 7, 2019"
+    ],
+    "pages": [],
+    "ISBN": [
+      "978-1-9747-0652-5",
+      "978-1-9747-0652-5"
+    ],
+    "chapters": {
+      "1": [
+        "Jotaro Kujo Meets Josuke Higashikata, Part 1",
+        "空条承太郎! 東方仗助に会う その①"
+      ],
+      "2": [
+        "Jotaro Kujo Meets Josuke Higashikata, Part 2",
+        "空条承太郎! 東方仗助に会う その②"
+      ],
+      "3": [
+        "Jotaro Kujo Meets Josuke Higashikata, Part 3",
+        "空条承太郎! 東方仗助に会う その③"
+      ],
+      "4": [
+        "Josuke Higashikata Meets Angelo, Part 1",
+        "東方仗助！アンジェロに会う その①"
+      ],
+      "5": [
+        "Josuke Higashikata Meets Angelo, Part 2",
+        "東方仗助！アンジェロに会う その②"
+      ],
+      "6": [
+        "Josuke Higashikata Meets Angelo, Part 3",
+        "東方仗助！アンジェロに会う その③"
+      ],
+      "7": [
+        "Josuke Higashikata Meets Angelo, Part 4",
+        "東方仗助！アンジェロに会う その④"
+      ],
+      "8": [
+        "Josuke Higashikata Meets Angelo, Part 5",
+        "東方仗助！アンジェロに会う その⑤"
+      ],
+      "9": [
+        "The Nijimura Brothers, Part 1",
+        "虹村兄弟 その①"
+      ],
+      "10": [
+        "The Nijimura Brothers, Part 2",
+        "虹村兄弟 その②"
+      ],
+      "11": [
+        "The Nijimura Brothers, Part 3",
+        "虹村兄弟 その③"
+      ],
+      "12": [
+        "The Nijimura Brothers, Part 4",
+        "虹村兄弟 その④"
+      ],
+      "13": [
+        "The Nijimura Brothers, Part 5",
+        "虹村兄弟 その⑤"
+      ],
+      "14": [
+        "The Nijimura Brothers, Part 6",
+        "虹村兄弟 その⑥"
+      ],
+      "15": [
+        "The Nijimura Brothers, Part 7",
+        "虹村兄弟 その⑦"
+      ],
+      "16": [
+        "The Nijimura Brothers, Part 8",
+        "虹村兄弟 その⑧"
+      ],
+      "17": [
+        "The Nijimura Brothers, Part 9",
+        "虹村兄弟 その⑨"
+      ],
+      "18": [
+        "The Nijimura Brothers, Part 10",
+        "虹村兄弟 その⑩"
+      ]
+    },
+    "cover_characters": [],
+    "img": "images/jojos/vol_018.png",
     "owned": false,
     "prise": "10 €",
     "date_bought": ""
@@ -2065,6 +2327,88 @@
     "prise": "10 €",
     "date_bought": ""
   },
+  "27": {
+    "title": [
+      "Golden Wind Volume 1",
+      "Golden Wind Volume 1"
+    ],
+    "date_release": [
+      "August 3, 2021",
+      "August 3, 2021"
+    ],
+    "pages": [],
+    "ISBN": [
+      "978-1-9747-2349-2",
+      "978-1-9747-2349-2"
+    ],
+    "chapters": {
+      "1": [
+        "Golden Wind, Part 1",
+        "黄金体験 その①"
+      ],
+      "2": [
+        "Golden Wind, Part 2",
+        "黄金体験 その②"
+      ],
+      "3": [
+        "Golden Wind, Part 3",
+        "黄金体験 その③"
+      ],
+      "4": [
+        "Bucciarati Appears, Part 1",
+        "ブチャラティが来る その①"
+      ],
+      "5": [
+        "Bucciarati Appears, Part 2",
+        "ブチャラティが来る その②"
+      ],
+      "6": [
+        "Bucciarati Appears, Part 3",
+        "ブチャラティが来る その③"
+      ],
+      "7": [
+        "Bucciarati Appears, Part 4",
+        "ブチャラティが来る その④"
+      ],
+      "8": [
+        "Bucciarati Appears, Part 5",
+        "ブチャラティが来る その⑤"
+      ],
+      "9": [
+        "Meet the Mafioso Behind the Wall, Part 1",
+        "塀の中のギャングに会え その①"
+      ],
+      "10": [
+        "Meet the Mafioso Behind the Wall, Part 2",
+        "塀の中のギャングに会え その②"
+      ],
+      "11": [
+        "Joining the Famiglia, Part 1",
+        "ギャング入門 その①"
+      ],
+      "12": [
+        "Joining the Famiglia, Part 2",
+        "ギャング入門 その②"
+      ],
+      "13": [
+        "Joining the Famiglia, Part 3",
+        "ギャング入門 その③"
+      ],
+      "14": [
+        "Joining the Famiglia, Part 4",
+        "ギャング入門 その④"
+      ],
+      "15": [
+        "Joining the Famiglia, Part 5",
+        "ギャング入門 その⑤"
+      ]
+    },
+    "cover_characters": [],
+    "img": "images/jojos/vol_027.png",
+    "owned": false,
+    "prise": "10 €",
+    "date_bought": ""
+  },
   "28": {
     "title": [
       "Golden Wind Volume 2",
@@ -2797,6 +3141,96 @@
     },
     "cover_characters": [],
     "img": "images/jojos/vol_035.png",
+    "owned": false,
+    "prise": "10 €",
+    "date_bought": ""
+  },
+  "36": {
+    "title": [
+      "Stone Ocean Volume 1",
+      "Stone Ocean Volume 1"
+    ],
+    "date_release": [
+      "November 28, 2023",
+      "November 28, 2023"
+    ],
+    "pages": [],
+    "ISBN": [
+      "978-1-9747-3266-1",
+      "978-1-9747-3266-1"
+    ],
+    "chapters": {
+      "1": [
+        "Stone Ocean, Part 1",
+        "石作りの海 その①"
+      ],
+      "2": [
+        "Stone Ocean, Part 2",
+        "石作りの海 その②"
+      ],
+      "3": [
+        "Stone Ocean, Part 3",
+        "石作りの海 その③"
+      ],
+      "4": [
+        "Prisoner FE40536—Jolyne Cujoh, Part 1",
+        "囚人番号FE40536空条徐倫 その①"
+      ],
+      "5": [
+        "Prisoner FE40536—Jolyne Cujoh, Part 2",
+        "囚人番号FE40536空条徐倫 その②"
+      ],
+      "6": [
+        "Prisoner FE40536—Jolyne Cujoh, Part 3",
+        "囚人番号FE40536空条徐倫 その③"
+      ],
+      "7": [
+        "G.G. Dolls",
+        "グーグー・ドールズ"
+      ],
+      "8": [
+        "Stone Ocean Appears, Part 1",
+        "ストーン・フリー その①"
+      ],
+      "9": [
+        "Stone Ocean Appears, Part 2",
+        "ストーン・フリー その②"
+      ],
+      "10": [
+        "Green Dolphin Street Prison",
+        "グリーン・ドルフィン・ストリート刑務所"
+      ],
+      "11": [
+        "The Visitor, Part 1",
+        "面会人 その①"
+      ],
+      "12": [
+        "The Visitor, Part 2",
+        "面会人 その②"
+      ],
+      "13": [
+        "The Visitor, Part 3",
+        "面会人 その③"
+      ],
+      "14": [
+        "The Visitor, Part 4",
+        "面会人 その④"
+      ],
+      "15": [
+        "The Visitor, Part 5",
+        "面会人 その⑤"
+      ],
+      "16": [
+        "The Visitor, Part 6",
+        "面会人 その⑥"
+      ],
+      "17": [
+        "The Visitor, Part 7",
+        "面会人 その⑦"
+      ]
+    },
+    "cover_characters": [],
+    "img": "images/jojos/vol_036.png",
     "owned": false,
     "prise": "10 €",
     "date_bought": ""
