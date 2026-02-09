@@ -1,4 +1,4 @@
-let amount = 14; //<-- amount of volumes to be added
+let range = [/*min*/49, 52/*max*/] //<-- range of volumes to be added
 const temp = {};
 function raw(id, title) {
     const result = {
@@ -15,5 +15,5 @@ function raw(id, title) {
     }
     temp[id + 1] = result;
 }
-for (let i = 0; i < amount; i++) raw(i, /*title*/ /*example: 'frieren'*/);
+for (let i = range[0] - 1; i <= range[1] - 1; i++) raw(i, /*title*/ /*example: 'frieren'*/);
 JSON.stringify(temp);

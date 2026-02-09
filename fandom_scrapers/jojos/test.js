@@ -107,7 +107,7 @@ async function jojos(id) {
 }
 
 // scrape all 52 volumes
-for (let i = 0; i < 52; i++) {
+for (let i = 0; i < 51; i++) {
     await jojos(i);
 }
 

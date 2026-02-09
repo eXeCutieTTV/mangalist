@@ -1,5 +1,5 @@
-const temp = {};
-const imgs = [];
+let temp = {};
+let imgs = [];
 function jojos(id) {
     /*
     const index_id = id <= 3
@@ -73,7 +73,7 @@ function jojos(id) {
         date_bought: ""
     }
     for (const chapter of infoObj.chapters) {
-        const titles = [chapter.children[0].children[0], chapter.children[0].children[1].children[1].innerHTML.replace(/<ruby[^>]*>.*?<rb>(.*?)<\/rb>.*?<\/ruby>/g, "$1").replace(/<[^>]+>/g, "")];
+        const titles = [chapter.children[0].children[0].innerText, chapter.children[0].children[1].children[1].innerHTML.replace(/<ruby[^>]*>.*?<rb>(.*?)<\/rb>.*?<\/ruby>/g, "$1").replace(/<[^>]+>/g, "")];
         //^^ removes furigana
         let number = $(chapter).index() + chapter.parentElement.start;
         result.chapters[number] = [titles[0], titles[1]];
@@ -81,5 +81,16 @@ function jojos(id) {
     temp[id + 1] = result;
     imgs.push(infoObj.img.querySelector("img").src);
 }
-jojos(2)
-console.log(temp)
+const range = [45, 51];
+for (let i = range[0]; i < range[1]; i++)jojos(i);
+temp = JSON.stringify(Object.assign(JSON.parse(localStorage.prevTemp || "{}"), temp));
+imgs = JSON.stringify(imgs.concat(JSON.parse(localStorage.prevImgs || "[]")));
+localStorage.prevTemp = temp;
+localStorage.prevImgs = imgs;
+console.log([localStorage.prevTemp, localStorage.prevImgs]);
+/*
+    localStorage.removeItem("prevTemp");
+    localStorage.removeItem("prevImgs");
+    localStorage.removeItem("prevObj");
+*/
+// can do semi-manually for each section, except for last one. last one has to be done completely manually... or w a new scraper.
