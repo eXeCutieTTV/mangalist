@@ -12,10 +12,7 @@ async function page2() {
 
     const newFetch = await fetch("raw_data.json");
     const newEntry = await newFetch.json();
-    console.log(newEntry);
-    const ownedFetch = await fetch("generated/generated_00000000001.json");
-    const owned_booleans = await ownedFetch.json();
-    console.log(owned_booleans);
+    //console.log(newEntry);
 
     /*
         const newtemp = {}
@@ -26,16 +23,16 @@ async function page2() {
             }
         }
     */
-
-    function mergeBools() {
-        for (const [series, data] of Object.entries(newEntry)) {
-            for (const [vol, volData] of Object.entries(data.volumes)) {
-                volData.owned = owned_booleans[series]?.[vol]
+    /*
+        function mergeBools() {
+            for (const [series, data] of Object.entries(newEntry)) {
+                for (const [vol, volData] of Object.entries(data.volumes)) {
+                    volData.owned = owned_booleans[series]?.[vol]
+                }
             }
         }
-    }
-    mergeBools();
-    console.log(newEntry);
+        mergeBools();*/
+    //console.log(newEntry);
 
     //vv file manipulation
     const folder = "generated"; // folder inside repo
@@ -55,7 +52,7 @@ async function page2() {
         }
 
         const sorted = Object.fromEntries(//<-- sorts alphabetically
-            Object.entries(entryMap).sort(([, aVal], [, bVal]) =>
+            Object.entries(own_bool_map).sort(([, aVal], [, bVal]) =>
                 aVal.author.localeCompare(bVal.author)
             )
         );
@@ -180,8 +177,20 @@ async function page2() {
         };
 
     }
-    const { name: fileName, data: entryMap } = await getNewestFile();
-    console.log(`JSON parsed from file: ${fileName}`, entryMap);
+    const { name: fileName, data: own_bool_map } = await getNewestFile();
+    console.log(`JSON parsed from file: ${fileName}`, own_bool_map);
+
+    function mergeBools() {
+        for (const [series, data] of Object.entries(newEntry)) {
+            for (const [vol, volData] of Object.entries(data.volumes)) {
+                volData.owned = own_bool_map[series]?.[vol]
+            }
+        }
+    }
+    mergeBools();
+    //console.log(newEntry);
+    entryMap = newEntry;
+
     //^^ file manipulation
 
     // dynamic modal creation vv
