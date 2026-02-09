@@ -106,6 +106,14 @@ async function jojos(id) {
     };
 }
 
-// example
-await jojos(2);
-console.log(temp);
+// scrape all 52 volumes
+for (let i = 0; i < 52; i++) {
+    await jojos(i);
+}
+
+// ensure folder exists
+fs.mkdirSync("images/jojos", { recursive: true });
+
+// write JSON
+await writeFile("fandom_scrapers/jojos/raw.json", JSON.stringify(temp, null, 2), "utf8");
+await writeFile("fandom_scrapers/jojos/imgs.json", JSON.stringify(imgs, null, 2), "utf8");
