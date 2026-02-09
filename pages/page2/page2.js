@@ -13,10 +13,19 @@ async function page2() {
     const newFetch = await fetch("raw_data.json");
     const newEntry = await newFetch.json();
     console.log(newEntry);
-    const ownedFetch = await fetch("generated/generated_1770659282428.json");
+    const ownedFetch = await fetch("generated/generated_00000000001.json");
     const owned_booleans = await ownedFetch.json();
     console.log(owned_booleans);
 
+    /*
+        const newtemp = {}
+        for (const [key, value] of Object.entries(temp)) {
+            for (const [key2, value2] of Object.entries(value.volumes)) {
+                console.log(value2.owned);
+                newtemp[key][key2] = value2.owned
+            }
+        }
+    */
 
     function mergeBools() {
         for (const [series, data] of Object.entries(newEntry)) {
