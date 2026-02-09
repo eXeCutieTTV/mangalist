@@ -1,3 +1,5 @@
+const { merge } = require("cheerio");
+
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("page2-wrapper");
@@ -7,6 +9,24 @@ async function page2() {
     */
     if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
     else console.log("pat token:", localStorage.mangalist_token);
+
+    const newFetch = await fetch("raw_data.json");
+    const newEntry = await newFetch.json();
+    console.log(newEntry);
+    const ownedFetch = await fetch("generated/generated_1770659282428.json");
+    const owned_booleans = await ownedFetch.json();
+    console.log(owned_booleans);
+
+
+    function mergeBools() {
+        for (const [series, data] of Object.entries(newEntry)) {
+            for (const [vol, volData] of Object.entries(data.volumes)) {
+                volData.owned = owned_booleans[series]?.[vol]
+            }
+        }
+    }
+    mergeBools();
+    console.log(newEntry);
 
     //vv file manipulation
     const folder = "generated"; // folder inside repo
@@ -367,3 +387,4 @@ async function page2() {
         }
     }
 */
+//Object.assign(static['Vinland Saga'].volumes[1],booleans['Vinland Saga'].volumes[1])
