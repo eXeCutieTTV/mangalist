@@ -386,15 +386,12 @@ async function page2() {
         observer.observe(img);
     });
     //^^
-    //vv headers clickable to create file
-    const header_btns = document.getElementsByClassName("page2-series-header");
-    for (const btn of header_btns) {
-        //console.log(btn);
-        btn.addEventListener("click", () => {
-            console.log("updated JSON", own_bool_map);
-            updateJSON();
-        });
-    }
+    //vv updateBtn to create file
+    const updateBtn = document.getElementById("update_list-btn");
+    updateBtn.addEventListener("click", () => {
+        console.log("updated JSON", own_bool_map);
+        updateJSON();
+    });
     //^^
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
