@@ -220,7 +220,9 @@ async function page2() {
             const img = document.createElement("img");
             const footer = document.createElement("div");
             footer.classList.add("page2-modal-footer")
-            footer.textContent = `Volume ${volNum}`;
+            footer.textContent = volNum.toLowerCase().includes("one-shot")
+                ? volNum
+                : `Volume ${volNum}`;
 
             footer.setAttribute("data-path.title", entry.title);
             footer.setAttribute("data-path.vol", volNum);
@@ -249,10 +251,12 @@ async function page2() {
                     <h1 style="margin: 0;">${entry.title}</h1>
                     <h2 style="margin: 10px 0;">Volume ${volNum}</h2>
                     ${volData.title[0] === volData.title[1]
-                        ? `<h3 style="margin: 0; margin-bottom:15px;">${volData.title[0]}</h3>`
+                        ? volData.title[0] === undefined
+                            ? ""
+                            : `<h3 style="margin: 0; margin-bottom:15px;">${volData.title[0]}</h3>`
                         : `
-                        <h3 style="margin: 0;">${volData.title[0]}</h3>
-                        <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
+                            <h3 style="margin: 0;">${volData.title[0]}</h3>
+                            <h3 style="margin: 0; margin-bottom:15px;">${volData.title[1]}</h3>
                         `
                     }
                     <div style="display:flex;margin-bottom:15px;">
@@ -263,8 +267,10 @@ async function page2() {
                             <ul style="margin: 0; overflow-y: auto; max-height: 300px; scrollbar-width: none;">
                         ${Object.entries(volData.chapters)
                         .map(([chapNum, titles]) => {
-                            const [jp, en] = titles;
-                            const titleText = jp === en ? jp : `${jp} / ${en}`;
+                            const [en, jp] = titles;
+                            const titleText = en === jp
+                                ? en
+                                : `${en} / ${jp}`;
                             return `<li>Chapter ${chapNum}: ${titleText}</li>`;
                         })
                         .join("")}
