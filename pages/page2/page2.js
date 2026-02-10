@@ -393,6 +393,49 @@ async function page2() {
         updateJSON();
     });
     //^^
+    //vv headers clickable to filter. hover to pick filter aswell.
+    const series_wrappers = document.querySelectorAll(".page2-series-wrapper");
+    for (const wrapper of series_wrappers) {
+        let toggle_state = 0;
+
+        const header = wrapper.querySelector(".page2-series-header");
+
+        const title = wrapper.dataset.title;
+        const gallery_div = wrapper.querySelector("div"); // the gallery div
+        function display_unowned() {
+            for (const entry of gallery_div.children) {
+                if (entry.children[1].className.includes("volume-owned")) {
+                    entry.hidden = !entry.hidden; // toggle visibility
+                }
+            }
+        }
+        function display_owned() {
+            for (const entry of gallery_div.children) {
+                if (entry.children[1].className.includes("volume-not-owned")) {
+                    entry.hidden = !entry.hidden; // toggle visibility
+                }
+            }
+        }
+        function display_all() {
+            for (const entry of gallery_div.children) {
+                entry.hidden = false; // show all
+            }
+        }
+        header.addEventListener("click", () => {
+            display_all();
+            if (toggle_state === 0) {
+                display_unowned();
+                toggle_state = 1;
+            } else if (toggle_state === 1) {
+                display_owned();
+                toggle_state = 2;
+            } else if (toggle_state === 2) {
+                display_all();
+                toggle_state = 0;
+            }
+        });
+    }
+    //^^
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
 // fix hxh^^
