@@ -61,7 +61,6 @@
                     "Ai Hoshino"
                 ],
                 "img": "images/oshink/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -122,7 +121,6 @@
                     "Ruby Hoshino"
                 ],
                 "img": "images/oshink/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -183,7 +181,6 @@
                     "Aqua Hoshino"
                 ],
                 "img": "images/oshink/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -244,7 +241,6 @@
                     "Kana Arima"
                 ],
                 "img": "images/oshink/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -305,7 +301,6 @@
                     "Akane Kurokawa"
                 ],
                 "img": "images/oshink/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -367,7 +362,6 @@
                     "Abiko Samejima"
                 ],
                 "img": "images/oshink/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -430,7 +424,6 @@
                     "Ruby Hoshino"
                 ],
                 "img": "images/oshink/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -491,7 +484,6 @@
                     "Mem-Cho"
                 ],
                 "img": "images/oshink/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -552,7 +544,6 @@
                     "Minami Kotobuki"
                 ],
                 "img": "images/oshink/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -613,7 +604,6 @@
                     "Aqua Hoshino"
                 ],
                 "img": "images/oshink/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -674,7 +664,6 @@
                     "Kana Arima"
                 ],
                 "img": "images/oshink/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -735,7 +724,6 @@
                     "Frill Shiranui"
                 ],
                 "img": "images/oshink/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -812,7 +800,6 @@
                     "Miyako Saitou"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -878,7 +865,6 @@
                     "Ruby Hoshino"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -944,7 +930,6 @@
                     "Kana Arima"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -1025,7 +1010,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1095,7 +1079,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1169,7 +1152,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1239,7 +1221,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1293,7 +1274,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1352,7 +1332,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1426,7 +1405,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1497,7 +1475,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/bocchi/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -1525,7 +1502,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1546,7 +1522,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1567,7 +1542,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1588,7 +1562,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1609,7 +1582,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1630,7 +1602,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1651,7 +1622,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1672,7 +1642,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1693,7 +1662,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1714,7 +1682,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1735,7 +1702,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1756,7 +1722,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1777,7 +1742,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1798,7 +1762,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1819,7 +1782,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1840,7 +1802,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1861,7 +1822,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1882,7 +1842,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1903,7 +1862,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1924,7 +1882,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -1945,7 +1902,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/grimgar/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -2013,7 +1969,6 @@
                     "Nami"
                 ],
                 "img": "images/one-piece/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2079,7 +2034,6 @@
                     "Cabaji"
                 ],
                 "img": "images/one-piece/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2143,7 +2097,6 @@
                     "Roronoa Zoro"
                 ],
                 "img": "images/one-piece/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2210,7 +2163,6 @@
                     "Buchi"
                 ],
                 "img": "images/one-piece/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2280,7 +2232,6 @@
                     "Kaya"
                 ],
                 "img": "images/one-piece/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2346,7 +2297,6 @@
                     "Usopp"
                 ],
                 "img": "images/one-piece/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2410,7 +2360,6 @@
                     "Sanji"
                 ],
                 "img": "images/one-piece/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2476,7 +2425,6 @@
                     "Pearl"
                 ],
                 "img": "images/one-piece/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2547,7 +2495,6 @@
                     "Sanji"
                 ],
                 "img": "images/one-piece/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2615,7 +2562,6 @@
                     "Momoo"
                 ],
                 "img": "images/one-piece/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2682,7 +2628,6 @@
                     "Sanji"
                 ],
                 "img": "images/one-piece/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2749,7 +2694,6 @@
                     "Sanji"
                 ],
                 "img": "images/one-piece/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2820,7 +2764,6 @@
                     "Miss Friday"
                 ],
                 "img": "images/one-piece/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2887,7 +2830,6 @@
                     "Miss Goldenweek"
                 ],
                 "img": "images/one-piece/vol_014.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -2957,7 +2899,6 @@
                     "Brogy"
                 ],
                 "img": "images/one-piece/vol_015.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3022,7 +2963,6 @@
                     "Hiriluk"
                 ],
                 "img": "images/one-piece/vol_016.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3094,7 +3034,6 @@
                     "Kuromarimo"
                 ],
                 "img": "images/one-piece/vol_017.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3174,7 +3113,6 @@
                     "Kung-Fu Dugongs"
                 ],
                 "img": "images/one-piece/vol_018.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3246,7 +3184,6 @@
                     "Chaka"
                 ],
                 "img": "images/one-piece/vol_019.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3318,7 +3255,6 @@
                     "Karoo"
                 ],
                 "img": "images/one-piece/vol_020.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3388,7 +3324,6 @@
                     "Lassoo"
                 ],
                 "img": "images/one-piece/vol_021.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3463,7 +3398,6 @@
                     "Matsuge"
                 ],
                 "img": "images/one-piece/vol_022.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3540,7 +3474,6 @@
                     "Nefertari Vivi"
                 ],
                 "img": "images/one-piece/vol_023.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3611,7 +3544,6 @@
                     "Bellamy"
                 ],
                 "img": "images/one-piece/vol_024.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3683,7 +3615,6 @@
                     "Sengoku's Goat"
                 ],
                 "img": "images/one-piece/vol_025.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3756,7 +3687,6 @@
                     "Nico Robin"
                 ],
                 "img": "images/one-piece/vol_026.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3823,7 +3753,6 @@
                     "Ohm"
                 ],
                 "img": "images/one-piece/vol_027.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3894,7 +3823,6 @@
                     "Wyper"
                 ],
                 "img": "images/one-piece/vol_028.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -3971,7 +3899,6 @@
                     "Su"
                 ],
                 "img": "images/one-piece/vol_029.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4039,7 +3966,6 @@
                     "Enel"
                 ],
                 "img": "images/one-piece/vol_030.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4111,7 +4037,6 @@
                     "Nola"
                 ],
                 "img": "images/one-piece/vol_031.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4185,7 +4110,6 @@
                     "South Bird"
                 ],
                 "img": "images/one-piece/vol_032.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4265,7 +4189,6 @@
                     "Chuchun"
                 ],
                 "img": "images/one-piece/vol_033.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4342,7 +4265,6 @@
                     "Kaku"
                 ],
                 "img": "images/one-piece/vol_034.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4409,7 +4331,6 @@
                     "Mozu"
                 ],
                 "img": "images/one-piece/vol_035.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4481,7 +4402,6 @@
                     "Blueno"
                 ],
                 "img": "images/one-piece/vol_036.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4557,7 +4477,6 @@
                     "Iceburg"
                 ],
                 "img": "images/one-piece/vol_037.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4631,7 +4550,6 @@
                     "Gomorrah"
                 ],
                 "img": "images/one-piece/vol_038.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4704,7 +4622,6 @@
                     "Nero"
                 ],
                 "img": "images/one-piece/vol_039.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4779,7 +4696,6 @@
                     "Kashii"
                 ],
                 "img": "images/one-piece/vol_040.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4854,7 +4770,6 @@
                     "Nico Olvia"
                 ],
                 "img": "images/one-piece/vol_041.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -4929,7 +4844,6 @@
                     "Funkfreed"
                 ],
                 "img": "images/one-piece/vol_042.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5002,7 +4916,6 @@
                     "Franky"
                 ],
                 "img": "images/one-piece/vol_043.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5075,7 +4988,6 @@
                     "Rob Lucci"
                 ],
                 "img": "images/one-piece/vol_044.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5149,7 +5061,6 @@
                     "Helmeppo"
                 ],
                 "img": "images/one-piece/vol_045.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5218,7 +5129,6 @@
                     "zombies"
                 ],
                 "img": "images/one-piece/vol_046.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5292,7 +5202,6 @@
                     "Victoria Cindry"
                 ],
                 "img": "images/one-piece/vol_047.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5364,7 +5273,6 @@
                     "Oars"
                 ],
                 "img": "images/one-piece/vol_048.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5446,7 +5354,6 @@
                     "Lola"
                 ],
                 "img": "images/one-piece/vol_049.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5516,7 +5423,6 @@
                     "Brook"
                 ],
                 "img": "images/one-piece/vol_050.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5597,7 +5503,6 @@
                     "Trafalgar D. Water Law"
                 ],
                 "img": "images/one-piece/vol_051.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5673,7 +5578,6 @@
                     "Silvers Rayleigh"
                 ],
                 "img": "images/one-piece/vol_052.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5745,7 +5649,6 @@
                     "Bacura"
                 ],
                 "img": "images/one-piece/vol_053.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5818,7 +5721,6 @@
                     "Blue Gorillas"
                 ],
                 "img": "images/one-piece/vol_054.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5888,7 +5790,6 @@
                     "Minozebra"
                 ],
                 "img": "images/one-piece/vol_055.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -5960,7 +5861,6 @@
                     "Daz Bonez"
                 ],
                 "img": "images/one-piece/vol_056.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6046,7 +5946,6 @@
                     "Izou"
                 ],
                 "img": "images/one-piece/vol_057.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6122,7 +6021,6 @@
                     "Kuzan"
                 ],
                 "img": "images/one-piece/vol_058.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6198,7 +6096,6 @@
                     "Jinbe"
                 ],
                 "img": "images/one-piece/vol_059.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6271,7 +6168,6 @@
                     "Makino"
                 ],
                 "img": "images/one-piece/vol_060.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6342,7 +6238,6 @@
                     "Brook"
                 ],
                 "img": "images/one-piece/vol_061.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6424,7 +6319,6 @@
                     "Mero"
                 ],
                 "img": "images/one-piece/vol_062.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6504,7 +6398,6 @@
                     "Otohime"
                 ],
                 "img": "images/one-piece/vol_063.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6580,7 +6473,6 @@
                     "Jinbe"
                 ],
                 "img": "images/one-piece/vol_064.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6656,7 +6548,6 @@
                     "Hyouzou"
                 ],
                 "img": "images/one-piece/vol_065.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6729,7 +6620,6 @@
                     "Tashigi"
                 ],
                 "img": "images/one-piece/vol_066.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6809,7 +6699,6 @@
                     "Caesar Clown"
                 ],
                 "img": "images/one-piece/vol_067.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6883,7 +6772,6 @@
                     "Caesar Clown‎"
                 ],
                 "img": "images/one-piece/vol_068.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -6966,7 +6854,6 @@
                     "Doran"
                 ],
                 "img": "images/one-piece/vol_069.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7043,7 +6930,6 @@
                     "Basil Hawkins"
                 ],
                 "img": "images/one-piece/vol_070.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7130,7 +7016,6 @@
                     "Kyros (statue)"
                 ],
                 "img": "images/one-piece/vol_071.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7207,7 +7092,6 @@
                     "Mont Blanc Noland (statue)"
                 ],
                 "img": "images/one-piece/vol_072.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7283,7 +7167,6 @@
                     "Riku Doldo III"
                 ],
                 "img": "images/one-piece/vol_073.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7362,7 +7245,6 @@
                     "Viola"
                 ],
                 "img": "images/one-piece/vol_074.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7436,7 +7318,6 @@
                     "Pica"
                 ],
                 "img": "images/one-piece/vol_075.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7520,7 +7401,6 @@
                     "Kurozumi Kanjuro"
                 ],
                 "img": "images/one-piece/vol_076.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7607,7 +7487,6 @@
                     "Baby 5"
                 ],
                 "img": "images/one-piece/vol_077.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7695,7 +7574,6 @@
                     "Bian"
                 ],
                 "img": "images/one-piece/vol_078.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7769,7 +7647,6 @@
                     "Thunder Soldier"
                 ],
                 "img": "images/one-piece/vol_079.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7852,7 +7729,6 @@
                     "Orlumbus"
                 ],
                 "img": "images/one-piece/vol_080.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -7934,7 +7810,6 @@
                     "Keith"
                 ],
                 "img": "images/one-piece/vol_081.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8012,7 +7887,6 @@
                     "Nefertari Vivi"
                 ],
                 "img": "images/one-piece/vol_082.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8092,7 +7966,6 @@
                     "Charlotte Chiffon"
                 ],
                 "img": "images/one-piece/vol_083.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8165,7 +8038,6 @@
                     "Vinsmoke Yonji"
                 ],
                 "img": "images/one-piece/vol_084.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8239,7 +8111,6 @@
                     "Vinsmoke Reiju"
                 ],
                 "img": "images/one-piece/vol_085.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8318,7 +8189,6 @@
                     "Capone Pez"
                 ],
                 "img": "images/one-piece/vol_086.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8400,7 +8270,6 @@
                     "Prometheus"
                 ],
                 "img": "images/one-piece/vol_087.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8476,7 +8345,6 @@
                     "Charlotte Pudding"
                 ],
                 "img": "images/one-piece/vol_088.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8548,7 +8416,6 @@
                     "Charlotte Katakuri"
                 ],
                 "img": "images/one-piece/vol_089.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8629,7 +8496,6 @@
                     "Shirahoshi"
                 ],
                 "img": "images/one-piece/vol_090.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8709,7 +8575,6 @@
                     "Tama"
                 ],
                 "img": "images/one-piece/vol_091.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8785,7 +8650,6 @@
                     "Gama Pyonnosuke"
                 ],
                 "img": "images/one-piece/vol_092.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8863,7 +8727,6 @@
                     "Toko"
                 ],
                 "img": "images/one-piece/vol_093.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -8943,7 +8806,6 @@
                     "Charlotte Linlin"
                 ],
                 "img": "images/one-piece/vol_094.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9021,7 +8883,6 @@
                     "Marshall D. Teach"
                 ],
                 "img": "images/one-piece/vol_095.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9097,7 +8958,6 @@
                     "Marshall D. Teach"
                 ],
                 "img": "images/one-piece/vol_096.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9172,7 +9032,6 @@
                     "Ulti"
                 ],
                 "img": "images/one-piece/vol_097.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9249,7 +9108,6 @@
                     "Kawamatsu"
                 ],
                 "img": "images/one-piece/vol_098.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9325,7 +9183,6 @@
                     ""
                 ],
                 "img": "images/one-piece/vol_099.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9400,7 +9257,6 @@
                     "Yamato"
                 ],
                 "img": "images/one-piece/vol_100.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9470,7 +9326,6 @@
                     "Kaidou"
                 ],
                 "img": "images/one-piece/vol_101.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9543,7 +9398,6 @@
                     "Queen"
                 ],
                 "img": "images/one-piece/vol_102.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9617,7 +9471,6 @@
                     "Kaidou"
                 ],
                 "img": "images/one-piece/vol_103.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9682,7 +9535,6 @@
                     "Kouzuki Hiyori"
                 ],
                 "img": "images/one-piece/vol_104.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9753,7 +9605,6 @@
                     "Carrot"
                 ],
                 "img": "images/one-piece/vol_105.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9833,7 +9684,6 @@
                     "Jinbe"
                 ],
                 "img": "images/one-piece/vol_106.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9917,7 +9767,6 @@
                     "Morgans"
                 ],
                 "img": "images/one-piece/vol_107.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -9999,7 +9848,6 @@
                     "Atlas"
                 ],
                 "img": "images/one-piece/vol_108.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10072,7 +9920,6 @@
                     "Stussy"
                 ],
                 "img": "images/one-piece/vol_109.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10151,7 +9998,6 @@
                     "Shepherd Ju Peter"
                 ],
                 "img": "images/one-piece/vol_110.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10232,7 +10078,6 @@
                     "Loki"
                 ],
                 "img": "images/one-piece/vol_111.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10310,7 +10155,6 @@
                     "Jaguar D. Saul"
                 ],
                 "img": "images/one-piece/vol_112.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10386,7 +10230,6 @@
                     "Scopper Gaban"
                 ],
                 "img": "images/one-piece/vol_113.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -10438,7 +10281,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/wanted/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -10511,7 +10353,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10597,7 +10438,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10687,7 +10527,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10781,7 +10620,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10875,7 +10713,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -10949,7 +10786,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11051,7 +10887,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11125,7 +10960,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11199,7 +11033,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11277,7 +11110,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11355,7 +11187,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11437,7 +11268,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11523,7 +11353,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11617,7 +11446,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11683,7 +11511,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11781,7 +11608,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11879,7 +11705,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -11973,7 +11798,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12071,7 +11895,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12169,7 +11992,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12271,7 +12093,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12365,7 +12186,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12467,7 +12287,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_023.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12565,7 +12384,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_024.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12663,7 +12481,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_025.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12773,7 +12590,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_026.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12855,7 +12671,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_027.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -12949,7 +12764,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_028.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13043,7 +12857,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_029.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13137,7 +12950,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_030.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13231,7 +13043,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_031.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13325,7 +13136,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_032.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13419,7 +13229,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_033.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13509,7 +13318,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_034.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13591,7 +13399,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_035.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13681,7 +13488,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_036.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13779,7 +13585,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_037.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13873,7 +13678,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_038.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -13967,7 +13771,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_039.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14061,7 +13864,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_040.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14155,7 +13957,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_041.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14249,7 +14050,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_042.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14335,7 +14135,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_043.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14421,7 +14220,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_044.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14487,7 +14285,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_049.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14557,7 +14354,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_046.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14611,7 +14407,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_047.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14657,7 +14452,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_048.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14703,7 +14497,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/jojos/vol_049.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14724,7 +14517,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/jojos/vol_050.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14745,7 +14537,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/jojos/vol_051.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14766,7 +14557,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -14846,7 +14636,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -14923,7 +14712,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15016,7 +14804,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15113,7 +14900,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15206,7 +14992,6 @@
                     "Cha Hae-In"
                 ],
                 "img": "images/sololvl/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15291,7 +15076,6 @@
                     "Baek Yoonho"
                 ],
                 "img": "images/sololvl/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15364,7 +15148,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15433,7 +15216,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15502,7 +15284,6 @@
                     "Statue of God"
                 ],
                 "img": "images/sololvl/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15571,7 +15352,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15641,7 +15421,6 @@
                     "Sillad"
                 ],
                 "img": "images/sololvl/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15702,7 +15481,6 @@
                     "Sung Il-Hwan"
                 ],
                 "img": "images/sololvl/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15767,7 +15545,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15832,7 +15609,6 @@
                     "Sung Jinwoo"
                 ],
                 "img": "images/sololvl/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15893,7 +15669,6 @@
                     "Sung Suho"
                 ],
                 "img": "images/sololvl/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -15947,7 +15722,6 @@
                     "Coco"
                 ],
                 "img": "images/whAtelier/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -15998,7 +15772,6 @@
                     "Agott"
                 ],
                 "img": "images/whAtelier/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16049,7 +15822,6 @@
                     "Qifrey"
                 ],
                 "img": "images/whAtelier/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16100,7 +15872,6 @@
                     "Richeh"
                 ],
                 "img": "images/whAtelier/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16151,7 +15922,6 @@
                     "Tetia"
                 ],
                 "img": "images/whAtelier/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16202,7 +15972,6 @@
                     "Olruggio"
                 ],
                 "img": "images/whAtelier/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16250,7 +16019,6 @@
                     "Brushbuddy"
                 ],
                 "img": "images/whAtelier/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16297,7 +16065,6 @@
                     "Tartah"
                 ],
                 "img": "images/whAtelier/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16348,7 +16115,6 @@
                     "Easthies"
                 ],
                 "img": "images/whAtelier/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16399,7 +16165,6 @@
                     "Ininia"
                 ],
                 "img": "images/whAtelier/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16446,7 +16211,6 @@
                     "Agott"
                 ],
                 "img": "images/whAtelier/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16497,7 +16261,6 @@
                     "Qifrey"
                 ],
                 "img": "images/whAtelier/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16552,7 +16315,6 @@
                     "Coustas"
                 ],
                 "img": "images/whAtelier/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16604,7 +16366,6 @@
                     "Brushbuddy"
                 ],
                 "img": "images/whAtelier/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16659,7 +16420,6 @@
                     "Dagda"
                 ],
                 "img": "images/whAtelier/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16700,7 +16460,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -16765,7 +16524,6 @@
                     "Eisen"
                 ],
                 "img": "images/frieren/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16833,7 +16591,6 @@
                     "Fern"
                 ],
                 "img": "images/frieren/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16906,7 +16663,6 @@
                     "Aura"
                 ],
                 "img": "images/frieren/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -16976,7 +16732,6 @@
                     "Sein"
                 ],
                 "img": "images/frieren/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17050,7 +16805,6 @@
                     "Lawine"
                 ],
                 "img": "images/frieren/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17122,7 +16876,6 @@
                     "Methode"
                 ],
                 "img": "images/frieren/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17191,7 +16944,6 @@
                     "Stark"
                 ],
                 "img": "images/frieren/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17263,7 +17015,6 @@
                     "Revolte"
                 ],
                 "img": "images/frieren/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17334,7 +17085,6 @@
                     "Stark"
                 ],
                 "img": "images/frieren/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17405,7 +17155,6 @@
                     "Glück"
                 ],
                 "img": "images/frieren/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17475,7 +17224,6 @@
                     "Solitär"
                 ],
                 "img": "images/frieren/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17545,7 +17293,6 @@
                     "Eisen"
                 ],
                 "img": "images/frieren/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17618,7 +17365,6 @@
                     "Land"
                 ],
                 "img": "images/frieren/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17692,7 +17438,6 @@
                     "Weg"
                 ],
                 "img": "images/frieren/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17765,7 +17510,6 @@
                     "Routine"
                 ],
                 "img": "images/frieren/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -17808,7 +17552,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17840,7 +17583,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17880,7 +17622,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17924,7 +17665,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -17987,7 +17727,6 @@
                     "Zodd"
                 ],
                 "img": "images/berserk/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18051,7 +17790,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18116,7 +17854,6 @@
                     "Casca"
                 ],
                 "img": "images/berserk/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18181,7 +17918,6 @@
                     "Griffith"
                 ],
                 "img": "images/berserk/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18250,7 +17986,6 @@
                     "Silat"
                 ],
                 "img": "images/berserk/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18319,7 +18054,6 @@
                     "Skull Knight"
                 ],
                 "img": "images/berserk/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18391,7 +18125,6 @@
                     "Rosine"
                 ],
                 "img": "images/berserk/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18455,7 +18188,6 @@
                     "Femto"
                 ],
                 "img": "images/berserk/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18529,7 +18261,6 @@
                     "Slan"
                 ],
                 "img": "images/berserk/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18590,7 +18321,6 @@
                     "Puck"
                 ],
                 "img": "images/berserk/vol_014.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18660,7 +18390,6 @@
                     "Rosine"
                 ],
                 "img": "images/berserk/vol_015.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18728,7 +18457,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_016.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18797,7 +18525,6 @@
                     "Puck"
                 ],
                 "img": "images/berserk/vol_017.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18868,7 +18595,6 @@
                     "Griffith"
                 ],
                 "img": "images/berserk/vol_018.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -18936,7 +18662,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19004,7 +18729,6 @@
                     "Casca"
                 ],
                 "img": "images/berserk/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19072,7 +18796,6 @@
                     "Griffith"
                 ],
                 "img": "images/berserk/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19137,7 +18860,6 @@
                     "Griffith"
                 ],
                 "img": "images/berserk/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19204,7 +18926,6 @@
                     "Band of the Falcon"
                 ],
                 "img": "images/berserk/vol_023.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19273,7 +18994,6 @@
                     "Isidro"
                 ],
                 "img": "images/berserk/vol_024.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19344,7 +19064,6 @@
                     "Ivalera"
                 ],
                 "img": "images/berserk/vol_025.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19408,7 +19127,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_026.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19472,7 +19190,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_027.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19536,7 +19253,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_028.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19600,7 +19316,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_029.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19665,7 +19380,6 @@
                     "Makara"
                 ],
                 "img": "images/berserk/vol_030.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19729,7 +19443,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_031.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19794,7 +19507,6 @@
                     "Zodd"
                 ],
                 "img": "images/berserk/vol_032.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19858,7 +19570,6 @@
                     "Griffith"
                 ],
                 "img": "images/berserk/vol_033.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19923,7 +19634,6 @@
                     "Zodd"
                 ],
                 "img": "images/berserk/vol_034.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -19984,7 +19694,6 @@
                     "Sea God"
                 ],
                 "img": "images/berserk/vol_035.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20044,7 +19753,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_036.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20104,7 +19812,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_037.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20164,7 +19871,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_038.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20220,7 +19926,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_039.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20275,7 +19980,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_040.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20329,7 +20033,6 @@
                     "Moonlight Boy"
                 ],
                 "img": "images/berserk/vol_041.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20393,7 +20096,6 @@
                     "Beast of Darkness"
                 ],
                 "img": "images/berserk/vol_042.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20453,7 +20155,6 @@
                     "Guts"
                 ],
                 "img": "images/berserk/vol_043.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -20499,7 +20200,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20540,7 +20240,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20582,7 +20281,6 @@
                     "Taiki Inomata"
                 ],
                 "img": "images/bbox/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20622,7 +20320,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20662,7 +20359,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20703,7 +20399,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20747,7 +20442,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20789,7 +20483,6 @@
                     "Taiki Inomata"
                 ],
                 "img": "images/bbox/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20830,7 +20523,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20884,7 +20576,6 @@
                     "Sosuke"
                 ],
                 "img": "images/bbox/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20925,7 +20616,6 @@
                     "Yumeka Goto"
                 ],
                 "img": "images/bbox/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -20966,7 +20656,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21006,7 +20695,6 @@
                     "Taiki Inomata"
                 ],
                 "img": "images/bbox/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21047,7 +20735,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21091,7 +20778,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21135,7 +20821,6 @@
                     "Haruto Yusa"
                 ],
                 "img": "images/bbox/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21175,7 +20860,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/bbox/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21218,7 +20902,6 @@
                     "Ryosuke Nishida"
                 ],
                 "img": "images/bbox/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21259,7 +20942,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/bbox/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21300,7 +20982,6 @@
                     "Taiki Inomata"
                 ],
                 "img": "images/bbox/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21341,7 +21022,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21381,7 +21061,6 @@
                     "Chinatsu Kano"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21424,7 +21103,6 @@
                     "Taiki Inomata"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21465,7 +21143,6 @@
                     "Hina Chono"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -21529,7 +21206,6 @@
                     "Nezuko Kamado"
                 ],
                 "img": "images/dslayer/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21594,7 +21270,6 @@
                     "Muzan Kibutsuji"
                 ],
                 "img": "images/dslayer/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21659,7 +21334,6 @@
                     "Zenitsu Agatsuma"
                 ],
                 "img": "images/dslayer/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21724,7 +21398,6 @@
                     "Inosuke Hashibira"
                 ],
                 "img": "images/dslayer/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21788,7 +21461,6 @@
                     "Giyu Tomioka"
                 ],
                 "img": "images/dslayer/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21852,7 +21524,6 @@
                     "Shinobu Kocho"
                 ],
                 "img": "images/dslayer/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21920,7 +21591,6 @@
                     "Inosuke Hashibira"
                 ],
                 "img": "images/dslayer/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21984,7 +21654,6 @@
                     "Kyojuro Rengoku"
                 ],
                 "img": "images/dslayer/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22048,7 +21717,6 @@
                     "Tengen Uzui"
                 ],
                 "img": "images/dslayer/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22116,7 +21784,6 @@
                     "Tanjiro Kamado"
                 ],
                 "img": "images/dslayer/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22180,7 +21847,6 @@
                     "Nezuko Kamado"
                 ],
                 "img": "images/dslayer/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22244,7 +21910,6 @@
                     "Muichiro Tokito"
                 ],
                 "img": "images/dslayer/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22308,7 +21973,6 @@
                     "Genya Shinazugawa"
                 ],
                 "img": "images/dslayer/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22372,7 +22036,6 @@
                     "Mitsuri Kanroji"
                 ],
                 "img": "images/dslayer/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22436,7 +22099,6 @@
                     "Gyomei Himejima"
                 ],
                 "img": "images/dslayer/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22501,7 +22163,6 @@
                     "Amane Ubuyashiki"
                 ],
                 "img": "images/dslayer/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22565,7 +22226,6 @@
                     "Sanemi Shinazugawa"
                 ],
                 "img": "images/dslayer/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22629,7 +22289,6 @@
                     "Kanao Tsuyuri"
                 ],
                 "img": "images/dslayer/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22693,7 +22352,6 @@
                     "Obanai Iguro"
                 ],
                 "img": "images/dslayer/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22757,7 +22415,6 @@
                     "Yoriichi Tsugikuni"
                 ],
                 "img": "images/dslayer/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22822,7 +22479,6 @@
                     "Yushiro"
                 ],
                 "img": "images/dslayer/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22886,7 +22542,6 @@
                     "Muzan Kibutsuji"
                 ],
                 "img": "images/dslayer/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -22951,7 +22606,6 @@
                     "Nezuko Kamado"
                 ],
                 "img": "images/dslayer/vol_023.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -23034,7 +22688,6 @@
                     "Twenty-Fifth Baam"
                 ],
                 "img": "images/tog/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23110,7 +22763,6 @@
                     "Palgyon"
                 ],
                 "img": "images/tog/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23182,7 +22834,6 @@
                     "Akryung"
                 ],
                 "img": "images/tog/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -23242,7 +22893,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23307,7 +22957,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23372,7 +23021,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23433,7 +23081,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23494,7 +23141,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23555,7 +23201,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23616,7 +23261,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23677,7 +23321,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23738,7 +23381,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23799,7 +23441,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23860,7 +23501,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23921,7 +23561,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -23982,7 +23621,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24043,7 +23681,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_014.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24104,7 +23741,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_015.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24165,7 +23801,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_016.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24226,7 +23861,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_017.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24287,7 +23921,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_018.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24348,7 +23981,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_019.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24409,7 +24041,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_020.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24474,7 +24105,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_021.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24535,7 +24165,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_022.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24596,7 +24225,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_023.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24657,7 +24285,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_024.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24718,7 +24345,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_025.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24779,7 +24405,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_026.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24840,7 +24465,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_027.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24901,7 +24525,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_028.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -24962,7 +24585,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_029.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25023,7 +24645,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_030.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25084,7 +24705,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_031.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25145,7 +24765,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_032.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25210,7 +24829,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_033.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25275,7 +24893,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_034.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25340,7 +24957,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_035.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25405,7 +25021,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_036.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25470,7 +25085,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_037.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25535,7 +25149,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_038.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25600,7 +25213,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_039.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25665,7 +25277,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_040.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25730,7 +25341,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_041.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25795,7 +25405,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_042.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25872,7 +25481,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_043.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -25937,7 +25545,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_044.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26002,7 +25609,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_045.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26067,7 +25673,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_046.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26132,7 +25737,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_047.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26201,7 +25805,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_048.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26266,7 +25869,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_049.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26331,7 +25933,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_050.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26396,7 +25997,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_051.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26465,7 +26065,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_052.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26530,7 +26129,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_053.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26595,7 +26193,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_054.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26660,7 +26257,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_055.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26725,7 +26321,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_056.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26790,7 +26385,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_057.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26859,7 +26453,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_058.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26924,7 +26517,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_059.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -26989,7 +26581,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_060.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27062,7 +26653,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_061.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27127,7 +26717,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_062.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27192,7 +26781,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_063.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27257,7 +26845,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_064.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27322,7 +26909,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_065.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27387,7 +26973,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_066.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27452,7 +27037,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_067.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27517,7 +27101,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_068.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27586,7 +27169,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_069.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27655,7 +27237,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_070.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27724,7 +27305,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_071.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -27789,7 +27369,6 @@
                 },
                 "cover_characters": "",
                 "img": "images/naruto/vol_072.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -27945,7 +27524,6 @@
                     "Maomao"
                 ],
                 "img": "images/apothecary/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28054,7 +27632,6 @@
                     "Maomao"
                 ],
                 "img": "images/apothecary/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28160,7 +27737,6 @@
                     "Jinshi"
                 ],
                 "img": "images/apothecary/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28278,7 +27854,6 @@
                     "Maomao, the Cat"
                 ],
                 "img": "images/apothecary/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28371,7 +27946,6 @@
                     "Jinshi"
                 ],
                 "img": "images/apothecary/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28465,7 +28039,6 @@
                     "Lishu"
                 ],
                 "img": "images/apothecary/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28584,7 +28157,6 @@
                     "En'en"
                 ],
                 "img": "images/apothecary/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28694,7 +28266,6 @@
                     "Jinshi"
                 ],
                 "img": "images/apothecary/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28804,7 +28375,6 @@
                     "Maomao"
                 ],
                 "img": "images/apothecary/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -28913,7 +28483,6 @@
                     "Maomao"
                 ],
                 "img": "images/apothecary/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29031,7 +28600,6 @@
                     "Rikuson"
                 ],
                 "img": "images/apothecary/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29182,7 +28750,6 @@
                     "Lady Biaoshi"
                 ],
                 "img": "images/apothecary/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29274,7 +28841,6 @@
                     "Lahan's Older Brother"
                 ],
                 "img": "images/apothecary/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29385,7 +28951,6 @@
                     "Joka"
                 ],
                 "img": "images/apothecary/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29491,7 +29056,6 @@
                     "Jinshi"
                 ],
                 "img": "images/apothecary/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29616,7 +29180,6 @@
                     "Maomao"
                 ],
                 "img": "images/apothecary/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -29663,7 +29226,6 @@
                     "Akame"
                 ],
                 "img": "images/akame/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29707,7 +29269,6 @@
                     "Mine"
                 ],
                 "img": "images/akame/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29751,7 +29312,6 @@
                     "Leone"
                 ],
                 "img": "images/akame/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29795,7 +29355,6 @@
                     "Esdeath"
                 ],
                 "img": "images/akame/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29839,7 +29398,6 @@
                     "Kurome"
                 ],
                 "img": "images/akame/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29883,7 +29441,6 @@
                     "Chelsea"
                 ],
                 "img": "images/akame/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29927,7 +29484,6 @@
                     "Najenda"
                 ],
                 "img": "images/akame/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -29975,7 +29531,6 @@
                     "Seryu Ubiquitous"
                 ],
                 "img": "images/akame/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30019,7 +29574,6 @@
                     "Esdeath"
                 ],
                 "img": "images/akame/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30063,7 +29617,6 @@
                     "Mine"
                 ],
                 "img": "images/akame/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30111,7 +29664,6 @@
                     "Tatsumi"
                 ],
                 "img": "images/akame/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30159,7 +29711,6 @@
                     "Leone"
                 ],
                 "img": "images/akame/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30207,7 +29758,6 @@
                     "Kurome"
                 ],
                 "img": "images/akame/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30255,7 +29805,6 @@
                     "Tatsumi"
                 ],
                 "img": "images/akame/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30303,7 +29852,6 @@
                     "Akame"
                 ],
                 "img": "images/akame/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -30365,7 +29913,6 @@
                     "Denji"
                 ],
                 "img": "images/chainsawman/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30428,7 +29975,6 @@
                     "Power"
                 ],
                 "img": "images/chainsawman/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30491,7 +30037,6 @@
                     "Himeno"
                 ],
                 "img": "images/chainsawman/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30554,7 +30099,6 @@
                     "Aki Hayakawa"
                 ],
                 "img": "images/chainsawman/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30618,7 +30162,6 @@
                     "Katana Man"
                 ],
                 "img": "images/chainsawman/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30682,7 +30225,6 @@
                     "Reze"
                 ],
                 "img": "images/chainsawman/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30749,7 +30291,6 @@
                     "Santa Claus"
                 ],
                 "img": "images/chainsawman/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30813,7 +30354,6 @@
                     "Quanxi"
                 ],
                 "img": "images/chainsawman/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30877,7 +30417,6 @@
                     "Angel Devil"
                 ],
                 "img": "images/chainsawman/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -30940,7 +30479,6 @@
                     "Makima"
                 ],
                 "img": "images/chainsawman/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31003,7 +30541,6 @@
                     "Denji"
                 ],
                 "img": "images/chainsawman/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31054,7 +30591,6 @@
                     "Yoru"
                 ],
                 "img": "images/chainsawman/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31117,7 +30653,6 @@
                     "Yuko"
                 ],
                 "img": "images/chainsawman/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31184,7 +30719,6 @@
                     "Fami"
                 ],
                 "img": "images/chainsawman/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31255,7 +30789,6 @@
                     "Falling Devil"
                 ],
                 "img": "images/chainsawman/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31322,7 +30855,6 @@
                     "Miri Sugo"
                 ],
                 "img": "images/chainsawman/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31389,7 +30921,6 @@
                     "Hirofumi Yoshida"
                 ],
                 "img": "images/chainsawman/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31460,7 +30991,6 @@
                     "Nayuta"
                 ],
                 "img": "images/chainsawman/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31531,7 +31061,6 @@
                     "Fumiko Mifune"
                 ],
                 "img": "images/chainsawman/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31602,7 +31131,6 @@
                     "Asa Mitaka"
                 ],
                 "img": "images/chainsawman/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31677,7 +31205,6 @@
                     "Famine Devil"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31753,7 +31280,6 @@
                     "Yoru"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -31828,7 +31354,6 @@
                     "Pochita"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -31880,7 +31405,6 @@
                 },
                 "cover_characters": [],
                 "img": "images/btwitch/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -31943,7 +31467,6 @@
                     "Ichigo Kurosaki(Shinigami)"
                 ],
                 "img": "images/bleach/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32007,7 +31530,6 @@
                     "Rukia Kuchiki(school uniform)"
                 ],
                 "img": "images/bleach/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32071,7 +31593,6 @@
                     "Orihime Inoue"
                 ],
                 "img": "images/bleach/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32135,7 +31656,6 @@
                     "Uryū Ishida"
                 ],
                 "img": "images/bleach/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32199,7 +31719,6 @@
                     "Yasutora Sado"
                 ],
                 "img": "images/bleach/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32263,7 +31782,6 @@
                     "Kisuke Urahara"
                 ],
                 "img": "images/bleach/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32327,7 +31845,6 @@
                     "Byakuya Kuchiki"
                 ],
                 "img": "images/bleach/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32391,7 +31908,6 @@
                     "Zangetsu"
                 ],
                 "img": "images/bleach/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32455,7 +31971,6 @@
                     "Kūkaku Shiba"
                 ],
                 "img": "images/bleach/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32523,7 +32038,6 @@
                     "Ganju Shiba"
                 ],
                 "img": "images/bleach/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32591,7 +32105,6 @@
                     "Renji Abarai(Shikai)"
                 ],
                 "img": "images/bleach/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32659,7 +32172,6 @@
                     "Sousuke Aizen(Captain)"
                 ],
                 "img": "images/bleach/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32719,7 +32231,6 @@
                     "Kenpachi Zaraki"
                 ],
                 "img": "images/bleach/vol_013.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32779,7 +32290,6 @@
                     "Hanatarō Yamada"
                 ],
                 "img": "images/bleach/vol_014.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32835,7 +32345,6 @@
                     "Izuru Kira"
                 ],
                 "img": "images/bleach/vol_015.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32899,7 +32408,6 @@
                     "Tōshirō Hitsugaya"
                 ],
                 "img": "images/bleach/vol_016.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -32967,7 +32475,6 @@
                     "Yoruichi Shihōin"
                 ],
                 "img": "images/bleach/vol_017.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33031,7 +32538,6 @@
                     "Suì-Fēng"
                 ],
                 "img": "images/bleach/vol_018.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33099,7 +32605,6 @@
                     "Ichigo Kurosaki(Bankai)"
                 ],
                 "img": "images/bleach/vol_019.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33167,7 +32672,6 @@
                     "Gin Ichimaru (Captain)"
                 ],
                 "img": "images/bleach/vol_020.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33231,7 +32735,6 @@
                     "Shinji Hirako(School uniform)"
                 ],
                 "img": "images/bleach/vol_021.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33299,7 +32802,6 @@
                     "Ulquiorra Cifer(unreleased)"
                 ],
                 "img": "images/bleach/vol_022.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33363,7 +32865,6 @@
                     "Ikkaku Madarame(Shikai)"
                 ],
                 "img": "images/bleach/vol_023.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33427,7 +32928,6 @@
                     "Grimmjow Jaegerjaquez(unreleased)"
                 ],
                 "img": "images/bleach/vol_024.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33491,7 +32991,6 @@
                     "Zangetsu (Zanpakutō spirit)"
                 ],
                 "img": "images/bleach/vol_025.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33559,7 +33058,6 @@
                     "Luppi Antenor"
                 ],
                 "img": "images/bleach/vol_026.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33623,7 +33121,6 @@
                     "Orihime Inoue(school uniform)"
                 ],
                 "img": "images/bleach/vol_027.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33687,7 +33184,6 @@
                     "Dordoni Alessandro Del Socaccio"
                 ],
                 "img": "images/bleach/vol_028.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33751,7 +33247,6 @@
                     "Cirucci Sanderwicci"
                 ],
                 "img": "images/bleach/vol_029.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33815,7 +33310,6 @@
                     "Kaien Shiba(Shikai)"
                 ],
                 "img": "images/bleach/vol_030.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33879,7 +33373,6 @@
                     "Szayelaporro Granz"
                 ],
                 "img": "images/bleach/vol_031.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -33939,7 +33432,6 @@
                     "Grimmjow Jaegerjaquez(Resurrección)"
                 ],
                 "img": "images/bleach/vol_032.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34003,7 +33495,6 @@
                     "Nnoitra Gilga"
                 ],
                 "img": "images/bleach/vol_033.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34071,7 +33562,6 @@
                     "Nelliel Tu Odelschwanck"
                 ],
                 "img": "images/bleach/vol_034.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34139,7 +33629,6 @@
                     "Mayuri Kurotsuchi"
                 ],
                 "img": "images/bleach/vol_035.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34166,7 +33655,6 @@
                     "Shinji Hirako(Shinigami)"
                 ],
                 "img": "images/bleach/vol_036.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34222,7 +33710,6 @@
                     "Yumichika Ayasegawa"
                 ],
                 "img": "images/bleach/vol_037.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34286,7 +33773,6 @@
                     "Shūhei Hisagi(Shikai)"
                 ],
                 "img": "images/bleach/vol_038.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34350,7 +33836,6 @@
                     "Ayon"
                 ],
                 "img": "images/bleach/vol_039.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34414,7 +33899,6 @@
                     "Ulquiorra Cifer(Resurrección)"
                 ],
                 "img": "images/bleach/vol_040.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34478,7 +33962,6 @@
                     "Yammy Llargo"
                 ],
                 "img": "images/bleach/vol_041.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34542,7 +34025,6 @@
                     "Tier Harribel(Resurrección)"
                 ],
                 "img": "images/bleach/vol_042.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34610,7 +34092,6 @@
                     "Baraggan Louisenbairn(Resurrección)"
                 ],
                 "img": "images/bleach/vol_043.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34674,7 +34155,6 @@
                     "Kaname Tōsen"
                 ],
                 "img": "images/bleach/vol_044.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34738,7 +34218,6 @@
                     "Genryūsai Shigekuni Yamamoto"
                 ],
                 "img": "images/bleach/vol_045.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34802,7 +34281,6 @@
                     "Rangiku Matsumoto"
                 ],
                 "img": "images/bleach/vol_046.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34866,7 +34344,6 @@
                     "Gin Ichimaru (Commander of Arrancar Army)"
                 ],
                 "img": "images/bleach/vol_047.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34934,7 +34411,6 @@
                     "Sousuke Aizen (Hōgyoku Hybrid)"
                 ],
                 "img": "images/bleach/vol_048.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -34998,7 +34474,6 @@
                     "Ichigo Kurosaki (Human)"
                 ],
                 "img": "images/bleach/vol_049.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35062,7 +34537,6 @@
                     "Kūgo Ginjō"
                 ],
                 "img": "images/bleach/vol_050.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35126,7 +34600,6 @@
                     "Riruka Dokugamine"
                 ],
                 "img": "images/bleach/vol_051.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35190,7 +34663,6 @@
                     "Shūkurō Tsukishima"
                 ],
                 "img": "images/bleach/vol_052.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35258,7 +34730,6 @@
                     "Yukio Hans Vorarlberna"
                 ],
                 "img": "images/bleach/vol_053.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35326,7 +34797,6 @@
                     "Rukia Kuchiki"
                 ],
                 "img": "images/bleach/vol_054.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35394,7 +34864,6 @@
                     "Yhwach"
                 ],
                 "img": "images/bleach/vol_055.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35462,7 +34931,6 @@
                     "Quilge Opie"
                 ],
                 "img": "images/bleach/vol_056.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35530,7 +34998,6 @@
                     "Byakuya Kuchiki"
                 ],
                 "img": "images/bleach/vol_057.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35602,7 +35069,6 @@
                     "Genryūsai Shigekuni Yamamoto"
                 ],
                 "img": "images/bleach/vol_058.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35670,7 +35136,6 @@
                     "Retsu Unohana"
                 ],
                 "img": "images/bleach/vol_059.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35738,7 +35203,6 @@
                     "Masaki Kurosaki"
                 ],
                 "img": "images/bleach/vol_060.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35806,7 +35270,6 @@
                     "Zangetsu"
                 ],
                 "img": "images/bleach/vol_061.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35874,7 +35337,6 @@
                     "Sajin Komamura"
                 ],
                 "img": "images/bleach/vol_062.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -35942,7 +35404,6 @@
                     "Äs Nödt"
                 ],
                 "img": "images/bleach/vol_063.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36010,7 +35471,6 @@
                     "Gremmy Thoumeaux"
                 ],
                 "img": "images/bleach/vol_064.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36082,7 +35542,6 @@
                     "Giselle Gewelle"
                 ],
                 "img": "images/bleach/vol_065.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36150,7 +35609,6 @@
                     "Ōetsu Nimaiya"
                 ],
                 "img": "images/bleach/vol_066.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36218,7 +35676,6 @@
                     "Ichibe'e Hyōsube"
                 ],
                 "img": "images/bleach/vol_067.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36290,7 +35747,6 @@
                     "Askin Nakk Le Vaar"
                 ],
                 "img": "images/bleach/vol_068.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36358,7 +35814,6 @@
                     "Bazz-B"
                 ],
                 "img": "images/bleach/vol_069.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36430,7 +35885,6 @@
                     "Jugram Haschwalth"
                 ],
                 "img": "images/bleach/vol_070.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36498,7 +35952,6 @@
                     "Nemu Kurotsuchi"
                 ],
                 "img": "images/bleach/vol_071.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36570,7 +36023,6 @@
                     "Uryū Ishida"
                 ],
                 "img": "images/bleach/vol_072.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36642,7 +36094,6 @@
                     "Renji Abarai"
                 ],
                 "img": "images/bleach/vol_073.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36718,7 +36169,6 @@
                     "Ichigo KurosakiRukia Kuchiki"
                 ],
                 "img": "images/bleach/vol_074.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -36782,7 +36232,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36843,7 +36292,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36904,7 +36352,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -36965,7 +36412,6 @@
                 },
                 "cover_characters": "Kurapika",
                 "img": "images/hunter-x-hunter/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37026,7 +36472,6 @@
                 },
                 "cover_characters": "Leorio Paradinight",
                 "img": "images/hunter-x-hunter/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37091,7 +36536,6 @@
                 },
                 "cover_characters": "Killua Zoldyck",
                 "img": "images/hunter-x-hunter/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37152,7 +36596,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37217,7 +36660,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37282,7 +36724,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37347,7 +36788,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37412,7 +36852,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37485,7 +36924,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37558,7 +36996,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37631,7 +37068,6 @@
                 },
                 "cover_characters": "Kurapika",
                 "img": "images/hunter-x-hunter/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37704,7 +37140,6 @@
                 },
                 "cover_characters": "Biscuit Krueger",
                 "img": "images/hunter-x-hunter/vol_015.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37777,7 +37212,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_016.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37850,7 +37284,6 @@
                 },
                 "cover_characters": "Killua Zoldyck",
                 "img": "images/hunter-x-hunter/vol_017.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37923,7 +37356,6 @@
                 },
                 "cover_characters": "Kurapika",
                 "img": "images/hunter-x-hunter/vol_018.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -37996,7 +37428,6 @@
                 },
                 "cover_characters": "Leorio Paradinight",
                 "img": "images/hunter-x-hunter/vol_019.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38069,7 +37500,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38142,7 +37572,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38215,7 +37644,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38288,7 +37716,6 @@
                 },
                 "cover_characters": "Meruem",
                 "img": "images/hunter-x-hunter/vol_023.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38365,7 +37792,6 @@
                 },
                 "cover_characters": "Meruem",
                 "img": "images/hunter-x-hunter/vol_024.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38430,7 +37856,6 @@
                 },
                 "cover_characters": "Komugi",
                 "img": "images/hunter-x-hunter/vol_025.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38495,7 +37920,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_026.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38560,7 +37984,6 @@
                 },
                 "cover_characters": "Isaac Netero",
                 "img": "images/hunter-x-hunter/vol_027.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38625,7 +38048,6 @@
                 },
                 "cover_characters": "Neferpitou",
                 "img": "images/hunter-x-hunter/vol_028.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38690,7 +38112,6 @@
                 },
                 "cover_characters": "Isaac Netero",
                 "img": "images/hunter-x-hunter/vol_029.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38755,7 +38176,6 @@
                 },
                 "cover_characters": "Pariston Hill",
                 "img": "images/hunter-x-hunter/vol_030.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38820,7 +38240,6 @@
                 },
                 "cover_characters": "Killua Zoldyck",
                 "img": "images/hunter-x-hunter/vol_031.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38885,7 +38304,6 @@
                 },
                 "cover_characters": "Ging Freecss",
                 "img": "images/hunter-x-hunter/vol_032.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -38950,7 +38368,6 @@
                 },
                 "cover_characters": "Kurapika",
                 "img": "images/hunter-x-hunter/vol_033.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39015,7 +38432,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_034.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39080,7 +38496,6 @@
                 },
                 "cover_characters": "Kurapika",
                 "img": "images/hunter-x-hunter/vol_035.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39145,7 +38560,6 @@
                 },
                 "cover_characters": "Chrollo Lucilfer",
                 "img": "images/hunter-x-hunter/vol_036.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39210,7 +38624,6 @@
                 },
                 "cover_characters": "Morena Prudo",
                 "img": "images/hunter-x-hunter/vol_037.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39275,7 +38688,6 @@
                 },
                 "cover_characters": "Gon Freecss",
                 "img": "images/hunter-x-hunter/vol_038.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -39330,7 +38742,6 @@
                     "Gabimaru"
                 ],
                 "img": "images/hparadise/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39394,7 +38805,6 @@
                     "Sagiri"
                 ],
                 "img": "images/hparadise/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39459,7 +38869,6 @@
                     "Nurugai"
                 ],
                 "img": "images/hparadise/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39524,7 +38933,6 @@
                     "Aza Chōbē"
                 ],
                 "img": "images/hparadise/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39588,7 +38996,6 @@
                     "Yuzuriha"
                 ],
                 "img": "images/hparadise/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39653,7 +39060,6 @@
                     "Rien"
                 ],
                 "img": "images/hparadise/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39717,7 +39123,6 @@
                     "Yamada Asaemon Shugen"
                 ],
                 "img": "images/hparadise/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39782,7 +39187,6 @@
                     "Yamada Asaemon Fuchi"
                 ],
                 "img": "images/hparadise/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39847,7 +39251,6 @@
                     "Yamada Asaemon Tenza"
                 ],
                 "img": "images/hparadise/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39911,7 +39314,6 @@
                     "Shija"
                 ],
                 "img": "images/hparadise/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -39975,7 +39377,6 @@
                     "Yamada Asaemon Jikka"
                 ],
                 "img": "images/hparadise/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40039,7 +39440,6 @@
                     "Yui"
                 ],
                 "img": "images/hparadise/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40108,7 +39508,6 @@
                     "Yamada Asaemon Sagiri"
                 ],
                 "img": "images/hparadise/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -40160,7 +39559,6 @@
                     "Okarun"
                 ],
                 "img": "images/dandadan/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40221,7 +39619,6 @@
                     "Momo Ayase"
                 ],
                 "img": "images/dandadan/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40282,7 +39679,6 @@
                     "Okarun"
                 ],
                 "img": "images/dandadan/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40343,7 +39739,6 @@
                     "Aira Shiratori"
                 ],
                 "img": "images/dandadan/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40404,7 +39799,6 @@
                     "Seiko"
                 ],
                 "img": "images/dandadan/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40465,7 +39859,6 @@
                     "Evil Eye"
                 ],
                 "img": "images/dandadan/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40526,7 +39919,6 @@
                     "Okarun"
                 ],
                 "img": "images/dandadan/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40587,7 +39979,6 @@
                     "Aira Shiratori"
                 ],
                 "img": "images/dandadan/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40648,7 +40039,6 @@
                     "Momo Ayase"
                 ],
                 "img": "images/dandadan/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40709,7 +40099,6 @@
                     "Kinta Sakata"
                 ],
                 "img": "images/dandadan/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40766,7 +40155,6 @@
                     "Bamora"
                 ],
                 "img": "images/dandadan/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40828,7 +40216,6 @@
                     "Jiji"
                 ],
                 "img": "images/dandadan/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40889,7 +40276,6 @@
                     "Seiko Ayase"
                 ],
                 "img": "images/dandadan/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -40950,7 +40336,6 @@
                     "Okarun"
                 ],
                 "img": "images/dandadan/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41010,7 +40395,6 @@
                     "Count Saint-Germain"
                 ],
                 "img": "images/dandadan/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41071,7 +40455,6 @@
                     "Count Saint-Germain"
                 ],
                 "img": "images/dandadan/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41132,7 +40515,6 @@
                     "Rin Sawaki"
                 ],
                 "img": "images/dandadan/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41193,7 +40575,6 @@
                     "Unji Zuma"
                 ],
                 "img": "images/dandadan/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41254,7 +40635,6 @@
                     "Rokuro Serpo"
                 ],
                 "img": "images/dandadan/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41315,7 +40695,6 @@
                     "Count Saint-Germain"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41376,7 +40755,6 @@
                     "Momo Ayase"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41438,7 +40816,6 @@
                     "Mai Kawabanga"
                 ],
                 "img": "images/no_image_available.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -41494,7 +40871,6 @@
                     "Sora"
                 ],
                 "img": "images/ngnl/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41517,7 +40893,6 @@
                     "Jibril"
                 ],
                 "img": "images/ngnl/vol_002.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41540,7 +40915,6 @@
                     "Hatsuse Izuna"
                 ],
                 "img": "images/ngnl/vol_003.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41563,7 +40937,6 @@
                     "Plum"
                 ],
                 "img": "images/ngnl/vol_004.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41586,7 +40959,6 @@
                     "Azril"
                 ],
                 "img": "images/ngnl/vol_005.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41609,7 +40981,6 @@
                     "Tet"
                 ],
                 "img": "images/ngnl/vol_006.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41664,7 +41035,6 @@
                     "Hatsuse Izuna"
                 ],
                 "img": "images/ngnl/vol_007.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41712,7 +41082,6 @@
                     "Holou"
                 ],
                 "img": "images/ngnl/vol_008.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41760,7 +41129,6 @@
                     "Emir-Eins"
                 ],
                 "img": "images/ngnl/vol_009.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41812,7 +41180,6 @@
                     "Nýi Tilvilg"
                 ],
                 "img": "images/ngnl/vol_010.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41860,7 +41227,6 @@
                     "Foeniculum"
                 ],
                 "img": "images/ngnl/vol_011.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41905,7 +41271,6 @@
                     "the Devil"
                 ],
                 "img": "images/ngnl/vol_012.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -41926,7 +41291,6 @@
                 "chapters": {},
                 "cover_characters": [],
                 "img": "images/ngnl/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -41989,7 +41353,6 @@
                     "Shin"
                 ],
                 "img": "images/sakamoto/vol_001.png",
-                "owned": true,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42054,7 +41417,6 @@
                     "Taro Sakamoto"
                 ],
                 "img": "images/sakamoto/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42120,7 +41482,6 @@
                     "Piisuke"
                 ],
                 "img": "images/sakamoto/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42186,7 +41547,6 @@
                     "Taro Sakamoto"
                 ],
                 "img": "images/sakamoto/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42249,7 +41609,6 @@
                     "Osaragi"
                 ],
                 "img": "images/sakamoto/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42312,7 +41671,6 @@
                     "Nagumo"
                 ],
                 "img": "images/sakamoto/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42375,7 +41733,6 @@
                     "Gaku"
                 ],
                 "img": "images/sakamoto/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42438,7 +41795,6 @@
                     "Akira Akao"
                 ],
                 "img": "images/sakamoto/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42502,7 +41858,6 @@
                     "Taro Sakamoto"
                 ],
                 "img": "images/sakamoto/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42565,7 +41920,6 @@
                     "Kei Uzuki"
                 ],
                 "img": "images/sakamoto/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42629,7 +41983,6 @@
                     "Satoru Yotsumura"
                 ],
                 "img": "images/sakamoto/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42692,7 +42045,6 @@
                     "Kanaguri"
                 ],
                 "img": "images/sakamoto/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42755,7 +42107,6 @@
                     "Rion Akao"
                 ],
                 "img": "images/sakamoto/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42818,7 +42169,6 @@
                     "Hyo"
                 ],
                 "img": "images/sakamoto/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42881,7 +42231,6 @@
                     "Kumanomi"
                 ],
                 "img": "images/sakamoto/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -42947,7 +42296,6 @@
                     "Shin Asakura"
                 ],
                 "img": "images/sakamoto/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43010,7 +42358,6 @@
                     "Mafuyu Seba"
                 ],
                 "img": "images/sakamoto/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43077,7 +42424,6 @@
                     "Haruma"
                 ],
                 "img": "images/sakamoto/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43140,7 +42486,6 @@
                     "Takamura"
                 ],
                 "img": "images/sakamoto/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43207,7 +42552,6 @@
                     "Taro Sakamoto"
                 ],
                 "img": "images/sakamoto/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43274,7 +42618,6 @@
                     "Atari"
                 ],
                 "img": "images/sakamoto/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43337,7 +42680,6 @@
                     "Tenkyu"
                 ],
                 "img": "images/sakamoto/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43400,7 +42742,6 @@
                     "Shin Asakura"
                 ],
                 "img": "images/sakamoto/vol_023.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43463,7 +42804,6 @@
                     "Gozu"
                 ],
                 "img": "images/sakamoto/vol_024.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43526,7 +42866,6 @@
                     "Oki"
                 ],
                 "img": "images/sakamoto/vol_025.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }
@@ -43577,7 +42916,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_001.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43645,7 +42983,6 @@
                     "Thors"
                 ],
                 "img": "images/vinland/vol_002.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43694,7 +43031,6 @@
                     "Thorkell"
                 ],
                 "img": "images/vinland/vol_003.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43747,7 +43083,6 @@
                     "Ragnar"
                 ],
                 "img": "images/vinland/vol_004.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43799,7 +43134,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_005.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43851,7 +43185,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_006.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43903,7 +43236,6 @@
                     "Canute"
                 ],
                 "img": "images/vinland/vol_007.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -43955,7 +43287,6 @@
                     "Askeladd"
                 ],
                 "img": "images/vinland/vol_008.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44012,7 +43343,6 @@
                     "Einar"
                 ],
                 "img": "images/vinland/vol_009.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44064,7 +43394,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_010.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44116,7 +43445,6 @@
                     "Canute"
                 ],
                 "img": "images/vinland/vol_011.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44173,7 +43501,6 @@
                     "Gardar"
                 ],
                 "img": "images/vinland/vol_012.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44230,7 +43557,6 @@
                     "Ketil"
                 ],
                 "img": "images/vinland/vol_013.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44282,7 +43608,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_014.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44334,7 +43659,6 @@
                     "Gudrid"
                 ],
                 "img": "images/vinland/vol_015.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44392,7 +43716,6 @@
                     "Karli's Mama"
                 ],
                 "img": "images/vinland/vol_016.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44444,7 +43767,6 @@
                     "Hild"
                 ],
                 "img": "images/vinland/vol_017.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44496,7 +43818,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_018.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44552,7 +43873,6 @@
                     "Garm"
                 ],
                 "img": "images/vinland/vol_019.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44608,7 +43928,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_020.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44664,7 +43983,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_021.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44721,7 +44039,6 @@
                     "Garm"
                 ],
                 "img": "images/vinland/vol_022.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44773,7 +44090,6 @@
                     "Sigurd"
                 ],
                 "img": "images/vinland/vol_023.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44835,7 +44151,6 @@
                     "Karli"
                 ],
                 "img": "images/vinland/vol_024.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44902,7 +44217,6 @@
                     "Stork"
                 ],
                 "img": "images/vinland/vol_025.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -44958,7 +44272,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_026.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -45025,7 +44338,6 @@
                     "Miskwekepu'j"
                 ],
                 "img": "images/vinland/vol_027.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -45083,7 +44395,6 @@
                     "Bug-Eyes"
                 ],
                 "img": "images/vinland/vol_028.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -45151,7 +44462,6 @@
                     "Thorfinn"
                 ],
                 "img": "images/vinland/vol_029.png",
-                "owned": false,
                 "prise": "10 €",
                 "date_bought": ""
             }

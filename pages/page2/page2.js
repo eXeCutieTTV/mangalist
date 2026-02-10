@@ -1,4 +1,4 @@
-const { merge } = require("cheerio");
+//const { merge } = require("cheerio");
 
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
@@ -51,12 +51,7 @@ async function page2() {
             return btoa(binary);
         }
 
-        const sorted = Object.fromEntries(//<-- sorts alphabetically
-            Object.entries(own_bool_map).sort(([, aVal], [, bVal]) =>
-                aVal.author.localeCompare(bVal.author)
-            )
-        );
-        const content = JSON.stringify(sorted, null, 2);
+        const content = JSON.stringify(own_bool_map, null, 2);
 
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
 
@@ -179,6 +174,7 @@ async function page2() {
     }
     const { name: fileName, data: own_bool_map } = await getNewestFile();
     console.log(`JSON parsed from file: ${fileName}`, own_bool_map);
+    console.log(`JSON parsed from static file:`, newEntry);
 
     function mergeBools() {
         for (const [series, data] of Object.entries(newEntry)) {
@@ -286,7 +282,7 @@ async function page2() {
 
             footer.setAttribute("data-path.title", entry.title);
             footer.setAttribute("data-path.vol", volNum);
-            volData.owned === true
+            own_bool_map[entry.title][volNum] === true
                 ? footer.classList.add("volume-owned")
                 : footer.classList.add("volume-not-owned");
 
