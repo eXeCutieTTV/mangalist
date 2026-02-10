@@ -249,14 +249,27 @@ async function page2() {
         pageWrapper.appendChild(seriesWrapper);
 
         // Series title
+        const headerWrap = document.createElement("div");
+        headerWrap.classList.add("page2-series-header-wrap");
+        seriesWrapper.appendChild(headerWrap);
+
         const header = document.createElement("h2");
         header.textContent = `${entry.title} - ${entry.author}`; //<-- title and author
         Object.assign(header.style, {
-            display: "inline",
+            display: "inline-block",
             cursor: "pointer"
         });
         header.classList.add("page2-series-header");
-        seriesWrapper.appendChild(header);
+        headerWrap.appendChild(header);
+
+        const filterMenu = document.createElement("div");
+        filterMenu.classList.add("page2-filter-menu");
+        filterMenu.innerHTML = `
+            <div class="page2-filter-menu-item" data-filter="all">Show all</div>
+            <div class="page2-filter-menu-item" data-filter="unowned">Show unowned</div>
+            <div class="page2-filter-menu-item" data-filter="owned">Show owned</div>
+        `;
+        headerWrap.appendChild(filterMenu);
 
         // Create gallery for this series
         const gallery = document.createElement("div");
@@ -419,18 +432,60 @@ async function page2() {
                 entry.hidden = false; // show all
             }
         }
-        header.addEventListener("click", () => {
+        function set_filter(state) {
             display_all();
-            if (toggle_state === 0) {
+            if (state === 1) {
                 display_unowned();
-                toggle_state = 1;
-            } else if (toggle_state === 1) {
+            } else if (state === 2) {
                 display_owned();
-                toggle_state = 2;
-            } else if (toggle_state === 2) {
-                display_all();
-                toggle_state = 0;
             }
+            toggle_state = state;
+        }
+
+        header.addEventListener("click", () => {
+            if (toggle_state === 0) {
+                set_filter(1);
+            } else if (toggle_state === 1) {
+                set_filter(2);
+            } else if (toggle_state === 2) {
+                set_filter(0);
+            }
+        });
+
+        let hoverTimer = null;
+        function open_menu() {
+            filterMenu.classList.add("open");
+        }
+        function close_menu() {
+            filterMenu.classList.remove("open");
+        }
+
+        const headerWrap = wrapper.querySelector(".page2-series-header-wrap");
+        headerWrap.addEventListener("mouseenter", () => {
+            hoverTimer = setTimeout(open_menu, 2000);
+        });
+        headerWrap.addEventListener("mouseleave", () => {
+            if (hoverTimer) {
+                clearTimeout(hoverTimer);
+                hoverTimer = null;
+            }
+            close_menu();
+        });
+
+        filterMenu.addEventListener("click", (e) => {
+            const item = e.target.closest(".page2-filter-menu-item");
+            if (!item) return;
+            e.stopPropagation();
+
+            const filter = item.dataset.filter;
+            if (filter === "all") {
+                set_filter(0);
+            } else if (filter === "unowned") {
+                set_filter(1);
+            } else if (filter === "owned") {
+                set_filter(2);
+            }
+            close_menu();
         });
     }
     //^^
