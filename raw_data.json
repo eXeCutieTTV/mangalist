@@ -36174,6 +36174,247 @@
             }
         }
     },
+    "Bleach: Can't Fear Your Own World(novel)": {
+        "title": "Bleach: Can't Fear Your Own World(novel)",
+        "author": "Tite Kubo & Ryōgo Narita",
+        "released": "April 2, 2021",
+        "volumes": {
+            "1": {
+                "title": [
+                    "I",
+                    "I"
+                ],
+                "date_release": [
+                    "July 7, 2020",
+                    "August 4, 2017"
+                ],
+                "pages": [
+                    "248",
+                    "276"
+                ],
+                "ISBN": [
+                    "978-1-9747-1326-4",
+                    "978-4-08-703412-7"
+                ],
+                "chapters": {
+                    "1": [
+                        "Main Characters",
+                        "Main Characters"
+                    ],
+                    "2": [
+                        "Other Characters",
+                        "Other Characters"
+                    ],
+                    "3": [
+                        "Prologue the First",
+                        "Prologue the First"
+                    ],
+                    "4": [
+                        "Prologue the Second",
+                        "Prologue the Second"
+                    ],
+                    "5": [
+                        "Chapter One",
+                        "Chapter One"
+                    ],
+                    "6": [
+                        "Chapter Two",
+                        "Chapter Two"
+                    ],
+                    "7": [
+                        "Chapter Three",
+                        "Chapter Three"
+                    ],
+                    "8": [
+                        "Chapter Four",
+                        "Chapter Four"
+                    ],
+                    "9": [
+                        "Chapter Five",
+                        "Chapter Five"
+                    ],
+                    "10": [
+                        "Interlude",
+                        "Interlude"
+                    ]
+                },
+                "cover_characters": [
+                    "Shūhei Hisagi"
+                ],
+                "img": "images/cfyow/vol_001.png",
+                "prise": "149 dkk",
+                "date_bought": ""
+            },
+            "2": {
+                "title": [
+                    "II",
+                    "II"
+                ],
+                "date_release": [
+                    "November 3, 2020",
+                    "November 2, 2018"
+                ],
+                "pages": [
+                    "472",
+                    "516"
+                ],
+                "ISBN": [
+                    "978-1-9747-1327-1",
+                    "978-4-08-703464-6"
+                ],
+                "chapters": {
+                    "11": [
+                        "Main Characters",
+                        "Main Characters"
+                    ],
+                    "12": [
+                        "Other Characters",
+                        "Other Characters"
+                    ],
+                    "13": [
+                        "Interlude",
+                        "Interlude"
+                    ],
+                    "14": [
+                        "Chapter Six",
+                        "Chapter Six"
+                    ],
+                    "15": [
+                        "Chapter Seven",
+                        "Chapter Seven"
+                    ],
+                    "16": [
+                        "Chapter Eight",
+                        "Chapter Eight"
+                    ],
+                    "17": [
+                        "Chapter Nine",
+                        "Chapter Nine"
+                    ],
+                    "18": [
+                        "Chapter Ten",
+                        "Chapter Ten"
+                    ],
+                    "19": [
+                        "Chapter Eleven",
+                        "Chapter Eleven"
+                    ],
+                    "20": [
+                        "Chapter Twelve",
+                        "Chapter Twelve"
+                    ],
+                    "21": [
+                        "Chapter Thirteen",
+                        "Chapter Thirteen"
+                    ],
+                    "22": [
+                        "Chapter Fourteen",
+                        "Chapter Fourteen"
+                    ],
+                    "23": [
+                        "Chapter Fifteen",
+                        "Chapter Fifteen"
+                    ],
+                    "24": [
+                        "Chapter Sixteen",
+                        "Chapter Sixteen"
+                    ],
+                    "25": [
+                        "Chapter Seventeen",
+                        "Chapter Seventeen"
+                    ],
+                    "26": [
+                        "Chapter Eighteen",
+                        "Chapter Eighteen"
+                    ],
+                    "27": [
+                        "Interlude",
+                        "Interlude"
+                    ]
+                },
+                "cover_characters": [
+                    "Hikone Ubuginu"
+                ],
+                "img": "images/cfyow/vol_002.png",
+                "prise": "149 dkk",
+                "date_bought": ""
+            },
+            "3": {
+                "title": [
+                    "III",
+                    "III"
+                ],
+                "date_release": [
+                    "April 20, 2021",
+                    "December 4, 2018"
+                ],
+                "pages": [
+                    "398",
+                    "398"
+                ],
+                "ISBN": [
+                    "978-1-9747-1328-8",
+                    "978-1-9747-1328-8"
+                ],
+                "chapters": {
+                    "28": [
+                        "Main Characters",
+                        "Main Characters"
+                    ],
+                    "29": [
+                        "Other Characters",
+                        "Other Characters"
+                    ],
+                    "30": [
+                        "Interlude",
+                        "Interlude"
+                    ],
+                    "31": [
+                        "Chapter Nineteen",
+                        "Chapter Nineteen"
+                    ],
+                    "32": [
+                        "Chapter Twenty",
+                        "Chapter Twenty"
+                    ],
+                    "33": [
+                        "Chapter Twenty-One",
+                        "Chapter Twenty-One"
+                    ],
+                    "34": [
+                        "Chapter Twenty-Two",
+                        "Chapter Twenty-Two"
+                    ],
+                    "35": [
+                        "Chapter Twenty-Three",
+                        "Chapter Twenty-Three"
+                    ],
+                    "36": [
+                        "Chapter Twenty-Four",
+                        "Chapter Twenty-Four"
+                    ],
+                    "37": [
+                        "Final Chapter",
+                        "Final Chapter"
+                    ],
+                    "38": [
+                        "Bonus Chapter",
+                        "Bonus Chapter"
+                    ],
+                    "39": [
+                        "Afterword",
+                        "Afterword"
+                    ]
+                },
+                "cover_characters": [
+                    "Tokinada Tsunayashiro"
+                ],
+                "img": "images/cfyow/vol_003.png",
+                "prise": "149 dkk",
+                "date_bought": ""
+            }
+        }
+    },
     "Hunter x Hunter": {
         "title": "Hunter x Hunter",
         "author": "Yoshihiro Togashi",
@@ -44463,247 +44704,6 @@
                 ],
                 "img": "images/sakamoto/vol_025.png",
                 "prise": "10 €",
-                "date_bought": ""
-            }
-        }
-    },
-    "Bleach: Can't Fear Your Own World(novel)": {
-        "title": "Bleach: Can't Fear Your Own World(novel)",
-        "author": "Tite Kubo & Ryōgo Narita",
-        "released": "April 2, 2021",
-        "volumes": {
-            "1": {
-                "title": [
-                    "I",
-                    "I"
-                ],
-                "date_release": [
-                    "July 7, 2020",
-                    "August 4, 2017"
-                ],
-                "pages": [
-                    "248",
-                    "276"
-                ],
-                "ISBN": [
-                    "978-1-9747-1326-4",
-                    "978-4-08-703412-7"
-                ],
-                "chapters": {
-                    "1": [
-                        "Main Characters",
-                        "Main Characters"
-                    ],
-                    "2": [
-                        "Other Characters",
-                        "Other Characters"
-                    ],
-                    "3": [
-                        "Prologue the First",
-                        "Prologue the First"
-                    ],
-                    "4": [
-                        "Prologue the Second",
-                        "Prologue the Second"
-                    ],
-                    "5": [
-                        "Chapter One",
-                        "Chapter One"
-                    ],
-                    "6": [
-                        "Chapter Two",
-                        "Chapter Two"
-                    ],
-                    "7": [
-                        "Chapter Three",
-                        "Chapter Three"
-                    ],
-                    "8": [
-                        "Chapter Four",
-                        "Chapter Four"
-                    ],
-                    "9": [
-                        "Chapter Five",
-                        "Chapter Five"
-                    ],
-                    "10": [
-                        "Interlude",
-                        "Interlude"
-                    ]
-                },
-                "cover_characters": [
-                    "Shūhei Hisagi"
-                ],
-                "img": "images/cfyow/vol_001.png",
-                "prise": "149 dkk",
-                "date_bought": ""
-            },
-            "2": {
-                "title": [
-                    "II",
-                    "II"
-                ],
-                "date_release": [
-                    "November 3, 2020",
-                    "November 2, 2018"
-                ],
-                "pages": [
-                    "472",
-                    "516"
-                ],
-                "ISBN": [
-                    "978-1-9747-1327-1",
-                    "978-4-08-703464-6"
-                ],
-                "chapters": {
-                    "11": [
-                        "Main Characters",
-                        "Main Characters"
-                    ],
-                    "12": [
-                        "Other Characters",
-                        "Other Characters"
-                    ],
-                    "13": [
-                        "Interlude",
-                        "Interlude"
-                    ],
-                    "14": [
-                        "Chapter Six",
-                        "Chapter Six"
-                    ],
-                    "15": [
-                        "Chapter Seven",
-                        "Chapter Seven"
-                    ],
-                    "16": [
-                        "Chapter Eight",
-                        "Chapter Eight"
-                    ],
-                    "17": [
-                        "Chapter Nine",
-                        "Chapter Nine"
-                    ],
-                    "18": [
-                        "Chapter Ten",
-                        "Chapter Ten"
-                    ],
-                    "19": [
-                        "Chapter Eleven",
-                        "Chapter Eleven"
-                    ],
-                    "20": [
-                        "Chapter Twelve",
-                        "Chapter Twelve"
-                    ],
-                    "21": [
-                        "Chapter Thirteen",
-                        "Chapter Thirteen"
-                    ],
-                    "22": [
-                        "Chapter Fourteen",
-                        "Chapter Fourteen"
-                    ],
-                    "23": [
-                        "Chapter Fifteen",
-                        "Chapter Fifteen"
-                    ],
-                    "24": [
-                        "Chapter Sixteen",
-                        "Chapter Sixteen"
-                    ],
-                    "25": [
-                        "Chapter Seventeen",
-                        "Chapter Seventeen"
-                    ],
-                    "26": [
-                        "Chapter Eighteen",
-                        "Chapter Eighteen"
-                    ],
-                    "27": [
-                        "Interlude",
-                        "Interlude"
-                    ]
-                },
-                "cover_characters": [
-                    "Hikone Ubuginu"
-                ],
-                "img": "images/cfyow/vol_002.png",
-                "prise": "149 dkk",
-                "date_bought": ""
-            },
-            "3": {
-                "title": [
-                    "III",
-                    "III"
-                ],
-                "date_release": [
-                    "April 20, 2021",
-                    "December 4, 2018"
-                ],
-                "pages": [
-                    "398",
-                    "398"
-                ],
-                "ISBN": [
-                    "978-1-9747-1328-8",
-                    "978-1-9747-1328-8"
-                ],
-                "chapters": {
-                    "28": [
-                        "Main Characters",
-                        "Main Characters"
-                    ],
-                    "29": [
-                        "Other Characters",
-                        "Other Characters"
-                    ],
-                    "30": [
-                        "Interlude",
-                        "Interlude"
-                    ],
-                    "31": [
-                        "Chapter Nineteen",
-                        "Chapter Nineteen"
-                    ],
-                    "32": [
-                        "Chapter Twenty",
-                        "Chapter Twenty"
-                    ],
-                    "33": [
-                        "Chapter Twenty-One",
-                        "Chapter Twenty-One"
-                    ],
-                    "34": [
-                        "Chapter Twenty-Two",
-                        "Chapter Twenty-Two"
-                    ],
-                    "35": [
-                        "Chapter Twenty-Three",
-                        "Chapter Twenty-Three"
-                    ],
-                    "36": [
-                        "Chapter Twenty-Four",
-                        "Chapter Twenty-Four"
-                    ],
-                    "37": [
-                        "Final Chapter",
-                        "Final Chapter"
-                    ],
-                    "38": [
-                        "Bonus Chapter",
-                        "Bonus Chapter"
-                    ],
-                    "39": [
-                        "Afterword",
-                        "Afterword"
-                    ]
-                },
-                "cover_characters": [
-                    "Tokinada Tsunayashiro"
-                ],
-                "img": "images/cfyow/vol_003.png",
-                "prise": "149 dkk",
                 "date_bought": ""
             }
         }

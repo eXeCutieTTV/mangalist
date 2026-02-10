@@ -285,7 +285,7 @@ async function page2() {
         }
     }
     //^^ dynamic modal creation
-    
+
     // owned togglevv
     const footers = document.querySelectorAll(".page2-modal-footer");
     for (const footer of footers) {
@@ -496,21 +496,19 @@ async function page2() {
 // fix hxh^^
 
 //vv manual function to sort the static data by author
-/*
 function sortByAuthor(data) {
-  const arr = Object.entries(data).map(([key, value]) => ({
-    key,
-    author: value.author.toLowerCase(),
-    value
-  }));
+    const arr = Object.entries(data).map(([key, value]) => ({
+        key,
+        author: value.author.toLowerCase(),
+        value
+    }));
 
-  arr.sort((a, b) => a.author.localeCompare(b.author));
+    arr.sort((a, b) => a.author.localeCompare(b.author));
 
-  const sorted = {};
-  for (const item of arr) {
-    sorted[item.key] = item.value;
-  }
+    const sorted = {};
+    for (const item of arr) {
+        sorted[item.key] = item.value;
+    }
 
-  return sorted;
+    return sorted;
 }
-*/
