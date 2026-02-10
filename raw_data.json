@@ -39513,6 +39513,1602 @@
             }
         }
     },
+    "Vinland Saga": {
+        "title": "Vinland Saga",
+        "author": "YUKIMURA Makoto",
+        "released": "July 15, 2005",
+        "volumes": {
+            "1": {
+                "title": [
+                    "Volume 1",
+                    "Volume 1"
+                ],
+                "date_release": [
+                    "July 15, 2005",
+                    "July 15, 2005"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314423-9",
+                    "978-4-06-314423-9"
+                ],
+                "chapters": {
+                    "1": [
+                        "Normanni",
+                        "Normanni"
+                    ],
+                    "2": [
+                        "Somewhere Not Here",
+                        "Somewhere Not Here"
+                    ],
+                    "3": [
+                        "Beyond the Edge of the Sea",
+                        "Beyond the Edge of the Sea"
+                    ],
+                    "4": [
+                        "Unbreakable Chains",
+                        "Unbreakable Chains"
+                    ],
+                    "5": [
+                        "Troll",
+                        "Troll"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "2": {
+                "title": [
+                    "Volume 2",
+                    "Volume 2"
+                ],
+                "date_release": [
+                    "November 17, 2005",
+                    "November 17, 2005"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314428-4",
+                    "978-4-06-314428-4"
+                ],
+                "chapters": {
+                    "6": [
+                        "Messenger from the Battlefield",
+                        "Messenger from the Battlefield"
+                    ],
+                    "7": [
+                        "Sword",
+                        "Sword"
+                    ],
+                    "8": [
+                        "The Journey Begins",
+                        "The Journey Begins"
+                    ],
+                    "9": [
+                        "A Trap in Distant Seas",
+                        "A Trap in Distant Seas"
+                    ],
+                    "10": [
+                        "Night Wake",
+                        "Night Wake"
+                    ],
+                    "11": [
+                        "Cage",
+                        "Cage"
+                    ],
+                    "12": [
+                        "More Than a Monster",
+                        "More Than a Monster"
+                    ],
+                    "13": [
+                        "Smell",
+                        "Smell"
+                    ],
+                    "14": [
+                        "The Sword of Thors",
+                        "The Sword of Thors"
+                    ],
+                    "15": [
+                        "A True Warrior",
+                        "A True Warrior"
+                    ],
+                    "16": [
+                        "The Death of Thors",
+                        "The Death of Thors"
+                    ]
+                },
+                "cover_characters": [
+                    "Thors"
+                ],
+                "img": "images/vinland/vol_002.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "3": {
+                "title": [
+                    "Volume 3",
+                    "Volume 3"
+                ],
+                "date_release": [
+                    "October 23, 2006",
+                    "October 23, 2006"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314433-8",
+                    "978-4-06-314433-8"
+                ],
+                "chapters": {
+                    "17": [
+                        "England, 1008 A.D.",
+                        "England, 1008 A.D."
+                    ],
+                    "18": [
+                        "England, 1013 A.D.",
+                        "England, 1013 A.D."
+                    ],
+                    "19": [
+                        "The Battle of London Bridge",
+                        "The Battle of London Bridge"
+                    ],
+                    "20": [
+                        "Ragnarok",
+                        "Ragnarok"
+                    ],
+                    "21": [
+                        "Valhalla",
+                        "Valhalla"
+                    ],
+                    "Bonus Story": [
+                        "Ylva at Work",
+                        "Ylva at Work"
+                    ]
+                },
+                "cover_characters": [
+                    "Askeladd",
+                    "Thorkell"
+                ],
+                "img": "images/vinland/vol_003.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "4": {
+                "title": [
+                    "Volume 4",
+                    "Volume 4"
+                ],
+                "date_release": [
+                    "February 23, 2007",
+                    "February 23, 2007"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314440-6",
+                    "978-4-06-314440-6"
+                ],
+                "chapters": {
+                    "22": [
+                        "The Troll's Son",
+                        "The Troll's Son"
+                    ],
+                    "23": [
+                        "Reinforcements",
+                        "Reinforcements"
+                    ],
+                    "24": [
+                        "The Land on the Far Bank",
+                        "The Land on the Far Bank"
+                    ],
+                    "25": [
+                        "Bluff",
+                        "Bluff"
+                    ],
+                    "26": [
+                        "Artorius",
+                        "Artorius"
+                    ],
+                    "27": [
+                        "The Warriors and the Monk",
+                        "The Warriors and the Monk"
+                    ],
+                    "28": [
+                        "Night Attack",
+                        "Night Attack"
+                    ]
+                },
+                "cover_characters": [
+                    "Canute",
+                    "Ragnar"
+                ],
+                "img": "images/vinland/vol_004.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "5": {
+                "title": [
+                    "Volume 5",
+                    "Volume 5"
+                ],
+                "date_release": [
+                    "October 23, 2007",
+                    "October 23, 2007"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314473-4",
+                    "978-4-06-314473-4"
+                ],
+                "chapters": {
+                    "29": [
+                        "Father and Son",
+                        "Father and Son"
+                    ],
+                    "30": [
+                        "Master and Servant at the Table",
+                        "Master and Servant at the Table"
+                    ],
+                    "31": [
+                        "History of Beasts",
+                        "History of Beasts"
+                    ],
+                    "32": [
+                        "Defectors",
+                        "Defectors"
+                    ],
+                    "33": [
+                        "Betrayal",
+                        "Betrayal"
+                    ],
+                    "34": [
+                        "Avalon",
+                        "Avalon"
+                    ],
+                    "35": [
+                        "Contact",
+                        "Contact"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_005.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "6": {
+                "title": [
+                    "Volume 6",
+                    "Volume 6"
+                ],
+                "date_release": [
+                    "June 23, 2008",
+                    "June 23, 2008"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314510-6",
+                    "978-4-06-314510-6"
+                ],
+                "chapters": {
+                    "36": [
+                        "Two on the Battlefield",
+                        "Two on the Battlefield"
+                    ],
+                    "37": [
+                        "The Definition of Love",
+                        "The Definition of Love"
+                    ],
+                    "38": [
+                        "Out of the Cradle",
+                        "Out of the Cradle"
+                    ],
+                    "39": [
+                        "The King Awakens",
+                        "The King Awakens"
+                    ],
+                    "40": [
+                        "The Legend of Thors",
+                        "The Legend of Thors"
+                    ],
+                    "41": [
+                        "United Front",
+                        "United Front"
+                    ],
+                    "42": [
+                        "Verdict",
+                        "Verdict"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_006.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "7": {
+                "title": [
+                    "Volume 7",
+                    "Volume 7"
+                ],
+                "date_release": [
+                    "February 23, 2009",
+                    "February 23, 2009"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314544-1",
+                    "978-4-06-314544-1"
+                ],
+                "chapters": {
+                    "43": [
+                        "The Prince Returns",
+                        "The Prince Returns"
+                    ],
+                    "44": [
+                        "The Curse of the Crown",
+                        "The Curse of the Crown"
+                    ],
+                    "45": [
+                        "His Last Friend",
+                        "His Last Friend"
+                    ],
+                    "46": [
+                        "Two Lone Wolves",
+                        "Two Lone Wolves"
+                    ],
+                    "47": [
+                        "The Hero is Gone",
+                        "The Hero is Gone"
+                    ],
+                    "48": [
+                        "Reunion",
+                        "Reunion"
+                    ],
+                    "49": [
+                        "Karlsefni",
+                        "Karlsefni"
+                    ]
+                },
+                "cover_characters": [
+                    "Canute"
+                ],
+                "img": "images/vinland/vol_007.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "8": {
+                "title": [
+                    "Volume 8",
+                    "Volume 8"
+                ],
+                "date_release": [
+                    "September 23, 2009",
+                    "September 23, 2009"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-314581-6",
+                    "978-4-06-314581-6"
+                ],
+                "chapters": {
+                    "50": [
+                        "Plot",
+                        "Plot"
+                    ],
+                    "51": [
+                        "Miscalculation",
+                        "Miscalculation"
+                    ],
+                    "52": [
+                        "The Hero Returns",
+                        "The Hero Returns"
+                    ],
+                    "53": [
+                        "The Fury of Britannia's King",
+                        "The Fury of Britannia's King"
+                    ],
+                    "54": [
+                        "End of the Prologue",
+                        "End of the Prologue"
+                    ],
+                    "55": [
+                        "Slave",
+                        "Slave"
+                    ],
+                    "56": [
+                        "Ketil's Farm",
+                        "Ketil's Farm"
+                    ]
+                },
+                "cover_characters": [
+                    "Askeladd"
+                ],
+                "img": "images/vinland/vol_008.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "9": {
+                "title": [
+                    "Volume 9",
+                    "Volume 9"
+                ],
+                "date_release": [
+                    "June 23, 2010",
+                    "June 23, 2010"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-310672-5",
+                    "978-4-06-310672-5"
+                ],
+                "chapters": {
+                    "57": [
+                        "Young Master",
+                        "Young Master"
+                    ],
+                    "58": [
+                        "The Men You're Allowed to Kill",
+                        "The Men You're Allowed to Kill"
+                    ],
+                    "59": [
+                        "Snake",
+                        "Snake"
+                    ],
+                    "60": [
+                        "His First Friend",
+                        "His First Friend"
+                    ],
+                    "61": [
+                        "The Way of Blood",
+                        "The Way of Blood"
+                    ],
+                    "62": [
+                        "Canute's Way",
+                        "Canute's Way"
+                    ],
+                    "63": [
+                        "I Need a Horse",
+                        "I Need a Horse"
+                    ],
+                    "64": [
+                        "I Need a Horse, Part II",
+                        "I Need a Horse, Part II"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Einar"
+                ],
+                "img": "images/vinland/vol_009.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "10": {
+                "title": [
+                    "Volume 10",
+                    "Volume 10"
+                ],
+                "date_release": [
+                    "April 22, 2011",
+                    "April 22, 2011"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-310736-4",
+                    "978-4-06-310736-4"
+                ],
+                "chapters": {
+                    "65": [
+                        "At the Old Master's House",
+                        "At the Old Master's House"
+                    ],
+                    "66": [
+                        "Budding",
+                        "Budding"
+                    ],
+                    "67": [
+                        "Iron Fist Ketil",
+                        "Iron Fist Ketil"
+                    ],
+                    "68": [
+                        "An Empty Man",
+                        "An Empty Man"
+                    ],
+                    "69": [
+                        "Provocation",
+                        "Provocation"
+                    ],
+                    "70": [
+                        "The Dream",
+                        "The Dream"
+                    ],
+                    "71": [
+                        "Oath",
+                        "Oath"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_010.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "11": {
+                "title": [
+                    "Volume 11",
+                    "Volume 11"
+                ],
+                "date_release": [
+                    "January 23, 2012",
+                    "January 23, 2012"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-387801-1",
+                    "978-4-06-387801-1"
+                ],
+                "chapters": {
+                    "72": [
+                        "The Curse of the Head",
+                        "The Curse of the Head"
+                    ],
+                    "73": [
+                        "When You're Free",
+                        "When You're Free"
+                    ],
+                    "74": [
+                        "Escaped Slave",
+                        "Escaped Slave"
+                    ],
+                    "75": [
+                        "King and Sword",
+                        "King and Sword"
+                    ],
+                    "76": [
+                        "Olmar's Finest Hour",
+                        "Olmar's Finest Hour"
+                    ],
+                    "77": [
+                        "Disgrace",
+                        "Disgrace"
+                    ],
+                    "78": [
+                        "Treason",
+                        "Treason"
+                    ]
+                },
+                "cover_characters": [
+                    "Canute"
+                ],
+                "img": "images/vinland/vol_011.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "12": {
+                "title": [
+                    "Volume 12",
+                    "Volume 12"
+                ],
+                "date_release": [
+                    "November 22, 2012",
+                    "November 22, 2012"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-387850-9",
+                    "978-4-06-387850-9"
+                ],
+                "chapters": {
+                    "79": [
+                        "Portents of Storm Clouds",
+                        "Portents of Storm Clouds"
+                    ],
+                    "80": [
+                        "Gardar's Assault",
+                        "Gardar's Assault"
+                    ],
+                    "81": [
+                        "Storm",
+                        "Storm"
+                    ],
+                    "82": [
+                        "Bondage",
+                        "Bondage"
+                    ],
+                    "83": [
+                        "Atonement",
+                        "Atonement"
+                    ],
+                    "84": [
+                        "A Convenient Dream",
+                        "A Convenient Dream"
+                    ],
+                    "85": [
+                        "Confrontation",
+                        "Confrontation"
+                    ],
+                    "86": [
+                        "No Going Home",
+                        "No Going Home"
+                    ]
+                },
+                "cover_characters": [
+                    "Arnheid",
+                    "Gardar"
+                ],
+                "img": "images/vinland/vol_012.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "13": {
+                "title": [
+                    "Volume 13",
+                    "Volume 13"
+                ],
+                "date_release": [
+                    "July 23, 2013",
+                    "July 23, 2013"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-387909-4",
+                    "978-4-06-387909-4"
+                ],
+                "chapters": {
+                    "87": [
+                        "The First Move",
+                        "The First Move"
+                    ],
+                    "88": [
+                        "Punishment",
+                        "Punishment"
+                    ],
+                    "89": [
+                        "The Eve of the Battle",
+                        "The Eve of the Battle"
+                    ],
+                    "90": [
+                        "The Price of the Food",
+                        "The Price of the Food"
+                    ],
+                    "91": [
+                        "The Battle of Ketil Farm",
+                        "The Battle of Ketil Farm"
+                    ],
+                    "92": [
+                        "Hundred-count",
+                        "Hundred-count"
+                    ],
+                    "93": [
+                        "Birth of a Warrior",
+                        "Birth of a Warrior"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Canute",
+                    "Einar",
+                    "Snake",
+                    "Thorgil",
+                    "Ketil"
+                ],
+                "img": "images/vinland/vol_013.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "14": {
+                "title": [
+                    "Volume 14",
+                    "Volume 14"
+                ],
+                "date_release": [
+                    "February 21, 2014",
+                    "February 21, 2014"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-387956-8",
+                    "978-4-06-387956-8"
+                ],
+                "chapters": {
+                    "94": [
+                        "Recommendation of Surrender",
+                        "Recommendation of Surrender"
+                    ],
+                    "95": [
+                        "Forgotten Things",
+                        "Forgotten Things"
+                    ],
+                    "96": [
+                        "Invincible",
+                        "Invincible"
+                    ],
+                    "97": [
+                        "Emperor of Rebellion",
+                        "Emperor of Rebellion"
+                    ],
+                    "98": [
+                        "Two Paradises",
+                        "Two Paradises"
+                    ],
+                    "99": [
+                        "Departure",
+                        "Departure"
+                    ],
+                    "100": [
+                        "Homecoming",
+                        "Homecoming"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_014.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "15": {
+                "title": [
+                    "Volume 15",
+                    "Volume 15"
+                ],
+                "date_release": [
+                    "October 23, 2014",
+                    "October 23, 2014"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-387999-5",
+                    "978-4-06-387999-5"
+                ],
+                "chapters": {
+                    "101": [
+                        "The Fettered Tern (1)",
+                        "The Fettered Tern (1)"
+                    ],
+                    "102": [
+                        "The Fettered Tern (2)",
+                        "The Fettered Tern (2)"
+                    ],
+                    "103": [
+                        "The Fettered Tern (3)",
+                        "The Fettered Tern (3)"
+                    ],
+                    "104": [
+                        "The Fettered Tern (4)",
+                        "The Fettered Tern (4)"
+                    ],
+                    "105": [
+                        "The Fettered Tern (5)",
+                        "The Fettered Tern (5)"
+                    ],
+                    "106": [
+                        "The Fettered Tern (6)",
+                        "The Fettered Tern (6)"
+                    ],
+                    "107": [
+                        "The Fettered Tern (7)",
+                        "The Fettered Tern (7)"
+                    ]
+                },
+                "cover_characters": [
+                    "Gudrid"
+                ],
+                "img": "images/vinland/vol_015.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "16": {
+                "title": [
+                    "Volume 16",
+                    "Volume 16"
+                ],
+                "date_release": [
+                    "June 23, 2015",
+                    "June 23, 2015"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-388062-5",
+                    "978-4-06-388062-5"
+                ],
+                "chapters": {
+                    "108": [
+                        "The Fettered Tern (8)",
+                        "The Fettered Tern (8)"
+                    ],
+                    "109": [
+                        "The Liberated Tern",
+                        "The Liberated Tern"
+                    ],
+                    "110": [
+                        "Crossing the North Sea",
+                        "Crossing the North Sea"
+                    ],
+                    "111": [
+                        "From Warrior to Warrior",
+                        "From Warrior to Warrior"
+                    ],
+                    "112": [
+                        "Obligatory Violence",
+                        "Obligatory Violence"
+                    ],
+                    "113": [
+                        "Troublemakers",
+                        "Troublemakers"
+                    ],
+                    "114": [
+                        "The Hunter and the Hunted (1)",
+                        "The Hunter and the Hunted (1)"
+                    ],
+                    "115": [
+                        "The Hunter and the Hunted (2)",
+                        "The Hunter and the Hunted (2)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Karli",
+                    "Karli's Mama"
+                ],
+                "img": "images/vinland/vol_016.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "17": {
+                "title": [
+                    "Volume 17",
+                    "Volume 17"
+                ],
+                "date_release": [
+                    "January 22, 2016",
+                    "January 22, 2016"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-388109-7",
+                    "978-4-06-388109-7"
+                ],
+                "chapters": {
+                    "116": [
+                        "The Hunter and the Hunted (3)",
+                        "The Hunter and the Hunted (3)"
+                    ],
+                    "117": [
+                        "The Hunter and the Hunted (4)",
+                        "The Hunter and the Hunted (4)"
+                    ],
+                    "118": [
+                        "The Hunter and the Hunted (5)",
+                        "The Hunter and the Hunted (5)"
+                    ],
+                    "119": [
+                        "The Hunter and the Hunted (6)",
+                        "The Hunter and the Hunted (6)"
+                    ],
+                    "120": [
+                        "The Hunter and the Hunted (7)",
+                        "The Hunter and the Hunted (7)"
+                    ],
+                    "121": [
+                        "The Hunter and the Hunted (8)",
+                        "The Hunter and the Hunted (8)"
+                    ],
+                    "122": [
+                        "The Hunter and the Hunted (9)",
+                        "The Hunter and the Hunted (9)"
+                    ]
+                },
+                "cover_characters": [
+                    "Hild"
+                ],
+                "img": "images/vinland/vol_017.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "18": {
+                "title": [
+                    "Volume 18",
+                    "Volume 18"
+                ],
+                "date_release": [
+                    "August 23, 2016",
+                    "August 23, 2016"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-388170-7",
+                    "978-4-06-388170-7"
+                ],
+                "chapters": {
+                    "123": [
+                        "A Borrowed Life",
+                        "A Borrowed Life"
+                    ],
+                    "124": [
+                        "Departing Norway",
+                        "Departing Norway"
+                    ],
+                    "125": [
+                        "War in the Baltic (1)",
+                        "War in the Baltic (1)"
+                    ],
+                    "126": [
+                        "War in the Baltic (2)",
+                        "War in the Baltic (2)"
+                    ],
+                    "127": [
+                        "War in the Baltic (3)",
+                        "War in the Baltic (3)"
+                    ],
+                    "128": [
+                        "War in the Baltic (4)",
+                        "War in the Baltic (4)"
+                    ],
+                    "129": [
+                        "War in the Baltic (5)",
+                        "War in the Baltic (5)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_018.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "19": {
+                "title": [
+                    "Volume 19",
+                    "Volume 19"
+                ],
+                "date_release": [
+                    "April 21, 2017",
+                    "April 21, 2017"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-388251-3",
+                    "978-4-06-388251-3"
+                ],
+                "chapters": {
+                    "130": [
+                        "War in the Baltic (6)",
+                        "War in the Baltic (6)"
+                    ],
+                    "131": [
+                        "War in the Baltic (7)",
+                        "War in the Baltic (7)"
+                    ],
+                    "132": [
+                        "War in the Baltic (8)",
+                        "War in the Baltic (8)"
+                    ],
+                    "133": [
+                        "War in the Baltic (9)",
+                        "War in the Baltic (9)"
+                    ],
+                    "134": [
+                        "War in the Baltic (10)",
+                        "War in the Baltic (10)"
+                    ],
+                    "135": [
+                        "War in the Baltic (11)",
+                        "War in the Baltic (11)"
+                    ],
+                    "136": [
+                        "War in the Baltic (12)",
+                        "War in the Baltic (12)"
+                    ],
+                    "Side Story": [
+                        "Dogland Saga",
+                        "Dogland Saga"
+                    ]
+                },
+                "cover_characters": [
+                    "Garm"
+                ],
+                "img": "images/vinland/vol_019.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "20": {
+                "title": [
+                    "Volume 20",
+                    "Volume 20"
+                ],
+                "date_release": [
+                    "November 22, 2017",
+                    "November 22, 2017"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-510362-3",
+                    "978-4-06-510362-3"
+                ],
+                "chapters": {
+                    "137": [
+                        "War in the Baltic (13)",
+                        "War in the Baltic (13)"
+                    ],
+                    "138": [
+                        "War in the Baltic (14)",
+                        "War in the Baltic (14)"
+                    ],
+                    "139": [
+                        "War in the Baltic (15)",
+                        "War in the Baltic (15)"
+                    ],
+                    "140": [
+                        "War in the Baltic (16)",
+                        "War in the Baltic (16)"
+                    ],
+                    "141": [
+                        "War in the Baltic (17)",
+                        "War in the Baltic (17)"
+                    ],
+                    "142": [
+                        "War in the Baltic (18)",
+                        "War in the Baltic (18)"
+                    ],
+                    "143": [
+                        "War in the Baltic (19)",
+                        "War in the Baltic (19)"
+                    ],
+                    "144": [
+                        "War in the Baltic (20)",
+                        "War in the Baltic (20)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_020.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "21": {
+                "title": [
+                    "Volume 21",
+                    "Volume 21"
+                ],
+                "date_release": [
+                    "August 23, 2018",
+                    "August 23, 2018"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-512433-8",
+                    "978-4-06-512433-8"
+                ],
+                "chapters": {
+                    "145": [
+                        "War in the Baltic (21)",
+                        "War in the Baltic (21)"
+                    ],
+                    "146": [
+                        "War in the Baltic (22)",
+                        "War in the Baltic (22)"
+                    ],
+                    "147": [
+                        "War in the Baltic (23)",
+                        "War in the Baltic (23)"
+                    ],
+                    "148": [
+                        "War in the Baltic (24)",
+                        "War in the Baltic (24)"
+                    ],
+                    "149": [
+                        "War in the Baltic (25)",
+                        "War in the Baltic (25)"
+                    ],
+                    "150": [
+                        "War in the Baltic (26)",
+                        "War in the Baltic (26)"
+                    ],
+                    "151": [
+                        "War in the Baltic (27)",
+                        "War in the Baltic (27)"
+                    ],
+                    "152": [
+                        "War in the Baltic (28)",
+                        "War in the Baltic (28)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_021.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "22": {
+                "title": [
+                    "Volume 22",
+                    "Volume 22"
+                ],
+                "date_release": [
+                    "June 21, 2019",
+                    "June 21, 2019"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-515180-8",
+                    "978-4-06-515180-8"
+                ],
+                "chapters": {
+                    "153": [
+                        "War in the Baltic (29)",
+                        "War in the Baltic (29)"
+                    ],
+                    "154": [
+                        "War in the Baltic (30)",
+                        "War in the Baltic (30)"
+                    ],
+                    "155": [
+                        "War in the Baltic (31)",
+                        "War in the Baltic (31)"
+                    ],
+                    "156": [
+                        "War in the Baltic (32)",
+                        "War in the Baltic (32)"
+                    ],
+                    "157": [
+                        "War in the Baltic (33)",
+                        "War in the Baltic (33)"
+                    ],
+                    "158": [
+                        "War in the Baltic (34)",
+                        "War in the Baltic (34)"
+                    ],
+                    "159": [
+                        "War in the Baltic (35)",
+                        "War in the Baltic (35)"
+                    ],
+                    "160": [
+                        "War in the Baltic (36)",
+                        "War in the Baltic (36)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Garm"
+                ],
+                "img": "images/vinland/vol_022.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "23": {
+                "title": [
+                    "Volume 23",
+                    "Volume 23"
+                ],
+                "date_release": [
+                    "November 22, 2019",
+                    "November 22, 2019"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-517507-1",
+                    "978-4-06-517507-1"
+                ],
+                "chapters": {
+                    "161": [
+                        "Sigurd's Decision",
+                        "Sigurd's Decision"
+                    ],
+                    "162": [
+                        "Sigurd's Return",
+                        "Sigurd's Return"
+                    ],
+                    "163": [
+                        "Sig and Hatt",
+                        "Sig and Hatt"
+                    ],
+                    "164": [
+                        "Sigurd Defiant",
+                        "Sigurd Defiant"
+                    ],
+                    "165": [
+                        "The Parting of Sigurd",
+                        "The Parting of Sigurd"
+                    ],
+                    "166": [
+                        "Wedding",
+                        "Wedding"
+                    ]
+                },
+                "cover_characters": [
+                    "Hattrgerd",
+                    "Olm",
+                    "Thegn",
+                    "Halfdan",
+                    "Sigurd"
+                ],
+                "img": "images/vinland/vol_023.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "24": {
+                "title": [
+                    "Volume 24",
+                    "Volume 24"
+                ],
+                "date_release": [
+                    "October 23, 2020",
+                    "October 23, 2020"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-521004-8",
+                    "978-4-06-521004-8"
+                ],
+                "chapters": {
+                    "167": [
+                        "Voyage to the West (1)",
+                        "Voyage to the West (1)"
+                    ],
+                    "168": [
+                        "Voyage to the West (2)",
+                        "Voyage to the West (2)"
+                    ],
+                    "169": [
+                        "Voyage to the West (3)",
+                        "Voyage to the West (3)"
+                    ],
+                    "170": [
+                        "Voyage to the West (4)",
+                        "Voyage to the West (4)"
+                    ],
+                    "171": [
+                        "Voyage to the West (5)",
+                        "Voyage to the West (5)"
+                    ],
+                    "172": [
+                        "Voyage to the West (6)",
+                        "Voyage to the West (6)"
+                    ],
+                    "173": [
+                        "Voyage to the West (7)",
+                        "Voyage to the West (7)"
+                    ],
+                    "174": [
+                        "Voyage to the West (8)",
+                        "Voyage to the West (8)"
+                    ],
+                    "175": [
+                        "Voyage to the West (9)",
+                        "Voyage to the West (9)"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Gudrid",
+                    "Karli"
+                ],
+                "img": "images/vinland/vol_024.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "25": {
+                "title": [
+                    "Volume 25",
+                    "Volume 25"
+                ],
+                "date_release": [
+                    "July 21, 2021",
+                    "July 21, 2021"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-523605-5",
+                    "978-4-06-523605-5"
+                ],
+                "chapters": {
+                    "176": [
+                        "Voyage to the West (10)",
+                        "Voyage to the West (10)"
+                    ],
+                    "177": [
+                        "Voyage to the West (11)",
+                        "Voyage to the West (11)"
+                    ],
+                    "178": [
+                        "Voyage to the West (12)",
+                        "Voyage to the West (12)"
+                    ],
+                    "179": [
+                        "Voyage to the West (13)",
+                        "Voyage to the West (13)"
+                    ],
+                    "180": [
+                        "Voyage to the West (14)",
+                        "Voyage to the West (14)"
+                    ],
+                    "181": [
+                        "The Name of the Village Is...",
+                        "The Name of the Village Is..."
+                    ],
+                    "182": [
+                        "The Most Frightening Man",
+                        "The Most Frightening Man"
+                    ],
+                    "183": [
+                        "Natives",
+                        "Natives"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Gudrid",
+                    "Karli",
+                    "Karli's Mama",
+                    "Bug-Eyes",
+                    "Einar",
+                    "Hild",
+                    "Mr. Ugge",
+                    "Cordelia",
+                    "Eyvar",
+                    "Ganglati",
+                    "Stork"
+                ],
+                "img": "images/vinland/vol_025.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "26": {
+                "title": [
+                    "Volume 26",
+                    "Volume 26"
+                ],
+                "date_release": [
+                    "May 23, 2022",
+                    "May 23, 2022"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-527928-1",
+                    "978-4-06-527928-1"
+                ],
+                "chapters": {
+                    "184": [
+                        "Lnu",
+                        "Lnu"
+                    ],
+                    "185": [
+                        "Niskawaji'j's Dream",
+                        "Niskawaji'j's Dream"
+                    ],
+                    "186": [
+                        "Cordelia's Anguish",
+                        "Cordelia's Anguish"
+                    ],
+                    "187": [
+                        "Niskawaji'j's Expedition",
+                        "Niskawaji'j's Expedition"
+                    ],
+                    "188": [
+                        "Hild and the God of the Forest",
+                        "Hild and the God of the Forest"
+                    ],
+                    "189": [
+                        "Miskwekepu'j's Ritual",
+                        "Miskwekepu'j's Ritual"
+                    ],
+                    "190": [
+                        "The Ragnarok Dialogue",
+                        "The Ragnarok Dialogue"
+                    ],
+                    "191": [
+                        "The Day Arrives",
+                        "The Day Arrives"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_026.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "27": {
+                "title": [
+                    "Volume 27",
+                    "Volume 27"
+                ],
+                "date_release": [
+                    "June 22, 2023",
+                    "June 22, 2023"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-531910-9",
+                    "978-4-06-531910-9"
+                ],
+                "chapters": {
+                    "192": [
+                        "Thousand Year Voyage Part 1",
+                        "Thousand Year Voyage Part 1"
+                    ],
+                    "193": [
+                        "Thousand Year Voyage Part 2",
+                        "Thousand Year Voyage Part 2"
+                    ],
+                    "194": [
+                        "Thousand Year Voyage Part 3",
+                        "Thousand Year Voyage Part 3"
+                    ],
+                    "195": [
+                        "Thousand Year Voyage Part 4",
+                        "Thousand Year Voyage Part 4"
+                    ],
+                    "196": [
+                        "Thousand Year Voyage Part 5",
+                        "Thousand Year Voyage Part 5"
+                    ],
+                    "197": [
+                        "Thousand Year Voyage Part 6",
+                        "Thousand Year Voyage Part 6"
+                    ],
+                    "198": [
+                        "Thousand Year Voyage Part 7",
+                        "Thousand Year Voyage Part 7"
+                    ],
+                    "199": [
+                        "Thousand Year Voyage Part 8",
+                        "Thousand Year Voyage Part 8"
+                    ],
+                    "200": [
+                        "Thousand Year Voyage Part 9",
+                        "Thousand Year Voyage Part 9"
+                    ],
+                    "201": [
+                        "Thousand Year Voyage Part 10",
+                        "Thousand Year Voyage Part 10"
+                    ]
+                },
+                "cover_characters": [
+                    "Kitpui",
+                    "Plmk",
+                    "Niskawaji'j",
+                    "Miskwekepu'j"
+                ],
+                "img": "images/vinland/vol_027.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "28": {
+                "title": [
+                    "Volume 28",
+                    "Volume 28"
+                ],
+                "date_release": [
+                    "June 21, 2024",
+                    "June 21, 2024"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-535519-0",
+                    "978-4-06-535519-0"
+                ],
+                "chapters": {
+                    "202": [
+                        "Thousand Year Voyage Part 11",
+                        "Thousand Year Voyage Part 11"
+                    ],
+                    "203": [
+                        "Thousand Year Voyage Part 12",
+                        "Thousand Year Voyage Part 12"
+                    ],
+                    "204": [
+                        "Thousand Year Voyage Part 13",
+                        "Thousand Year Voyage Part 13"
+                    ],
+                    "205": [
+                        "Thousand Year Voyage Part 14",
+                        "Thousand Year Voyage Part 14"
+                    ],
+                    "206": [
+                        "Thousand Year Voyage Part 15",
+                        "Thousand Year Voyage Part 15"
+                    ],
+                    "207": [
+                        "Thousand Year Voyage Part 16",
+                        "Thousand Year Voyage Part 16"
+                    ],
+                    "208": [
+                        "Thousand Year Voyage Part 17",
+                        "Thousand Year Voyage Part 17"
+                    ],
+                    "209": [
+                        "Thousand Year Voyage Part 18",
+                        "Thousand Year Voyage Part 18"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn",
+                    "Einar",
+                    "Bug-Eyes"
+                ],
+                "img": "images/vinland/vol_028.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "29": {
+                "title": [
+                    "Volume 29",
+                    "Volume 29"
+                ],
+                "date_release": [
+                    "September 22, 2025",
+                    "September 22, 2025"
+                ],
+                "pages": [],
+                "ISBN": [
+                    "978-4-06-539413-7",
+                    "978-4-06-539413-7"
+                ],
+                "chapters": {
+                    "210": [
+                        "Thousand Year Voyage Part 19",
+                        "Thousand Year Voyage Part 19"
+                    ],
+                    "211": [
+                        "Thousand Year Voyage Part 20",
+                        "Thousand Year Voyage Part 20"
+                    ],
+                    "212": [
+                        "Thousand Year Voyage Part 21",
+                        "Thousand Year Voyage Part 21"
+                    ],
+                    "213": [
+                        "Thousand Year Voyage Part 22",
+                        "Thousand Year Voyage Part 22"
+                    ],
+                    "214": [
+                        "Thousand Year Voyage Part 23",
+                        "Thousand Year Voyage Part 23"
+                    ],
+                    "215": [
+                        "Thousand Year Voyage Part 24",
+                        "Thousand Year Voyage Part 24"
+                    ],
+                    "216": [
+                        "Thousand Year Voyage Part 25",
+                        "Thousand Year Voyage Part 25"
+                    ],
+                    "217": [
+                        "Thousand Year Voyage Part 26",
+                        "Thousand Year Voyage Part 26"
+                    ],
+                    "218": [
+                        "Thousand Year Voyage Part 27",
+                        "Thousand Year Voyage Part 27"
+                    ],
+                    "219": [
+                        "Again and Again",
+                        "Again and Again"
+                    ],
+                    "220": [
+                        "Somewhere Not Here",
+                        "Somewhere Not Here"
+                    ]
+                },
+                "cover_characters": [
+                    "Thorfinn"
+                ],
+                "img": "images/vinland/vol_029.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
     "Dandadan": {
         "title": "Dandadan",
         "author": "Yukinobu Tatsu",
@@ -42866,1602 +44462,6 @@
                     "Oki"
                 ],
                 "img": "images/sakamoto/vol_025.png",
-                "prise": "10 €",
-                "date_bought": ""
-            }
-        }
-    },
-    "Vinland Saga": {
-        "title": "Vinland Saga",
-        "author": "YUKIMURA Makoto",
-        "released": "July 15, 2005",
-        "volumes": {
-            "1": {
-                "title": [
-                    "Volume 1",
-                    "Volume 1"
-                ],
-                "date_release": [
-                    "July 15, 2005",
-                    "July 15, 2005"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314423-9",
-                    "978-4-06-314423-9"
-                ],
-                "chapters": {
-                    "1": [
-                        "Normanni",
-                        "Normanni"
-                    ],
-                    "2": [
-                        "Somewhere Not Here",
-                        "Somewhere Not Here"
-                    ],
-                    "3": [
-                        "Beyond the Edge of the Sea",
-                        "Beyond the Edge of the Sea"
-                    ],
-                    "4": [
-                        "Unbreakable Chains",
-                        "Unbreakable Chains"
-                    ],
-                    "5": [
-                        "Troll",
-                        "Troll"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_001.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "2": {
-                "title": [
-                    "Volume 2",
-                    "Volume 2"
-                ],
-                "date_release": [
-                    "November 17, 2005",
-                    "November 17, 2005"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314428-4",
-                    "978-4-06-314428-4"
-                ],
-                "chapters": {
-                    "6": [
-                        "Messenger from the Battlefield",
-                        "Messenger from the Battlefield"
-                    ],
-                    "7": [
-                        "Sword",
-                        "Sword"
-                    ],
-                    "8": [
-                        "The Journey Begins",
-                        "The Journey Begins"
-                    ],
-                    "9": [
-                        "A Trap in Distant Seas",
-                        "A Trap in Distant Seas"
-                    ],
-                    "10": [
-                        "Night Wake",
-                        "Night Wake"
-                    ],
-                    "11": [
-                        "Cage",
-                        "Cage"
-                    ],
-                    "12": [
-                        "More Than a Monster",
-                        "More Than a Monster"
-                    ],
-                    "13": [
-                        "Smell",
-                        "Smell"
-                    ],
-                    "14": [
-                        "The Sword of Thors",
-                        "The Sword of Thors"
-                    ],
-                    "15": [
-                        "A True Warrior",
-                        "A True Warrior"
-                    ],
-                    "16": [
-                        "The Death of Thors",
-                        "The Death of Thors"
-                    ]
-                },
-                "cover_characters": [
-                    "Thors"
-                ],
-                "img": "images/vinland/vol_002.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "3": {
-                "title": [
-                    "Volume 3",
-                    "Volume 3"
-                ],
-                "date_release": [
-                    "October 23, 2006",
-                    "October 23, 2006"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314433-8",
-                    "978-4-06-314433-8"
-                ],
-                "chapters": {
-                    "17": [
-                        "England, 1008 A.D.",
-                        "England, 1008 A.D."
-                    ],
-                    "18": [
-                        "England, 1013 A.D.",
-                        "England, 1013 A.D."
-                    ],
-                    "19": [
-                        "The Battle of London Bridge",
-                        "The Battle of London Bridge"
-                    ],
-                    "20": [
-                        "Ragnarok",
-                        "Ragnarok"
-                    ],
-                    "21": [
-                        "Valhalla",
-                        "Valhalla"
-                    ],
-                    "Bonus Story": [
-                        "Ylva at Work",
-                        "Ylva at Work"
-                    ]
-                },
-                "cover_characters": [
-                    "Askeladd",
-                    "Thorkell"
-                ],
-                "img": "images/vinland/vol_003.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "4": {
-                "title": [
-                    "Volume 4",
-                    "Volume 4"
-                ],
-                "date_release": [
-                    "February 23, 2007",
-                    "February 23, 2007"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314440-6",
-                    "978-4-06-314440-6"
-                ],
-                "chapters": {
-                    "22": [
-                        "The Troll's Son",
-                        "The Troll's Son"
-                    ],
-                    "23": [
-                        "Reinforcements",
-                        "Reinforcements"
-                    ],
-                    "24": [
-                        "The Land on the Far Bank",
-                        "The Land on the Far Bank"
-                    ],
-                    "25": [
-                        "Bluff",
-                        "Bluff"
-                    ],
-                    "26": [
-                        "Artorius",
-                        "Artorius"
-                    ],
-                    "27": [
-                        "The Warriors and the Monk",
-                        "The Warriors and the Monk"
-                    ],
-                    "28": [
-                        "Night Attack",
-                        "Night Attack"
-                    ]
-                },
-                "cover_characters": [
-                    "Canute",
-                    "Ragnar"
-                ],
-                "img": "images/vinland/vol_004.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "5": {
-                "title": [
-                    "Volume 5",
-                    "Volume 5"
-                ],
-                "date_release": [
-                    "October 23, 2007",
-                    "October 23, 2007"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314473-4",
-                    "978-4-06-314473-4"
-                ],
-                "chapters": {
-                    "29": [
-                        "Father and Son",
-                        "Father and Son"
-                    ],
-                    "30": [
-                        "Master and Servant at the Table",
-                        "Master and Servant at the Table"
-                    ],
-                    "31": [
-                        "History of Beasts",
-                        "History of Beasts"
-                    ],
-                    "32": [
-                        "Defectors",
-                        "Defectors"
-                    ],
-                    "33": [
-                        "Betrayal",
-                        "Betrayal"
-                    ],
-                    "34": [
-                        "Avalon",
-                        "Avalon"
-                    ],
-                    "35": [
-                        "Contact",
-                        "Contact"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_005.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "6": {
-                "title": [
-                    "Volume 6",
-                    "Volume 6"
-                ],
-                "date_release": [
-                    "June 23, 2008",
-                    "June 23, 2008"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314510-6",
-                    "978-4-06-314510-6"
-                ],
-                "chapters": {
-                    "36": [
-                        "Two on the Battlefield",
-                        "Two on the Battlefield"
-                    ],
-                    "37": [
-                        "The Definition of Love",
-                        "The Definition of Love"
-                    ],
-                    "38": [
-                        "Out of the Cradle",
-                        "Out of the Cradle"
-                    ],
-                    "39": [
-                        "The King Awakens",
-                        "The King Awakens"
-                    ],
-                    "40": [
-                        "The Legend of Thors",
-                        "The Legend of Thors"
-                    ],
-                    "41": [
-                        "United Front",
-                        "United Front"
-                    ],
-                    "42": [
-                        "Verdict",
-                        "Verdict"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_006.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "7": {
-                "title": [
-                    "Volume 7",
-                    "Volume 7"
-                ],
-                "date_release": [
-                    "February 23, 2009",
-                    "February 23, 2009"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314544-1",
-                    "978-4-06-314544-1"
-                ],
-                "chapters": {
-                    "43": [
-                        "The Prince Returns",
-                        "The Prince Returns"
-                    ],
-                    "44": [
-                        "The Curse of the Crown",
-                        "The Curse of the Crown"
-                    ],
-                    "45": [
-                        "His Last Friend",
-                        "His Last Friend"
-                    ],
-                    "46": [
-                        "Two Lone Wolves",
-                        "Two Lone Wolves"
-                    ],
-                    "47": [
-                        "The Hero is Gone",
-                        "The Hero is Gone"
-                    ],
-                    "48": [
-                        "Reunion",
-                        "Reunion"
-                    ],
-                    "49": [
-                        "Karlsefni",
-                        "Karlsefni"
-                    ]
-                },
-                "cover_characters": [
-                    "Canute"
-                ],
-                "img": "images/vinland/vol_007.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "8": {
-                "title": [
-                    "Volume 8",
-                    "Volume 8"
-                ],
-                "date_release": [
-                    "September 23, 2009",
-                    "September 23, 2009"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-314581-6",
-                    "978-4-06-314581-6"
-                ],
-                "chapters": {
-                    "50": [
-                        "Plot",
-                        "Plot"
-                    ],
-                    "51": [
-                        "Miscalculation",
-                        "Miscalculation"
-                    ],
-                    "52": [
-                        "The Hero Returns",
-                        "The Hero Returns"
-                    ],
-                    "53": [
-                        "The Fury of Britannia's King",
-                        "The Fury of Britannia's King"
-                    ],
-                    "54": [
-                        "End of the Prologue",
-                        "End of the Prologue"
-                    ],
-                    "55": [
-                        "Slave",
-                        "Slave"
-                    ],
-                    "56": [
-                        "Ketil's Farm",
-                        "Ketil's Farm"
-                    ]
-                },
-                "cover_characters": [
-                    "Askeladd"
-                ],
-                "img": "images/vinland/vol_008.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "9": {
-                "title": [
-                    "Volume 9",
-                    "Volume 9"
-                ],
-                "date_release": [
-                    "June 23, 2010",
-                    "June 23, 2010"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-310672-5",
-                    "978-4-06-310672-5"
-                ],
-                "chapters": {
-                    "57": [
-                        "Young Master",
-                        "Young Master"
-                    ],
-                    "58": [
-                        "The Men You're Allowed to Kill",
-                        "The Men You're Allowed to Kill"
-                    ],
-                    "59": [
-                        "Snake",
-                        "Snake"
-                    ],
-                    "60": [
-                        "His First Friend",
-                        "His First Friend"
-                    ],
-                    "61": [
-                        "The Way of Blood",
-                        "The Way of Blood"
-                    ],
-                    "62": [
-                        "Canute's Way",
-                        "Canute's Way"
-                    ],
-                    "63": [
-                        "I Need a Horse",
-                        "I Need a Horse"
-                    ],
-                    "64": [
-                        "I Need a Horse, Part II",
-                        "I Need a Horse, Part II"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Einar"
-                ],
-                "img": "images/vinland/vol_009.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "10": {
-                "title": [
-                    "Volume 10",
-                    "Volume 10"
-                ],
-                "date_release": [
-                    "April 22, 2011",
-                    "April 22, 2011"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-310736-4",
-                    "978-4-06-310736-4"
-                ],
-                "chapters": {
-                    "65": [
-                        "At the Old Master's House",
-                        "At the Old Master's House"
-                    ],
-                    "66": [
-                        "Budding",
-                        "Budding"
-                    ],
-                    "67": [
-                        "Iron Fist Ketil",
-                        "Iron Fist Ketil"
-                    ],
-                    "68": [
-                        "An Empty Man",
-                        "An Empty Man"
-                    ],
-                    "69": [
-                        "Provocation",
-                        "Provocation"
-                    ],
-                    "70": [
-                        "The Dream",
-                        "The Dream"
-                    ],
-                    "71": [
-                        "Oath",
-                        "Oath"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_010.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "11": {
-                "title": [
-                    "Volume 11",
-                    "Volume 11"
-                ],
-                "date_release": [
-                    "January 23, 2012",
-                    "January 23, 2012"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-387801-1",
-                    "978-4-06-387801-1"
-                ],
-                "chapters": {
-                    "72": [
-                        "The Curse of the Head",
-                        "The Curse of the Head"
-                    ],
-                    "73": [
-                        "When You're Free",
-                        "When You're Free"
-                    ],
-                    "74": [
-                        "Escaped Slave",
-                        "Escaped Slave"
-                    ],
-                    "75": [
-                        "King and Sword",
-                        "King and Sword"
-                    ],
-                    "76": [
-                        "Olmar's Finest Hour",
-                        "Olmar's Finest Hour"
-                    ],
-                    "77": [
-                        "Disgrace",
-                        "Disgrace"
-                    ],
-                    "78": [
-                        "Treason",
-                        "Treason"
-                    ]
-                },
-                "cover_characters": [
-                    "Canute"
-                ],
-                "img": "images/vinland/vol_011.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "12": {
-                "title": [
-                    "Volume 12",
-                    "Volume 12"
-                ],
-                "date_release": [
-                    "November 22, 2012",
-                    "November 22, 2012"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-387850-9",
-                    "978-4-06-387850-9"
-                ],
-                "chapters": {
-                    "79": [
-                        "Portents of Storm Clouds",
-                        "Portents of Storm Clouds"
-                    ],
-                    "80": [
-                        "Gardar's Assault",
-                        "Gardar's Assault"
-                    ],
-                    "81": [
-                        "Storm",
-                        "Storm"
-                    ],
-                    "82": [
-                        "Bondage",
-                        "Bondage"
-                    ],
-                    "83": [
-                        "Atonement",
-                        "Atonement"
-                    ],
-                    "84": [
-                        "A Convenient Dream",
-                        "A Convenient Dream"
-                    ],
-                    "85": [
-                        "Confrontation",
-                        "Confrontation"
-                    ],
-                    "86": [
-                        "No Going Home",
-                        "No Going Home"
-                    ]
-                },
-                "cover_characters": [
-                    "Arnheid",
-                    "Gardar"
-                ],
-                "img": "images/vinland/vol_012.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "13": {
-                "title": [
-                    "Volume 13",
-                    "Volume 13"
-                ],
-                "date_release": [
-                    "July 23, 2013",
-                    "July 23, 2013"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-387909-4",
-                    "978-4-06-387909-4"
-                ],
-                "chapters": {
-                    "87": [
-                        "The First Move",
-                        "The First Move"
-                    ],
-                    "88": [
-                        "Punishment",
-                        "Punishment"
-                    ],
-                    "89": [
-                        "The Eve of the Battle",
-                        "The Eve of the Battle"
-                    ],
-                    "90": [
-                        "The Price of the Food",
-                        "The Price of the Food"
-                    ],
-                    "91": [
-                        "The Battle of Ketil Farm",
-                        "The Battle of Ketil Farm"
-                    ],
-                    "92": [
-                        "Hundred-count",
-                        "Hundred-count"
-                    ],
-                    "93": [
-                        "Birth of a Warrior",
-                        "Birth of a Warrior"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Canute",
-                    "Einar",
-                    "Snake",
-                    "Thorgil",
-                    "Ketil"
-                ],
-                "img": "images/vinland/vol_013.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "14": {
-                "title": [
-                    "Volume 14",
-                    "Volume 14"
-                ],
-                "date_release": [
-                    "February 21, 2014",
-                    "February 21, 2014"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-387956-8",
-                    "978-4-06-387956-8"
-                ],
-                "chapters": {
-                    "94": [
-                        "Recommendation of Surrender",
-                        "Recommendation of Surrender"
-                    ],
-                    "95": [
-                        "Forgotten Things",
-                        "Forgotten Things"
-                    ],
-                    "96": [
-                        "Invincible",
-                        "Invincible"
-                    ],
-                    "97": [
-                        "Emperor of Rebellion",
-                        "Emperor of Rebellion"
-                    ],
-                    "98": [
-                        "Two Paradises",
-                        "Two Paradises"
-                    ],
-                    "99": [
-                        "Departure",
-                        "Departure"
-                    ],
-                    "100": [
-                        "Homecoming",
-                        "Homecoming"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_014.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "15": {
-                "title": [
-                    "Volume 15",
-                    "Volume 15"
-                ],
-                "date_release": [
-                    "October 23, 2014",
-                    "October 23, 2014"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-387999-5",
-                    "978-4-06-387999-5"
-                ],
-                "chapters": {
-                    "101": [
-                        "The Fettered Tern (1)",
-                        "The Fettered Tern (1)"
-                    ],
-                    "102": [
-                        "The Fettered Tern (2)",
-                        "The Fettered Tern (2)"
-                    ],
-                    "103": [
-                        "The Fettered Tern (3)",
-                        "The Fettered Tern (3)"
-                    ],
-                    "104": [
-                        "The Fettered Tern (4)",
-                        "The Fettered Tern (4)"
-                    ],
-                    "105": [
-                        "The Fettered Tern (5)",
-                        "The Fettered Tern (5)"
-                    ],
-                    "106": [
-                        "The Fettered Tern (6)",
-                        "The Fettered Tern (6)"
-                    ],
-                    "107": [
-                        "The Fettered Tern (7)",
-                        "The Fettered Tern (7)"
-                    ]
-                },
-                "cover_characters": [
-                    "Gudrid"
-                ],
-                "img": "images/vinland/vol_015.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "16": {
-                "title": [
-                    "Volume 16",
-                    "Volume 16"
-                ],
-                "date_release": [
-                    "June 23, 2015",
-                    "June 23, 2015"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-388062-5",
-                    "978-4-06-388062-5"
-                ],
-                "chapters": {
-                    "108": [
-                        "The Fettered Tern (8)",
-                        "The Fettered Tern (8)"
-                    ],
-                    "109": [
-                        "The Liberated Tern",
-                        "The Liberated Tern"
-                    ],
-                    "110": [
-                        "Crossing the North Sea",
-                        "Crossing the North Sea"
-                    ],
-                    "111": [
-                        "From Warrior to Warrior",
-                        "From Warrior to Warrior"
-                    ],
-                    "112": [
-                        "Obligatory Violence",
-                        "Obligatory Violence"
-                    ],
-                    "113": [
-                        "Troublemakers",
-                        "Troublemakers"
-                    ],
-                    "114": [
-                        "The Hunter and the Hunted (1)",
-                        "The Hunter and the Hunted (1)"
-                    ],
-                    "115": [
-                        "The Hunter and the Hunted (2)",
-                        "The Hunter and the Hunted (2)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Karli",
-                    "Karli's Mama"
-                ],
-                "img": "images/vinland/vol_016.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "17": {
-                "title": [
-                    "Volume 17",
-                    "Volume 17"
-                ],
-                "date_release": [
-                    "January 22, 2016",
-                    "January 22, 2016"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-388109-7",
-                    "978-4-06-388109-7"
-                ],
-                "chapters": {
-                    "116": [
-                        "The Hunter and the Hunted (3)",
-                        "The Hunter and the Hunted (3)"
-                    ],
-                    "117": [
-                        "The Hunter and the Hunted (4)",
-                        "The Hunter and the Hunted (4)"
-                    ],
-                    "118": [
-                        "The Hunter and the Hunted (5)",
-                        "The Hunter and the Hunted (5)"
-                    ],
-                    "119": [
-                        "The Hunter and the Hunted (6)",
-                        "The Hunter and the Hunted (6)"
-                    ],
-                    "120": [
-                        "The Hunter and the Hunted (7)",
-                        "The Hunter and the Hunted (7)"
-                    ],
-                    "121": [
-                        "The Hunter and the Hunted (8)",
-                        "The Hunter and the Hunted (8)"
-                    ],
-                    "122": [
-                        "The Hunter and the Hunted (9)",
-                        "The Hunter and the Hunted (9)"
-                    ]
-                },
-                "cover_characters": [
-                    "Hild"
-                ],
-                "img": "images/vinland/vol_017.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "18": {
-                "title": [
-                    "Volume 18",
-                    "Volume 18"
-                ],
-                "date_release": [
-                    "August 23, 2016",
-                    "August 23, 2016"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-388170-7",
-                    "978-4-06-388170-7"
-                ],
-                "chapters": {
-                    "123": [
-                        "A Borrowed Life",
-                        "A Borrowed Life"
-                    ],
-                    "124": [
-                        "Departing Norway",
-                        "Departing Norway"
-                    ],
-                    "125": [
-                        "War in the Baltic (1)",
-                        "War in the Baltic (1)"
-                    ],
-                    "126": [
-                        "War in the Baltic (2)",
-                        "War in the Baltic (2)"
-                    ],
-                    "127": [
-                        "War in the Baltic (3)",
-                        "War in the Baltic (3)"
-                    ],
-                    "128": [
-                        "War in the Baltic (4)",
-                        "War in the Baltic (4)"
-                    ],
-                    "129": [
-                        "War in the Baltic (5)",
-                        "War in the Baltic (5)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_018.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "19": {
-                "title": [
-                    "Volume 19",
-                    "Volume 19"
-                ],
-                "date_release": [
-                    "April 21, 2017",
-                    "April 21, 2017"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-388251-3",
-                    "978-4-06-388251-3"
-                ],
-                "chapters": {
-                    "130": [
-                        "War in the Baltic (6)",
-                        "War in the Baltic (6)"
-                    ],
-                    "131": [
-                        "War in the Baltic (7)",
-                        "War in the Baltic (7)"
-                    ],
-                    "132": [
-                        "War in the Baltic (8)",
-                        "War in the Baltic (8)"
-                    ],
-                    "133": [
-                        "War in the Baltic (9)",
-                        "War in the Baltic (9)"
-                    ],
-                    "134": [
-                        "War in the Baltic (10)",
-                        "War in the Baltic (10)"
-                    ],
-                    "135": [
-                        "War in the Baltic (11)",
-                        "War in the Baltic (11)"
-                    ],
-                    "136": [
-                        "War in the Baltic (12)",
-                        "War in the Baltic (12)"
-                    ],
-                    "Side Story": [
-                        "Dogland Saga",
-                        "Dogland Saga"
-                    ]
-                },
-                "cover_characters": [
-                    "Garm"
-                ],
-                "img": "images/vinland/vol_019.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "20": {
-                "title": [
-                    "Volume 20",
-                    "Volume 20"
-                ],
-                "date_release": [
-                    "November 22, 2017",
-                    "November 22, 2017"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-510362-3",
-                    "978-4-06-510362-3"
-                ],
-                "chapters": {
-                    "137": [
-                        "War in the Baltic (13)",
-                        "War in the Baltic (13)"
-                    ],
-                    "138": [
-                        "War in the Baltic (14)",
-                        "War in the Baltic (14)"
-                    ],
-                    "139": [
-                        "War in the Baltic (15)",
-                        "War in the Baltic (15)"
-                    ],
-                    "140": [
-                        "War in the Baltic (16)",
-                        "War in the Baltic (16)"
-                    ],
-                    "141": [
-                        "War in the Baltic (17)",
-                        "War in the Baltic (17)"
-                    ],
-                    "142": [
-                        "War in the Baltic (18)",
-                        "War in the Baltic (18)"
-                    ],
-                    "143": [
-                        "War in the Baltic (19)",
-                        "War in the Baltic (19)"
-                    ],
-                    "144": [
-                        "War in the Baltic (20)",
-                        "War in the Baltic (20)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_020.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "21": {
-                "title": [
-                    "Volume 21",
-                    "Volume 21"
-                ],
-                "date_release": [
-                    "August 23, 2018",
-                    "August 23, 2018"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-512433-8",
-                    "978-4-06-512433-8"
-                ],
-                "chapters": {
-                    "145": [
-                        "War in the Baltic (21)",
-                        "War in the Baltic (21)"
-                    ],
-                    "146": [
-                        "War in the Baltic (22)",
-                        "War in the Baltic (22)"
-                    ],
-                    "147": [
-                        "War in the Baltic (23)",
-                        "War in the Baltic (23)"
-                    ],
-                    "148": [
-                        "War in the Baltic (24)",
-                        "War in the Baltic (24)"
-                    ],
-                    "149": [
-                        "War in the Baltic (25)",
-                        "War in the Baltic (25)"
-                    ],
-                    "150": [
-                        "War in the Baltic (26)",
-                        "War in the Baltic (26)"
-                    ],
-                    "151": [
-                        "War in the Baltic (27)",
-                        "War in the Baltic (27)"
-                    ],
-                    "152": [
-                        "War in the Baltic (28)",
-                        "War in the Baltic (28)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_021.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "22": {
-                "title": [
-                    "Volume 22",
-                    "Volume 22"
-                ],
-                "date_release": [
-                    "June 21, 2019",
-                    "June 21, 2019"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-515180-8",
-                    "978-4-06-515180-8"
-                ],
-                "chapters": {
-                    "153": [
-                        "War in the Baltic (29)",
-                        "War in the Baltic (29)"
-                    ],
-                    "154": [
-                        "War in the Baltic (30)",
-                        "War in the Baltic (30)"
-                    ],
-                    "155": [
-                        "War in the Baltic (31)",
-                        "War in the Baltic (31)"
-                    ],
-                    "156": [
-                        "War in the Baltic (32)",
-                        "War in the Baltic (32)"
-                    ],
-                    "157": [
-                        "War in the Baltic (33)",
-                        "War in the Baltic (33)"
-                    ],
-                    "158": [
-                        "War in the Baltic (34)",
-                        "War in the Baltic (34)"
-                    ],
-                    "159": [
-                        "War in the Baltic (35)",
-                        "War in the Baltic (35)"
-                    ],
-                    "160": [
-                        "War in the Baltic (36)",
-                        "War in the Baltic (36)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Garm"
-                ],
-                "img": "images/vinland/vol_022.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "23": {
-                "title": [
-                    "Volume 23",
-                    "Volume 23"
-                ],
-                "date_release": [
-                    "November 22, 2019",
-                    "November 22, 2019"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-517507-1",
-                    "978-4-06-517507-1"
-                ],
-                "chapters": {
-                    "161": [
-                        "Sigurd's Decision",
-                        "Sigurd's Decision"
-                    ],
-                    "162": [
-                        "Sigurd's Return",
-                        "Sigurd's Return"
-                    ],
-                    "163": [
-                        "Sig and Hatt",
-                        "Sig and Hatt"
-                    ],
-                    "164": [
-                        "Sigurd Defiant",
-                        "Sigurd Defiant"
-                    ],
-                    "165": [
-                        "The Parting of Sigurd",
-                        "The Parting of Sigurd"
-                    ],
-                    "166": [
-                        "Wedding",
-                        "Wedding"
-                    ]
-                },
-                "cover_characters": [
-                    "Hattrgerd",
-                    "Olm",
-                    "Thegn",
-                    "Halfdan",
-                    "Sigurd"
-                ],
-                "img": "images/vinland/vol_023.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "24": {
-                "title": [
-                    "Volume 24",
-                    "Volume 24"
-                ],
-                "date_release": [
-                    "October 23, 2020",
-                    "October 23, 2020"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-521004-8",
-                    "978-4-06-521004-8"
-                ],
-                "chapters": {
-                    "167": [
-                        "Voyage to the West (1)",
-                        "Voyage to the West (1)"
-                    ],
-                    "168": [
-                        "Voyage to the West (2)",
-                        "Voyage to the West (2)"
-                    ],
-                    "169": [
-                        "Voyage to the West (3)",
-                        "Voyage to the West (3)"
-                    ],
-                    "170": [
-                        "Voyage to the West (4)",
-                        "Voyage to the West (4)"
-                    ],
-                    "171": [
-                        "Voyage to the West (5)",
-                        "Voyage to the West (5)"
-                    ],
-                    "172": [
-                        "Voyage to the West (6)",
-                        "Voyage to the West (6)"
-                    ],
-                    "173": [
-                        "Voyage to the West (7)",
-                        "Voyage to the West (7)"
-                    ],
-                    "174": [
-                        "Voyage to the West (8)",
-                        "Voyage to the West (8)"
-                    ],
-                    "175": [
-                        "Voyage to the West (9)",
-                        "Voyage to the West (9)"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Gudrid",
-                    "Karli"
-                ],
-                "img": "images/vinland/vol_024.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "25": {
-                "title": [
-                    "Volume 25",
-                    "Volume 25"
-                ],
-                "date_release": [
-                    "July 21, 2021",
-                    "July 21, 2021"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-523605-5",
-                    "978-4-06-523605-5"
-                ],
-                "chapters": {
-                    "176": [
-                        "Voyage to the West (10)",
-                        "Voyage to the West (10)"
-                    ],
-                    "177": [
-                        "Voyage to the West (11)",
-                        "Voyage to the West (11)"
-                    ],
-                    "178": [
-                        "Voyage to the West (12)",
-                        "Voyage to the West (12)"
-                    ],
-                    "179": [
-                        "Voyage to the West (13)",
-                        "Voyage to the West (13)"
-                    ],
-                    "180": [
-                        "Voyage to the West (14)",
-                        "Voyage to the West (14)"
-                    ],
-                    "181": [
-                        "The Name of the Village Is...",
-                        "The Name of the Village Is..."
-                    ],
-                    "182": [
-                        "The Most Frightening Man",
-                        "The Most Frightening Man"
-                    ],
-                    "183": [
-                        "Natives",
-                        "Natives"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Gudrid",
-                    "Karli",
-                    "Karli's Mama",
-                    "Bug-Eyes",
-                    "Einar",
-                    "Hild",
-                    "Mr. Ugge",
-                    "Cordelia",
-                    "Eyvar",
-                    "Ganglati",
-                    "Stork"
-                ],
-                "img": "images/vinland/vol_025.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "26": {
-                "title": [
-                    "Volume 26",
-                    "Volume 26"
-                ],
-                "date_release": [
-                    "May 23, 2022",
-                    "May 23, 2022"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-527928-1",
-                    "978-4-06-527928-1"
-                ],
-                "chapters": {
-                    "184": [
-                        "Lnu",
-                        "Lnu"
-                    ],
-                    "185": [
-                        "Niskawaji'j's Dream",
-                        "Niskawaji'j's Dream"
-                    ],
-                    "186": [
-                        "Cordelia's Anguish",
-                        "Cordelia's Anguish"
-                    ],
-                    "187": [
-                        "Niskawaji'j's Expedition",
-                        "Niskawaji'j's Expedition"
-                    ],
-                    "188": [
-                        "Hild and the God of the Forest",
-                        "Hild and the God of the Forest"
-                    ],
-                    "189": [
-                        "Miskwekepu'j's Ritual",
-                        "Miskwekepu'j's Ritual"
-                    ],
-                    "190": [
-                        "The Ragnarok Dialogue",
-                        "The Ragnarok Dialogue"
-                    ],
-                    "191": [
-                        "The Day Arrives",
-                        "The Day Arrives"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_026.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "27": {
-                "title": [
-                    "Volume 27",
-                    "Volume 27"
-                ],
-                "date_release": [
-                    "June 22, 2023",
-                    "June 22, 2023"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-531910-9",
-                    "978-4-06-531910-9"
-                ],
-                "chapters": {
-                    "192": [
-                        "Thousand Year Voyage Part 1",
-                        "Thousand Year Voyage Part 1"
-                    ],
-                    "193": [
-                        "Thousand Year Voyage Part 2",
-                        "Thousand Year Voyage Part 2"
-                    ],
-                    "194": [
-                        "Thousand Year Voyage Part 3",
-                        "Thousand Year Voyage Part 3"
-                    ],
-                    "195": [
-                        "Thousand Year Voyage Part 4",
-                        "Thousand Year Voyage Part 4"
-                    ],
-                    "196": [
-                        "Thousand Year Voyage Part 5",
-                        "Thousand Year Voyage Part 5"
-                    ],
-                    "197": [
-                        "Thousand Year Voyage Part 6",
-                        "Thousand Year Voyage Part 6"
-                    ],
-                    "198": [
-                        "Thousand Year Voyage Part 7",
-                        "Thousand Year Voyage Part 7"
-                    ],
-                    "199": [
-                        "Thousand Year Voyage Part 8",
-                        "Thousand Year Voyage Part 8"
-                    ],
-                    "200": [
-                        "Thousand Year Voyage Part 9",
-                        "Thousand Year Voyage Part 9"
-                    ],
-                    "201": [
-                        "Thousand Year Voyage Part 10",
-                        "Thousand Year Voyage Part 10"
-                    ]
-                },
-                "cover_characters": [
-                    "Kitpui",
-                    "Plmk",
-                    "Niskawaji'j",
-                    "Miskwekepu'j"
-                ],
-                "img": "images/vinland/vol_027.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "28": {
-                "title": [
-                    "Volume 28",
-                    "Volume 28"
-                ],
-                "date_release": [
-                    "June 21, 2024",
-                    "June 21, 2024"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-535519-0",
-                    "978-4-06-535519-0"
-                ],
-                "chapters": {
-                    "202": [
-                        "Thousand Year Voyage Part 11",
-                        "Thousand Year Voyage Part 11"
-                    ],
-                    "203": [
-                        "Thousand Year Voyage Part 12",
-                        "Thousand Year Voyage Part 12"
-                    ],
-                    "204": [
-                        "Thousand Year Voyage Part 13",
-                        "Thousand Year Voyage Part 13"
-                    ],
-                    "205": [
-                        "Thousand Year Voyage Part 14",
-                        "Thousand Year Voyage Part 14"
-                    ],
-                    "206": [
-                        "Thousand Year Voyage Part 15",
-                        "Thousand Year Voyage Part 15"
-                    ],
-                    "207": [
-                        "Thousand Year Voyage Part 16",
-                        "Thousand Year Voyage Part 16"
-                    ],
-                    "208": [
-                        "Thousand Year Voyage Part 17",
-                        "Thousand Year Voyage Part 17"
-                    ],
-                    "209": [
-                        "Thousand Year Voyage Part 18",
-                        "Thousand Year Voyage Part 18"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn",
-                    "Einar",
-                    "Bug-Eyes"
-                ],
-                "img": "images/vinland/vol_028.png",
-                "prise": "10 €",
-                "date_bought": ""
-            },
-            "29": {
-                "title": [
-                    "Volume 29",
-                    "Volume 29"
-                ],
-                "date_release": [
-                    "September 22, 2025",
-                    "September 22, 2025"
-                ],
-                "pages": [],
-                "ISBN": [
-                    "978-4-06-539413-7",
-                    "978-4-06-539413-7"
-                ],
-                "chapters": {
-                    "210": [
-                        "Thousand Year Voyage Part 19",
-                        "Thousand Year Voyage Part 19"
-                    ],
-                    "211": [
-                        "Thousand Year Voyage Part 20",
-                        "Thousand Year Voyage Part 20"
-                    ],
-                    "212": [
-                        "Thousand Year Voyage Part 21",
-                        "Thousand Year Voyage Part 21"
-                    ],
-                    "213": [
-                        "Thousand Year Voyage Part 22",
-                        "Thousand Year Voyage Part 22"
-                    ],
-                    "214": [
-                        "Thousand Year Voyage Part 23",
-                        "Thousand Year Voyage Part 23"
-                    ],
-                    "215": [
-                        "Thousand Year Voyage Part 24",
-                        "Thousand Year Voyage Part 24"
-                    ],
-                    "216": [
-                        "Thousand Year Voyage Part 25",
-                        "Thousand Year Voyage Part 25"
-                    ],
-                    "217": [
-                        "Thousand Year Voyage Part 26",
-                        "Thousand Year Voyage Part 26"
-                    ],
-                    "218": [
-                        "Thousand Year Voyage Part 27",
-                        "Thousand Year Voyage Part 27"
-                    ],
-                    "219": [
-                        "Again and Again",
-                        "Again and Again"
-                    ],
-                    "220": [
-                        "Somewhere Not Here",
-                        "Somewhere Not Here"
-                    ]
-                },
-                "cover_characters": [
-                    "Thorfinn"
-                ],
-                "img": "images/vinland/vol_029.png",
                 "prise": "10 €",
                 "date_bought": ""
             }

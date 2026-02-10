@@ -3,36 +3,12 @@
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("gallery-wrapper");
-    /*
-    if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
-    else localStorage.mangalist_token = prompt("pat_token")
-    */
+
     if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
     else console.log("pat token:", localStorage.mangalist_token);
 
     const newFetch = await fetch("raw_data.json");
     const newEntry = await newFetch.json();
-    //console.log(newEntry);
-
-    /*
-        const newtemp = {}
-        for (const [key, value] of Object.entries(temp)) {
-            for (const [key2, value2] of Object.entries(value.volumes)) {
-                console.log(value2.owned);
-                newtemp[key][key2] = value2.owned
-            }
-        }
-    */
-    /*
-        function mergeBools() {
-            for (const [series, data] of Object.entries(newEntry)) {
-                for (const [vol, volData] of Object.entries(data.volumes)) {
-                    volData.owned = owned_booleans[series]?.[vol]
-                }
-            }
-        }
-        mergeBools();*/
-    //console.log(newEntry);
 
     //vv file manipulation
     const folder = "generated"; // folder inside repo
@@ -78,47 +54,6 @@ async function page2() {
             alert("Error: " + result.message);
         }
     }
-    /*
-    document.getElementById("makeFile").addEventListener("click", async () => {
-        const timestamp = Date.now();
-        const filename = `generated_${timestamp}.json`;
-
-        function toBase64(str) {
-            const utf8 = new TextEncoder().encode(str);
-            let binary = "";
-            utf8.forEach(byte => binary += String.fromCharCode(byte));
-            return btoa(binary);
-        }
-
-        const sorted = Object.fromEntries(Object.entries(entryMap).sort(([a], [b]) => a.localeCompare(b))); //<-- sorts alphabetically
-        const content = JSON.stringify(sorted, null, 2);
-
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
-
-        const encodedContent = toBase64(content);
-
-        const response = await fetch(apiUrl, {
-            method: "PUT",
-            headers: {
-                "Authorization": `Bearer ${token}`,
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                message: `Add ${filename}`,
-                content: encodedContent
-            })
-        });
-
-        const result = await response.json();
-        console.log(result);
-
-        if (response.ok) {
-            alert(`File ${filename} pushed to GitHub`);
-        } else {
-            alert("Error: " + result.message);
-        }
-    });
-    */
     async function getNewestFile() {
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
 
@@ -176,17 +111,7 @@ async function page2() {
     console.log(`JSON parsed from file: ${fileName}`, own_bool_map);
     console.log(`JSON parsed from static file:`, newEntry);
 
-    function mergeBools() {
-        for (const [series, data] of Object.entries(newEntry)) {
-            for (const [vol, volData] of Object.entries(data.volumes)) {
-                volData.owned = own_bool_map[series]?.[vol]
-            }
-        }
-    }
-    //mergeBools();
-    //console.log(newEntry);
     entryMap = newEntry;
-
     //^^ file manipulation
 
     // dynamic modal creation vv
@@ -360,6 +285,7 @@ async function page2() {
         }
     }
     //^^ dynamic modal creation
+    
     // owned togglevv
     const footers = document.querySelectorAll(".page2-modal-footer");
     for (const footer of footers) {
@@ -554,7 +480,6 @@ async function page2() {
     //input filter
     function display_only_when_including_input(input) {
         const galleries = pageWrapper.children;
-        console.log(galleries)
         for (const gallery of galleries) {
             const header = gallery.querySelector("h2");
             if (!header.innerText.toLowerCase().includes(input)) gallery.style.display = "none";
@@ -569,3 +494,23 @@ async function page2() {
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
 // fix hxh^^
+
+//vv manual function to sort the static data by author
+/*
+function sortByAuthor(data) {
+  const arr = Object.entries(data).map(([key, value]) => ({
+    key,
+    author: value.author.toLowerCase(),
+    value
+  }));
+
+  arr.sort((a, b) => a.author.localeCompare(b.author));
+
+  const sorted = {};
+  for (const item of arr) {
+    sorted[item.key] = item.value;
+  }
+
+  return sorted;
+}
+*/
