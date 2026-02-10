@@ -187,7 +187,7 @@ async function page2() {
             }
         }
     }
-    mergeBools();
+    //mergeBools();
     //console.log(newEntry);
     entryMap = newEntry;
 
@@ -243,6 +243,15 @@ async function page2() {
 
     // Loop over series entries
     for (const entry of Object.values(entryMap)) {
+        //wrapper for each series
+        const seriesWrapper = document.createElement("div");
+        Object.assign(seriesWrapper.style, {
+            marginBottom: "30px",
+        });
+        seriesWrapper.classList.add("page2-series-wrapper");
+        seriesWrapper.setAttribute("data-title", entry.title);
+        pageWrapper.appendChild(seriesWrapper);
+
         // Series title
         const header = document.createElement("h2");
         header.textContent = `${entry.title} - ${entry.author}`; //<-- title and author
@@ -251,7 +260,7 @@ async function page2() {
             cursor: "pointer"
         });
         header.classList.add("page2-series-header");
-        pageWrapper.appendChild(header);
+        seriesWrapper.appendChild(header);
 
         // Create gallery for this series
         const gallery = document.createElement("div");
@@ -262,7 +271,7 @@ async function page2() {
             padding: "10px",
             marginBottom: "20px"
         });
-        pageWrapper.appendChild(gallery);
+        seriesWrapper.appendChild(gallery);
 
         // Loop over volumes
         for (const [volNum, volData] of Object.entries(entry.volumes)) {
@@ -344,16 +353,16 @@ async function page2() {
         footer.addEventListener("click", () => {
             const title = footer.dataset["path.title"];
             const volume = footer.dataset["path.vol"];
-            const entry = entryMap[title].volumes[volume];
+            const entry = own_bool_map[title][volume];
             console.log(entry, title, volume);
-            let bool = entry.owned
+            let bool = entry
             if (bool === true) {
-                entry.owned = false;
+                own_bool_map[title][volume] = false;
                 footer.classList.add("volume-not-owned");
                 footer.classList.remove("volume-owned");
             }
             else if (bool === false) {
-                entry.owned = true;
+                own_bool_map[title][volume] = true;
                 footer.classList.add("volume-owned");
                 footer.classList.remove("volume-not-owned");
             }
@@ -386,7 +395,7 @@ async function page2() {
     for (const btn of header_btns) {
         //console.log(btn);
         btn.addEventListener("click", () => {
-            console.log("clicked header");
+            console.log("updated JSON", own_bool_map);
             updateJSON();
         });
     }
