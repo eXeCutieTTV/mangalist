@@ -2,7 +2,7 @@
 
 function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
-    const pageWrapper = document.getElementById("page2-wrapper");
+    const pageWrapper = document.getElementById("gallery-wrapper");
     /*
     if (localStorage.mangalist_token.length > 0) console.log("pat token:", localStorage.mangalist_token);
     else localStorage.mangalist_token = prompt("pat_token")
@@ -246,6 +246,8 @@ async function page2() {
         });
         seriesWrapper.classList.add("page2-series-wrapper");
         seriesWrapper.setAttribute("data-title", entry.title);
+        seriesWrapper.setAttribute("data-author", entry.author);
+        seriesWrapper.setAttribute("data-volumes", Math.max(...Object.keys(entry.volumes).map(Number)));
         pageWrapper.appendChild(seriesWrapper);
 
         // Series title
@@ -257,7 +259,8 @@ async function page2() {
         header.textContent = `${entry.title} - ${entry.author}`; //<-- title and author
         Object.assign(header.style, {
             display: "inline-block",
-            cursor: "pointer"
+            cursor: "pointer",
+            margin: "5px 0"
         });
         header.classList.add("page2-series-header");
         headerWrap.appendChild(header);
@@ -273,6 +276,7 @@ async function page2() {
 
         // Create gallery for this series
         const gallery = document.createElement("div");
+        gallery.classList.add("page2-series-gallery");
         Object.assign(gallery.style, {
             display: "flex",
             gap: "10px",
@@ -412,7 +416,10 @@ async function page2() {
         let toggle_state = 0;
 
         const header = wrapper.querySelector(".page2-series-header");
-        const gallery_div = wrapper.querySelector("div"); // the gallery div
+        const headerWrap = wrapper.querySelector(".page2-series-header-wrap");
+        const filterMenu = wrapper.querySelector(".page2-filter-menu");
+        const gallery_div = wrapper.querySelector(".page2-series-gallery");
+        if (!header || !headerWrap || !filterMenu || !gallery_div) continue;
         function display_unowned() {
             for (const entry of gallery_div.children) {
                 if (entry.children[1].className.includes("volume-owned")) {
@@ -460,9 +467,8 @@ async function page2() {
             filterMenu.classList.remove("open");
         }
 
-        const headerWrap = wrapper.querySelector(".page2-series-header-wrap");
         headerWrap.addEventListener("mouseenter", () => {
-            hoverTimer = setTimeout(open_menu, 2000);
+            hoverTimer = setTimeout(open_menu, 1000);
         });
         headerWrap.addEventListener("mouseleave", () => {
             if (hoverTimer) {
@@ -489,18 +495,77 @@ async function page2() {
         });
     }
     //^^
+    //vv gallery filters
+
+    //dropdown
+    const filter = document.getElementById("filter_galleries");
+    const filterMenu = document.getElementById("filter_dropdown");
+    filter.addEventListener("mouseenter", () => {
+        filterMenu.style.display = "block";
+    });
+    filter.addEventListener("mouseleave", () => {
+        filterMenu.style.display = "none";
+    });
+
+    //ordering
+    const filter_entries = document.getElementsByClassName("filter_entry");
+    const filters_obj = {
+        search: filter_entries[0].children[0],
+        title: filter_entries[1],
+        author: filter_entries[2],
+        entries: filter_entries[3]
+    }
+    let entries_state = 0;//to toggle between decending and ascending // 0 = asc, 1 = desc
+    function filter_gallery(type) {
+        const galleries = Array.from(pageWrapper.children);
+
+        const sortable = galleries.map(gallery => ({
+            el: gallery,
+            title: gallery.dataset.title.toLowerCase(),
+            author: gallery.dataset.author.toLowerCase(),
+            entries: Number(gallery.dataset.volumes)
+        }));
+
+        if (type === "title") sortable.sort((a, b) => a.title.localeCompare(b.title));
+        else if (type === "author") sortable.sort((a, b) => a.author.localeCompare(b.author));
+        else if (type === "entries") {
+            if (entries_state === 0) { // lowest → highest 
+                sortable.sort((a, b) => a.entries - b.entries);
+                entries_state = 1;
+            } else { // highest → lowest 
+                sortable.sort((a, b) => b.entries - a.entries);
+                entries_state = 0;
+            }
+        }
+
+        sortable.forEach(item => pageWrapper.appendChild(item.el));
+    }
+
+    filters_obj.title.addEventListener("click", () => {
+        filter_gallery("title");
+    });
+    filters_obj.author.addEventListener("click", () => {
+        filter_gallery("author");
+    });
+    filters_obj.entries.addEventListener("click", () => {
+        filter_gallery("entries");
+    });
+
+    //input filter
+    function display_only_when_including_input(input) {
+        const galleries = pageWrapper.children;
+        console.log(galleries)
+        for (const gallery of galleries) {
+            const header = gallery.querySelector("h2");
+            if (!header.innerText.toLowerCase().includes(input)) gallery.style.display = "none";
+            if (header.innerText.toLocaleLowerCase().includes(input)) gallery.style.display = "block";
+        }
+    }
+    filters_obj.search.addEventListener("input", () => {
+        display_only_when_including_input(filters_obj.search.value.toLowerCase());
+    });
+
+    //^^
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
 // fix hxh^^
-
-//vv only show not owned volumes.
-/*
-    for (const div of $0.children) {
-        div.hidden = false; // to reset it first. important if you want other filters.
-        const inner = div.children;
-        if (inner[1].className.includes("volume-owned") === true) { //get the actual boolean from the json object instead. div.parentElement.children
-            div.hidden = true;
-        }
-    }
-*/
-//Object.assign(static['Vinland Saga'].volumes[1],booleans['Vinland Saga'].volumes[1])

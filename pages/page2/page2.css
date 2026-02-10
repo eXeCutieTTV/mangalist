@@ -31,6 +31,8 @@
 .page2-series-header-wrap {
     position: relative;
     display: inline-block;
+    margin: 0;
+    height: 20px;
 }
 
 .page2-filter-menu {
@@ -60,4 +62,20 @@
 
 .page2-filter-menu-item:hover {
     background: #f0f0f0;
+}
+
+#filter_dropdown {
+    display: none;
+    background-color: #333;
+    z-index: 999;
+    position: relative;
+    border-radius: 5px;
+    width: 200px;
+    left: calc(50% - 100px);
+}
+
+.filter_entry {
+    margin-top: 3px;
+    background-color: aqua;
+    border-radius: 5px;
 }
