@@ -399,8 +399,6 @@ async function page2() {
         let toggle_state = 0;
 
         const header = wrapper.querySelector(".page2-series-header");
-
-        const title = wrapper.dataset.title;
         const gallery_div = wrapper.querySelector("div"); // the gallery div
         function display_unowned() {
             for (const entry of gallery_div.children) {
