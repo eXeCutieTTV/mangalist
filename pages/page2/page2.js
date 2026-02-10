@@ -172,7 +172,7 @@ async function page2() {
         seriesWrapper.classList.add("page2-series-wrapper");
         seriesWrapper.setAttribute("data-title", entry.title);
         seriesWrapper.setAttribute("data-author", entry.author);
-        seriesWrapper.setAttribute("data-volumes", Math.max(...Object.keys(entry.volumes).map(Number)));
+        seriesWrapper.setAttribute("data-volumes", Object.keys(entry.volumes).length);
         pageWrapper.appendChild(seriesWrapper);
 
         // Series title
