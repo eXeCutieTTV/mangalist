@@ -20187,13 +20187,34 @@
                     "978-4088827315"
                 ],
                 "chapters": {
-                    "1": "Chinatsu Senpai",
-                    "2": "You Have to Go to Nationals",
-                    "3": "Pretending to Be a Stranger",
-                    "4": "Chosen One",
-                    "5": "What I Call Her",
-                    "6": "At Least One Step",
-                    "7": "You'll Be Fine"
+                    "1": [
+                        "Chinatsu Senpai",
+                        "Chinatsu Senpai"
+                    ],
+                    "2": [
+                        "You Have to Go to Nationals",
+                        "You Have to Go to Nationals"
+                    ],
+                    "3": [
+                        "Pretending to Be a Stranger",
+                        "Pretending to Be a Stranger"
+                    ],
+                    "4": [
+                        "Chosen One",
+                        "Chosen One"
+                    ],
+                    "5": [
+                        "What I Call Her",
+                        "What I Call Her"
+                    ],
+                    "6": [
+                        "At Least One Step",
+                        "At Least One Step"
+                    ],
+                    "7": [
+                        "You'll Be Fine",
+                        "You'll Be Fine"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20225,15 +20246,42 @@
                     "978-4088827940"
                 ],
                 "chapters": {
-                    "8": "Doubles",
-                    "9": "Gym Uniforms",
-                    "10": "The Day Before",
-                    "11": "Regional Preliminaries",
-                    "12": "If He Wins",
-                    "13": "Date",
-                    "14": "Aquarium",
-                    "15": "An Ordinary Girl",
-                    "16": "Kindred Spirits"
+                    "8": [
+                        "Doubles",
+                        "Doubles"
+                    ],
+                    "9": [
+                        "Gym Uniforms",
+                        "Gym Uniforms"
+                    ],
+                    "10": [
+                        "The Day Before",
+                        "The Day Before"
+                    ],
+                    "11": [
+                        "Regional Preliminaries",
+                        "Regional Preliminaries"
+                    ],
+                    "12": [
+                        "If He Wins",
+                        "If He Wins"
+                    ],
+                    "13": [
+                        "Date",
+                        "Date"
+                    ],
+                    "14": [
+                        "Aquarium",
+                        "Aquarium"
+                    ],
+                    "15": [
+                        "An Ordinary Girl",
+                        "An Ordinary Girl"
+                    ],
+                    "16": [
+                        "Kindred Spirits",
+                        "Kindred Spirits"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20265,15 +20313,42 @@
                     "978-4088830070"
                 ],
                 "chapters": {
-                    "17": "No Problems",
-                    "18": "Wish Me Luck",
-                    "19": "I'll Carry Your Bags",
-                    "20": "Eavesdropping",
-                    "21": "Can I Have One?",
-                    "22": "Score!",
-                    "23": "I'll Definitely Get It In!",
-                    "24": "That's Just Sports",
-                    "25": "Good Job"
+                    "17": [
+                        "No Problems",
+                        "No Problems"
+                    ],
+                    "18": [
+                        "Wish Me Luck",
+                        "Wish Me Luck"
+                    ],
+                    "19": [
+                        "I'll Carry Your Bags",
+                        "I'll Carry Your Bags"
+                    ],
+                    "20": [
+                        "Eavesdropping",
+                        "Eavesdropping"
+                    ],
+                    "21": [
+                        "Can I Have One?",
+                        "Can I Have One?"
+                    ],
+                    "22": [
+                        "Score!",
+                        "Score!"
+                    ],
+                    "23": [
+                        "I'll Definitely Get It In!",
+                        "I'll Definitely Get It In!"
+                    ],
+                    "24": [
+                        "That's Just Sports",
+                        "That's Just Sports"
+                    ],
+                    "25": [
+                        "Good Job",
+                        "Good Job"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20306,15 +20381,42 @@
                     "978-4088830636"
                 ],
                 "chapters": {
-                    "26": "I'll Be Rooting For You",
-                    "27": "A Chance",
-                    "28": "Your Own House",
-                    "29": "It's Not a Good Thing",
-                    "30": "Getting Closer",
-                    "31": "Is It a Date?",
-                    "32": "Uncool!",
-                    "33": "When the Underdog Wins",
-                    "34": "Girls..."
+                    "26": [
+                        "I'll Be Rooting For You",
+                        "I'll Be Rooting For You"
+                    ],
+                    "27": [
+                        "A Chance",
+                        "A Chance"
+                    ],
+                    "28": [
+                        "Your Own House",
+                        "Your Own House"
+                    ],
+                    "29": [
+                        "It's Not a Good Thing",
+                        "It's Not a Good Thing"
+                    ],
+                    "30": [
+                        "Getting Closer",
+                        "Getting Closer"
+                    ],
+                    "31": [
+                        "Is It a Date?",
+                        "Is It a Date?"
+                    ],
+                    "32": [
+                        "Uncool!",
+                        "Uncool!"
+                    ],
+                    "33": [
+                        "When the Underdog Wins",
+                        "When the Underdog Wins"
+                    ],
+                    "34": [
+                        "Girls...",
+                        "Girls..."
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano"
@@ -20345,15 +20447,42 @@
                     "978-4088831497"
                 ],
                 "chapters": {
-                    "35": "Something Interesting",
-                    "36": "Better Get Going",
-                    "37": "Helloooo",
-                    "38": "A Flirt",
-                    "39": "Testing it Out",
-                    "40": "The One Who's Cool...",
-                    "41": "I Want a Back-and-Forth Rally",
-                    "42": "An Impossible Notion",
-                    "43": "What's the Connection?"
+                    "35": [
+                        "Something Interesting",
+                        "Something Interesting"
+                    ],
+                    "36": [
+                        "Better Get Going",
+                        "Better Get Going"
+                    ],
+                    "37": [
+                        "Helloooo",
+                        "Helloooo"
+                    ],
+                    "38": [
+                        "A Flirt",
+                        "A Flirt"
+                    ],
+                    "39": [
+                        "Testing it Out",
+                        "Testing it Out"
+                    ],
+                    "40": [
+                        "The One Who's Cool...",
+                        "The One Who's Cool..."
+                    ],
+                    "41": [
+                        "I Want a Back-and-Forth Rally",
+                        "I Want a Back-and-Forth Rally"
+                    ],
+                    "42": [
+                        "An Impossible Notion",
+                        "An Impossible Notion"
+                    ],
+                    "43": [
+                        "What's the Connection?",
+                        "What's the Connection?"
+                    ]
                 },
                 "cover_characters": [
                     "Hina Chono"
@@ -20384,15 +20513,42 @@
                     "978-4088831923"
                 ],
                 "chapters": {
-                    "44": "It Didn't Come True",
-                    "45": "August 26",
-                    "46": "August 26, Part 2",
-                    "47": "August 26, Part 3",
-                    "48": "If We Weren't a Year Apart",
-                    "49": "At Morning Practice Again",
-                    "50": "Unfair Woman",
-                    "51": "This is Just Right",
-                    "52": "Of Course I Want to See It"
+                    "44": [
+                        "It Didn't Come True",
+                        "It Didn't Come True"
+                    ],
+                    "45": [
+                        "August 26",
+                        "August 26"
+                    ],
+                    "46": [
+                        "August 26, Part 2",
+                        "August 26, Part 2"
+                    ],
+                    "47": [
+                        "August 26, Part 3",
+                        "August 26, Part 3"
+                    ],
+                    "48": [
+                        "If We Weren't a Year Apart",
+                        "If We Weren't a Year Apart"
+                    ],
+                    "49": [
+                        "At Morning Practice Again",
+                        "At Morning Practice Again"
+                    ],
+                    "50": [
+                        "Unfair Woman",
+                        "Unfair Woman"
+                    ],
+                    "51": [
+                        "This is Just Right",
+                        "This is Just Right"
+                    ],
+                    "52": [
+                        "Of Course I Want to See It",
+                        "Of Course I Want to See It"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20424,15 +20580,42 @@
                     "978-4088832593"
                 ],
                 "chapters": {
-                    "53": "Doing Great",
-                    "54": "Hydration",
-                    "55": "Inomata",
-                    "56": "Who Do I Think I Am?",
-                    "57": "I Know",
-                    "58": "Right or Left?",
-                    "59": "We Didn't!",
-                    "60": "Let's Go See It",
-                    "61": "I've Got Plans"
+                    "53": [
+                        "Doing Great",
+                        "Doing Great"
+                    ],
+                    "54": [
+                        "Hydration",
+                        "Hydration"
+                    ],
+                    "55": [
+                        "Inomata",
+                        "Inomata"
+                    ],
+                    "56": [
+                        "Who Do I Think I Am?",
+                        "Who Do I Think I Am?"
+                    ],
+                    "57": [
+                        "I Know",
+                        "I Know"
+                    ],
+                    "58": [
+                        "Right or Left?",
+                        "Right or Left?"
+                    ],
+                    "59": [
+                        "We Didn't!",
+                        "We Didn't!"
+                    ],
+                    "60": [
+                        "Let's Go See It",
+                        "Let's Go See It"
+                    ],
+                    "61": [
+                        "I've Got Plans",
+                        "I've Got Plans"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20467,15 +20650,42 @@
                     "978-4088833897"
                 ],
                 "chapters": {
-                    "62": "What'd You Say?",
-                    "63": "Help Me Out!",
-                    "64": "As One of Her Closest Friends",
-                    "65": "It's Not That",
-                    "66": "I'm Here to Lend an Ear",
-                    "67": "A Chance to Blossom",
-                    "68": "Girl Manager",
-                    "69": "Inota!",
-                    "70": "An Exciting Event"
+                    "62": [
+                        "What'd You Say?",
+                        "What'd You Say?"
+                    ],
+                    "63": [
+                        "Help Me Out!",
+                        "Help Me Out!"
+                    ],
+                    "64": [
+                        "As One of Her Closest Friends",
+                        "As One of Her Closest Friends"
+                    ],
+                    "65": [
+                        "It's Not That",
+                        "It's Not That"
+                    ],
+                    "66": [
+                        "I'm Here to Lend an Ear",
+                        "I'm Here to Lend an Ear"
+                    ],
+                    "67": [
+                        "A Chance to Blossom",
+                        "A Chance to Blossom"
+                    ],
+                    "68": [
+                        "Girl Manager",
+                        "Girl Manager"
+                    ],
+                    "69": [
+                        "Inota!",
+                        "Inota!"
+                    ],
+                    "70": [
+                        "An Exciting Event",
+                        "An Exciting Event"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20508,16 +20718,46 @@
                     "978-4088834337"
                 ],
                 "chapters": {
-                    "71": "Joint Training Camp",
-                    "72": "Spinning",
-                    "73": "That's What I Know",
-                    "74": "I Don't Need an Answer",
-                    "75": "A Roller Coaster",
-                    "76": "Didn't Mean to Say",
-                    "77": "Even So",
-                    "78": "You Are Too",
-                    "79": "Shopping for a Tracksuit",
-                    "80": "Because That's Who I Am"
+                    "71": [
+                        "Joint Training Camp",
+                        "Joint Training Camp"
+                    ],
+                    "72": [
+                        "Spinning",
+                        "Spinning"
+                    ],
+                    "73": [
+                        "That's What I Know",
+                        "That's What I Know"
+                    ],
+                    "74": [
+                        "I Don't Need an Answer",
+                        "I Don't Need an Answer"
+                    ],
+                    "75": [
+                        "A Roller Coaster",
+                        "A Roller Coaster"
+                    ],
+                    "76": [
+                        "Didn't Mean to Say",
+                        "Didn't Mean to Say"
+                    ],
+                    "77": [
+                        "Even So",
+                        "Even So"
+                    ],
+                    "78": [
+                        "You Are Too",
+                        "You Are Too"
+                    ],
+                    "79": [
+                        "Shopping for a Tracksuit",
+                        "Shopping for a Tracksuit"
+                    ],
+                    "80": [
+                        "Because That's Who I Am",
+                        "Because That's Who I Am"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano"
@@ -20548,16 +20788,46 @@
                     "978-4088835396"
                 ],
                 "chapters": {
-                    "81": "I Was Hoping You Could Try It",
-                    "82": "Where It Hurts",
-                    "83": "Déjà Vu",
-                    "84": "How That Made Her Feel",
-                    "85": "Because I Hate Her",
-                    "86": "Admiration",
-                    "87": "Excuses and Sound Arguments",
-                    "88": "Can't Stay Like This",
-                    "89": "Yumeka, You",
-                    "90": "They're One and the Same"
+                    "81": [
+                        "I Was Hoping You Could Try It",
+                        "I Was Hoping You Could Try It"
+                    ],
+                    "82": [
+                        "Where It Hurts",
+                        "Where It Hurts"
+                    ],
+                    "83": [
+                        "Déjà Vu",
+                        "Déjà Vu"
+                    ],
+                    "84": [
+                        "How That Made Her Feel",
+                        "How That Made Her Feel"
+                    ],
+                    "85": [
+                        "Because I Hate Her",
+                        "Because I Hate Her"
+                    ],
+                    "86": [
+                        "Admiration",
+                        "Admiration"
+                    ],
+                    "87": [
+                        "Excuses and Sound Arguments",
+                        "Excuses and Sound Arguments"
+                    ],
+                    "88": [
+                        "Can't Stay Like This",
+                        "Can't Stay Like This"
+                    ],
+                    "89": [
+                        "Yumeka, You",
+                        "Yumeka, You"
+                    ],
+                    "90": [
+                        "They're One and the Same",
+                        "They're One and the Same"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20601,15 +20871,42 @@
                     "978-4088835914"
                 ],
                 "chapters": {
-                    "91": "The Most Powerful Feeling",
-                    "92": "Whenever You're Struggling",
-                    "93": "To Strip Away",
-                    "94": "Has It Been Two Years?",
-                    "95": "It's Back",
-                    "96": "Christmas Eve",
-                    "97": "Are You Having Problems?",
-                    "98": "The End of the Year",
-                    "99": "Don't Hesitate"
+                    "91": [
+                        "The Most Powerful Feeling",
+                        "The Most Powerful Feeling"
+                    ],
+                    "92": [
+                        "Whenever You're Struggling",
+                        "Whenever You're Struggling"
+                    ],
+                    "93": [
+                        "To Strip Away",
+                        "To Strip Away"
+                    ],
+                    "94": [
+                        "Has It Been Two Years?",
+                        "Has It Been Two Years?"
+                    ],
+                    "95": [
+                        "It's Back",
+                        "It's Back"
+                    ],
+                    "96": [
+                        "Christmas Eve",
+                        "Christmas Eve"
+                    ],
+                    "97": [
+                        "Are You Having Problems?",
+                        "Are You Having Problems?"
+                    ],
+                    "98": [
+                        "The End of the Year",
+                        "The End of the Year"
+                    ],
+                    "99": [
+                        "Don't Hesitate",
+                        "Don't Hesitate"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20641,15 +20938,42 @@
                     "978-4088836904"
                 ],
                 "chapters": {
-                    "100": "I Wanna See Her",
-                    "101": "Today Too",
-                    "102": "It's So Beautiful",
-                    "103": "I Need to Tell You Something",
-                    "104": "January 4, Midday",
-                    "105": "Let's Keep It a Secret",
-                    "106": "So Nervous",
-                    "107": "Your Style of Love, Chii",
-                    "108": "It's Already Settled"
+                    "100": [
+                        "I Wanna See Her",
+                        "I Wanna See Her"
+                    ],
+                    "101": [
+                        "Today Too",
+                        "Today Too"
+                    ],
+                    "102": [
+                        "It's So Beautiful",
+                        "It's So Beautiful"
+                    ],
+                    "103": [
+                        "I Need to Tell You Something",
+                        "I Need to Tell You Something"
+                    ],
+                    "104": [
+                        "January 4, Midday",
+                        "January 4, Midday"
+                    ],
+                    "105": [
+                        "Let's Keep It a Secret",
+                        "Let's Keep It a Secret"
+                    ],
+                    "106": [
+                        "So Nervous",
+                        "So Nervous"
+                    ],
+                    "107": [
+                        "Your Style of Love, Chii",
+                        "Your Style of Love, Chii"
+                    ],
+                    "108": [
+                        "It's Already Settled",
+                        "It's Already Settled"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20681,15 +21005,42 @@
                     "978-4088837901"
                 ],
                 "chapters": {
-                    "109": "January 15",
-                    "110": "Interview",
-                    "111": "Reward",
-                    "112": "Got It All Sorted Out",
-                    "113": "A Waste",
-                    "114": "Challenger",
-                    "115": "Lucky",
-                    "116": "It's Rude",
-                    "117": "A Big Step"
+                    "109": [
+                        "January 15",
+                        "January 15"
+                    ],
+                    "110": [
+                        "Interview",
+                        "Interview"
+                    ],
+                    "111": [
+                        "Reward",
+                        "Reward"
+                    ],
+                    "112": [
+                        "Got It All Sorted Out",
+                        "Got It All Sorted Out"
+                    ],
+                    "113": [
+                        "A Waste",
+                        "A Waste"
+                    ],
+                    "114": [
+                        "Challenger",
+                        "Challenger"
+                    ],
+                    "115": [
+                        "Lucky",
+                        "Lucky"
+                    ],
+                    "116": [
+                        "It's Rude",
+                        "It's Rude"
+                    ],
+                    "117": [
+                        "A Big Step",
+                        "A Big Step"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata"
@@ -20720,15 +21071,42 @@
                     "978-4088838489"
                 ],
                 "chapters": {
-                    "118": "That Kind of Person",
-                    "119": "Almost Got the Wrong Idea",
-                    "120": "Outrageous",
-                    "121": "Good Luck, Senpai",
-                    "122": "Show Off Your Skills",
-                    "123": "Difference Between Grades",
-                    "124": "Great to Hear",
-                    "125": "You Know What That Means",
-                    "126": "Take Our Time"
+                    "118": [
+                        "That Kind of Person",
+                        "That Kind of Person"
+                    ],
+                    "119": [
+                        "Almost Got the Wrong Idea",
+                        "Almost Got the Wrong Idea"
+                    ],
+                    "120": [
+                        "Outrageous",
+                        "Outrageous"
+                    ],
+                    "121": [
+                        "Good Luck, Senpai",
+                        "Good Luck, Senpai"
+                    ],
+                    "122": [
+                        "Show Off Your Skills",
+                        "Show Off Your Skills"
+                    ],
+                    "123": [
+                        "Difference Between Grades",
+                        "Difference Between Grades"
+                    ],
+                    "124": [
+                        "Great to Hear",
+                        "Great to Hear"
+                    ],
+                    "125": [
+                        "You Know What That Means",
+                        "You Know What That Means"
+                    ],
+                    "126": [
+                        "Take Our Time",
+                        "Take Our Time"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20760,15 +21138,42 @@
                     "978-4088840413"
                 ],
                 "chapters": {
-                    "127": "Gives Me Goosebumps",
-                    "128": "With Hyodo",
-                    "129": "With the Right Effort",
-                    "130": "I'm Borrowing One",
-                    "131": "That Can't Be True",
-                    "132": "I Get That",
-                    "133": "Why?",
-                    "134": "Get On",
-                    "135": "That's Not True"
+                    "127": [
+                        "Gives Me Goosebumps",
+                        "Gives Me Goosebumps"
+                    ],
+                    "128": [
+                        "With Hyodo",
+                        "With Hyodo"
+                    ],
+                    "129": [
+                        "With the Right Effort",
+                        "With the Right Effort"
+                    ],
+                    "130": [
+                        "I'm Borrowing One",
+                        "I'm Borrowing One"
+                    ],
+                    "131": [
+                        "That Can't Be True",
+                        "That Can't Be True"
+                    ],
+                    "132": [
+                        "I Get That",
+                        "I Get That"
+                    ],
+                    "133": [
+                        "Why?",
+                        "Why?"
+                    ],
+                    "134": [
+                        "Get On",
+                        "Get On"
+                    ],
+                    "135": [
+                        "That's Not True",
+                        "That's Not True"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20803,15 +21208,42 @@
                     "978-4088841335"
                 ],
                 "chapters": {
-                    "136": "Go Eimei!",
-                    "137": "The Guy Who Carried Her",
-                    "138": "A Badminton Day",
-                    "139": "I've Done My Fair Share",
-                    "140": "A Senpai's Love",
-                    "141": "You Can Do It!",
-                    "142": "Final Game",
-                    "143": "Forehead Flick",
-                    "144": "Let's Replace It"
+                    "136": [
+                        "Go Eimei!",
+                        "Go Eimei!"
+                    ],
+                    "137": [
+                        "The Guy Who Carried Her",
+                        "The Guy Who Carried Her"
+                    ],
+                    "138": [
+                        "A Badminton Day",
+                        "A Badminton Day"
+                    ],
+                    "139": [
+                        "I've Done My Fair Share",
+                        "I've Done My Fair Share"
+                    ],
+                    "140": [
+                        "A Senpai's Love",
+                        "A Senpai's Love"
+                    ],
+                    "141": [
+                        "You Can Do It!",
+                        "You Can Do It!"
+                    ],
+                    "142": [
+                        "Final Game",
+                        "Final Game"
+                    ],
+                    "143": [
+                        "Forehead Flick",
+                        "Forehead Flick"
+                    ],
+                    "144": [
+                        "Let's Replace It",
+                        "Let's Replace It"
+                    ]
                 },
                 "cover_characters": [
                     "Taiki Inomata",
@@ -20846,15 +21278,42 @@
                     "978-4088842073"
                 ],
                 "chapters": {
-                    "145": "She Really Is Tough",
-                    "146": "The Feeling's Mutual",
-                    "147": "Secret Someone",
-                    "148": "If We Hadn't Broken Up",
-                    "149": "Deck of Kindness",
-                    "150": "Last Fireworks",
-                    "151": "Hello",
-                    "152": "Because It's So Precious",
-                    "153": "Don't Eat Ice Cream"
+                    "145": [
+                        "She Really Is Tough",
+                        "She Really Is Tough"
+                    ],
+                    "146": [
+                        "The Feeling's Mutual",
+                        "The Feeling's Mutual"
+                    ],
+                    "147": [
+                        "Secret Someone",
+                        "Secret Someone"
+                    ],
+                    "148": [
+                        "If We Hadn't Broken Up",
+                        "If We Hadn't Broken Up"
+                    ],
+                    "149": [
+                        "Deck of Kindness",
+                        "Deck of Kindness"
+                    ],
+                    "150": [
+                        "Last Fireworks",
+                        "Last Fireworks"
+                    ],
+                    "151": [
+                        "Hello",
+                        "Hello"
+                    ],
+                    "152": [
+                        "Because It's So Precious",
+                        "Because It's So Precious"
+                    ],
+                    "153": [
+                        "Don't Eat Ice Cream",
+                        "Don't Eat Ice Cream"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano"
@@ -20885,15 +21344,42 @@
                     "978-4088843834"
                 ],
                 "chapters": {
-                    "154": "Into That Box",
-                    "155": "Could It Be",
-                    "156": "Winning",
-                    "157": "The Beach in Summer",
-                    "158": "Ten Challenges",
-                    "159": "Guest of Honor",
-                    "160": "A Wish",
-                    "161": "Thanks for Taking Care of Us",
-                    "162": "It Might Work Out"
+                    "154": [
+                        "Into That Box",
+                        "Into That Box"
+                    ],
+                    "155": [
+                        "Could It Be",
+                        "Could It Be"
+                    ],
+                    "156": [
+                        "Winning",
+                        "Winning"
+                    ],
+                    "157": [
+                        "The Beach in Summer",
+                        "The Beach in Summer"
+                    ],
+                    "158": [
+                        "Ten Challenges",
+                        "Ten Challenges"
+                    ],
+                    "159": [
+                        "Guest of Honor",
+                        "Guest of Honor"
+                    ],
+                    "160": [
+                        "A Wish",
+                        "A Wish"
+                    ],
+                    "161": [
+                        "Thanks for Taking Care of Us",
+                        "Thanks for Taking Care of Us"
+                    ],
+                    "162": [
+                        "It Might Work Out",
+                        "It Might Work Out"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -20927,15 +21413,42 @@
                     "978-4088844107"
                 ],
                 "chapters": {
-                    "163": "Show Up When Someone's in Trouble",
-                    "164": "Socially Awkward",
-                    "165": "The Haunted House",
-                    "166": "This Feeling Is",
-                    "167": "If It's Not Too Late",
-                    "168": "This Is Who I Am",
-                    "169": "Your Stamp",
-                    "170": "A Year Since Then",
-                    "171": "Are You Over Him?"
+                    "163": [
+                        "Show Up When Someone's in Trouble",
+                        "Show Up When Someone's in Trouble"
+                    ],
+                    "164": [
+                        "Socially Awkward",
+                        "Socially Awkward"
+                    ],
+                    "165": [
+                        "The Haunted House",
+                        "The Haunted House"
+                    ],
+                    "166": [
+                        "This Feeling Is",
+                        "This Feeling Is"
+                    ],
+                    "167": [
+                        "If It's Not Too Late",
+                        "If It's Not Too Late"
+                    ],
+                    "168": [
+                        "This Is Who I Am",
+                        "This Is Who I Am"
+                    ],
+                    "169": [
+                        "Your Stamp",
+                        "Your Stamp"
+                    ],
+                    "170": [
+                        "A Year Since Then",
+                        "A Year Since Then"
+                    ],
+                    "171": [
+                        "Are You Over Him?",
+                        "Are You Over Him?"
+                    ]
                 },
                 "cover_characters": [
                     "Ayame Moriya",
@@ -20967,15 +21480,42 @@
                     "978-4088845104"
                 ],
                 "chapters": {
-                    "172": "What's in Front of You Right Now",
-                    "173": "Let Me Carry That Weight",
-                    "174": "Only Basketball",
-                    "175": "A Child",
-                    "176": "I Want to Be in a Relationship",
-                    "177": "It's Been Essential",
-                    "178": "Thanks",
-                    "179": "Seeing Things",
-                    "180": "Rewards"
+                    "172": [
+                        "What's in Front of You Right Now",
+                        "What's in Front of You Right Now"
+                    ],
+                    "173": [
+                        "Let Me Carry That Weight",
+                        "Let Me Carry That Weight"
+                    ],
+                    "174": [
+                        "Only Basketball",
+                        "Only Basketball"
+                    ],
+                    "175": [
+                        "A Child",
+                        "A Child"
+                    ],
+                    "176": [
+                        "I Want to Be in a Relationship",
+                        "I Want to Be in a Relationship"
+                    ],
+                    "177": [
+                        "It's Been Essential",
+                        "It's Been Essential"
+                    ],
+                    "178": [
+                        "Thanks",
+                        "Thanks"
+                    ],
+                    "179": [
+                        "Seeing Things",
+                        "Seeing Things"
+                    ],
+                    "180": [
+                        "Rewards",
+                        "Rewards"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
@@ -21007,21 +21547,48 @@
                     "978-4088845647"
                 ],
                 "chapters": {
-                    "181": "Not Gonna Miss",
-                    "182": "So Much Fun, I Could Cry",
-                    "183": "Let's Play Basketball",
-                    "184": "You're Parent Approved",
-                    "185": "A Problem",
-                    "186": "I Hope He Doesn't Feel Lonely",
-                    "187": "Stay Close to Her",
-                    "188": "When You're Lonely",
-                    "189": "To a Good Game"
+                    "181": [
+                        "Not Gonna Miss",
+                        "Not Gonna Miss"
+                    ],
+                    "182": [
+                        "So Much Fun, I Could Cry",
+                        "So Much Fun, I Could Cry"
+                    ],
+                    "183": [
+                        "Let's Play Basketball",
+                        "Let's Play Basketball"
+                    ],
+                    "184": [
+                        "You're Parent Approved",
+                        "You're Parent Approved"
+                    ],
+                    "185": [
+                        "A Problem",
+                        "A Problem"
+                    ],
+                    "186": [
+                        "I Hope He Doesn't Feel Lonely",
+                        "I Hope He Doesn't Feel Lonely"
+                    ],
+                    "187": [
+                        "Stay Close to Her",
+                        "Stay Close to Her"
+                    ],
+                    "188": [
+                        "When You're Lonely",
+                        "When You're Lonely"
+                    ],
+                    "189": [
+                        "To a Good Game",
+                        "To a Good Game"
+                    ]
                 },
                 "cover_characters": [
                     "Yumeka Goto",
                     "Chinatsu Kano"
                 ],
-                "img": "images/no_image_available.png",
+                "img": "images/bbox/vol_021.png",
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21047,20 +21614,47 @@
                     "978-4088846934"
                 ],
                 "chapters": {
-                    "190": "No Such Thing as Fate",
-                    "191": "It's Your Turn",
-                    "192": "I'm Indebted to You",
-                    "193": "New Year",
-                    "194": "Pure Happiness",
-                    "195": "Stay Right Here",
-                    "196": "I Love You",
-                    "197": "Take It Slow",
-                    "198": "You Have to Attack"
+                    "190": [
+                        "No Such Thing as Fate",
+                        "No Such Thing as Fate"
+                    ],
+                    "191": [
+                        "It's Your Turn",
+                        "It's Your Turn"
+                    ],
+                    "192": [
+                        "I'm Indebted to You",
+                        "I'm Indebted to You"
+                    ],
+                    "193": [
+                        "New Year",
+                        "New Year"
+                    ],
+                    "194": [
+                        "Pure Happiness",
+                        "Pure Happiness"
+                    ],
+                    "195": [
+                        "Stay Right Here",
+                        "Stay Right Here"
+                    ],
+                    "196": [
+                        "I Love You",
+                        "I Love You"
+                    ],
+                    "197": [
+                        "Take It Slow",
+                        "Take It Slow"
+                    ],
+                    "198": [
+                        "You Have to Attack",
+                        "You Have to Attack"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano"
                 ],
-                "img": "images/no_image_available.png",
+                "img": "images/bbox/vol_022.png",
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21086,15 +21680,42 @@
                     "978-4088848174"
                 ],
                 "chapters": {
-                    "199": "Show Some Understanding",
-                    "200": "I Wanna Get Closer",
-                    "201": "Preciously",
-                    "202": "Just As I Am",
-                    "203": "Jigsaw Puzzle",
-                    "204": "The Possibilities",
-                    "205": "What're You Doing?",
-                    "206": "Nothing Yet",
-                    "207": "Welcome Home"
+                    "199": [
+                        "Show Some Understanding",
+                        "Show Some Understanding"
+                    ],
+                    "200": [
+                        "I Wanna Get Closer",
+                        "I Wanna Get Closer"
+                    ],
+                    "201": [
+                        "Preciously",
+                        "Preciously"
+                    ],
+                    "202": [
+                        "Just As I Am",
+                        "Just As I Am"
+                    ],
+                    "203": [
+                        "Jigsaw Puzzle",
+                        "Jigsaw Puzzle"
+                    ],
+                    "204": [
+                        "The Possibilities",
+                        "The Possibilities"
+                    ],
+                    "205": [
+                        "What're You Doing?",
+                        "What're You Doing?"
+                    ],
+                    "206": [
+                        "Nothing Yet",
+                        "Nothing Yet"
+                    ],
+                    "207": [
+                        "Welcome Home",
+                        "Welcome Home"
+                    ]
                 },
                 "cover_characters": [
                     "Ayame Moriya",
@@ -21102,7 +21723,7 @@
                     "Kyo Kasahara",
                     "Taiki Inomata"
                 ],
-                "img": "images/no_image_available.png",
+                "img": "images/bbox/vol_023.png",
                 "prise": "10 €",
                 "date_bought": ""
             },
@@ -21128,21 +21749,48 @@
                     "978-4088848334"
                 ],
                 "chapters": {
-                    "208": "Became Memories",
-                    "209": "My Treasure",
-                    "210": "All in Here",
-                    "211": "The Final Year",
-                    "212": "New Challenges to Face",
-                    "213": "The Final Burden",
-                    "214": "Do Your Best",
-                    "215": "That's Youth for Ya",
-                    "216": "I'm Gonna Win"
+                    "208": [
+                        "Became Memories",
+                        "Became Memories"
+                    ],
+                    "209": [
+                        "My Treasure",
+                        "My Treasure"
+                    ],
+                    "210": [
+                        "All in Here",
+                        "All in Here"
+                    ],
+                    "211": [
+                        "The Final Year",
+                        "The Final Year"
+                    ],
+                    "212": [
+                        "New Challenges to Face",
+                        "New Challenges to Face"
+                    ],
+                    "213": [
+                        "The Final Burden",
+                        "The Final Burden"
+                    ],
+                    "214": [
+                        "Do Your Best",
+                        "Do Your Best"
+                    ],
+                    "215": [
+                        "That's Youth for Ya",
+                        "That's Youth for Ya"
+                    ],
+                    "216": [
+                        "I'm Gonna Win",
+                        "I'm Gonna Win"
+                    ]
                 },
                 "cover_characters": [
                     "Chinatsu Kano",
                     "Hina Chono"
                 ],
-                "img": "images/no_image_available.png",
+                "img": "images/bbox/vol_024.png",
                 "prise": "10 €",
                 "date_bought": ""
             }

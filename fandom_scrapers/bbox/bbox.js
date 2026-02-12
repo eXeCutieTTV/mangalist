@@ -20,7 +20,6 @@ function bbox(id) {
         chapters: {},
         cover_characters: [],
         img: `images/bbox/vol_${String(id + 1).padStart(3, "0")}.png`,
-        owned: false,
         prise: "10 €",
         date_bought: ""
     }
@@ -28,7 +27,7 @@ function bbox(id) {
         const title = chapter.textContent.replace(/^#\d+:\s*/, "");
         const number = Number(chapter.textContent.match(/\d+/)[0]);
 
-        result.chapters[number] = title;
+        result.chapters[number] = [title, title];
     }
     for (const character of bodyObj.info.querySelector("ul").querySelectorAll("li")) {
         result.cover_characters.push(character.innerText);
