@@ -44707,5 +44707,351 @@
                 "date_bought": ""
             }
         }
+    },
+    "Strong World": {
+        "title": "Strong World",
+        "author": "Eiichiro Oda",
+        "released": "December 12, 2009",
+        "volumes": {
+            "one-shot": {
+                "title": [
+                    "Strong World",
+                    "巻零"
+                ],
+                "date_release": [
+                    "December 12, 2009",
+                    "December 12, 2009"
+                ],
+                "pages": [
+                    "85",
+                    "85"
+                ],
+                "ISBN": [
+                    "",
+                    ""
+                ],
+                "chapters": {
+                    "1": [
+                        "The Story of One Piece",
+                        "The Story of One Piece"
+                    ],
+                    "2": [
+                        "Chapter 0 'STRONG WORLD' and The Story of Strong World",
+                        "Chapter 0 'STRONG WORLD' and The Story of Strong World"
+                    ],
+                    "3": [
+                        "Note of Eiichiro Oda",
+                        "Note of Eiichiro Oda"
+                    ],
+                    "4": [
+                        "Goods of Strong World",
+                        "Goods of Strong World"
+                    ],
+                    "5": [
+                        "Voice of Director & Message of Eiichiro Oda",
+                        "Voice of Director & Message of Eiichiro Oda"
+                    ]
+                },
+                "cover_characters": [
+                    "Monkey D. Luffy",
+                    "Sanji",
+                    "Roronoa Zoro",
+                    "Franky",
+                    "Usopp",
+                    "Nico Robin",
+                    "Tony Tony Chopper",
+                    "Brook",
+                    "Nami",
+                    "Shiki",
+                    "Indigo",
+                    "Scarlet"
+                ],
+                "img": "images/op_vol0/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel: Straw Hat stories": {
+        "title": "Strong World",
+        "author": "Eiichiro Oda & Tomohito Ohsaki",
+        "released": "November 2, 2017",
+        "volumes": {
+            "one-shot": {
+                "title": [
+                    "One Piece novel: Straw Hat stories",
+                    "ONE PIECE novel 麦わらストーリーズ"
+                ],
+                "date_release": [
+                    "November 2, 2017",
+                    "November 2, 2017"
+                ],
+                "pages": [
+                    "208",
+                    "208"
+                ],
+                "ISBN": [
+                    "978-4-08-703434-9",
+                    "978-4-08-703434-9"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Monkey D. Luffy",
+                    "Roronoa Zoro",
+                    "Usopp",
+                    "Tony Tony Chopper",
+                    "Brook",
+                    "Nami"
+                ],
+                "img": "images/SHstories/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel A": {
+        "title": "One Piece novel A",
+        "author": "Eiichiro Oda & Shou Hinata & Tatsuya Hamazaki",
+        "released": "April 4, 2018",
+        "volumes": {
+            "1": {
+                "title": [
+                    "Volume 1: Formation of the Spade Pirates",
+                    "スペード海賊団結成篇 1"
+                ],
+                "date_release": [
+                    "April 4, 2018",
+                    "April 4, 2018"
+                ],
+                "pages": [
+                    "176",
+                    "176"
+                ],
+                "ISBN": [
+                    "978-4-08-703445-5",
+                    "978-4-08-703445-5"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Portgas D. Ace",
+                    "look up her name",
+                    "look up his name"
+                ],
+                "img": "images/op_novelA/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "2": {
+                "title": [
+                    "Volume 2: New World",
+                    "新世界篇 2"
+                ],
+                "date_release": [
+                    "June 4, 2018",
+                    "June 4, 2018"
+                ],
+                "pages": [
+                    "240",
+                    "240"
+                ],
+                "ISBN": [
+                    "978-4-08-703449-3",
+                    "978-4-08-703449-3"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Portgas D. Ace",
+                    "Marshall D. Teach",
+                    "look up his name"
+                ],
+                "img": "images/op_novelA/vol_002.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel HEROINES": {
+        "title": "One Piece novel HEROINES",
+        "author": "Eiichiro Oda & Jun Esaka",
+        "released": "June 4, 2021",
+        "volumes": {
+            "1": {
+                "title": [
+                    "Volume 1",
+                    "Volume 1"
+                ],
+                "date_release": [
+                    "June 4, 2021",
+                    "June 4, 2021"
+                ],
+                "pages": [
+                    "180",
+                    "180"
+                ],
+                "ISBN": [
+                    "978-4-08-703510-0",
+                    "978-4-08-703510-0"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Nami",
+                    "Perona",
+                    "Nico Robin",
+                    "Nefertari Vivi"
+                ],
+                "img": "images/op_heroines/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "2": {
+                "title": [
+                    "Volume 2: Colorful",
+                    "Volume 2: Colorful"
+                ],
+                "date_release": [
+                    "March 4, 2024",
+                    "March 4, 2024"
+                ],
+                "pages": [
+                    "180",
+                    "180"
+                ],
+                "ISBN": [
+                    "978-4-08-703544-5",
+                    "978-4-08-703544-5"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Nami",
+                    "Nico Robin",
+                    "Uta"
+                ],
+                "img": "images/op_heroines/vol_002.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel Law": {
+        "title": "One Piece novel Law",
+        "author": "Eiichiro Oda & Shusei Sakagami",
+        "released": "April 3, 2020",
+        "volumes": {
+            "1": {
+                "title": [
+                    "One Piece novel Law",
+                    "One Piece novel Law"
+                ],
+                "date_release": [
+                    "April 3, 2020",
+                    "April 3, 2020"
+                ],
+                "pages": [
+                    "272",
+                    "272"
+                ],
+                "ISBN": [
+                    "978-4-08-703495-0",
+                    "978-4-08-703495-0"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Trafalgar D. Water Law"
+                ],
+                "img": "images/law/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            },
+            "2": {
+                "title": [
+                    "One Piece novel Law: The Hour of Kikoku",
+                    "ONE PIECE novel LAW 鬼哭の刻"
+                ],
+                "date_release": [
+                    "December 4, 2024",
+                    "December 4, 2024"
+                ],
+                "pages": [
+                    "",
+                    ""
+                ],
+                "ISBN": [
+                    "978-4-08-703544-5",
+                    "978-4-08-703544-5"
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Trafalgar D. Water Law"
+                ],
+                "img": "images/op_law/vol_002.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel ODYSSEY": {
+        "title": "One Piece novel ODYSSEY",
+        "author": "Eiichiro Oda & Jun Esaka",
+        "released": "March 2, 2023",
+        "volumes": {
+            "one-shot": {
+                "title": [
+                    "One Piece novel ODYSSEY",
+                    "One Piece novel ODYSSEY"
+                ],
+                "date_release": [
+                    "March 2, 2023",
+                    "March 2, 2023"
+                ],
+                "pages": [
+                    "28",
+                    "28"
+                ],
+                "ISBN": [
+                    "",
+                    ""
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "look up her name",
+                    "look up his name"
+                ],
+                "img": "images/op_odyssey/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
+    },
+    "One Piece novel ZORO": {
+        "title": "One Piece novel ZORO",
+        "author": "Eiichiro Oda & Jun Esaka",
+        "released": "Spring 2026",
+        "volumes": {
+            "one-shot": {
+                "title": [
+                    "One Piece novel ZORO",
+                    "One Piece novel ZORO"
+                ],
+                "date_release": [
+                    "Spring 2026",
+                    "Spring 2026"
+                ],
+                "pages": [
+                    "",
+                    ""
+                ],
+                "ISBN": [
+                    "",
+                    ""
+                ],
+                "chapters": {},
+                "cover_characters": [
+                    "Roronoa Zoro"
+                ],
+                "img": "images/op_zorro/vol_001.png",
+                "prise": "10 €",
+                "date_bought": ""
+            }
+        }
     }
 }

@@ -743,5 +743,29 @@
     "1": true,
     "2": true,
     "3": true
+  },
+  "Strong World": {
+    "1": false
+  },
+  "One Piece novel: Straw Hat stories": {
+    "1": false
+  },
+  "One Piece novel A": {
+    "1": true,
+    "2": false
+  },
+  "One Piece novel HEROINES": {
+    "1": false,
+    "2": false
+  },
+  "One Piece novel Law": {
+    "1": false,
+    "2": false
+  },
+  "One Piece novel ODYSSEY": {
+    "1": false
+  },
+  "One Piece novel ZORO": {
+    "1": false
   }
 }
