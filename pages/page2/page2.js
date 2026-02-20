@@ -498,7 +498,6 @@ async function page2() {
     filters_obj.entries.addEventListener("click", () => {
         filter_gallery("entries");
     });
-    //^^ gallery filters
     //input filter vv
     function display_only_when_including_input(input) {
         const galleries = pageWrapper.children;
@@ -511,8 +510,17 @@ async function page2() {
     filters_obj.search.addEventListener("input", () => {
         display_only_when_including_input(filters_obj.search.value.toLowerCase());
     });
-
-    //^^
+    //^^ gallery filters
+    //vv "On using the site"
+    const on_using_the_site_el = document.getElementsByClassName("topbar-entry")[2];
+    const on_using_the_site_menu_el = on_using_the_site_el.querySelector("div");
+    on_using_the_site_el.addEventListener("mouseenter", () => {
+        on_using_the_site_menu_el.style.display = "block";
+    });
+    on_using_the_site_el.addEventListener("mouseleave", () => {
+        on_using_the_site_menu_el.style.display = "none";
+    });
+    //^^ "On using the site"
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
 // fix hxh^^
