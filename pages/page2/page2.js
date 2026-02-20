@@ -457,35 +457,35 @@ async function page2() {
             author: gallery.dataset.author.toLowerCase(),
             entries: Number(gallery.dataset.volumes)
         }));
-
-        if (type === "title") {
-            if (asc_desc_state[0] === 0) {
-                sortable.sort((a, b) => a.title.localeCompare(b.title));
-                asc_desc_state[0] = 1;
-            } else {
-                sortable.sort((a, b) => b.title.localeCompare(a.title));
-                asc_desc_state[0] = 0;
-            }
+        switch (type) {
+            case "title":
+                if (asc_desc_state[0] === 0) {
+                    sortable.sort((a, b) => a.title.localeCompare(b.title));
+                    asc_desc_state[0] = 1;
+                } else {
+                    sortable.sort((a, b) => b.title.localeCompare(a.title));
+                    asc_desc_state[0] = 0;
+                }
+                break;
+            case "author":
+                if (asc_desc_state[1] === 0) {
+                    sortable.sort((a, b) => a.author.localeCompare(b.author));
+                    asc_desc_state[1] = 1;
+                } else {
+                    sortable.sort((a, b) => b.author.localeCompare(a.author));
+                    asc_desc_state[1] = 0;
+                }
+                break;
+            case "entries":
+                if (asc_desc_state[2] === 0) { // lowest → highest 
+                    sortable.sort((a, b) => a.entries - b.entries);
+                    asc_desc_state[2] = 1;
+                } else { // highest → lowest 
+                    sortable.sort((a, b) => b.entries - a.entries);
+                    asc_desc_state[2] = 0;
+                }
+                break;
         }
-        else if (type === "author") {
-            if (asc_desc_state[1] === 0) {
-                sortable.sort((a, b) => a.author.localeCompare(b.author));
-                asc_desc_state[1] = 1;
-            } else {
-                sortable.sort((a, b) => b.author.localeCompare(a.author));
-                asc_desc_state[1] = 0;
-            }
-        }
-        else if (type === "entries") {
-            if (asc_desc_state[2] === 0) { // lowest → highest 
-                sortable.sort((a, b) => a.entries - b.entries);
-                asc_desc_state[2] = 1;
-            } else { // highest → lowest 
-                sortable.sort((a, b) => b.entries - a.entries);
-                asc_desc_state[2] = 0;
-            }
-        }
-
         sortable.forEach(item => pageWrapper.appendChild(item.el));
     }
 
