@@ -1,7 +1,7 @@
 <div id="page2-wrapper">
     <div id="page2-topbar">
         <div id="update_list-btn" class="topbar-entry" style="flex: .25;">Update list</div>
-        <div id="filter_galleries" class="topbar-entry" style="flex: .5;">Filter
+        <div id="filter_galleries" class="topbar-entry" style="flex: .5; position: relative;">Filter
             <div id="filter_dropdown">
                 <div class="filter_entry">
                     <input id="filter_search" placeholder="....." autocomplete="off" type="text"
@@ -12,8 +12,18 @@
                 <div class="filter_entry">Entries</div>
             </div>
         </div>
-        <div class="topbar-entry" style="flex: .25;">On using the site
-            <div style="display: none; background-color: rgb(145, 105, 18); border:0; border-radius: 5px;">a</div>
+        <div class="topbar-entry" style="flex: .25; position: relative;">On using the site
+            <div
+                style="display: none; 
+                background-color: rgb(145, 105, 18); 
+                border:0; border-radius: 5px; 
+                position:absolute; 
+                top: 100%; 
+                left: 50%; 
+                transform:translatex(-50%);
+                margin-top: 6px; 
+                z-index: 99;">
+                a</div>
             <!--dropdown text on hover-->
         </div>
     </div>
