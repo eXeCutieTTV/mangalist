@@ -11,7 +11,10 @@
 
 <body>
     <div class="pages">
-        <div class="page active" id="page0" onclick="goToPage1()">
+        <div class="page active" id="page0" onclick="openPage('page2', 'pages/page2/page2.html'); 
+        waitForElement({ el: 'page2-wrapper' }).then(() => {
+            page2();
+        });">
             Welcome
         </div>
         <div class="page" id="page1">
@@ -38,7 +41,7 @@
     </div>
 </body>
 <script src="index.js"></script>
-<script src="pages\page1\page1.js"></script>
+<!--<script src="pages\page1\page1.js"></script>-->
 <script src="pages\page2\page2.js"></script>
 
 </html>

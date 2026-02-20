@@ -1,9 +1,9 @@
 .volume-owned {
-    background-color: greenyellow;
+    background-color: rgb(151, 228, 36);
 }
 
 .volume-not-owned {
-    background-color: lightcoral;
+    background-color: rgb(221, 61, 61);
 }
 
 .page2-modal-footer {
@@ -78,4 +78,8 @@
     margin-top: 3px;
     background-color: aqua;
     border-radius: 5px;
+}
+
+#page2-wrapper {
+    background-color: #703d3d;
 }

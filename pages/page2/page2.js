@@ -447,7 +447,7 @@ async function page2() {
         author: filter_entries[2],
         entries: filter_entries[3]
     }
-    let entries_state = 0;//to toggle between decending and ascending // 0 = asc, 1 = desc
+    let asc_desc_state = [0, 1, 0];//to toggle between decending and ascending // 0 = asc, 1 = desc
     function filter_gallery(type) {
         const galleries = Array.from(pageWrapper.children);
 
@@ -458,15 +458,31 @@ async function page2() {
             entries: Number(gallery.dataset.volumes)
         }));
 
-        if (type === "title") sortable.sort((a, b) => a.title.localeCompare(b.title));
-        else if (type === "author") sortable.sort((a, b) => a.author.localeCompare(b.author));
+        if (type === "title") {
+            if (asc_desc_state[0] === 0) {
+                sortable.sort((a, b) => a.title.localeCompare(b.title));
+                asc_desc_state[0] = 1;
+            } else {
+                sortable.sort((a, b) => b.title.localeCompare(a.title));
+                asc_desc_state[0] = 0;
+            }
+        }
+        else if (type === "author") {
+            if (asc_desc_state[1] === 0) {
+                sortable.sort((a, b) => a.author.localeCompare(b.author));
+                asc_desc_state[1] = 1;
+            } else {
+                sortable.sort((a, b) => b.author.localeCompare(a.author));
+                asc_desc_state[1] = 0;
+            }
+        }
         else if (type === "entries") {
-            if (entries_state === 0) { // lowest → highest 
+            if (asc_desc_state[2] === 0) { // lowest → highest 
                 sortable.sort((a, b) => a.entries - b.entries);
-                entries_state = 1;
+                asc_desc_state[2] = 1;
             } else { // highest → lowest 
                 sortable.sort((a, b) => b.entries - a.entries);
-                entries_state = 0;
+                asc_desc_state[2] = 0;
             }
         }
 
@@ -482,8 +498,8 @@ async function page2() {
     filters_obj.entries.addEventListener("click", () => {
         filter_gallery("entries");
     });
-
-    //input filter
+    //^^ gallery filters
+    //input filter vv
     function display_only_when_including_input(input) {
         const galleries = pageWrapper.children;
         for (const gallery of galleries) {
