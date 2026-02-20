@@ -430,14 +430,30 @@ async function page2() {
     //vv gallery filters
 
     //dropdown
+    function bindHoverDropdown(triggerEl, menuEl, closeDelay = 120) {
+        let closeTimer = null;
+
+        function openMenu() {
+            if (closeTimer) clearTimeout(closeTimer);
+            menuEl.style.display = "block";
+        }
+
+        function scheduleClose() {
+            if (closeTimer) clearTimeout(closeTimer);
+            closeTimer = setTimeout(() => {
+                menuEl.style.display = "none";
+            }, closeDelay);
+        }
+
+        triggerEl.addEventListener("mouseenter", openMenu);
+        triggerEl.addEventListener("mouseleave", scheduleClose);
+        menuEl.addEventListener("mouseenter", openMenu);
+        menuEl.addEventListener("mouseleave", scheduleClose);
+    }
+
     const filter = document.getElementById("filter_galleries");
     const filterMenu = document.getElementById("filter_dropdown");
-    filter.addEventListener("mouseenter", () => {
-        filterMenu.style.display = "block";
-    });
-    filter.addEventListener("mouseleave", () => {
-        filterMenu.style.display = "none";
-    });
+    bindHoverDropdown(filter, filterMenu);
 
     //ordering
     const filter_entries = document.getElementsByClassName("filter_entry");
@@ -514,12 +530,7 @@ async function page2() {
     //vv "On using the site"
     const on_using_the_site_el = document.getElementsByClassName("topbar-entry")[2];
     const on_using_the_site_menu_el = on_using_the_site_el.querySelector("div");
-    on_using_the_site_el.addEventListener("mouseenter", () => {
-        on_using_the_site_menu_el.style.display = "block";
-    });
-    on_using_the_site_el.addEventListener("mouseleave", () => {
-        on_using_the_site_menu_el.style.display = "none";
-    });
+    bindHoverDropdown(on_using_the_site_el, on_using_the_site_menu_el);
     //^^ "On using the site"
 }
 // ensure JSON is always formatted with [EN,JP] - not [JP,EN].
