@@ -1,113 +1,67 @@
 //const { merge } = require("cheerio");
 
-function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("gallery-wrapper");
-
-    if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
-    else console.log("pat token:", localStorage.mangalist_token);
 
     const newFetch = await fetch("raw_data.json");
     const newEntry = await newFetch.json();
 
     //vv file manipulation
-    const folder = "generated"; // folder inside repo
-    const repoOwner = "eXeCutieTTV";
-    const repoName = "mangalist";
-    const token = localStorage.mangalist_token; // visible to anyone using the page
+    let cachedUpdateKey = sessionStorage.getItem("mangalist_update_key") || "";
 
     async function updateJSON() {
-        const timestamp = Date.now();
-        const filename = `generated_${timestamp}.json`;
-
-        function toBase64(str) {
-            const utf8 = new TextEncoder().encode(str);
-            let binary = "";
-            utf8.forEach(byte => binary += String.fromCharCode(byte));
-            return btoa(binary);
+        if (!cachedUpdateKey) {
+            cachedUpdateKey = prompt("Updater key");
+            if (!cachedUpdateKey) {
+                alert("Update cancelled.");
+                return;
+            }
+            sessionStorage.setItem("mangalist_update_key", cachedUpdateKey);
         }
 
-        const content = JSON.stringify(own_bool_map, null, 2);
-
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}/${filename}`;
-
-        const encodedContent = toBase64(content);
-
-        const response = await fetch(apiUrl, {
-            method: "PUT",
+        const response = await fetch("/api/generated", {
+            method: "POST",
             headers: {
-                "Authorization": `Bearer ${token}`,
-                "Content-Type": "application/json"
+                "Content-Type": "application/json",
+                "x-update-key": cachedUpdateKey
             },
             body: JSON.stringify({
-                message: `Add ${filename}`,
-                content: encodedContent
+                data: own_bool_map
             })
         });
 
-        const result = await response.json();
-        console.log(result);
+        const result = await response.json().catch(() => ({}));
 
         if (response.ok) {
-            alert(`File ${filename} pushed to GitHub`);
+            alert(`File ${result.filename} pushed to GitHub`);
+        } else if (response.status === 401) {
+            sessionStorage.removeItem("mangalist_update_key");
+            cachedUpdateKey = "";
+            alert("Updater key is invalid.");
         } else {
-            alert("Error: " + result.message);
+            alert("Error: " + (result.message || "Failed to save list"));
         }
     }
+
     async function getNewestFile() {
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folder}`;
-
-        const response = await fetch(apiUrl, {
-            headers: {
-                "Authorization": `Bearer ${token}`
-            }
-        });
-
-        const files = await response.json();
-
-        if (!Array.isArray(files)) {
-            console.error("GitHub error:", files);
-            return;
+        const response = await fetch("/api/generated/latest");
+        if (!response.ok) {
+            const result = await response.json().catch(() => ({}));
+            throw new Error(result.message || "Failed to load generated list");
         }
 
-        const jsonFiles = files.filter(f => f.name.endsWith(".json"));
-
-        jsonFiles.sort((a, b) => {
-            const tA = parseInt(a.name.match(/\d+/)[0]);
-            const tB = parseInt(b.name.match(/\d+/)[0]);
-            return tB - tA;
-        });
-
-        const newest = jsonFiles[0];
-
-        // Fetch file content from GitHub API (NOT raw.githubusercontent.com)
-        const fileApiUrl = newest.url; // this is the API endpoint, not the raw URL
-
-        const fileResponse = await fetch(fileApiUrl, {
-            headers: {
-                "Authorization": `Bearer ${token}`
-            }
-        });
-
-        const fileData = await fileResponse.json();
-
-        // GitHub returns base64 content
-        function fromBase64(b64) {
-            const binary = atob(b64);
-            const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-            return new TextDecoder().decode(bytes);
-        }
-
-        const decoded = fromBase64(fileData.content);
-        const parsed = JSON.parse(decoded);
-
-        return {
-            name: newest.name,
-            data: parsed
-        };
-
+        return response.json();
     }
-    const { name: fileName, data: own_bool_map } = await getNewestFile();
+
+    let fileName = "";
+    let own_bool_map = {};
+    try {
+        ({ name: fileName, data: own_bool_map } = await getNewestFile());
+    } catch (error) {
+        console.error(error);
+        alert("Failed to load latest generated list.");
+        return;
+    }
     console.log(`JSON parsed from file: ${fileName}`, own_bool_map);
     console.log(`JSON parsed from static file:`, newEntry);
 
