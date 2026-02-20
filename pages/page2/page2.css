@@ -67,16 +67,6 @@
     background: #f0f0f0;
 }
 
-#filter_dropdown {
-    display: none;
-    background-color: #33333300;
-    z-index: 999;
-    position: relative;
-    border-radius: 5px;
-    width: 200px;
-    left: calc(50% - 100px);
-}
-
 .filter_entry {
     margin-top: 3px;
     background-color: rgb(145, 105, 18);
