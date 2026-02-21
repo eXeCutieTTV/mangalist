@@ -4,9 +4,6 @@ function newTKN() { localStorage.mangalist_token = prompt("New pat_token") }
 async function page2() {
     const pageWrapper = document.getElementById("gallery-wrapper");
 
-    if (localStorage.mangalist_token.length < 1 || localStorage.mangalist_token === undefined) localStorage.mangalist_token = prompt("pat_token");
-    else console.log("pat token:", localStorage.mangalist_token);
-
     const newFetch = await fetch("raw_data.json");
     const newEntry = await newFetch.json();
 
@@ -14,9 +11,39 @@ async function page2() {
     const folder = "generated"; // folder inside repo
     const repoOwner = "eXeCutieTTV";
     const repoName = "mangalist";
-    const token = localStorage.mangalist_token; // visible to anyone using the page
+    const token = (localStorage.getItem("mangalist_token") || "").trim();
+    // Update this fallback file manually when you want to pin a newer preset.
+    const fallbackOwnMapPath = ["generated/generated_1770730523604.json", new Date(1770730523604)];
+
+    function buildDefaultOwnMap(entryMap) {
+        const defaults = {};
+        for (const entry of Object.values(entryMap)) {
+            defaults[entry.title] = {};
+            for (const volNum of Object.keys(entry.volumes)) {
+                defaults[entry.title][volNum] = false;
+            }
+        }
+        return defaults;
+    }
+
+    function mergeOwnMap(entryMap, sourceMap) {
+        const merged = buildDefaultOwnMap(entryMap);
+        if (!sourceMap || typeof sourceMap !== "object") return merged;
+
+        for (const [title, volumes] of Object.entries(sourceMap)) {
+            if (!merged[title] || typeof volumes !== "object") continue;
+            for (const [volNum, owned] of Object.entries(volumes)) {
+                if (volNum in merged[title]) merged[title][volNum] = owned === true;
+            }
+        }
+        return merged;
+    }
 
     async function updateJSON() {
+        if (!token) {
+            alert("No PAT found in localStorage, so updates are disabled.");
+            return;
+        }
         const timestamp = Date.now();
         const filename = `generated_${timestamp}.json`;
 
@@ -63,11 +90,14 @@ async function page2() {
             }
         });
 
+        if (!response.ok) {
+            throw new Error(`GitHub API list failed: ${response.status}`);
+        }
+
         const files = await response.json();
 
         if (!Array.isArray(files)) {
-            console.error("GitHub error:", files);
-            return;
+            throw new Error("GitHub API list did not return an array.");
         }
 
         const jsonFiles = files.filter(f => f.name.endsWith(".json"));
@@ -89,6 +119,10 @@ async function page2() {
             }
         });
 
+        if (!fileResponse.ok) {
+            throw new Error(`GitHub file fetch failed: ${fileResponse.status}`);
+        }
+
         const fileData = await fileResponse.json();
 
         // GitHub returns base64 content
@@ -107,11 +141,47 @@ async function page2() {
         };
 
     }
-    const { name: fileName, data: own_bool_map } = await getNewestFile();
-    console.log(`JSON parsed from file: ${fileName}`, own_bool_map);
+
+    async function getFallbackOwnMap() {
+        const fallbackResponse = await fetch(fallbackOwnMapPath[0]);
+        if (!fallbackResponse.ok) {
+            throw new Error(`Fallback JSON fetch failed: ${fallbackResponse.status}`);
+        }
+        const fallbackJson = await fallbackResponse.json();
+        return { name: fallbackOwnMapPath[0], data: fallbackJson };
+    }
+
+    async function loadOwnMap() {
+        if (!token) {
+            alert("No PAT token found in localStorage. Using preset JSON; data may be out of date. Current file from: \n" + fallbackOwnMapPath[1]);
+            return getFallbackOwnMap();
+        }
+
+        try {
+            return await getNewestFile();
+        } catch (error) {
+            console.warn("Falling back to preset JSON:", error);
+            alert("GitHub API load failed. Using preset JSON; data may be out of date.");
+            return getFallbackOwnMap();
+        }
+    }
+
+    let loadedOwnMap;
+    try {
+        loadedOwnMap = await loadOwnMap();
+    } catch (error) {
+        console.warn("Fallback failed, using default all-false map:", error);
+        alert("Could not load preset JSON. Falling back to default ownership map.");
+        loadedOwnMap = { name: "default-generated", data: {} };
+    }
+
+    const own_bool_map = mergeOwnMap(newEntry, loadedOwnMap.data);
+    const fileName = loadedOwnMap.name;
+    console.log(`JSON parsed from file: \n${fileName}`, own_bool_map);
+    console.log(`JSON from: \n${new Date(Number(fileName.replace("generated_", "").replace(".json", "").trim()))}`);
     console.log(`JSON parsed from static file:`, newEntry);
 
-    entryMap = newEntry;
+    const entryMap = newEntry;
     //^^ file manipulation
 
     // dynamic modal creation vv
