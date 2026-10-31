@@ -348,7 +348,7 @@ async function page2() {
                         </div>
                     </div>
                     <p style="margin: 4px 0;"><strong>Released:</strong> ${volData.date_release[1]}</p>
-                    <p style="margin: 4px 0;"><strong>Price:</strong> ${volData.prise}</p>
+                    <p style="margin: 4px 0;"><strong>Price:</strong> ${volData.price}</p>
                     <p style="margin: 4px 0;"><strong>Pages:</strong> ${volData.pages[0]/*volData.owned ? "Yes" : "No"*/}</p>
                     <p style="margin: 4px 0;"><strong>ISBN:</strong> ${volData.ISBN[0]}</p>
                 `;
