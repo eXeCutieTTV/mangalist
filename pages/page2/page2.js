@@ -13,7 +13,7 @@ async function page2() {
     const repoName = "mangalist";
     const token = (localStorage.getItem("mangalist_token") || "").trim();
     // Update this fallback file manually when you want to pin a newer preset.
-    const fallbackOwnMapPath = ["generated/generated_1770730523604.json", new Date(1770730523604)];
+    const fallbackOwnMapPath = ["generated/generated_1793460856907.json", new Date(1793460856907)];
 
     function buildDefaultOwnMap(entryMap) {
         const defaults = {};
